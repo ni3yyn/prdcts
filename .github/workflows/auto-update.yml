@@ -1,0 +1,43 @@
+name: Auto-Sync Crowdsourced Data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes automatically
+  workflow_dispatch: # Allows you to click a button to run it manually
+
+permissions:
+  contents: write # Allows the bot to push to your repository
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Firebase Admin
+        run: npm install firebase-admin
+
+      - name: Run Catalog Sync Script
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: node scripts/sync-catalog.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Wathiq Bot"
+          git config --global user.email "bot@wathiq.app"
+          git add finalcatalog506.json
+          
+          # Only commit if the script actually changed the JSON file
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update catalog with new crowdsourced data" && git push)
+
+      - name: Purge jsDelivr CDN Cache
+        # This forces jsDelivr to clear the old JSON so app users see the update immediately
+        run: |
+          curl -X POST "https://purge.jsdelivr.net/gh/ni3yyn/prdcts@main/finalcatalog506.json"
