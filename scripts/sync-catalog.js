@@ -4,18 +4,13 @@ const fs = require('fs');
 
 // 1. Initialize Firebase securely using GitHub Secrets
 const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
-
-// تجنب إعادة تهيئة التطبيق إذا كان البوت يعمل في بيئة قد تستدعيه عدة مرات
-if (!admin.apps.length) {
-    admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
-}
-
+admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
 const db = admin.firestore();
 
 async function run() {
-    console.log("🔍 [1/5] Checking for new contributions...");
+    console.log("🔍 Checking for new contributions...");
     
-    // 2. Fetch all pending contributions at once
+    // 2. Fetch pending contributions
     const snapshot = await db.collection('contributions').where('status', '==', 'pending').get();
     
     if (snapshot.empty) {
@@ -23,101 +18,53 @@ async function run() {
         return;
     }
 
-    console.log(`⏳ [2/5] Found ${snapshot.docs.length} new contributions to process.`);
-
-    // 3. Load your current catalog safely
+    // 3. Load your current catalog
     const catalogPath = './finalcatalog506.json';
-    let catalog;
-    try {
-        catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'));
-    } catch (error) {
-        console.error("❌ CRITICAL ERROR: Could not read or parse the catalog file.", error);
-        return; // الخروج فوراً إذا لم نتمكن من قراءة الكتالوج
-    }
-
+    let catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'));
     const batch = db.batch();
     let updatesCount = 0;
 
-    // 4. Process each contribution with dedicated logic for each field type
+    // 4. Process each contribution
     snapshot.forEach(doc => {
         const data = doc.data();
         const productIndex = catalog.findIndex(p => p.id === data.productId);
 
-        if (productIndex === -1) {
-            console.warn(`⚠️ Warning: Product with ID [${data.productId}] not found in catalog. Skipping.`);
-            // سنقوم بحذف هذه المساهمة اليتيمة لكي لا تتم معالجتها مجدداً
-            batch.delete(doc.ref);
-            return; // الانتقال للمساهمة التالية
-        }
-
-        // --- THE BRAIN: Use a switch statement for type-safe updates ---
-        switch (data.field) {
-            case 'price':
+        if (productIndex !== -1) {
+            // Update the product field (e.g., price)
+            if (data.field === 'price') {
+                // If you want a min/max system for prices
+                const currentPrice = catalog[productIndex].price;
                 const newPrice = Number(data.proposedValue);
-                if (isNaN(newPrice) || newPrice <= 0) break; // تجاهل السعر غير الصالح
-
-                let currentPrice = catalog[productIndex].price;
-
-                if (!currentPrice || typeof currentPrice !== 'object') {
-                    // إذا كان السعر قديماً (رقم أو null)، قم بإنشاء الكائن الجديد
-                    const oldVal = (Number(currentPrice) > 0) ? Number(currentPrice) : newPrice;
-                    catalog[productIndex].price = {
-                        min: Math.min(oldVal, newPrice),
-                        max: Math.max(oldVal, newPrice),
-                        currency: "DZD"
-                    };
+                
+                if (!currentPrice) {
+                    catalog[productIndex].price = { min: newPrice, max: newPrice };
+                } else if (typeof currentPrice === 'object') {
+                    catalog[productIndex].price.min = Math.min(currentPrice.min, newPrice);
+                    catalog[productIndex].price.max = Math.max(currentPrice.max, newPrice);
                 } else {
-                    // إذا كان السعر كائناً، قم بتحديثه بشكل آمن
-                    const currentMin = (currentPrice.min > 0) ? currentPrice.min : newPrice;
-                    const currentMax = (currentPrice.max > 0) ? currentPrice.max : newPrice;
-                    catalog[productIndex].price = {
-                        min: Math.min(currentMin, newPrice),
-                        max: Math.max(currentMax, newPrice),
-                        currency: currentPrice.currency || "DZD"
-                    };
+                    catalog[productIndex].price = newPrice;
                 }
-                updatesCount++;
-                break;
+            } else {
+                // For other fields like ingredients or targetTypes
+                catalog[productIndex][data.field] = data.proposedValue;
+            }
 
-            case 'ingredients':
-            case 'quantity':
-            case 'country':
-            case 'brand':
-                // هذه الحقول هي مجرد نصوص، يمكن تعيينها مباشرة
-                if (typeof data.proposedValue === 'string' && data.proposedValue.trim().length > 0) {
-                    catalog[productIndex][data.field] = data.proposedValue;
-                    updatesCount++;
-                }
-                break;
-
-            case 'marketingClaims':
-            case 'targetTypes':
-                // هذه الحقول هي مصفوفات (Arrays)
-                if (Array.isArray(data.proposedValue)) {
-                    catalog[productIndex][data.field] = data.proposedValue;
-                    updatesCount++;
-                }
-                break;
-
-            default:
-                console.warn(`⚠️ Warning: Unknown field type "${data.field}". Skipping.`);
+            updatesCount++;
         }
 
-        // We will delete the contribution after merging it to keep the database clean
-        batch.delete(doc.ref);
+        // Mark this contribution as merged so we don't process it again
+        batch.update(doc.ref, { 
+            status: 'merged', 
+            mergedAt: admin.firestore.FieldValue.serverTimestamp() 
+        });
     });
 
-    console.log(`💾 [3/5] Saving ${updatesCount} updates to the JSON file...`);
     // 5. Save the updated JSON back to the file
     fs.writeFileSync(catalogPath, JSON.stringify(catalog, null, 2));
 
-    console.log(`🔥 [4/5] Committing changes to Firestore (deleting processed contributions)...`);
-    // 6. Commit the batch (deleting all processed documents)
+    // 6. Tell Firebase these have been merged
     await batch.commit();
-
-    console.log(`🚀 [5/5] Successfully merged ${updatesCount} updates into catalog!`);
+    console.log(`🚀 Successfully merged ${updatesCount} updates into catalog!`);
 }
 
-run().catch(error => {
-    console.error("❌ An unexpected error occurred during the script execution:", error);
-});
+run().catch(console.error);
