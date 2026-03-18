@@ -42,8 +42,9 @@
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 2000,
-      "max": 66666
+      "min": 80,
+      "max": 66666,
+      "currency": "DZD"
     },
     "targetTypes": []
   },
@@ -101,7 +102,11 @@
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Polyquaternium-10, Coconut Acid, Glycerin, Sodium Methyl Cocoyl Taurate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Sodium Chloride, Disodium EDTA, Citric Acid, BHT, Sodium Benzoate, Parfum",
     "image": "https://images.openbeautyfacts.org/images/products/622/300/065/9243/front_fr.3.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5071,11 +5076,15 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "200",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://www.biolila.com/storage/product/7FKVQUxTJOKL1Onf6qWgOcGsW.webp",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5755,7 +5764,7 @@
     "id": "OT-XXX-UNK-002",
     "brand": "Unknown",
     "name": "9\ng 28 55 5 > ZE\n= 222228 Fa\nZe ma HAI Z = = 0\n8527 3 g\n= HF Mo £E£g\n= g525358 ge 53\n8 | \"3 Ë § — A £9\n, ; m m ts",
-    "country": "",
+    "country": "Algeria",
     "category": {
       "id": "lotion_cream",
       "label": "مرطب",
