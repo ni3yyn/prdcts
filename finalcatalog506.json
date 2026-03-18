@@ -17,7 +17,7 @@
       "moisturizing"
     ],
     "price": {
-      "min": 90000,
+      "min": 30,
       "max": 90000,
       "currency": "DZD"
     },
