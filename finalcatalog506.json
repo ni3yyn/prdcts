@@ -50,7 +50,11 @@
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Methyl Cocoyl Taurate, Glycerin, Sodium Cocoyl Isethionate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Glycol Distearate, Citric Acid, Sodium Benzoate, Parfum, Polyquaterium-10, Propylene Glycol, Disodium EDTA, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tocopheryl Acetate, 1,2-Hexanediol, Triticum Vulgare Bran Extract.",
     "image": "https://images.openbeautyfacts.org/images/products/770/203/129/3620/front_en.17.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 100,
+      "max": 100,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
