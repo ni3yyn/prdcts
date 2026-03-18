@@ -19,8 +19,8 @@
       "تنظيف لطيف"
     ],
     "price": {
-      "min": 300,
-      "max": 666,
+      "min": 0,
+      "max": 0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -43,8 +43,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 80,
-      "max": 66666,
+      "min": 0,
+      "max": 0,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -64,8 +64,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/770/203/129/3620/front_en.17.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 300,
-      "max": 686860,
+      "min": 0,
+      "max": 0,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -5084,8 +5084,8 @@
     "image": "https://www.biolila.com/storage/product/7FKVQUxTJOKL1Onf6qWgOcGsW.webp",
     "marketingClaims": [],
     "price": {
-      "min": 300,
-      "max": 300,
+      "min": ,
+      "max": ,
       "currency": "DZD"
     },
     "targetTypes": []
