@@ -2,42 +2,47 @@ name: Auto-Sync Crowdsourced Data
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Runs every 15 minutes automatically
-  workflow_dispatch: # Allows you to click a button to run it manually
+    - cron: '*/15 * * * *' # يعمل كل 15 دقيقة تلقائياً
+  workflow_dispatch: # يسمح لك بتشغيل السكربت يدوياً من واجهة GitHub
 
 permissions:
-  contents: write # Allows the bot to push to your repository
+  contents: write # إعطاء صلاحية للبوت للكتابة ورفع التحديثات للمستودع
 
 jobs:
   update-catalog:
     runs-on: ubuntu-latest
     steps:
+      # 1. جلب الكود من المستودع (تم التحديث إلى v4 لتجنب تحذيرات انتهاء الدعم)
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
+      # 2. إعداد بيئة Node.js (تم التحديث إلى v4 وإصدار 20 ليتوافق مع فايربيز الحديث)
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
+      # 3. تثبيت مكتبة فايربيز للتحكم بقاعدة البيانات
       - name: Install Firebase Admin
         run: npm install firebase-admin
 
+      # 4. تشغيل سكربت جلب البيانات الجديدة ودمجها في ملف الـ JSON
       - name: Run Catalog Sync Script
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: node scripts/sync-catalog.js
 
+      # 5. رفع ملف الـ JSON المحدث إلى GitHub (فقط في حال وجود تغييرات فعلية)
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Wathiq Bot"
           git config --global user.email "bot@wathiq.app"
           git add finalcatalog506.json
           
-          # Only commit if the script actually changed the JSON file
+          # سيقوم بعمل Commit فقط إذا كان هناك فرق (تعديلات جديدة)
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update catalog with new crowdsourced data" && git push)
 
+      # 6. مسح الكاش من سيرفرات jsDelivr لضمان وصول التحديث فوراً للمستخدمين (بدون POST)
       - name: Purge jsDelivr CDN Cache
-        # This forces jsDelivr to clear the old JSON so app users see the update immediately
         run: |
-          curl -X POST "https://purge.jsdelivr.net/gh/ni3yyn/prdcts@main/finalcatalog506.json"
+          curl "https://purge.jsdelivr.net/gh/ni3yyn/prdcts@main/finalcatalog506.json"
