@@ -9,15 +9,23 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "",
+    "quantity": "200",
     "ingredients": "WATER, GLYCERIN, MYRISTIC ACID, PALMITIC ACID, STEARIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, GLYCERYL DISTEARATE, GLYCERYL STEARATE, KAOLIN, PEG-14M, LINALOOL, SALICYLIC ACID, PHENOXYETHANOL, LIMONENE, ASCORBYL GLUCOSIDE, TETRASODIUM EDTA, LEMON FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, MALTODEXTRIN, BENZYL SALICYLATE, BENZYL ALCOHOL, FRAGRANCE.",
     "image": "https://images.openbeautyfacts.org/images/products/890/152/600/5208/front_en.6.400.jpg",
     "marketingClaims": [
       "anti_acne",
-      "moisturizing"
+      "moisturizing",
+      "تنظيف عميق",
+      "تنظيف لطيف"
     ],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 666,
+      "max": 666
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "OT-LOT-ISD-001",
@@ -33,7 +41,10 @@
     "ingredients": "Aqua (Water), Alcohol Denat., Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Dimethicone, Ethylhexyl Methoxycinnamate, Propylene Glycol, Benzyl Alcohol, Carbomer, Sorbitan Stearate, Allantoin, Sodium Hydroxide, Bisabolol, Disodium EDTA, Parfum (Fragrance), Menthol, BHT, Linalool, Citronellol, Chamomilla Recutita (Matricaria) Flower Extract, Geraniol, Limonene, Silica",
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 66666,
+      "max": 66666
+    },
     "targetTypes": []
   },
   {
@@ -50,7 +61,10 @@
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Methyl Cocoyl Taurate, Glycerin, Sodium Cocoyl Isethionate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Glycol Distearate, Citric Acid, Sodium Benzoate, Parfum, Polyquaterium-10, Propylene Glycol, Disodium EDTA, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tocopheryl Acetate, 1,2-Hexanediol, Triticum Vulgare Bran Extract.",
     "image": "https://images.openbeautyfacts.org/images/products/770/203/129/3620/front_en.17.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 686860,
+      "max": 686860
+    },
     "targetTypes": []
   },
   {
