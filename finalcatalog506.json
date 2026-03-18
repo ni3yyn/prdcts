@@ -9,24 +9,15 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "200",
+    "quantity": "",
     "ingredients": "WATER, GLYCERIN, MYRISTIC ACID, PALMITIC ACID, STEARIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, GLYCERYL DISTEARATE, GLYCERYL STEARATE, KAOLIN, PEG-14M, LINALOOL, SALICYLIC ACID, PHENOXYETHANOL, LIMONENE, ASCORBYL GLUCOSIDE, TETRASODIUM EDTA, LEMON FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, MALTODEXTRIN, BENZYL SALICYLATE, BENZYL ALCOHOL, FRAGRANCE.",
     "image": "https://images.openbeautyfacts.org/images/products/890/152/600/5208/front_en.6.400.jpg",
     "marketingClaims": [
       "anti_acne",
-      "moisturizing",
-      "تنظيف عميق",
-      "تنظيف لطيف"
+      "moisturizing"
     ],
-    "price": {
-      "min": 0,
-      "max": 0,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "بشرة مختلطة",
-      "بشرة حساسة"
-    ]
+    "price": null,
+    "targetTypes": []
   },
   {
     "id": "OT-LOT-ISD-001",
@@ -42,11 +33,7 @@
     "ingredients": "Aqua (Water), Alcohol Denat., Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Dimethicone, Ethylhexyl Methoxycinnamate, Propylene Glycol, Benzyl Alcohol, Carbomer, Sorbitan Stearate, Allantoin, Sodium Hydroxide, Bisabolol, Disodium EDTA, Parfum (Fragrance), Menthol, BHT, Linalool, Citronellol, Chamomilla Recutita (Matricaria) Flower Extract, Geraniol, Limonene, Silica",
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 0,
-      "max": 0,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -63,11 +50,7 @@
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Methyl Cocoyl Taurate, Glycerin, Sodium Cocoyl Isethionate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Glycol Distearate, Citric Acid, Sodium Benzoate, Parfum, Polyquaterium-10, Propylene Glycol, Disodium EDTA, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tocopheryl Acetate, 1,2-Hexanediol, Triticum Vulgare Bran Extract.",
     "image": "https://images.openbeautyfacts.org/images/products/770/203/129/3620/front_en.17.400.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 0,
-      "max": 0,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -84,11 +67,7 @@
     "ingredients": "AQUA, SODIUM LAURETH SULFATE, CITRIC ACID, COCAMIDOPROPYL BETAINE, SODIUM HYDROXIDE, SODIUM CHLORIDE, PARFUM, COCAMIDE MIPA, LACTIC ACID, SODIUM BENZOATE, HYDROXYCITRONELLAL, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE, PEG-60 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, SALICYLIC ACID, LIMONENE, LINALOOL, HEXYLENE GLYCOL, HEXYL CINNAMAL.",
     "image": "https://images.openbeautyfacts.org/images/products/750/955/287/4952/front_es.4.400.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 300,
-      "max": 1000,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -105,11 +84,7 @@
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Polyquaternium-10, Coconut Acid, Glycerin, Sodium Methyl Cocoyl Taurate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Sodium Chloride, Disodium EDTA, Citric Acid, BHT, Sodium Benzoate, Parfum",
     "image": "https://images.openbeautyfacts.org/images/products/622/300/065/9243/front_fr.3.400.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 300,
-      "max": 300,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -5079,15 +5054,11 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "200",
+    "quantity": "null",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://www.biolila.com/storage/product/7FKVQUxTJOKL1Onf6qWgOcGsW.webp",
     "marketingClaims": [],
-    "price": {
-      "min": ,
-      "max": ,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -5767,7 +5738,7 @@
     "id": "OT-XXX-UNK-002",
     "brand": "Unknown",
     "name": "9\ng 28 55 5 > ZE\n= 222228 Fa\nZe ma HAI Z = = 0\n8527 3 g\n= HF Mo £E£g\n= g525358 ge 53\n8 | \"3 Ë § — A £9\n, ; m m ts",
-    "country": "Algeria",
+    "country": "",
     "category": {
       "id": "lotion_cream",
       "label": "مرطب",
