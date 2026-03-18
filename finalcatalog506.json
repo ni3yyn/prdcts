@@ -16,7 +16,11 @@
       "anti_acne",
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 90000,
+      "max": 90000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
