@@ -64,8 +64,9 @@
     "image": "https://images.openbeautyfacts.org/images/products/770/203/129/3620/front_en.17.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 686860,
-      "max": 686860
+      "min": 300,
+      "max": 686860,
+      "currency": "DZD"
     },
     "targetTypes": []
   },
@@ -85,7 +86,7 @@
     "marketingClaims": [],
     "price": {
       "min": 300,
-      "max": 600,
+      "max": 1000,
       "currency": "DZD"
     },
     "targetTypes": []
