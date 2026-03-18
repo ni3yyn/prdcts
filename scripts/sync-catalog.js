@@ -30,26 +30,43 @@ async function run() {
         const productIndex = catalog.findIndex(p => p.id === data.productId);
 
         if (productIndex !== -1) {
-            // Update the product field (e.g., price)
+            // --- UPDATE PRICE FIELD (Smart Handling) ---
             if (data.field === 'price') {
-                // If you want a min/max system for prices
-                const currentPrice = catalog[productIndex].price;
                 const newPrice = Number(data.proposedValue);
                 
-                if (!currentPrice) {
-                    catalog[productIndex].price = { min: newPrice, max: newPrice };
-                } else if (typeof currentPrice === 'object') {
-                    catalog[productIndex].price.min = Math.min(currentPrice.min, newPrice);
-                    catalog[productIndex].price.max = Math.max(currentPrice.max, newPrice);
-                } else {
-                    catalog[productIndex].price = newPrice;
-                }
-            } else {
-                // For other fields like ingredients or targetTypes
-                catalog[productIndex][data.field] = data.proposedValue;
-            }
+                // التأكد من أن القيمة المرسلة رقم صحيح وأكبر من الصفر
+                if (!isNaN(newPrice) && newPrice > 0) {
+                    let currentPrice = catalog[productIndex].price;
 
-            updatesCount++;
+                    // الحالة 1: السعر الحالي null أو مجرد رقم (تحويله إلى كائن منظم)
+                    if (!currentPrice || typeof currentPrice !== 'object') {
+                        const oldVal = (Number(currentPrice) > 0) ? Number(currentPrice) : newPrice;
+                        catalog[productIndex].price = {
+                            min: Math.min(oldVal, newPrice),
+                            max: Math.max(oldVal, newPrice),
+                            currency: "DZD"
+                        };
+                    } 
+                    // الحالة 2: السعر الحالي عبارة عن كائن {min, max, currency}
+                    else {
+                        // معالجة القيم الأولية إذا كانت null أو 0 لتجنب الأخطاء الحسابية
+                        const currentMin = (currentPrice.min === null || currentPrice.min === 0) ? newPrice : Number(currentPrice.min);
+                        const currentMax = (currentPrice.max === null || currentPrice.max === 0) ? newPrice : Number(currentPrice.max);
+
+                        catalog[productIndex].price = {
+                            min: Math.min(currentMin, newPrice),
+                            max: Math.max(currentMax, newPrice),
+                            currency: currentPrice.currency || "DZD"
+                        };
+                    }
+                    updatesCount++;
+                }
+            } 
+            // --- UPDATE OTHER FIELDS (Ingredients, Claims, etc.) ---
+            else {
+                catalog[productIndex][data.field] = data.proposedValue;
+                updatesCount++;
+            }
         }
 
         // Mark this contribution as merged so we don't process it again
