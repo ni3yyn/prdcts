@@ -19,8 +19,9 @@
       "تنظيف لطيف"
     ],
     "price": {
-      "min": 666,
-      "max": 666
+      "min": 300,
+      "max": 666,
+      "currency": "DZD"
     },
     "targetTypes": [
       "بشرة مختلطة",
@@ -83,8 +84,9 @@
     "image": "https://images.openbeautyfacts.org/images/products/750/955/287/4952/front_es.4.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 600,
-      "max": 600
+      "min": 300,
+      "max": 600,
+      "currency": "DZD"
     },
     "targetTypes": []
   },
