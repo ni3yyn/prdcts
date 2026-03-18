@@ -37,7 +37,11 @@
     "ingredients": "Aqua (Water), Alcohol Denat., Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Dimethicone, Ethylhexyl Methoxycinnamate, Propylene Glycol, Benzyl Alcohol, Carbomer, Sorbitan Stearate, Allantoin, Sodium Hydroxide, Bisabolol, Disodium EDTA, Parfum (Fragrance), Menthol, BHT, Linalool, Citronellol, Chamomilla Recutita (Matricaria) Flower Extract, Geraniol, Limonene, Silica",
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
