@@ -14,7 +14,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/890/152/600/5208/front_en.6.400.jpg",
     "marketingClaims": [
       "anti_acne",
-      "moisturizing"
+      "moisturizing",
+      "تنظيف عميق"
     ],
     "price": {
       "min": 30,
@@ -22,8 +23,7 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة دهنية",
-      "بشرة معرضة للحبوب"
+      "بشرة جافة"
     ]
   },
   {
