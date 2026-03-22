@@ -9,7 +9,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "",
+    "quantity": "150",
     "ingredients": "WATER, GLYCERIN, MYRISTIC ACID, PALMITIC ACID, STEARIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, GLYCERYL DISTEARATE, GLYCERYL STEARATE, KAOLIN, PEG-14M, LINALOOL, SALICYLIC ACID, PHENOXYETHANOL, LIMONENE, ASCORBYL GLUCOSIDE, TETRASODIUM EDTA, LEMON FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, MALTODEXTRIN, BENZYL SALICYLATE, BENZYL ALCOHOL, FRAGRANCE.",
     "image": "https://images.openbeautyfacts.org/images/products/890/152/600/5208/front_en.6.400.jpg",
     "marketingClaims": [
@@ -100,7 +100,11 @@
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Polyquaternium-10, Coconut Acid, Glycerin, Sodium Methyl Cocoyl Taurate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Sodium Chloride, Disodium EDTA, Citric Acid, BHT, Sodium Benzoate, Parfum",
     "image": "https://images.openbeautyfacts.org/images/products/622/300/065/9243/front_fr.3.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 380606,
+      "max": 380606,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
