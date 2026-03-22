@@ -127,7 +127,11 @@
     "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum (Fragrance), Cocamide DEA, Polyquaternium-7, C12-15 Alkyl Lactate, Urea, Triethyl Citrate, lactic Acid, Sodium Lactate, Sodium Chloride, Disodium EDTA' Methylisothiazolinone (and) Methylchloroisothiazolone.",
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
