@@ -79,7 +79,11 @@
     "ingredients": "AQUA, SODIUM LAURETH SULFATE, CITRIC ACID, COCAMIDOPROPYL BETAINE, SODIUM HYDROXIDE, SODIUM CHLORIDE, PARFUM, COCAMIDE MIPA, LACTIC ACID, SODIUM BENZOATE, HYDROXYCITRONELLAL, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE, PEG-60 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, SALICYLIC ACID, LIMONENE, LINALOOL, HEXYLENE GLYCOL, HEXYL CINNAMAL.",
     "image": "https://images.openbeautyfacts.org/images/products/750/955/287/4952/front_es.4.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
