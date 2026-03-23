@@ -175,8 +175,15 @@
     "quantity": "250 ml",
     "ingredients": "Aqua/Water/Eau, Glycerin, Butylene Glycol, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Silica [NANO]/Silica, Cetearyl Alcohol, Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Prunus Persica Kernel Oil/Prunus Persica (Peach) Kernel Oil, Orbignya Oleifera Seed Oil, Sorbitan Stearate, Parfum/Fragrance, Glyceryl Stearate, PEG-100 Stearate, Caprylyl Glycol, Phenoxyethanol, Prunus Persica Seed Powder/Prunus Persica (Peach) Seed Powder, Sclerocarya Birrea Seed Oil, Carbomer, Cocos Nucifera Shell Powder/Cocos Nucifera (Coconut) Shell Powder, Linalool, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Disodium EDTA, Limonene, Prunus Persica Extract/Prunus Persica (Peach) Extract, Denatonium Benzoate, Citric Acid, CI 14700/Red 4, CI 15985/Yellow 6",
     "image": "https://images.openbeautyfacts.org/images/products/502/819/757/8770/front_fr.11.400.jpg",
-    "marketingClaims": [],
-    "price": null,
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام"
+    ],
+    "price": {
+      "min": 200,
+      "max": 200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
