@@ -27,7 +27,7 @@ async function run() {
     console.log("🔍 [1/5] Checking for new contributions...");
     
     // 3. Fetch all pending contributions
-    const snapshot = await db.collection('contributions').where('status', '==', 'pending').get();
+    const snapshot = await db.collection('contributions').where('status', '==', 'approved').get();
     
     if (snapshot.empty) {
         console.log("✅ No new contributions. Exiting.");
