@@ -8952,5 +8952,26 @@
     "country": null,
     "marketingClaims": [],
     "targetTypes": []
+  },
+  {
+    "id": "EG-SSE-MARK-001",
+    "brand": "Marka",
+    "name": "Santamaria",
+    "image": "https://news.radioalgerie.dz/sites/default/data/2025-06/hgfudo_555.jpg",
+    "ingredients": "سانتا ماريا،،ققرنبيط، لوز، دلاع",
+    "country": "Egypt",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "500 L",
+    "price": {
+      "min": 300,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": []
   }
 ]
