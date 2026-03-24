@@ -8973,5 +8973,36 @@
     },
     "targetTypes": [],
     "marketingClaims": []
+  },
+  {
+    "id": "EG-LOT-MARK-001",
+    "brand": "Marka",
+    "name": "دلاع باللوز",
+    "image": "https://news.radioalgerie.dz/sites/default/data/2025-06/hgfudo_555.jpg",
+    "ingredients": "صانتا ماريا،تسنسهسهتس،نصخصخصخصخ،نخثخثخث",
+    "country": "Egypt",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 g",
+    "price": {
+      "min": 3000,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "normal_skin",
+      "oily_skin"
+    ],
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة",
+      "تنقية المسام",
+      "شد الجسم"
+    ]
   }
 ]
