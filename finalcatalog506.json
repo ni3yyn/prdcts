@@ -9004,5 +9004,32 @@
       "تنقية المسام",
       "شد الجسم"
     ]
+  },
+  {
+    "id": "EG-LOT-MARK-002",
+    "brand": "Marka",
+    "name": "زبت اللوح",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774388975/dzohupqwc5drjpqud5x0.jpg",
+    "ingredients": "يتعيعطتيتيتثتي",
+    "country": "Egypt",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "300 L",
+    "price": {
+      "min": 200,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "normal_skin",
+      "dry_skin"
+    ],
+    "marketingClaims": [
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
+    ]
   }
 ]
