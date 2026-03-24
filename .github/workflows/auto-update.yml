@@ -22,9 +22,9 @@ jobs:
         with:
           node-version: '20'
 
-      # 3. تثبيت مكتبة فايربيز للتحكم بقاعدة البيانات
-      - name: Install Firebase Admin
-        run: npm install firebase-admin
+      # 3. تثبيت مكتبات Firebase Admin و Expo Server SDK
+      - name: Install Dependencies
+        run: npm install firebase-admin expo-server-sdk
 
       # 4. تشغيل سكربت جلب البيانات الجديدة ودمجها في ملف الـ JSON
       - name: Run Catalog Sync Script
