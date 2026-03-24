@@ -219,7 +219,11 @@
     "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Disodium Cocoamphodiacetate, LDL Glycerin. Parfum, PEG-7 Glyceryl Cocoate, Guar Hydro - xypropyltrimonium Chloride, Glycol Distearate, Laureth-4, Citric Acid, Lactic Acid, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Sodium Benzoate, Tetramethyl Acetyloctahydronaphthalenes.",
     "image": "https://images.openbeautyfacts.org/images/products/405/648/940/9809/front_fr.3.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 365,
+      "max": 365,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -236,7 +240,11 @@
     "ingredients": "Aqua, Decyl Glucoside, Cellulose Gum, Benzyl Alcohol, Coco-Betaine, Parfum, Citric Acid, Citrus Aurantium Amara Flower Water*, Glycerin**, Limonene, Aloe Barbadensis Leaf Juice Powder*, Linalool, Argania Spinosa Seedcake Extract*, Sodium Hydroxide, Potassium Sorbate, Sodium Benzoate. *Ingrédients issus de l'Agriculture Biologique. **Transformé à partir d'ingrédients biologiques.",
     "image": "https://images.openbeautyfacts.org/images/products/405/648/937/0406/front_fr.5.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 6555,
+      "max": 6555,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
