@@ -8935,5 +8935,22 @@
     "price": null,
     "marketingClaims": [],
     "targetTypes": []
+  },
+  {
+    "id": "prod_1774370162704_e1wc9",
+    "brand": "نطنطهذ",
+    "name": "نينيني",
+    "category": {
+      "id": "other",
+      "label": "غير محدد",
+      "icon": "box"
+    },
+    "ingredients": "",
+    "image": "",
+    "price": null,
+    "quantity": null,
+    "country": null,
+    "marketingClaims": [],
+    "targetTypes": []
   }
 ]
