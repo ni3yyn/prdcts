@@ -163,6 +163,7 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
     try {
         const userDoc = await admin.firestore().collection('profiles').doc(userId).get();
         const pushToken = userDoc.data()?.expoPushToken;
+        
         if (pushToken && Expo.isExpoPushToken(pushToken)) {
             const fieldLabels = {
                 price: 'السعر',
@@ -173,6 +174,7 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
                 country: 'البلد',
                 new_product: 'منتج جديد',
             };
+            
             const message = {
                 to: pushToken,
                 sound: 'default',
@@ -189,16 +191,23 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
                 },
                 channelId: 'oilguard-smart',
             };
+            
+            // ✅ FIXED: Use Expo.chunkPushNotifications (lowercase 'c' in chunk)
             const chunks = Expo.chunkPushNotifications([message]);
+            
+            // ✅ FIXED: Send each chunk
             for (const chunk of chunks) {
-                await Expo.sendPushNotificationsAsync(chunk);
+                const receipts = await Expo.sendPushNotificationsAsync(chunk);
+                console.log(`📱 Notification receipts:`, receipts);
             }
             console.log(`📱 Notification sent to user ${userId}`);
         } else {
             console.log(`📱 No valid push token for user ${userId}`);
         }
     } catch (notifyErr) {
+        // Log but don't fail the approval process
         console.error(`Failed to send notification to user ${userId}:`, notifyErr.message);
+        console.error(`Full error:`, notifyErr);
     }
 }
 
