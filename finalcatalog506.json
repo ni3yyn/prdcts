@@ -267,7 +267,11 @@
     "marketingClaims": [
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 3000,
+      "max": 3000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
