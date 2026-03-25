@@ -180,7 +180,7 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
                 to: pushToken,
                 sound: 'default',
                 title: '🎉 تمت مكافأتك!',
-                body: `تم اعتماد مساهمتك في ${
+                body: `تم اعتماد مساهمتك للكتالوج في ${
                     fieldLabels[field] || 'المساهمة'
                 } وحصلت على ${points} نقطة!`,
                 data: {
