@@ -12,19 +12,13 @@
     "quantity": "150",
     "ingredients": "WATER, GLYCERIN, MYRISTIC ACID, PALMITIC ACID, STEARIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, GLYCERYL DISTEARATE, GLYCERYL STEARATE, KAOLIN, PEG-14M, LINALOOL, SALICYLIC ACID, PHENOXYETHANOL, LIMONENE, ASCORBYL GLUCOSIDE, TETRASODIUM EDTA, LEMON FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, MALTODEXTRIN, BENZYL SALICYLATE, BENZYL ALCOHOL, FRAGRANCE.",
     "image": "https://images.openbeautyfacts.org/images/products/890/152/600/5208/front_en.6.400.jpg",
-    "marketingClaims": [
-      "anti_acne",
-      "moisturizing",
-      "تنظيف عميق"
-    ],
+    "marketingClaims": [],
     "price": {
-      "min": 30,
-      "max": 90000,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة دهنية"
-    ]
+    "targetTypes": []
   },
   {
     "id": "OT-LOT-ISD-001",
@@ -41,8 +35,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 200,
-      "max": 300,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -62,8 +56,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/770/203/129/3620/front_en.17.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 100,
-      "max": 100,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -81,13 +75,10 @@
     "quantity": "370 ml",
     "ingredients": "AQUA, SODIUM LAURETH SULFATE, CITRIC ACID, COCAMIDOPROPYL BETAINE, SODIUM HYDROXIDE, SODIUM CHLORIDE, PARFUM, COCAMIDE MIPA, LACTIC ACID, SODIUM BENZOATE, HYDROXYCITRONELLAL, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE, PEG-60 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, SALICYLIC ACID, LIMONENE, LINALOOL, HEXYLENE GLYCOL, HEXYL CINNAMAL.",
     "image": "https://images.openbeautyfacts.org/images/products/750/955/287/4952/front_es.4.400.jpg",
-    "marketingClaims": [
-      "تنظيف عميق",
-      "مضاد للقشرة"
-    ],
+    "marketingClaims": [],
     "price": {
-      "min": 300,
-      "max": 300,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -107,8 +98,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/622/300/065/9243/front_fr.3.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 380606,
-      "max": 380606,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -128,8 +119,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 120,
-      "max": 120,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -147,20 +138,13 @@
     "quantity": "30ml",
     "ingredients": "AQUA/WATER/EAU COCO-CAPRYLATE/CAPRATE GLYCERIN - DIGLY - CERIN PENTYLENE GLYCOL UNDECANE - C10-18 TRIGLYCERIDES SODIUM ASCORBYL PHOSPHATE CARPOBROTUS EDULIS EXTRACT TROPAEOLUM MAJUS FLOWER/LEAF/STEM EXTRACT PARFUM/ FRAGRANCE ARACHIDYL ALCOHOL TRIDECANE HYDROXYACETOPHENONE POLYACRYLATE CROSS - POLYMER-6 INOSITOL BETAINE BEHENYL . . . . ALCOHOL ETHYLHEXYLGLYCERIN METHYL GLUCOSE SESQUISTEA - RATE ARACHIDYL GLUCOSIDE CITRIC ACID SCLEROTIUM GUM . . SODIUM STEAROYL GLUTAMATE XANTHAN GUM TETRAMETHYL ACETYLOCTAHYDRONAPH - THALENES MARIS AQUA/SEA WATER/EAU DE MER TRISODIUM ETHYLENEDIAMINE DISUCCINATE TOCOPHEROL HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL DIMETHYL PHENETHYL ACETATE APHLOIA THEIFORMIS LEAF EXTRACT CAPSANTHIN/ CAPSORUBIN 1,2-HEXANEDIOL . . . CAPRYLYL GLYCOL TETRASELMIS SUECICA EXTRACT POTASSIUM SORBATE .",
     "image": "https://images.openbeautyfacts.org/images/products/564/409/372/8479/front_fr.3.400.jpg",
-    "marketingClaims": [
-      "تحفيز الكولاجين",
-      "شد البشرة",
-      "مضاد للأكسدة"
-    ],
+    "marketingClaims": [],
     "price": {
-      "min": 400,
-      "max": 400,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة معرضة للحبوب",
-      "شعر جاف"
-    ]
+    "targetTypes": []
   },
   {
     "id": "OT-SCR-THE-001",
@@ -175,13 +159,10 @@
     "quantity": "250 ml",
     "ingredients": "Aqua/Water/Eau, Glycerin, Butylene Glycol, Glycine Soja Oil/Glycine Soja (Soybean) Oil, Silica [NANO]/Silica, Cetearyl Alcohol, Prunus Amygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Prunus Persica Kernel Oil/Prunus Persica (Peach) Kernel Oil, Orbignya Oleifera Seed Oil, Sorbitan Stearate, Parfum/Fragrance, Glyceryl Stearate, PEG-100 Stearate, Caprylyl Glycol, Phenoxyethanol, Prunus Persica Seed Powder/Prunus Persica (Peach) Seed Powder, Sclerocarya Birrea Seed Oil, Carbomer, Cocos Nucifera Shell Powder/Cocos Nucifera (Coconut) Shell Powder, Linalool, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Disodium EDTA, Limonene, Prunus Persica Extract/Prunus Persica (Peach) Extract, Denatonium Benzoate, Citric Acid, CI 14700/Red 4, CI 15985/Yellow 6",
     "image": "https://images.openbeautyfacts.org/images/products/502/819/757/8770/front_fr.11.400.jpg",
-    "marketingClaims": [
-      "تقشير لطيف",
-      "تنقية المسام"
-    ],
+    "marketingClaims": [],
     "price": {
-      "min": 200,
-      "max": 200,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -199,12 +180,10 @@
     "quantity": "250 ml",
     "ingredients": "Aqua, Glycerin, C12-15 Alkyl Benzoate, Diethylamino Hydrowybenzoyl Gun Caprylhydroxamic Acid, Linalool, Limonene, Benzyl Saloylate, Benzyl Alcohol, Eugenol, Citronellol, Coumarin, Adpate, Bis Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Reyl Benzoate, Propanediol Dicaprylate/Caprate, Ethylhexyl Triazone, Disopropyl late, Benzyl Alcohol, Eugenol, Citronellol, Coumarin, Geraniol",
     "image": "https://images.openbeautyfacts.org/images/products/405/648/942/5236/front_en.7.400.jpg",
-    "marketingClaims": [
-      "moisturizing"
-    ],
+    "marketingClaims": [],
     "price": {
-      "min": 369,
-      "max": 369,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -224,8 +203,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/405/648/940/9809/front_fr.3.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 365,
-      "max": 9998,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -245,8 +224,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/405/648/937/0406/front_fr.5.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 6555,
-      "max": 6555,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -268,8 +247,8 @@
       "مهدئ"
     ],
     "price": {
-      "min": 3000,
-      "max": 3000,
+      "min": null,
+      "max": null,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -8847,7 +8826,7 @@
     },
     "quantity": "200 ml",
     "price": {
-      "min": 1300,
+      "min": null,
       "max": null,
       "currency": "DZD"
     },
@@ -8868,7 +8847,7 @@
     },
     "quantity": "40 ml",
     "price": {
-      "min": 1900,
+      "min": null,
       "max": null,
       "currency": "DZD"
     },
@@ -8893,7 +8872,7 @@
     },
     "quantity": "50 ml",
     "price": {
-      "min": 1600,
+      "min": null,
       "max": null,
       "currency": "DZD"
     },
@@ -8921,7 +8900,7 @@
     },
     "quantity": "40 ml",
     "price": {
-      "min": 2300,
+      "min": null,
       "max": null,
       "currency": "DZD"
     },
@@ -8968,84 +8947,5 @@
     "country": null,
     "marketingClaims": [],
     "targetTypes": []
-  },
-  {
-    "id": "EG-SSE-MARK-001",
-    "brand": "Marka",
-    "name": "Santamaria",
-    "image": "https://news.radioalgerie.dz/sites/default/data/2025-06/hgfudo_555.jpg",
-    "ingredients": "سانتا ماريا،،ققرنبيط، لوز، دلاع",
-    "country": "Egypt",
-    "category": {
-      "id": "skin_serum",
-      "label": "سيروم للبشرة",
-      "icon": "flask"
-    },
-    "quantity": "500 L",
-    "price": {
-      "min": 300,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [],
-    "marketingClaims": []
-  },
-  {
-    "id": "EG-LOT-MARK-001",
-    "brand": "Marka",
-    "name": "دلاع باللوز",
-    "image": "https://news.radioalgerie.dz/sites/default/data/2025-06/hgfudo_555.jpg",
-    "ingredients": "صانتا ماريا،تسنسهسهتس،نصخصخصخصخ،نخثخثخث",
-    "country": "Egypt",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "200 g",
-    "price": {
-      "min": 3000,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "normal_skin",
-      "oily_skin"
-    ],
-    "marketingClaims": [
-      "مكافحة التجاعيد",
-      "شد البشرة",
-      "توحيد لون البشرة",
-      "تفتيح البقع الداكنة",
-      "تنقية المسام",
-      "شد الجسم"
-    ]
-  },
-  {
-    "id": "EG-LOT-MARK-002",
-    "brand": "Marka",
-    "name": "زبت اللوح",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774388975/dzohupqwc5drjpqud5x0.jpg",
-    "ingredients": "يتعيعطتيتيتثتي",
-    "country": "Egypt",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "300 L",
-    "price": {
-      "min": 200,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "normal_skin",
-      "dry_skin"
-    ],
-    "marketingClaims": [
-      "للبشرة الجافة",
-      "للبشرة الحساسة"
-    ]
   }
 ]
