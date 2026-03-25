@@ -130,6 +130,7 @@ function generateSmartId(newProd, catalog) {
 }
 
 // ========== Points awarding & notification (NEW) ==========
+// ========== Points awarding & notification ==========
 async function awardPointsAndNotify(userId, points, field, contributionId, productId) {
     const userRef = admin.firestore().collection('profiles').doc(userId);
 
@@ -192,12 +193,12 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
                 channelId: 'oilguard-smart',
             };
             
-            // ✅ FIXED: Use Expo.chunkPushNotifications (lowercase 'c' in chunk)
-            const chunks = Expo.chunkPushNotifications([message]);
+            // ✅ CORRECT: Create Expo instance and use it
+            const expo = new Expo();
+            const chunks = expo.chunkPushNotifications([message]);
             
-            // ✅ FIXED: Send each chunk
             for (const chunk of chunks) {
-                const receipts = await Expo.sendPushNotificationsAsync(chunk);
+                const receipts = await expo.sendPushNotificationsAsync(chunk);
                 console.log(`📱 Notification receipts:`, receipts);
             }
             console.log(`📱 Notification sent to user ${userId}`);
@@ -207,7 +208,6 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
     } catch (notifyErr) {
         // Log but don't fail the approval process
         console.error(`Failed to send notification to user ${userId}:`, notifyErr.message);
-        console.error(`Full error:`, notifyErr);
     }
 }
 
