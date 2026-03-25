@@ -5101,7 +5101,11 @@
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://www.biolila.com/storage/product/7FKVQUxTJOKL1Onf6qWgOcGsW.webp",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1100,
+      "max": 1100,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5415,7 +5419,11 @@
       "anti_acne",
       "gentle_cleansing"
     ],
-    "price": null,
+    "price": {
+      "min": 1150,
+      "max": 1150,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
