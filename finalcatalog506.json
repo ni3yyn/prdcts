@@ -9035,14 +9035,14 @@
     "brand": "Bioderma",
     "name": "Sébium Gel moussant",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774481302/eu98cndwbmnfhlaugkil.jpg",
-    "ingredients": "​water\n​Sodium Cocoamphoacetate\n​Sodium Laureth Sulfate\n​Methylpropanediol\n​Disodium EDTA\n​Lactic Acid\n​Zinc Sulfate\n​Sodium Chloride\n​Copper Sulfate\n​Potassium Sorbate\n​Xylitol\n​Fructooligosaccharides\n​Mannitol\n​Rhamnose\n​Propylene Glycol\n​Sodium Hydroxide\n​Ginkgo Biloba Leaf Extract\n​Fragrance (Parfum)",
+    "ingredients": "​Aqua, ​Sodium Cocoamphoacetate, ​Sodium Laureth Sulfate, ​Methylpropanediol, ​Disodium EDTA, ​Lactic Acid, ​Zinc Sulfate, ​Sodium Chloride, ​Copper Sulfate, ​Potassium Sorbate, ​Xylitol,  ​Fructooligosaccharides,  ​Mannitol,  ​Rhamnose,  ​Propylene Glycol,  ​Sodium Hydroxide,  ​Ginkgo Biloba Leaf Extract,  ​Fragrance (Parfum)",
     "country": "France",
     "category": {
       "id": "cleanser",
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "200",
     "price": {
       "min": 2700,
       "max": null,
