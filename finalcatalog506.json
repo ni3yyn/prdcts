@@ -6014,7 +6014,9 @@
     "quantity": "null",
     "ingredients": "ماء, ثنائي بوتيل أديبات, بروبانيديول, داي إيثيل أمينو هيدروكسي بنزويل هيكسيل بنزوات (DHHB), بولي ميثيل سيلسسكويكسان, إيثيل هكسيل تريازون (أوفينول T 150), تينوسورب إم (Bisoctrizole), النياسيناميد (فيتامين B3), كوكو-كابريلات/كبرات, كابريليل ميثيكون, إيسكوتريزينول (Uvasorb HEB), 1،2-هيكسانيديول, بيوتيلين جلايكول, سينتيلا أسياتيكا (عشبة النمر), مستخلص أوراق الجنكة, مستخلص أوراق الشاي الأخضر, حمض الهيالورونيك, كحول البيهينيل, بولي C10-30 ألكيل أكريلات, بولي جليسريل-3 ميثيل جلوكوز ثنائي الستيارات, ديسيل غلوكوزيد (بلانتاكير), تروميثامين, كاربومير 940, أكريلات/سي 10-30 ألكيل أكريلات كروس بوليمر, صوديوم ستيرويل جلوتامات, بولي أكريلات كروسبوليمر-6, أدينوسين, صمغ الزانثان, تي-بيوتيل الكحول, توكوفيرول (فيتامين E النقي), حمض الهيالورونيك المهدرج, إينوزيتول, بنتيلين غليكول (1،5-بنتانيديول), إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772171199/bghk66trw94vfh86sux2.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
     "price": {
       "min": 2500,
       "max": 2500,
@@ -6648,8 +6650,14 @@
     "ingredients": "ماء, طين (كاولين/بنتونيت), الجلسرين, سيليكات المغنيسيوم والألومنيوم, CI 77891 (ثاني أكسيد التيتانيوم), فينوكسي إيثانول, عطر, بروبيلين جلايكول, مستخلص زهرة الآذريون, سوربات البوتاسيوم, بنزوات الصوديوم, كحول السيتريل, حجر الخفاف, دايميثيكون, زيت بذور المشمش, زيت الخروع المهدرج PEG-40, سوربيتول, حمض السيتريك, CI 77491 (أكسيد الحديد الأحمر), CI 77492 (أكسيد الحديد الأصفر), CI 77499 (أكسيد الحديد الأسود), CI 19140, CI 42090 (Blue 1 Lake)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1770479258/sufwyh7cozn646zdtrmg.jpg",
     "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "OT-SUN-BIOL-001",
@@ -9055,6 +9063,34 @@
     "marketingClaims": [
       "للبشرة الدهنية",
       "تنظيف لطيف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PEA-001",
+    "brand": "Peau Parfaite",
+    "name": "Olive Cream Crème restructurante Anti-irritation, Protectrice",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774556061/burhkteus2xvxxytlaib.jpg",
+    "ingredients": "Water (ماء)\n​Propylene Glycol (بروبيلان جليكول)\n​Isopropyl Palmitate (إيزوبروبيل بالميتات)\n​Glycerin (جليسرين)\n​Isopropyl Myristate (حمض الإيزوبروبيل بالميتات - likely a label typo for Myristate)\n​Ethyl Ester (إيثيل أستر)\n​Butylene Glycol (بوتيلاين جليكول)\n​Betaine (بيتان)\n​Olive Oil (زيت الزيتون)\n​Coconut Oil (زيت جوز الهند)\n​Green Tea Extract (مستخلص الشاي الأخضر)\n​Palm Acrylic Oligopeptide (بالم أكريليك أوليغوبيبتيد)\n​Algae Extract (مستخلص الطحالب)\n​Stearic Acid (حمض الستياريك)\n​Glyceryl Stearate (جليسريل ستيارات)\n​PEG-100 Stearate (بي إي جي-100 حمض الستياريك)\n​Dimethicone (ثنائي متعدد الميثيل سيلوكسان)\n​Acetyl Hexapeptide-1 (أسيتيل ستة بيبتيد-1)\n​Acetyl Hexapeptide-8 (أستيل ستة بيبتيد-8)\n​Sodium Hyaluronate (صوديوم الهيالورونات)\n​Carbomer (كاربو مير)\n​Lecithin (ليسيثين)\n​Polysorbate 60 (متعدد السوربات-60)\n​Sorbitan Monostearate (سوربيتان أحادي الستيارات)\n​Phenoxyethanol (فينوكسي إيثانول)\n​Methylparaben (ميثيل بارابان)\n​Propylparaben (بروبيل بارابان)\n​Triethanolamine (ثلاثي الإيثانولمين)\n​Disodium EDTA (ثنائي الصوديوم أو دي تي يا)\n​Xanthan Gum (كزنتان غوم)\n​Fragrance/Flavor (منكه)",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "Moisturizer",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "dry_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
     ]
   }
 ]
