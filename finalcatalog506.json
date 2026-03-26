@@ -5790,7 +5790,11 @@
     "ingredients": "ماء, رباعي الصوديوم EDTA, ثنائي الصوديوم EDTA, النياسيناميد (فيتامين B3), الجلسرين, بروبيلين جلايكول, غليسيريل مونوستيرات (GMS), زيت اللوز الحلو, دايميثيكون, بيوتيلين جلايكول, مستخلص ثمار البابايا, حمض الطرطريك, كبريتيت الصوديوم, ميتابيسلفيت الصوديوم, بولي أكريلاميد, لوريث-7, فينوكسي إيثانول, إيثيل هكسيل غليسرين, حمض الستريك, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771930716/qesm4xznx7ourltz3zrf.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 700,
+      "max": 700,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6011,7 +6015,11 @@
     "ingredients": "ماء, ثنائي بوتيل أديبات, بروبانيديول, داي إيثيل أمينو هيدروكسي بنزويل هيكسيل بنزوات (DHHB), بولي ميثيل سيلسسكويكسان, إيثيل هكسيل تريازون (أوفينول T 150), تينوسورب إم (Bisoctrizole), النياسيناميد (فيتامين B3), كوكو-كابريلات/كبرات, كابريليل ميثيكون, إيسكوتريزينول (Uvasorb HEB), 1،2-هيكسانيديول, بيوتيلين جلايكول, سينتيلا أسياتيكا (عشبة النمر), مستخلص أوراق الجنكة, مستخلص أوراق الشاي الأخضر, حمض الهيالورونيك, كحول البيهينيل, بولي C10-30 ألكيل أكريلات, بولي جليسريل-3 ميثيل جلوكوز ثنائي الستيارات, ديسيل غلوكوزيد (بلانتاكير), تروميثامين, كاربومير 940, أكريلات/سي 10-30 ألكيل أكريلات كروس بوليمر, صوديوم ستيرويل جلوتامات, بولي أكريلات كروسبوليمر-6, أدينوسين, صمغ الزانثان, تي-بيوتيل الكحول, توكوفيرول (فيتامين E النقي), حمض الهيالورونيك المهدرج, إينوزيتول, بنتيلين غليكول (1،5-بنتانيديول), إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772171199/bghk66trw94vfh86sux2.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6200,7 +6208,11 @@
     "ingredients": "ماء, داي إيثيل أمينو هيدروكسي بنزويل هيكسيل بنزوات (DHHB), إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), الجلسرين, إيثيل هكسيل ساليسيلات (أوكتيسالات), كحول السيتريل, زبدة الشيا, زيت جنين القمح, زيت اللوز الحلو, جلايكول ثنائي الستيارات, سيليكا, سيتاريث-20, أكسيد الزنك, CI 77891 (ثاني أكسيد التيتانيوم), كربونات ثنائي الكابريليل, بانثينول (بروفيتامين B5), صمغ الزانثان, ميثيل إيزوثيازولينون (MI)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772287746/kpft7fcjaks2f17xommz.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 650,
+      "max": 650,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6319,7 +6331,11 @@
     "ingredients": "ماء, صوديوم لورويل ميثيل إيزثيونات (SLMI), صوديوم لورويل ساركوسينات, ثنائي الصوديوم كوكو أمفو ثنائي الأسيتات, كوكاميدوبروبيل بيتين (CAPB), الجلسرين, جلايكول ثنائي الستيارات, بروبيلين جلايكول, كوكو جلوكوسايد, بولي كواتيرنيوم-10, حمض الساليسيليك, الفوسفوليبيدات, الكوليسترول, عطر, كلوريد الصوديوم, كلورو ميثيل ايزوثيازولينون, ميثيل أيزوثيازولينون (MIT), رباعي الصوديوم EDTA",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771418546/swskrm3ukw0fntormzl1.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6560,7 +6576,11 @@
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), كوكاميد DEA, حمض الساليسيليك, حمض الهيالورونيك, حمض الهيالورونيك المهدرج, حمض اللاكتيك, بولي كواتيرنيوم-10, عطر, كلوريد الصوديوم, بنزوات الصوديوم, هيدروكسيد الصوديوم, بيروكتون أولامين, رباعي الصوديوم EDTA, بنفسجي حمضي 43",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771937451/pvjeqfb3t0d8bsqoyjay.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 280,
+      "max": 280,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6641,11 +6661,15 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "50 ml",
     "ingredients": "ماء, كوكو-كابريلات, أوكتيسالات, يوفينول تي 150, تينوسورب إس (Bemotrizinol), أفوبينزون, جليسريل ستيرات, كحول السيتريل, سيتاريث-20, سيليكا, إنسوليزول, هيدروكسيد الصوديوم, النياسيناميد (فيتامين B3), رباعي الصوديوم EDTA, تينوسورب إم (Bisoctrizole), ألكيل بولي غليكوزيد, بروبيلين جلايكول, صمغ الزانثان, زيت بذور التين الشوكي, توكوفيريل أسيتات, فينوكسي إيثانول, CI 77891 (ثاني أكسيد التيتانيوم), أكاسيد الحديد, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768905093/b2xqilltcpqhvagsnfpf.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -8862,7 +8886,11 @@
       "icon": "sink"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9001,5 +9029,32 @@
     "country": null,
     "marketingClaims": [],
     "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIOD-001",
+    "brand": "Bioderma",
+    "name": "Sébium Gel moussant",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774481302/eu98cndwbmnfhlaugkil.jpg",
+    "ingredients": "​Aqua/Water/Eau\n​Sodium Cocoamphoacetate\n​Sodium Laureth Sulfate\n​Methylpropanediol\n​Disodium EDTA\n​Lactic Acid\n​Zinc Sulfate\n​Sodium Chloride\n​Copper Sulfate\n​Potassium Sorbate\n​Xylitol\n​Fructooligosaccharides\n​Mannitol\n​Rhamnose\n​Propylene Glycol\n​Sodium Hydroxide\n​Ginkgo Biloba Leaf Extract\n​Fragrance (Parfum)",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 2700,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "combination_skin",
+      "oily_skin"
+    ],
+    "marketingClaims": [
+      "للبشرة الدهنية",
+      "تنظيف لطيف"
+    ]
   }
 ]
