@@ -5593,7 +5593,11 @@
     "ingredients": "ماء, كاربومير, كواتيرنيوم-15, شمع النحل, بيوتيل هيدروكسي تولوين (BHT), هيدروكسيد الصوديوم, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1770393877/zhiphdi9ajzenpks8mm7.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7290,7 +7294,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7702,7 +7710,11 @@
       "icon": "droplet"
     },
     "quantity": "50 ml",
-    "price": null,
+    "price": {
+      "min": 280,
+      "max": 280,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7719,7 +7731,11 @@
       "icon": "droplet"
     },
     "quantity": "50 ml",
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8265,7 +8281,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 130,
+      "max": 130,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
