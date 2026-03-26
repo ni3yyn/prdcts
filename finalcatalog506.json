@@ -5118,11 +5118,18 @@
       "label": "بديل الزيت",
       "icon": "water"
     },
-    "quantity": "null",
+    "quantity": "150",
     "ingredients": "ماء, كحول سيتوستيريل, كحول الستياريل, زيت الأرغان, بروتين متحلل, عطر, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772224406/n8ehfc4ihzzylrxn55sx.jpg",
-    "marketingClaims": [],
-    "price": null,
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6011,7 +6018,7 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "50",
     "ingredients": "ماء, ثنائي بوتيل أديبات, بروبانيديول, داي إيثيل أمينو هيدروكسي بنزويل هيكسيل بنزوات (DHHB), بولي ميثيل سيلسسكويكسان, إيثيل هكسيل تريازون (أوفينول T 150), تينوسورب إم (Bisoctrizole), النياسيناميد (فيتامين B3), كوكو-كابريلات/كبرات, كابريليل ميثيكون, إيسكوتريزينول (Uvasorb HEB), 1،2-هيكسانيديول, بيوتيلين جلايكول, سينتيلا أسياتيكا (عشبة النمر), مستخلص أوراق الجنكة, مستخلص أوراق الشاي الأخضر, حمض الهيالورونيك, كحول البيهينيل, بولي C10-30 ألكيل أكريلات, بولي جليسريل-3 ميثيل جلوكوز ثنائي الستيارات, ديسيل غلوكوزيد (بلانتاكير), تروميثامين, كاربومير 940, أكريلات/سي 10-30 ألكيل أكريلات كروس بوليمر, صوديوم ستيرويل جلوتامات, بولي أكريلات كروسبوليمر-6, أدينوسين, صمغ الزانثان, تي-بيوتيل الكحول, توكوفيرول (فيتامين E النقي), حمض الهيالورونيك المهدرج, إينوزيتول, بنتيلين غليكول (1،5-بنتانيديول), إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772171199/bghk66trw94vfh86sux2.jpg",
     "marketingClaims": [
@@ -9091,6 +9098,93 @@
       "مرطب للبشرة",
       "للبشرة الجافة",
       "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-HSE-SWA-001",
+    "brand": "Swalis",
+    "name": "Sérum Ultra Lissant Thermoactif",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774557308/m9ddc6jannusxrxammx0.jpg",
+    "ingredients": "سيكلوينتاسيلوكسان\nديميتيكونول\nاموديميتكون\nفنيل تريميتيكون\nعطر",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "Hair Serum",
+      "icon": "spray-can"
+    },
+    "quantity": "90 ml",
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_hair",
+      "dry_hair",
+      "damaged_hair",
+      "colored_hair"
+    ],
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "إصلاح الشعر المتضرر",
+      "تنعيم الشعر"
+    ]
+  },
+  {
+    "id": "KR-SSE-SKIN-001",
+    "brand": "SKIN1004",
+    "name": "Madagascar Centella Tone Brightening Capsule Ampoule",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774556686/dnottyhq1zcrdr0hmfez.jpg",
+    "ingredients": "Water\n​Butylene Glycol\n​Niacinamide\n​Glycerin\n​Tranexamic Acid\n​1,2-Hexanediol\n​Betaine\n​Centella Asiatica Extract (7,949 ppm)\n​Zea Mays (Corn) Starch\n​Xanthan Gum\n​Microcrystalline Cellulose\n​Mannitol\n​Panthenol\n​Pentylene Glycol\n​Ethylhexylglycerin\n​Hydroxyethylcellulose\n​Madecassoside (200 ppm)\n​Acrylates/C10-30 Alkyl Acrylate Crosspolymer\n​Arginine\n​Hydrogenated Lecithin\n​Xylitylglucoside\n​Anhydroxylitol\n​Xylitol\n​Glucose\n​3-O-Ethyl Ascorbic Acid (Vitamin C derivative)\n​Lactobacillus Ferment",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "Skin Serum",
+      "icon": "flask"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": 3500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ]
+  },
+  {
+    "id": "DZ-HMA-MIS-001",
+    "brand": "Miss Claire",
+    "name": "Hair Mayonnaise",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774557595/rxiahsd1kz1wpnrhvnas.jpg",
+    "ingredients": "Water (Aqua)\n​Glycerin\n​Olea Europaea Fruit Oil (Olive Oil)\n​Petrolatum\n​Paraffinum Liquidum (Mineral Oil)\n​Cetearyl Alcohol\n​Cocos Nucifera Oil (Coconut Oil)\n​Butyrospermum Parkii Butter (Shea Butter)\n​Cetrimonium Chloride (Conditioning agent/Anti-static)\n​Guar Hydroxypropyltrimonium Chloride (Conditioning agent/Thickener)\n​Fragrance\n​Conservateur (Preservative)\n​CI 15985 (Yellow 6 dye)\n​CI 45430 (Red 3 dye)",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "Hair Mask",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "500 g",
+    "price": {
+      "min": 800,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "damaged_hair"
+    ],
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "ترطيب مكثف",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تقوية الشعر",
+      "مرطب للشعر"
     ]
   }
 ]
