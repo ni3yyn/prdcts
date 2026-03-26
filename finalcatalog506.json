@@ -5440,7 +5440,11 @@
     "ingredients": "ماء, كوكاميد DEA, الكبريت الغروي, عطر, بنزوات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772392451/wmikdn5ssih7d6zven39.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 380,
+      "max": 380,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
