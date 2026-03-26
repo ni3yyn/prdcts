@@ -6732,8 +6732,15 @@
     "ingredients": "ماء, حمض الساليسيليك, كوكو جلوكوسايد, أكريلات/C10-30 ألكيل أكريليت كروسبوليمر-1, الجلسرين, آلانتوين, توكوفيرول (فيتامين E النقي), البانثينول (برو-فيتامين B5), ميثيل أيزوثيازولينون (MIT), كلورو ميثيل ايزوثيازولينون",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769360798/jo12uift52qsaoijfis9.jpg",
     "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 1400,
+      "max": 1400,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "FR-XXX-LAF-001",
@@ -7646,7 +7653,11 @@
       "icon": "sink"
     },
     "quantity": "150 ml",
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7807,7 +7818,11 @@
       "icon": "sink"
     },
     "quantity": "150 ml",
-    "price": null,
+    "price": {
+      "min": 390,
+      "max": 390,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7894,8 +7909,15 @@
       "icon": "sink"
     },
     "quantity": "150 ml",
-    "price": null,
-    "targetTypes": [],
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
     "marketingClaims": []
   },
   {
