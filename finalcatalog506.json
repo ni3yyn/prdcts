@@ -6272,7 +6272,11 @@
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زبدة الشيا, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772123885/ezpsqm7jnyzdgvpcir38.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7365,7 +7369,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
