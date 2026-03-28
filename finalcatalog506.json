@@ -3662,7 +3662,11 @@
     "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Cocamide MIPA, Lauryl Betaine, Alcohol, Biotin, Blue 1 (CI 42090), Caramel, Cinchona Succirubra Bark Extract, Disodium EDTA, Fragrance (Parfum), Glycerin, Methylisothiazolinone, Panthenol, Phenoxyethanol, Polyquaternium-22, Pyridoxine HCL, Red 33 (CI 17200), Sodium Chloride, Triethanolamine, Methylparaben, Propylparaben",
     "image": "https://images.openbeautyfacts.org/images/products/328/277/902/8394/front_fr.5.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 2200,
+      "max": 2200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5216,7 +5220,11 @@
     "marketingClaims": [
       "مضاد لتساقط الشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 2200,
+      "max": 2200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5301,7 +5309,11 @@
     "ingredients": "ماء, الجلسرين, زيت الجوجوبا, ثلاثي جليسريد الكابريليك/الكابريك, صوديوم أكريلات/صوديوم أكريلويل دايميثيل توريت كوبوليمر, أيزوهيكساديكان, بوليسوربات 80, فينوكسي إيثانول, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772116337/fuuqohkmvldvaecshorl.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 185,
+      "max": 185,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5710,7 +5722,11 @@
     "ingredients": "ماء, حمض الأزيليك, ميريستات الأوكتيل دوديسيل, أيزونونيل أيزونونانوات, أيزوستيرات الأيزوستيريل, كحول السيتيل, غليسيريل مونوستيرات (GMS), إيثوكسي ديجليكول, الجلسرين, كوكو-كابريلات/كبرات, النياسيناميد (فيتامين B3), كسيليتول, ستيرات PEG-75, بنتيلين غليكول (1،5-بنتانيديول), كحول السيتريل, سيتيث-20, ستيريث-20, كابريلات/كبرات الجليسريل",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772201449/klkuotiqu8dgwykafnos.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7997,7 +8013,11 @@
       "icon": "sun"
     },
     "quantity": "50 ml",
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8477,7 +8497,11 @@
       "icon": "pump-soap"
     },
     "quantity": "400 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
