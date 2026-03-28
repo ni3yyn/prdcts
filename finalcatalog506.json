@@ -9230,5 +9230,29 @@
       "تقوية الشعر",
       "مرطب للشعر"
     ]
+  },
+  {
+    "id": "FR-LOT-ACM1-001",
+    "brand": "Acm",
+    "name": "Sebionnex hydra crème hydratante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774705575/ojpqfsojjxtfpszlpztt.jpg",
+    "ingredients": "Aqua (Water), Propanediol, Caprylic/Capric Triglyceride, Isononyl Isononanoate, Niacinamide, Squalane, Hydrogenated Vegetable Glycerides, Cetearyl Alcohol, Glycerin, Hydroxypropyl Starch Phosphate, Hydroxyethyl Urea, Butyrospermum Parkii (Shea) Butter, Sodium Stearoyl Glutamate, Xylitol, Sodium Hyaluronate, Ceramide NP, Tocopherol, C10-30 Cholesterol/ Lanosterol Esters, Cetearyl Glucoside, Sodium Levulinate, Sodium Anisate, Xanthan Gum, Citric Acid, Ammonium Lactate, Isocetyl Alcohol, Cetyl Alcohol.",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "price": {
+      "min": 1800,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "combination_skin"
+    ],
+    "marketingClaims": []
   }
 ]
