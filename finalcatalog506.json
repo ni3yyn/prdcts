@@ -6214,9 +6214,15 @@
     "ingredients": "ماء, كحول السيتريل, الجلسرين, سيترات الصوديوم, كحول السيتيل, حجر الخفاف, زبدة الشيا, دايميثيكون, إيميدازوليدينيل يوريا, سيليكا, حمض الستريك, نترات المغنيسيوم, كلوريد المغنيسيوم, كومارين, أصفر 5 (تارترازين), أزرق 1",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772287238/ltogvcpqog8ymsoy2w1a.jpg",
     "marketingClaims": [
-      "exfoliating"
+      "exfoliating",
+      "تقشير",
+      "تنظيف عميق"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
