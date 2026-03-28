@@ -5384,8 +5384,14 @@
     "ingredients": "ماء، صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), كوكو جلوكوسايد, كلوريد غوار هيدروكسي بروبيل تريمونيوم, بولي كواتيرنيوم-7, بروبيلين جلايكول, جلايكول ثنائي الستيارات, صمغ الزانثان, حمض السيتريك, السيراميدات, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768580983/fo2vn098q9necdeex2fx.jpg",
     "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر دهني"
+    ]
   },
   {
     "id": "KR-eye-HEI-001",
