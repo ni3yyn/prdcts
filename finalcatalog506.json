@@ -7749,7 +7749,11 @@
       "icon": "sink"
     },
     "quantity": "150 ml",
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
