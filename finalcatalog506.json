@@ -96,10 +96,13 @@
     "quantity": "100ml",
     "ingredients": "Aqua, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate, Polyquaternium-10, Coconut Acid, Glycerin, Sodium Methyl Cocoyl Taurate, PEG-80 Sorbitan Laurate, PEG-150 Distearate, Sodium Chloride, Disodium EDTA, Citric Acid, BHT, Sodium Benzoate, Parfum",
     "image": "https://images.openbeautyfacts.org/images/products/622/300/065/9243/front_fr.3.400.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية فروة الرأس"
+    ],
     "price": {
-      "min": null,
-      "max": null,
+      "min": 250,
+      "max": 250,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -6308,7 +6311,9 @@
       "max": 300,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   },
   {
     "id": "OT-XXX-LOR-001",
