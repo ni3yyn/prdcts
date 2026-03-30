@@ -4915,7 +4915,10 @@
       "pore_minimizing"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "FR-SHA-YVE-002",
@@ -6782,11 +6785,15 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "100ml",
     "ingredients": "ماء, هيبتيل أنديسيلينات, كحول السيتيل, كحول السيتريل, زيت اللوز الحلو, مسحوق عصير أوراق الألوفيرا, عطر, زيت فول الصويا, توكوفيرول (فيتامين E النقي), كحول بنزيلي, هيدروكسيد البوتاسيوم (في الصابون السائل), حمض الستريك, حمض ديهيدروأسيتيك, سوربات البوتاسيوم, بنزوات الصوديوم, لينالول, ليمونين, سيترال, جيرانيول, سيترونيلول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772138414/ih9rtfmd5azp8zpbtbca.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 850,
+      "max": 850,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -9183,7 +9190,7 @@
     "brand": "SKIN1004",
     "name": "Madagascar Centella Tone Brightening Capsule Ampoule",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774556686/dnottyhq1zcrdr0hmfez.jpg",
-    "ingredients": "Water\n​Butylene Glycol\n​Niacinamide\n​Glycerin\n​Tranexamic Acid\n​1,2-Hexanediol\n​Betaine\n​Centella Asiatica Extract (7,949 ppm)\n​Zea Mays (Corn) Starch\n​Xanthan Gum\n​Microcrystalline Cellulose\n​Mannitol\n​Panthenol\n​Pentylene Glycol\n​Ethylhexylglycerin\n​Hydroxyethylcellulose\n​Madecassoside (200 ppm)\n​Acrylates/C10-30 Alkyl Acrylate Crosspolymer\n​Arginine\n​Hydrogenated Lecithin\n​Xylitylglucoside\n​Anhydroxylitol\n​Xylitol\n​Glucose\n​3-O-Ethyl Ascorbic Acid (Vitamin C derivative)\n​Lactobacillus Ferment",
+    "ingredients": "Water, ​Butylene Glycol, ​Niacinamide, Glycerin,​Tranexamic Acid, ​1,2-Hexanediol, Betaine, ​Centella, Asiatica Extract (7,949 ppm), Zea Mays (Corn), Starch, ​Xanthan Gum, ​Microcrystalline Cellulose, ​Mannitol, Panthenol, Pentylene Glycol, ​Ethylhexylglycerin, ​Hydroxyethylcellulose, ​Madecassoside, ​Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Hydrogenated Lecithin, ​Xylitylglucoside, Anhydroxylitol, Xylitol, Glucose, \n​3-O-Ethyl Ascorbic Acid, ​Lactobacillus Ferment",
     "country": "Korea",
     "category": {
       "id": "skin_serum",
