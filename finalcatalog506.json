@@ -9258,7 +9258,9 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "damaged_hair"
+      "damaged_hair",
+      "فروة حساسة",
+      "شعر جاف"
     ],
     "marketingClaims": [
       "تنعيم الشعر",
