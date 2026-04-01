@@ -38,13 +38,17 @@
     "quantity": "200 ml",
     "ingredients": "Aqua (Water), Alcohol Denat., Octyldodecanol, Cetyl Alcohol, Isopropyl Palmitate, Polysorbate 60, Dimethicone, Ethylhexyl Methoxycinnamate, Propylene Glycol, Benzyl Alcohol, Carbomer, Sorbitan Stearate, Allantoin, Sodium Hydroxide, Bisabolol, Disodium EDTA, Parfum (Fragrance), Menthol, BHT, Linalool, Citronellol, Chamomilla Recutita (Matricaria) Flower Extract, Geraniol, Limonene, Silica",
     "image": "https://images.openbeautyfacts.org/images/products/847/000/380/8996/front_es.4.400.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": null,
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "US-SHA-JOH-002",
