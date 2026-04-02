@@ -5345,7 +5345,11 @@
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), الجلسرين, كوكاميدوبروبيل بيتين (CAPB), حمض الهيالورونيك, منثول, الكولاجين المهدرج, كلوريد الصوديوم, فينوكسي إيثانول, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772116691/siaeowmtgedli5uk1trk.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
