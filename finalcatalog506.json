@@ -5125,7 +5125,9 @@
       "max": 1100,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
   },
   {
     "id": "DZ-OIL-SWA-001",
