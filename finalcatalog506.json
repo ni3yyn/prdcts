@@ -9300,5 +9300,28 @@
       "combination_skin"
     ],
     "marketingClaims": []
+  },
+  {
+    "id": "DZ-SSE-PHAR-001",
+    "brand": "Pharmamile",
+    "name": "Glowy skin serume",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1775380085/nkd1qivvxkmmcoqzbqfz.jpg",
+    "ingredients": "",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 85,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": []
   }
 ]
