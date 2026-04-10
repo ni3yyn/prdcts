@@ -86,8 +86,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/750/955/287/4952/front_es.4.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1500,
+      "max": 1500,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -3492,7 +3492,11 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 3800,
+      "max": 3800,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -3570,7 +3574,11 @@
     "ingredients": "Aqua / water, diisopropyl sebacate, alcohol denat., glycerin, dimethicone, isohexadecane, butyl methoxydibenzoylmethane, octocrylene, silica, drometrizole trisiloxane, isononyl isononanoate, zea mays starch / corn starch, c12-15 alkyl benzoate, styrene/acrylates copolymer, ethylhexyl triazone, peg-30 dipolyhydroxystearate, bis-ethylhexyloxyphenol methoxyphenyl triazine, isododecane, phenoxyethanol, isopropyl lauroyl sarcosinate, terephthalylidene dicamphor sulfonic acid, silica silylate, lauryl peg/ppg-18/18 methicone, peg-8 laurate, caprylyl glycol, triethanolamine, disteardimonium hectorite, tocopherol, disodium edta, dodecene, propylene carbonate, poloxamer 407, zinc gluconate, perlite",
     "image": "https://images.openbeautyfacts.org/images/products/333/787/241/4527/front_fr.6.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6084,11 +6092,15 @@
       "label": "آخر",
       "icon": "shopping-bag"
     },
-    "quantity": "null",
+    "quantity": "100 ml",
     "ingredients": "دايميثيكون, ماء, بولي أيزوبيوتين مهدرج, الجلسرين, زبدة الشيا, بانثينول (بروفيتامين B5), نشا الذرة, بروبانيديول, بيوتيلين جلايكول, سيتيل PEG/PPG-10/1 دايميثيكون, تراي هيدروكسي ستيارين, مستخلص السينتيلا أسياتيكا (Cica), جلوكونات الزنك, ماديكاسوسيد, ألفا-جلوكان أوليجوسكاريد, سيليكا, هيدروكسيد الألمنيوم, كبريتات المغنيسيوم (ملح إبسوم), مانوز, كابريلويل جلايسين, خميرة الفيتروسيلا (Life Plankton™), حمض الستريك, ثلاثي صوديوم إيثيلين ديامين ديسكسينات, لاكتوباسيلس, مالتوديكسترين, بنتيلين غليكول (1،5-بنتانيديول), بولي جليسريل-4 أيزوستيرات, توكوفيرول (فيتامين E النقي), بنتاريثريتيل تترا-دي-تي-بيوتيل هيدروكسي هيدروسينامات, فينوكسي إيثانول, CI 77891 (ثاني أكسيد التيتانيوم)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772170745/br8ev2ldxzndqntd4xkh.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 3800,
+      "max": 3800,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6552,7 +6564,11 @@
     "ingredients": "ماء, ماء نخالة الأرز, زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, زيت الخروع المهدرج PEG-40, رباعي الصوديوم EDTA",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772124311/z6bsgnjsbh4bjljv94t9.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1450,
+      "max": 1450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -9323,5 +9339,57 @@
       "all_skin_types"
     ],
     "marketingClaims": []
+  },
+  {
+    "id": "US-OTH-THEO-001",
+    "brand": "The ordinary",
+    "name": "Vit c suspension 30% in silicone",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1775775036/rnzqwoetd4wfvgtz4zjh.jpg",
+    "ingredients": "",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 3500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ]
+  },
+  {
+    "id": "OT-OTH-PAU-001",
+    "brand": "Paula's choice",
+    "name": "Exfoloate 2% BHA salicylic acid",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1775774874/n2fovbcmw8nsgfzidk0d.jpg",
+    "ingredients": "",
+    "country": "Other",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "118 ml",
+    "price": {
+      "min": 9800,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام"
+    ]
   }
 ]
