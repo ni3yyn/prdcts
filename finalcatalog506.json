@@ -6164,11 +6164,15 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "65",
     "ingredients": "ماء, الجلسرين, شمع النحل, البانثينول (برو-فيتامين B5), فيتامين C (حمض الأسكوربيك النقي), الزيت المعدني, عطر, أكسيد الزنك",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768744130/zop9gczz2karixrykojw.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
