@@ -9395,5 +9395,30 @@
       "تقشير لطيف",
       "تنقية المسام"
     ]
+  },
+  {
+    "id": "TR-SHA-BIOXI-001",
+    "brand": "Bioxine",
+    "name": "Bioxine",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1776075393/gbzycncie4znxbmcrhgp.jpg",
+    "ingredients": "",
+    "country": "Turkey",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "300 ml",
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "damaged_hair"
+    ],
+    "marketingClaims": [
+      "تكثيف الشعر"
+    ]
   }
 ]
