@@ -8030,7 +8030,9 @@
     },
     "quantity": "150 ml",
     "price": null,
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة جافة"
+    ],
     "marketingClaims": [
       "sulfate_free"
     ]
