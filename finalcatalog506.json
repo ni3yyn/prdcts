@@ -333,7 +333,9 @@
     "quantity": "400 ml",
     "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Hydrolyzed Keratin, Glycine, Panthenol, Prunus Serrulata Flower Extract, Prunus Armeniaca Kernel Oil, Disodium Cocoamphodiacetate, Glycol Distearate, Citric Acid, Sodium Benzoate, PEG-7 Glyceryl Cocoate, Cocamide MEA, Dimethicone, Laureth-4, PEG-40 Hydrogenated Castor Oil, Parfum Guar Hydroxypropyltrimonium Chloride, Hydrogenated Castor Oil, PEG-120 Methyl Glucose Dioleate, Glycerin, Hexyl Cinnamal, Limonene, Butylphenyl Methylpropional, Propylene Glycol, Laureth-23-Linalool, CI 60730, CI 17200",
     "image": "https://images.openbeautyfacts.org/images/products/401/510/018/4587/front_de.4.400.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف عميق"
+    ],
     "price": null,
     "targetTypes": []
   },
