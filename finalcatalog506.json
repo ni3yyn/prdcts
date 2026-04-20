@@ -5228,8 +5228,15 @@
     "ingredients": "ماء, بولي ديسين مهدرج, زيت اللوز الحلو, زيت الأرغان, زبدة الشيا, زيت الخروع, عطر, بنزوات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772217110/p3hisoz4z7zx7hkjpoqe.jpg",
     "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "FR-SHA-KLO-002",
@@ -5498,7 +5505,7 @@
     "marketingClaims": [],
     "price": {
       "min": 380,
-      "max": 380,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -5547,11 +5554,15 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "50ml",
     "ingredients": "ماء, الجلسرين, حمض الستياريك, ثاني أكسيد التيتانيوم، بروبيلين غليكول, بانثينول (بروفيتامين B5), صمغ الزانثان, كحول السيتيل, ثلاثي إيثانولامين (TEA), رباعي الصوديوم EDTA, حمض الستريك, مستخلص الألوفيرا, أفوبينزون, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), فينوكسي إيثانول",
     "image": "https://laplace7.dz/public/uploads/all/JfUe9XZYDev1Use5MWKOxVJdm9wtN5YrcP7stTEx.webp",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 700,
+      "max": 700,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5691,7 +5702,11 @@
     "ingredients": "ماء, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), كربونات ثنائي الكابريليل, داي إيثيل أمينو هيدروكسي بنزويل هيكسيل بنزوات (DHHB), إيثيل هكسيل تريازون (أوفينول T 150), أوكتوكريلين, ثنائي بروبيلين جلايكول, ثنائي هيبتانوات نيوبنتيل جلايكول, سيكلوهكساسيلوكسان (D6), إيثانول, أمونيوم أكريلويل دايميثيل تورات/بيهينيث-25 ميثاكريليت كروسبوليمر, سيكلوبنتاسيلوكسان (D5), كلورفينيسين, فينوكسي إيثانول, هيدروكسيد الصوديوم, بي إتش تي (BHT), ثنائي الصوديوم EDTA, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772400571/mhp4yk0r8dliw1bc62dm.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1900,
+      "max": 1900,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5969,12 +5984,21 @@
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
-    "quantity": "null",
+    "quantity": "200ml",
     "ingredients": "ماء, الجلسرين, بيوتيلين جلايكول, سينتيلا أسياتيكا (عشبة النمر), 1،2-هيكسانيديول, صمغ السليلوز, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772172087/pxtvhcoi8lk9wk8zpkqt.jpg",
     "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 3200,
+      "max": 3200,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "KR-SSE-SKI-003",
@@ -6175,7 +6199,9 @@
       "max": 350,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SHA-DERM-001",
@@ -6322,7 +6348,11 @@
     "ingredients": "ماء, كوكو جليسيرين بروبيل, الجلسرين, كوكو جلوكوسايد, حمض الساليسيليك, حمض السيتريك, عطر, ألكيل بولي غليكوزيد",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769768746/crtmptqpw5oqdz9tlwxq.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6778,10 +6808,18 @@
     "ingredients": "ماء, بولي أكريلات الصوديوم, بولي ديسين مهدرج, ترايديسيث-6, زيت اللوز الحلو, زيت الجوجوبا, فينوكسي إيثانول, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769875681/m8keu1pavg1xhmge3hyr.jpg",
     "marketingClaims": [
-      "moisturizing"
+      "moisturizing",
+      "مرطب للبشرة"
     ],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "OT-SUN-LAR-002",
@@ -6861,10 +6899,14 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "150ml",
     "ingredients": "ماء, حمض الساليسيليك, كوكو جلوكوسايد, أكريلات/C10-30 ألكيل أكريليت كروسبوليمر-1, الجلسرين, آلانتوين, توكوفيرول (فيتامين E النقي), البانثينول (برو-فيتامين B5), ميثيل أيزوثيازولينون (MIT), كلورو ميثيل ايزوثيازولينون",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769360798/jo12uift52qsaoijfis9.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مهدئ",
+      "تنظيف لطيف"
+    ],
     "price": {
       "min": 1400,
       "max": 1400,
@@ -6872,7 +6914,8 @@
     },
     "targetTypes": [
       "بشرة مختلطة",
-      "بشرة دهنية"
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
     ]
   },
   {
@@ -7832,8 +7875,15 @@
       "icon": "sink"
     },
     "quantity": "150 ml",
-    "price": null,
-    "targetTypes": [],
+    "price": {
+      "min": 360,
+      "max": 360,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ],
     "marketingClaims": []
   },
   {
@@ -9337,10 +9387,10 @@
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
-    "quantity": "null",
+    "quantity": "30 ml",
     "price": {
       "min": 85,
-      "max": null,
+      "max": 850,
       "currency": "DZD"
     },
     "targetTypes": [
