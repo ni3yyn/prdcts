@@ -111,7 +111,7 @@
     ],
     "price": {
       "min": 250,
-      "max": 250,
+      "max": 1000,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -3316,7 +3316,11 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5194,7 +5198,11 @@
     "ingredients": "ماء, الجلسرين, الزيت المعدني, ميريستات الميريستيل, شمع مايكروكريستالين, سيتريل أوليفات, حمض الأراكيديك, توكوفيرول (فيتامين E النقي), كحول السيتريل, حمض الستياريك, سيتريل غلوكوزيد, لينالول, سيترونيلول, ليمونين, فينوكسي إيثانول, هيدروكسي إيثيل أكريلات/صوديوم أكريلويل دايميثيل توريت كوبوليمر, هيدروكسيد الصوديوم, كاربومير, ساليسيلات الصوديوم, كحول بنزيلي, جيرانيول, يوجينول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768669081/qqke1ikcndyabgqp9ovo.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5844,11 +5852,15 @@
       "label": "مقشر / سكراب",
       "icon": "cookie"
     },
-    "quantity": "null",
+    "quantity": "150",
     "ingredients": "ماء, حمض الجليكوليك, مستخلص الألوفيرا, البانثينول (برو-فيتامين B5), آلانتوين, الجلسرين, ثلاثي إيثانولامين (TEA), اليوريا, بروبيلين جلايكول, بوليسوربات 20, فينوكسي إيثانول, إيثيل هكسيل غليسرين",
     "image": "https://saascom.shop/storage/affluence-cosmetique/products/01KHSAXFE2BWXS0KEA59WNRBRX.jpeg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5984,13 +5996,15 @@
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
-    "quantity": "200ml",
+    "quantity": "100ml",
     "ingredients": "ماء, الجلسرين, بيوتيلين جلايكول, سينتيلا أسياتيكا (عشبة النمر), 1،2-هيكسانيديول, صمغ السليلوز, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772172087/pxtvhcoi8lk9wk8zpkqt.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مهدئ"
+    ],
     "price": {
       "min": 3200,
-      "max": 3200,
+      "max": 3800,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -6082,7 +6096,11 @@
     "ingredients": "ماء أوراق سنتيلا أسياتيكا, النياسيناميد (فيتامين B3), بيوتيلين جلايكول, 1،2-هيكسانيديول, ثنائي بروبيلين جلايكول, ماء, ميثيل جلوكيث-20, ميثيل بروبانيديول, البيتين, حمض الترانيكساميك, الجلسرين, بنتيلين غليكول (1،5-بنتانيديول), بروبانيديول, هيدروكسي إيثيل يوريا, مستخلص ثمار التين, سينتيلا أسياتيكا (عشبة النمر), ليسيثين مهدرج, حمض الهيالورونيك, كاربومير 940, إيثيل أسكوربيل إيثر, كوبوليمر أمونيوم أكريلويل ديميثيل تورات/في بي, صمغ الزانثان, تروميثامين, بانثينول (بروفيتامين B5), إيثيل هكسيل غليسرين, أدينوسين, ثنائي الصوديوم EDTA, فركت أوليجو سكاريدات, بيتا جلوكان, فيتامين C (حمض الأسكوربيك النقي), حمض الهيالورونيك المهدرج, سيراميد NP (سيراميد 3), ألفا أربوتين, توكوفيرول (فيتامين E النقي), خميرة بيفيدا, بيسابولول, مرافق الإنزيم Q10, أيديبينون, هيالورونات الصوديوم الأسيتيلية",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772171921/ogxqlez3owzgn4v5qtdd.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 5400,
+      "max": 5400,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6143,7 +6161,11 @@
     "ingredients": "ماء, كاولين (طين أبيض), ثنائي بروبيلين جلايكول, الجلسرين, CI 77891 (ثاني أكسيد التيتانيوم), بيوتيلين جلايكول, ستيرات الصوديوم, سينتيلا أسياتيكا (عشبة النمر), 1،2-هيكسانيديول, مستخلص الألوفيرا, سيتريل أوليفات, بروبانيديول, سوربيتان أوليفات, دايميثيكون, أكاسيد الحديد (عام), إيثيل هكسيل غليسرين, فيتات الصوديوم, طين (كاولين/بنتونيت), طين الإيليت (الطين الأخضر الفرنسي), أملاح معدنية, طين المونتموريلونيت",
     "image": "https://www.beautifydz.com/cdn/shop/files/quick1.webp?v=1732959106&width=600",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 3200,
+      "max": 3200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6160,7 +6182,11 @@
     "ingredients": "ماء, كحول السيتريل, الكولاجين المهدرج, الفازلين (بترولاتوم), شمع النحل, الجلسرين, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), ريتينول, البانثينول (برو-فيتامين B5), عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768744240/j8i72lxckr6tdsy7zikk.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6331,7 +6357,11 @@
     "ingredients": "ماء, كحول السيتريل, جليسريل ستيرات, الجلسرين, زبدة الشيا, سيتاريث-20, أوكتينوكسات, ثنائي بوتيل أديبات, كوكو-كابريلات, أونديكان, ترايدكان, النياسيناميد (فيتامين B3), حمض الأوليك (أوميغا 9), أكسيد الزنك, زيت اللوز الحلو, زيت جوز الهند, توكوفيرول (فيتامين E النقي), فينوكسي إيثانول, أكاسيد الحديد",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769768467/tssst2o7ndt5xkzriqep.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 850,
+      "max": 850,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6515,7 +6545,11 @@
     "ingredients": "ماء, أوكتوكريلين, يوفينول تي 150, أفوبينزون, أوليات الديسيل, أكسيد الزنك, ثلاثي جليسريد الكابريليك/الكابريك, كحول السيتيل, سيتاريث-20, النياسيناميد (فيتامين B3), حمض الهيالورونيك, سينتيلا أسياتيكا (عشبة النمر), توكوفيرول (فيتامين E النقي), فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768859825/s8c3avtq1yb5inecf5sx.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 800,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6532,7 +6566,11 @@
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, الجلسرين, كحول اللانولين, جليسريل ستيرات, زيت دوار الشمس, حمض اللاكتيك, ستيرات PEG-100, ستيرات السوربيتان, حمض الساليسيليك, دايميثيكون, كحول البوليفينيل (PVA), صمغ الزانثان, ميثيل بارابين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768859759/u8h9cpz295o5olm7orgw.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6658,7 +6696,11 @@
       "sun_protection",
       "حماية واسعة الطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 800,
+      "max": 800,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6949,7 +6991,11 @@
     "ingredients": "ماء, حمض الستياريك, شمع النحل, ميريستات الأيزوبروبيل, زيت جوز الهند, أكسيد الزنك, توكوفيرول (فيتامين E النقي), يوفينول أ بلس, آلانتوين, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771943438/uw1xozirncla9zf4wb3q.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7019,7 +7065,11 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7036,7 +7086,11 @@
     "ingredients": "الجلسرين, مستخلص الألوفيرا",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772134252/hoinb3fhrdgkobqn6itu.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7557,7 +7611,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9276,8 +9334,8 @@
     },
     "quantity": "90 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 350,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": [
