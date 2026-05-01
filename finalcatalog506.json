@@ -9532,5 +9532,33 @@
     "marketingClaims": [
       "تكثيف الشعر"
     ]
+  },
+  {
+    "id": "DZ-CLE-MAS-001",
+    "brand": "Massilia",
+    "name": "Massilia gel moussant anti acne",
+    "image": "",
+    "ingredients": "ماء، صوديوم لوريث سولفات، كوكوغليكوزيد، غليسرين، كوكاميدو بروبيل بيتائين، ثنائي صوديوم لوريث سيلفوسيكسينات، حمض الساليسيليك (1٪)، كلوريد الصوديوم، فينوكسي ايثانول، هيدروكسيد الصوديوم، عطر",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "combination_skin"
+    ],
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ]
   }
 ]
