@@ -131,8 +131,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": null,
-      "max": null,
+      "min": 250,
+      "max": 250,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -9559,6 +9559,33 @@
       "تقشير لطيف",
       "تنقية المسام",
       "مضاد لحب الشباب"
+    ]
+  },
+  {
+    "id": "DZ-SUN-QOT-001",
+    "brand": "Qoton",
+    "name": "créme solaire",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1777819771/e6zh2sppjt9afx6p5vqh.jpg",
+    "ingredients": "eau_glycerin_caprylic capric_EDTA_LHA_niacinamide_acide hayluronic_vitamine E_ benzoate de sodium",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 900,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
     ]
   }
 ]
