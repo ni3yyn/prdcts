@@ -9587,5 +9587,33 @@
       "توحيد لون البشرة",
       "مضاد للأكسدة"
     ]
+  },
+  {
+    "id": "TR-LOT-MARU-001",
+    "brand": "Maruderm dz",
+    "name": "Crème anti age pour visage",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1777887492/bvsbtkwwwvljzej1tdco.jpg",
+    "ingredients": "",
+    "country": "Turkey",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 2600,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف",
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين"
+    ]
   }
 ]
