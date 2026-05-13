@@ -5656,7 +5656,10 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1770393770/ij3eypmnagjjylq6uogh.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة معرضة للحبوب"
+    ]
   },
   {
     "id": "DZ-XXX-VENU-001",
@@ -9614,6 +9617,61 @@
       "ترطيب مكثف",
       "مكافحة التجاعيد",
       "تحفيز الكولاجين"
+    ]
+  },
+  {
+    "id": "OT-OTH-ABI-001",
+    "brand": "Abib",
+    "name": "Abib PDRN Retinal Eye Patch (Glow Jelly)",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1778683176/o6tkofpnx3cqlpgl6hrb.jpg",
+    "ingredients": "Water, Glycerin, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Sodium DNA (PDRN), Retinal, Adenosine, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, SodiumAcetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Collagen Extract, Panthenol, Allantoin, Caffeine, Tocopherol, Caprylic/Capric Triglyceride, Propanediol, Hydrogenated Lecithin, Polyglyceryl-10 Laurate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Vinyl Dimethicone, Glyceryl Stearate, Polyacrylate-13, Polyisobutene, Sorbitan Isostearate, Maltodextrin, Ethylhexylglycerin, Disodium EDTA.",
+    "country": "Other",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "105 g",
+    "price": {
+      "min": 4500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد"
+    ]
+  },
+  {
+    "id": "DZ-SUN-ABUS-001",
+    "brand": "ABUSAAD Spray",
+    "name": "ABUSAAD Spray Extrême 90",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1778624182/x7jwzsny646jo7e87gue.jpg",
+    "ingredients": "",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "180 ml",
+    "price": {
+      "min": 670,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "normal_skin",
+      "dry_skin"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مقاوم للماء",
+      "حماية واسعة الطيف",
+      "مضاد للأكسدة"
     ]
   }
 ]
