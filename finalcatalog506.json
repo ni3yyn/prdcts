@@ -5697,7 +5697,9 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1770392844/ofsln6mcz3lajz2n7bnj.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "FR-SUN-ACM-002",
@@ -7011,11 +7013,15 @@
       "label": "آخر",
       "icon": "shopping-bag"
     },
-    "quantity": "null",
+    "quantity": "30ml",
     "ingredients": "ماء, بنزوات الصوديوم, صمغ الزانثان, الجلسرين, بولي ستيرات السكروز, بالميتات السيتيل, صوديوم ستيرويل جلوتامات, زبدة الشيا, فيتامين C (حمض الأسكوربيك النقي), جليسريدات نباتية مهدرجة, كحول السيتريل, ثلاثي جليسريد الكابريليك/الكابريك, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768690795/zbz6dusjdefbti5aqwow.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -8108,7 +8114,11 @@
       "icon": "sink"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
