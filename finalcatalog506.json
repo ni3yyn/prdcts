@@ -6706,7 +6706,10 @@
       "max": 800,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
   },
   {
     "id": "US-CLE-NEU-002",
