@@ -5368,7 +5368,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "500",
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), الجلسرين, كوكاميدوبروبيل بيتين (CAPB), حمض الهيالورونيك, منثول, الكولاجين المهدرج, كلوريد الصوديوم, فينوكسي إيثانول, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772116691/siaeowmtgedli5uk1trk.jpg",
     "marketingClaims": [],
@@ -5377,7 +5377,9 @@
       "max": 600,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   },
   {
     "id": "DZ-XXX-PROD-004",
@@ -5732,7 +5734,7 @@
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
-    "quantity": "null",
+    "quantity": "30ml",
     "ingredients": "ماء, حمض الجليكوليك, الجلسرين, مستخلص الألوفيرا, بروبيلين غليكول, فينوكسي إيثانول, إيثيل هكسيل غليسرين, بانثينول (بروفيتامين B5), ثلاثي إيثانولامين (TEA)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772215063/zpvapjuqhivdbtszcecq.jpg",
     "marketingClaims": [],
@@ -6358,12 +6360,12 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "50 ml",
     "ingredients": "ماء, كحول السيتريل, جليسريل ستيرات, الجلسرين, زبدة الشيا, سيتاريث-20, أوكتينوكسات, ثنائي بوتيل أديبات, كوكو-كابريلات, أونديكان, ترايدكان, النياسيناميد (فيتامين B3), حمض الأوليك (أوميغا 9), أكسيد الزنك, زيت اللوز الحلو, زيت جوز الهند, توكوفيرول (فيتامين E النقي), فينوكسي إيثانول, أكاسيد الحديد",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769768467/tssst2o7ndt5xkzriqep.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 850,
+      "min": 800,
       "max": 850,
       "currency": "DZD"
     },
@@ -8100,7 +8102,11 @@
       "icon": "sink"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
