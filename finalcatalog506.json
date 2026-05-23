@@ -156,7 +156,9 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "OT-SCR-THE-001",
@@ -1279,7 +1281,11 @@
     "ingredients": "Aqua / Water, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Sodium Chloride, PEG-7 Glyceryl Cocoate, CI 47005 / Acid Yellow 3, Caramel, Sodium Chloride, Sodium Benzoate, Sodium Methylparaben, Salicylic Acid, Polysorbate 20, Hexylene Glycol, Ethylparaben, Polyquaternium-10, Parfum / Fragrance, (F.I.L C28081/1)",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/045/4055/front_fr.7.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -8104,7 +8110,7 @@
     "quantity": "250 ml",
     "price": {
       "min": 350,
-      "max": 350,
+      "max": 400,
       "currency": "DZD"
     },
     "targetTypes": [],
@@ -8229,7 +8235,10 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ]
   },
   {
     "id": "DZ-SUN-VEN-004",
