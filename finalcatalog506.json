@@ -5524,7 +5524,9 @@
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-XXX-GRA-001",
