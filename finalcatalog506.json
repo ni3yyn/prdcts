@@ -5964,7 +5964,11 @@
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.goldencos.com/wp-content/uploads/2025/03/image_viber_2025-03-25_12-16-50-861.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -8306,7 +8310,11 @@
       "icon": "sun"
     },
     "quantity": "50 ml",
-    "price": null,
+    "price": {
+      "min": 650,
+      "max": 650,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
