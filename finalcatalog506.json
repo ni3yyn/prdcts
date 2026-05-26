@@ -5400,9 +5400,15 @@
     "quantity": "null",
     "ingredients": "ماء, الجلسرين, بارافين سائل (زيت معدني), كحول السيتريل, غليسيريل مونوستيرات (GMS), حمض الستياريك, سيتاريث-20, دايميثيكون, فينوكسي إيثانول, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772117794/wxwaloyzk6ijnjllmqsw.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "للبشرة الجافة",
+      "مرطب للبشرة"
+    ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
   },
   {
     "id": "OT-SUN-HEL-002",
@@ -7603,7 +7609,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7620,7 +7630,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7658,7 +7672,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": [
       "paraben_free"
@@ -7677,7 +7695,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7711,7 +7733,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7728,7 +7754,11 @@
       "icon": "bath"
     },
     "quantity": "240 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8240,7 +8270,9 @@
       "max": 400,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة دهنية"
+    ],
     "marketingClaims": [
       "حماية من الشمس",
       "توحيد لون البشرة"
