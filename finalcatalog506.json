@@ -1005,7 +1005,11 @@
     "ingredients": "Water, Cetearyl alcohol, Mineral oil, Guar hydroxypropyltrimonium chloride, Sodium benzoate, Sodium hydroxide, Hydroxycitronellal, Behentrimonium chloride, Ethylhexyl salicylate, Trideceth-6, Salicylic acid, xylose, Fumaric acid, Limonene, Linalool, Benzyl Benzoate, Benzyl alcohol, Amodimethicone, Isopropyl alcohol, Cetrimonium chloride, Citronellol, Hexyl Cinnamal, Glycerin, Glycolic acid, Fragrance",
     "image": "https://images.openbeautyfacts.org/images/products/361/034/067/3887/front_en.4.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1282,7 +1286,7 @@
     "image": "https://images.openbeautyfacts.org/images/products/360/055/045/4055/front_fr.7.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 1300,
+      "min": 1200,
       "max": 1300,
       "currency": "DZD"
     },
@@ -3071,7 +3075,11 @@
     "ingredients": "Aqua, Cetyl Alcohol, PPG-15 Stearyl Ether, Cellulose, Glycerin, Polysorbate 60, Salicylic Acid, Steareth-21, Menthyl Lactate, Potassium Cetyl Phosphate, Xanthan Gum, Disodium EDTA, Sodium Hydroxide, BHT, Parfum.",
     "image": "https://images.openbeautyfacts.org/images/products/357/466/124/4839/front_fr.7.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5323,7 +5331,11 @@
     "ingredients": "ماء, كوبوليمر الأكريلات, كحول البوليفينيل (PVA), ثنائي بوتاسيوم غليسيريزات, الجلسرين, مسحوق الفحم المنشط, عطر, CI 77891 (ثاني أكسيد التيتانيوم)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771940385/leddy0kinjbj7loq9rzm.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5843,7 +5855,11 @@
     "ingredients": "صوديوم لوريث سلفات (SLES), مستخلص القرنبيط, مستخلص الكرنب والقرنبيط, مستخلص الكركم, مستخلص زهور البابونج الألماني, مستخلص الخبيزة, مستخلص نواة الشوفان, زيت شجرة الشاي العطري, الجلسرين, كوكاميدوبروبيل بيتين (CAPB), بروبيلين جلايكول, حمض الساليسيليك, النياسيناميد (فيتامين B3), ميريستات الأيزوبروبيل, ليمونين, ماء",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771936528/ewt7drko5qbtac8eatbx.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6302,7 +6318,11 @@
     "ingredients": "ماء، كحول بنزيلي, ميريستات الأيزوبروبيل, زيت دوار الشمس, بارافين (شمع صلب), ليمونين, لينالول, سيترال, جيرانيول, يوجينول, أيزويوجينول, فارنيسول, بوتيل فينيل ميثيل بروبيونال (ليليال), هيدروكسي سيترونيلال, ألفا-أيزو ميثيل أيونون, كومارين, أميل سينامال, بنزيل ساليسيلات, سينامال, بنزيل بنزوات",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772374199/nzfnfh5srpobw42s48dh.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 650,
+      "max": 650,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6629,7 +6649,11 @@
     "ingredients": "ماء, الجلسرين, النياسيناميد (فيتامين B3), بيوتيلين جلايكول, 1،2-هيكسانيديول, إيثيل أسكوربيل إيثر, البيتين, أربوتين, مستخلص بذور الكاكاو, مرشح خميرة السكاروميسيس, مستخلص جذور عرق السوس, مستخلص جذور القتاد, حمض الهيالورونيك, إيثيل هكسيل غليسرين, بولي أكريلات الجليسريل, كاربومير, تروميثامين, ثلاثي صوديوم إيثيلين ديامين ديسكسينات, دكسترين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772132903/z5a5xurmkinrl6cxcskm.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7533,7 +7557,11 @@
       "icon": "sink"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8499,7 +8527,11 @@
       "icon": "leaf"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
