@@ -175,8 +175,8 @@
     "image": "https://images.openbeautyfacts.org/images/products/502/819/757/8770/front_fr.11.400.jpg",
     "marketingClaims": [],
     "price": {
-      "min": null,
-      "max": null,
+      "min": 750,
+      "max": 750,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -7102,7 +7102,11 @@
     "ingredients": "ماء, الجلسرين, كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, فينوكسي إيثانول, كلوريد الصوديوم, بانثينول (بروفيتامين B5), البيوتين (فيتامين B7), جلايكول, الكولاجين المهدرج, حمض الهيالورونيك",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772022179/kthjcvea4k7jzk68kqxf.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
