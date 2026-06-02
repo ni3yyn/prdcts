@@ -5114,7 +5114,11 @@
     "ingredients": "ماء, اليوريا, بروتين الأرز المهدرج, صوديوم PCA, ديجليسرين, سوربيتول, لايسين, PPG-26-بوتيث-26, حمض اللاكتيك, عصير الألوفيرا, فينوكسي إيثانول, إيثيل هكسيل جليسرين, حمض السيتريك, ثنائي الصوديوم EDTA, عطر, زيت الخروع المهدرج, PCA (حمض البيروليدون الكربوكسيلي), آلانتوين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769014654/zkuieumwm3bmnxb0tscb.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
