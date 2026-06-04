@@ -5115,7 +5115,7 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769014654/zkuieumwm3bmnxb0tscb.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 450,
+      "min": 400,
       "max": 450,
       "currency": "DZD"
     },
@@ -7344,7 +7344,11 @@
       "icon": "pump-soap"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8203,7 +8207,7 @@
     "quantity": "250 ml",
     "price": {
       "min": 400,
-      "max": 400,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": [],
