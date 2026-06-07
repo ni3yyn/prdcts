@@ -910,7 +910,11 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 2000,
+      "max": 2000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -929,7 +933,11 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5237,7 +5245,11 @@
     "ingredients": "ماء, كحول السيتريل, الجلسرين, سيترات الصوديوم, كحول السيتيل, حجر الخفاف, زبدة الشيا, دايميثيكون, إيميدازوليدينيل يوريا, عطر, سيليكا, حمض الستريك, كلوريد المغنيسيوم, كومارين",
     "image": "https://adibabeauty.com/cdn/shop/files/20962AAD-A475-4370-BED8-3E30E13AEADE.png?v=1713690040&width=1200",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5860,7 +5872,7 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771936528/ewt7drko5qbtac8eatbx.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 400,
+      "min": 300,
       "max": 400,
       "currency": "DZD"
     },
