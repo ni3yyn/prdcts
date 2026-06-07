@@ -9799,5 +9799,60 @@
       "حماية واسعة الطيف",
       "مضاد للأكسدة"
     ]
+  },
+  {
+    "id": "DZ-HSE-TOP-001",
+    "brand": "Top Magic",
+    "name": "Top Magic sérum anti-frizz",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1779756311/gpnxqkwratnfyrsytxfq.jpg",
+    "ingredients": "",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "80 ml",
+    "price": {
+      "min": 360,
+      "currency": "DZD",
+      "max": null
+    },
+    "targetTypes": [
+      "damaged_hair"
+    ],
+    "marketingClaims": [
+      "تغذية الشعر",
+      "تنعيم الشعر",
+      "إصلاح الشعر المتضرر"
+    ]
+  },
+  {
+    "id": "FR-OTH-CER-001",
+    "brand": "CeraVe",
+    "name": "CeraVe Hydrating Toner",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1780140792/hzusch6oqcrymxujm8fz.jpg",
+    "ingredients": "",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 300,
+      "currency": "DZD",
+      "max": null
+    },
+    "targetTypes": [
+      "normal_skin",
+      "dry_skin"
+    ],
+    "marketingClaims": [
+      "توازن الحموضة",
+      "مرطب للبشرة",
+      "تنقية المسام"
+    ]
   }
 ]
