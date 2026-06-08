@@ -9854,5 +9854,35 @@
       "مرطب للبشرة",
       "تنقية المسام"
     ]
+  },
+  {
+    "id": "KR-CLE-ARE-001",
+    "brand": "Arencia",
+    "name": "Fresh Rice Green Mochi Cleanser",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1780892248/k0dozuudjhdbq6v3pguh.jpg",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, Sodium Cocoyl Glycinate, 1,2-Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Oryza Sativa (Rice) Powder, Fragrance, Kaolin, Sodium Isethionate, Camellia Sinensis Leaf Powder, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Sodium Chloride, Dextrin, Ethylhexylglycerin, Gardenia Florida Fruit Extract, Camellia Sinensis Leaf Extract, Adansonia Digitata Fruit Extract, Artemisia Princeps Leaf Extract, Avena Sativa (Oat) Kernel Extract, Caulerpa Lentillifera Extract, Centella Asiatica Extract, Chamomilla Recutita (Matricaria) Flower Extract, Coffea Arabica (Coffee) Seed Extract, Eucalyptus Globulus Leaf Extract, Ficus Carica (Fig) Fruit Extract, Glycyrrhiza Uralensis (Licorice) Extract, Hamamelis Virginiana (Witch Hazel) Extract, Hyssopus Officinalis Extract, Lycium Chinense Fruit Extract, Melaleuca Alternifolia (Tea Tree) Extract, Nelumbo Nucifera Leaf Extract, Oryza Sativa (Rice) Extract, Panax Ginseng Root Extract, Portulaca Oleracea Extract, Saururus Chinensis Extract, Solanum Melongena (Eggplant) Fruit Extract.",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "120 g",
+    "price": {
+      "min": 4500,
+      "currency": "DZD",
+      "max": ""
+    },
+    "targetTypes": [
+      "combination_skin",
+      "oily_skin"
+    ],
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف عميق",
+      "تنقية المسام",
+      "تقشير لطيف",
+      "للبشرة الدهنية"
+    ]
   }
 ]
