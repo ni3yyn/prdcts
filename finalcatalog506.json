@@ -6687,7 +6687,9 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768763815/iktbwnstdu1yb5r2tsms.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   },
   {
     "id": "OT-XXX-BIOL-001",
@@ -7185,8 +7187,14 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   },
   {
     "id": "OT-CLE-BIOV-001",
