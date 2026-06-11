@@ -1868,7 +1868,11 @@
     "ingredients": "Aqua / Water, Sodium Laureth Sulfate, Citric Acid, Cocamidopropyl Betaine, Glycerin, Ammonium Hydroxide, Sodium Chloride, Alcohol, Eucalyptus Globulus Leaf Extract, Sodium Benzoate, Sodium Acetate, Sodium Hydroxide, Polyquaternium-10, Salicylic Acid, Maltodextrin, Limonene, Camellia Sinensis Leaf Extract, Lamium Album Flower / Leaf / Stem Extract, Linalool, Isopropyl Alcohol, Aloe Barbadensis Leaf Juice Powder, Lippia Citriodora Leaf Extract, Citrus Limon Fruit Extract / Lemon Fruit Extract, Citral, Potassium Sorbate, Hexylene Glycol, Hexyl Cinnamal, Parfum / Fragrance (F.I.L C192315/2)",
     "image": "https://images.openbeautyfacts.org/images/products/360/054/118/7825/front_fr.12.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5985,7 +5989,11 @@
     "ingredients": "ماء, الجلسرين, كحول السيتريل, ترايميثيل سيلوكسي فينيل دايميثيكون, بي جي/بي بي جي-20/20 فينيل أيزوبروبيل كابريليل دايميثيكون, كلوريد سيتريمونيوم, سيتاريث-20, غليسيريل مونوستيرات (GMS), ميريستات الأيزوبروبيل, زيت الأفوكادو, زبدة الشيا, عطر, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, ترايديسيث-5, كحول بنزيلي, بي بي جي-2 ميثيل إيثر, برونوبول, أيودوبروبينيل بوتيل كاربامات",
     "image": "https://adibabeauty.com/cdn/shop/files/8ED87752-D387-4693-B5DF-AC7A51E6CE4C.jpg?v=1756498092&width=1200",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
