@@ -8463,7 +8463,9 @@
     },
     "quantity": "200 ml",
     "price": null,
-    "targetTypes": [],
+    "targetTypes": [
+      "شعر دهني"
+    ],
     "marketingClaims": []
   },
   {
