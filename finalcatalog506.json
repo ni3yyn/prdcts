@@ -1127,7 +1127,11 @@
     "ingredients": "Eau, glycérine, palmitate d'isopropyle (isopropyl palmitate), alcool cétéarylique (cetearyl alcohol), propanediol, glyceril stearate, diméthicone, esters de cétyle, huile d'amande douce (Prunus amygdalus dulcis), huile de noyau d'abricot (Prunus armeniaca), beurre de karité (Butyrospermum parkii), allantoïne, PEG-100 stearate, ammonium polyacryloyldimethyl taurate, hydroxyacetophenone, caprylyl glycol, acide citrique, gomme xanthane, parfum (FIL Z280662/1).",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/102/0419/front_en.21.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 2300,
+      "max": 2300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1185,7 +1189,11 @@
     "ingredients": "Eau, Glycérine, Petrolatum, Paraffine, Niacinamide, Glyceryl Stearate, Alcool cetyl, PEG40 stearate, beurre parkii butyrospermum, Palmitate cetyl, diméthicone, palmitate ascorbyl, chlorhexidine digluconate, acide citrique, huile de graine de coriandre, huile de graine d'echium plantagineum, huile de soja, panthenol, huile de noyau de prune armenienne, huile de noyau d'abricot, huile de graine de ribes negrum, huile de graine de cassis, sorbitan tristearate, tocopherol",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/089/3687/front_fr.4.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1400,
+      "max": 1400,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1352,7 +1360,11 @@
     "ingredients": "AQUA / WATER. GLYCERIN, PETROLATUM, PARAFFINUM LIQUIDUM / MINERAL OIL, GLYCERYL STEARATE, CETHYL ALCOHOL, PEG-40 STEARATE, CERA ALBA / BEESWAX, CETHYL PALMITATE, DIMETHICONE, SORBITAN TRISTEARATE,  PHENOXYETHANOL, CHLORHEXIDINE DlGLUCONATE, CITRIC ACID. (F.I.L B163038/1).",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/031/5479/front_fr.10.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -4468,7 +4480,11 @@
     "marketingClaims": [
       "للبشرة الجافة"
     ],
-    "price": null,
+    "price": {
+      "min": 1100,
+      "max": 1100,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -4489,7 +4505,11 @@
       "anti_aging",
       "moisturizing"
     ],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
