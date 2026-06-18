@@ -534,7 +534,11 @@
     "ingredients": "AQUA, GLYCERIN, SODIUM LAURETH SULFATE, CAPRYLYL/CAPRYL GLUCOSIDE, PEG-7 GLYCERYL COCOATE, SODIUM COCOYL GLUTAMATE, SODIUM COCOAMPHOACETATE, PARFUM (FRAGRANCE), LAURETH-2, PEG/PPG-120/10 TRIMETHYLOLPROPANE TRIOLEATE, CITRIC ACID, SODIUM BENZOATE, SODIUM CHLORIDE, POLYQUATERNIUM-10, COCO-GLUCOSIDE, GLYCERYL OLEATE, SODIUM ACETATE.",
     "image": "https://images.openbeautyfacts.org/images/products/366/143/400/5879/front_fr.6.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5689,7 +5693,11 @@
     "ingredients": "ماء, سيتريل أوليفات, كلوريد غوار هيدروكسي بروبيل تريمونيوم, كحول سيتوستيريل, amodimethicone, زيت الأفوكادو, مستخلص زبدة الشيا, البانثينول (برو-فيتامين B5), توكوفيرول (فيتامين E النقي), كيراتين, كلورو ميثيل ايزوثيازولينون, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771847746/ibbl3v864erxsgjoiows.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
