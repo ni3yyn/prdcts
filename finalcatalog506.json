@@ -1973,7 +1973,11 @@
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, COCO-BETAINE, GLYCERIN, SODIUM CHLORIDE, CI 14700 / RED 4, COCOS NUCIFERA OIL / COCONUT OIL, SODIUM BENZOATE, HYDROXYCITRONELLAL, SODIUM HYDROXIDE, THEOBROMA CACAO SEED BUTTER / COCOA SEED BUTTER, PEG-60 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, SALICYLIC ACID, BENZYL SALICYLATE, BENZYL ALCOHOL, LINALOOL, CARAMEL, CITRIC ACID, HEXYLENE GLYCOL, HEXYL CINNAMAL, PARFUM / FRAGRANCE. (C55067/1).",
     "image": "https://images.openbeautyfacts.org/images/products/360/054/096/6056/front_fr.5.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -9307,7 +9311,11 @@
       "icon": "droplet"
     },
     "quantity": "40 ml",
-    "price": null,
+    "price": {
+      "min": 1800,
+      "max": 1800,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "oily_skin",
       "combination_skin"
@@ -9349,8 +9357,8 @@
     },
     "quantity": "200 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1800,
+      "max": 1800,
       "currency": "DZD"
     },
     "targetTypes": [],
