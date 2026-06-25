@@ -5679,7 +5679,11 @@
     "ingredients": "ماء, زيت جوز الهند, كوكاميد DEA, الكبريت الغروي, عطر, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771932134/rilfbd6qkdcls9bueuj1.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
