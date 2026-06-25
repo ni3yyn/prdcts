@@ -1523,7 +1523,11 @@
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, COCO-BETAINE, GLYCERIN, GLYCOL DISTEARATE, SODIUM CHLORIDE, MACADAMIA INTEGRIFOLIA SEED OIL, PPG-5-CETETH-20, CARBOMER, SODIUM ACETATE, SODIUM HYDROXIDE, COCOS NUCIFERA FRUIT EXTRACT / COCONUT FRUIT EXTRACT, ISOPROPYL ALCOHOL, CITRIC ACID, XANTHAN GUM, POLYQUATERNIUM-10, POTASSIUM SORBATE, SODIUM BENZOATE, SALICYLIC ACID, LINALOOL, LIMONENE, BENZYL ALCOHOL, BENZYL SALICYLATE, PARFUM / FRAGRANCE (F.I.L C204517/1).",
     "image": "https://images.openbeautyfacts.org/images/products/360/054/207/4858/front_fr.5.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1746,7 +1750,11 @@
     "ingredients": "AQUA / EAU, SODIUM LAURETH SULFATE, GLYCERIN, PERLITE, ACRYLATES COPOLYMER, COCO-BETAINE, CI 19140 / YELLOW 5, CI 14700 / RED 4, COCAMIDE MEA, MACADAMIA TERNIFOLIA SEED OIL, TOCOPHEROL, SODIUM CHLORIDE, SODIUM BENZOATE, SODIUM HYDROXIDE, PPG-5-CETETH-20, PEG-55 PROPYLENE GLYCOL OLEATE, ARGANIA SPINOSA SHELL POWDER, ARGANIA SPINOSA KERNEL OIL, SALICYLIC ACID, LIMONENE, CAMELLIA OLEIFERA SEED OIL, BENZYL ALCOHOL, LINALOOL, PROPYLENE GLYCOL, PROPYL GALLATE, PARFUM / FRAGANCE, GERANIOL, CARAMEL, ROSA CANINA FRUIT OIL, CITRONELLOL, CITRIC ACID, PRUNUS AMYGDALUS DULCIS OIL / SWEET ALMOND OIL (C195376/1)",
     "image": "https://images.openbeautyfacts.org/images/products/360/054/150/6053/front_fr.8.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -2098,7 +2106,11 @@
     "ingredients": "AQUA / WATER, AMMONIUM LAURYL SULFATE, SODIUM LAURETH SULFATE, KAOLIN, SODIUM CHLORIDE, GLYCERIN, CI 19140 / YELLOW 5, CI 42090 / BLUE 1, SODIUM BENZOATE, SODIUM HYDROXIDE, SALICYLIC ACID, LIMONENE, BENZOIC ACID, LINALOOL, BENZYL SALICYLATE, BENZYL ALCOHOL, ALPHA ISOMETHYL IONONE, ACRYLATES COPOLYMER, CITRIC ACID, CITRUS MEDICA VULGARIS FRUIT EXTRACT, HEXYLENE GLYCOL, HEXYL CINNAMAL, PARFUM / FRAGRANCE, (F.I.L. C167926/1).",
     "image": "https://images.openbeautyfacts.org/images/products/360/054/036/9192/front_fr.6.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -3569,7 +3581,11 @@
       "sun_protection",
       "حماية واسعة الطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 4500,
+      "max": 4500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5699,7 +5715,7 @@
     "marketingClaims": [],
     "price": {
       "min": 350,
-      "max": 350,
+      "max": 550,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -5780,7 +5796,11 @@
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, كلوريد الصوديوم, حمض الأسكوربيك (فيتامين C النقي), توكوفيرول (فيتامين E النقي), زيت اللوز الحلو, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1770392844/ofsln6mcz3lajz2n7bnj.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة مختلطة"
     ]
@@ -6008,7 +6028,11 @@
     "ingredients": "ماء, الجلسرين, كحول السيتريل, سيتاريث-20, زيت الخروع, ميريستات الأيزوبروبيل, كلوريد بيهينتريمونيوم, كلوريد سيتريمونيوم, زيت الأفوكادو, زبدة الشيا, عطر, حمض الستريك, بي إتش تي (BHT), بنزوات الصوديوم, كلوريد غوار هيدروكسي بروبيل تريمونيوم, كلورو ميثيل ايزوثيازولينون, ميثيل إيزوثيازولينون (MI)",
     "image": "https://scontent.falg1-2.fna.fbcdn.net/v/t39.30808-6/489902877_1279711307009696_8069575567161714015_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHZFyUNJc1K_dhyoUE9-srfr4ktwjFALRuviS3CMUAtGxDD9v_gfbRkP4NmocgnieL7WG3Zjjpb0CLgrHGTRQ6E&_nc_ohc=hROnO4MlvqUQ7kNvwHI_cNz&_nc_oc=AdlH2nUcjAqrZlGT-sECyAsAhXLsTTzA3zVdzs7yiUwGhpy1z4FdZzVR7VCdOGoPX1E&_nc_zt=23&_nc_ht=scontent.falg1-2.fna&_nc_gid=uXKrlPIUrFXRnIcLXa_6Jg&_nc_ss=8&oh=00_AfzgmvzZuJsuQ5vttnevR_PCmdvHtW9M8gNXNuhw2qraKQ&oe=69ABB0F1",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6834,7 +6858,11 @@
     "ingredients": "ماء, كحول السيتيل, PPG-15 ستياريلي إيثر, سليلوز, الجلسرين, بوليسوربات 60, ستيريث-21, حمض الساليسيليك, مستخلص الطحلب الأيرلندي, جلوكوز, لاكتات المنثيل, PVP (بولي فينيل بيروليدون), فوسفات سيتيل البوتاسيوم, صمغ الزانثان, كلوريد البوتاسيوم, ميكا, هيدروكسيد الصوديوم, بيوتيل هيدروكسي تولوين (BHT), فينوكسي إيثانول, حمض البنزويك, حمض ديهيدروأسيتيك, عطر, CI 77492 (أكسيد الحديد الأصفر), CI 77891 (ثاني أكسيد التيتانيوم), CI 73360 (Red 30 Lake)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1767654712/gwwyjbtrplxzivyh9fxc.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6972,7 +7000,7 @@
     ],
     "price": {
       "min": 250,
-      "max": 250,
+      "max": 300,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -7483,7 +7511,11 @@
       "icon": "sun"
     },
     "quantity": "125 ml",
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9260,7 +9292,11 @@
       "icon": "eye"
     },
     "quantity": "15 ml",
-    "price": null,
+    "price": {
+      "min": 1800,
+      "max": 1800,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9458,7 +9494,11 @@
       "icon": "sink"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 1800,
+      "max": 1800,
+      "currency": "DZD"
+    },
     "marketingClaims": [],
     "targetTypes": []
   },
@@ -9968,6 +10008,60 @@
       "تنقية المسام",
       "تقشير لطيف",
       "للبشرة الدهنية"
+    ]
+  },
+  {
+    "id": "DZ-CLE-BIOL-002",
+    "brand": "Biolila",
+    "name": "Biolila Cleansing Oil Rice Oil & Tea Tree Oil",
+    "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-585.png",
+    "ingredients": "Sunflower Seed Oil, Rice Bran Oil, Jojoba Oil, Olive Oil, Tea Tree Oil, Tocopheryl Acetate, Polysorbate 80, Parfum.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "180 ml",
+    "price": {
+      "max": "1750",
+      "currency": "DZD",
+      "min": 1500
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ]
+  },
+  {
+    "id": "DZ-OIB-VIV-001",
+    "brand": "Vivika",
+    "name": "Vivika Huile Capillaire Noix de Coco - Force & Volume)",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1781042307/wwyqjjnfkoyxzkrz6atv.jpg",
+    "ingredients": "Paraffinum liquidum, Coconut oil, Parfum Jasminum Grandiflorum (Jasmine) Flower Extract, Tocopheryl Acetate, Limonene, Linalool, CI 47000.",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "125 ml",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "dry_hair",
+      "damaged_hair"
+    ],
+    "marketingClaims": [
+      "تعزيز النمو",
+      "تغذية الشعر",
+      "مرطب للشعر"
     ]
   }
 ]
