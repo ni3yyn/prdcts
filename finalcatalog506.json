@@ -10067,5 +10067,189 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ]
+  },
+  {
+    "id": "FR-CLE-ACM1-001",
+    "brand": "ACM",
+    "name": "ACM BORÉADE CL ",
+    "image": "https://labo-acm.com/cdn/shop/files/HEROIMAGE-BOREADECL.png?crop=center&height=1750&v=1740563522&width=1500",
+    "ingredients": "AQUA (WATER), CETAERYL ALCOHOL, DISODIUM LAURYL SULFOSUCCINATE, SODIUM COCOYL ISETHIONATE, ZEA MAYS (CORN) STARCH, SODIUM COCOYL GLUTAMATE, 1,2 HEXANEDIOL, HYDROLYZED CHENOPODIUM QUINOA SEED, TOCOPHEROL, MALTODEXTRIN, GLYCERIN, HYDROGENATED CASTOR OIL, BUTYL AVOCADATE, PHOSPHOLIPIDS, ZINC GLUCONATE, HYDROXYPROPYL GUAR, CAPRYLOYL GLYCINE, GLYCERYL CAPRYLATE, GLYCINE SOJA (SOYBEAN) OIL, SODIUM COCOYL GLUTAMATE, GLYCOLIPIDS, CI 77891 (TITANIUM DIOXIDE), POTASSIUM SORBATE, GLYCINE SOJA (SOYBEAN) STEROLS, SODIUM CHLORIDE, ZINC PCA, PARFUM (FRAGRANCE)",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "price": {
+      "currency": "DZD",
+      "min": 2400,
+      "max": null
+    },
+    "targetTypes": [
+      "combination_skin",
+      "oily_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ]
+  },
+  {
+    "id": "KR-LOT-PUR-001",
+    "brand": "Purito Seoul",
+    "name": "OAT IN Calming Gel Cream",
+    "image": "https://m.media-amazon.com/images/I/41SODj0hfGL._SX679_.jpg",
+    "ingredients": "Avena Sativa (Oat) Seed Water, Butylene Glycol, Glycerin, 2,3-Butanediol, 1,2-Hexanediol, Aqua/Water, Ammonium Acryloyldimethyltaurate/VP Copolymer, Squalane, Hydroxyacetophenone, Carbomer, Dipotassium Glycyrrhizate, Panthenol, Tromethamine, Ethylhexylglycerin, Inulin Lauryl Carbamate, Sodium Surfactin, Beta-Glucan",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "max": null,
+      "min": "4800",
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": []
+  },
+  {
+    "id": "KR-SUN-AXI-001",
+    "brand": "Axis-y",
+    "name": " Complete No-Stress Physical Sunscreen (SPF 50+ PA++++)",
+    "image": "https://www.beautifydz.com/cdn/shop/files/ax2.jpg?v=1739448190&width=1200",
+    "ingredients": "Water, Zinc Oxide, Propylheptyl Caprylate, Butyloctyl Salicylate, Propanediol, Titanium Dioxide, Butylene Glycol Dicaprylate/Dicaprate, Dicaprylyl Ether, Caprylyl Methicone, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Disiloxane, Niacinamide, Trimethylsiloxysilicate, Calendula Officinalis Flower Extract, Camellia Sinensis Leaf Extract, Artemisia Capillaris Flower Extract, Vitis Vinifera (Grape) Seed Extract, Juniperus Virginiana Oil, Cedrus Atlantica Bark Oil, Amyris Balsamifera Bark Oil, Pogostemon Cablin Oil, Chamomilla Recutita (Matricaria) Flower Water, Disteardimonium Hectorite, Magnesium Sulfate, Stearic Acid, Aluminum Hydroxide, Triethoxycaprylylsilane, Methyl Methacrylate Crosspolymer, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, 1,2-Hexanediol, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Polymethylsilsesquioxane, Glyceryl Caprylate, Caprylyl Glycol, Ethylhexylglycerin, Adenosine, Copaifera Officinalis (Balsam Copaiba) Resin, Tocopherol, Squalane, Allantoin, Butylene Glycol, Glycerin, Palmitoyl Tripeptide-5.",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "currency": "DZD",
+      "min": "3500",
+      "max": "4300"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مضاد للأكسدة",
+      "حماية واسعة الطيف"
+    ]
+  },
+  {
+    "id": "DZ-SUN-LABO-001",
+    "brand": "Laboratoires Venus",
+    "name": " Viderm Solaire Écran Total Teinté SPF 60",
+    "image": "https://kadisse.com/wp-content/uploads/2021/04/IMG_7152.jpg",
+    "ingredients": "ماء، تريبنين 20-PEG استرات، كربونات ديكابريل، جلسرين، إيزوهكساديكان، بوتيل ميثوكسيديبنزويل ميثان، ثاني أكسيد التيتانيوم، إيثيل هكسيل تريازون، اسواميل ب ميثوكسيديبنزويل ميثان، حمض فينيل بنزيميدازول سلفونيك، تريكو نتانيل بفر، ثلاثي إيثانولامين، CI 77891، ثنائي أكسيد التيتانيوم، ثنائي إيثيل هكسيلوكسيفينول ميثوكسيفينيل تريازين، غليسيريل، ميثيل ميثاكريلات كروسبوليمر، فينوكسييثانول، البروبيلين غليكول، حامض دهني، الألومينا، ثنائي الصوديوم EDTA، صمغ زنتان، الكيل اكيلات / س 30-10، CI 77492، أكسيد الحديد، عطر، حمض البالمتيك، مسحوق عصير أوراق الصبار باربادنسيس، توكوفيرول، حمض الستريك، السيليكا، مالتوديكسترين.",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "null",
+    "price": {
+      "currency": "DZD",
+      "min": 350,
+      "max": null
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "حماية واسعة الطيف",
+      "حماية من الشمس",
+      "مقاوم للماء"
+    ]
+  },
+  {
+    "id": "OT-SUN-DRR-001",
+    "brand": "Dr. Rashel",
+    "name": "Dr. Rashel Gold & Collagen Anti-Aging Sun Cream SPF 100",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/7/1/71mzjhrycxl._sl1500_.jpg",
+    "ingredients": "Aqua, glycerin, paraffinum liquidum, ci 77891, polyglyceryl-3 ricinoleate, polyglyceryl-10 dioleate, ethylhexyl palmitate, isononyl isononanoate, cyclopentasiloxane, magnesium stearate, magnesium sulfate, hydrolyzed collagen, dicaprylyl carbonate, phenoxyethanol, ethylhexylglycerin, silica, fragrance, methylparaben, allantoin, sodium hyaluronate, propylparaben.",
+    "country": "Other",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "80 g",
+    "price": {
+      "max": "1450",
+      "min": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "dry_skin",
+      "normal_skin"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مقاوم للماء",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "CN-OTH-DRD-001",
+    "brand": "Dr. Davey",
+    "name": "Vitamin C Eye Serum Perfect Moisturizing Brightening Anti-Aging",
+    "image": "https://s.alicdn.com/@sc04/kf/Hd289755a23e3411f90a9f7541e3770e2i.jpg?avif=close&webp=close",
+    "ingredients": "ماء، كابريليك/كابريك ثلاثي الغليسريد، زبدة الشيا، ثنائي الميثيكون، السكوالين، الجلسرين، سيتيث-20، بالميتات أسكوربيل، كحول السيتياريل، أمونيوم أكريلويل ثنائي ميثيل تورات/لوريث-7 ميثاكريلات كوبوليمر، لوريث-3، توكوفيرول، فينوكسي إيثانول، هيدروكسيد الصوديوم، حمض التيوكتيك، ماء ثمرة البرتقال، مستخلص فيتامين سي، مستخلص الهيالورونيك، مستخلص الكولاجين، العطر.",
+    "country": "China",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "max": null,
+      "min": 800,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": []
+  },
+  {
+    "id": "FR-LOT-ACM1-002",
+    "brand": "ACM",
+    "name": "ACM SENSITÉLIAL (Soin Émollient)",
+    "image": "https://labo-acm.com/cdn/shop/files/HEROIMAGE-SENSITELIALSOINEMOLLIENT500ML.png?crop=center&height=1750&v=1740565339&width=1500",
+    "ingredients": "AQUA (WATER), GLYCERIN, PARAFFINUM LIQUIDUM (MINERAL OIL), CETYL ALCOHOL, PRUNUS ARMENIACA (APRICOT) KERNEL OIL, STEARETH-2, BUTYROSPERMUM PARKII (SHEA) BUTTER, CERA ALBA (BEESWAX), SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, STEARETH-21, CERA MICROCRISTALLINA (MICROCRYSTALLINE WAX), DIMETHICONE, SODIUM LACTATE, ALLANTOIN, PARAFFIN, 1,2-HEXANEDIOL, HYDROXYPROPYL STARCH PHOSPHATE, XANTHAN GUM, PHENOXYETHANOL, CYCLOPENTASILOXANE, CYCLOHEXASILOXANE, CHLORPHENESIN, POTASSIUM SORBATE, CITRIC ACID, BHT",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null",
+    "price": {
+      "currency": "DZD",
+      "max": "1600",
+      "min": "1400"
+    },
+    "targetTypes": [
+      "dry_skin"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف",
+      "للبشرة الجافة"
+    ]
   }
 ]
