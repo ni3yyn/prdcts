@@ -10251,5 +10251,33 @@
       "ترطيب مكثف",
       "للبشرة الجافة"
     ]
+  },
+  {
+    "id": "KR-LOT-PUR-002",
+    "brand": "Purito Seoul",
+    "name": "Mighty Bamboo Panthenol Cream",
+    "image": "https://m.media-amazon.com/images/I/41ktNHYvNgL._SX679_.jpg",
+    "ingredients": "Water, Panthenol (10%), Squalane, Butylene Glycol, 1,2-Hexanediol, Niacinamide, Bambusa Vulgaris Extract (3,497 ppm), Hydrolyzed Jojoba Esters, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Tromethamine, Dipotassium Glycyrrhizate, Ethylhexylglycerin, Xanthan Gum, Disodium EDTA, Sodium Hyaluronate, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Copper Tripeptide-1",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": "4000",
+      "currency": "DZD",
+      "max": "4800"
+    },
+    "targetTypes": [
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف",
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
+    ]
   }
 ]
