@@ -13804,5 +13804,2258 @@
     "targetTypes": [
       "بشرة حساسة"
     ]
+  },
+  {
+    "id": "KR-LOT-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX Azelaic Acid 10 B5 Redness Soothing Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, AZELAIC ACID, PROPANEDIOL, GLYCERIN, COCO-CAPRYLATE/CAPRATE, C9-12 ALKANE, CETEARYL ALCOHOL, C12-15 ALKYL BENZOATE, SORBITAN STEARATE, CETEARYL OLIVATE, 1,2-HEXANEDIOL, DIMETHICONOL, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, SORBITAN OLIVATE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, TROMETHAMINE, SUCROSE COCOATE, SODIUM POLYACRYLOYLDIMETHYL TAURATE, SODIUM METAPHOSPHATE, ETHYLHEXYLGLYCERIN, SORBITAN ISOSTEARATE, PANTHENOL, TOCOPHEROL, MADECASSOSIDE, NIACINAMIDE, ALLANTOIN, DIPOTASSIUM GLYCYRRHIZATE, ZINC PCA, GLUCONOLACTONE, ALPHA-ARBUTIN, ASIATICOSIDE, MADECASSIC ACID, ASIATIC ACID, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, SODIUM HYALURONATE CROSSPOLYMER, GLYCYRRHIZA URALENSIS (LICORICE) ROOT EXTRACT, HYALURONIC ACID, DISODIUM EDTA, SODIUM ACETYLATED HYALURONATE",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/AzelaicAcid_10_Cream_00.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-OTH-COS-001",
+    "brand": "COSRX",
+    "name": "One Step Moisture Up Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Propanediol, Glycerin, 1,2-Hexanediol, Betaine Salicylate, Betaine, Panthenol, Allantoin, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Sodium Hydroxide, Gluconolactone, Sodium Hyaluronate, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Carbomer, Arginine, Citrus Limon (Lemon) Peel Oil, Pentylene Glycol, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Ethylhexylglycerin, Squalane",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Moisture_Pad_0.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-LOT-COS-002",
+    "brand": "COSRX",
+    "name": "COSRX The Blue Peptide Bakuchiol Plump Bounce Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, BUTYLENE GLYCOL, GLYCERIN, METHYL TRIMETHICONE, NIACINAMIDE, 1,2-HEXANEDIOL, CETEARYL ALCOHOL, SQUALANE, DIMETHICONE, CAPRYLYL METHICONE, COPPER TRIPEPTIDE-1 (GHK-Cu), CAPRYLIC/CAPRIC TRIGLYCERIDE, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, AMMONIUM ACRYLOYLDIMETHYLTAURATE/BEHENETH-25 METHACRYLATE CROSSPOLYMER, POLYACRYLATE CROSSPOLYMER-6, GLYCERYL STEARATE, C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER, CETEARYL GLUCOSIDE, HYDROGENATED LECITHIN, GLYCERYL CAPRYLATE, ETHYLHEXYLGLYCERIN, STEARIC ACID, POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE, PALMITIC ACID, SODIUM GLUCONATE, BAKUCHIOL, ADENOSINE, MYRISTIC ACID, LAURIC ACID, CAPRYLYL GLYCOL, TOCOPHEROL, DIPEPTIDE DIAMINOBUTYROYL BENZYLAMIDE DIACETATE, ACETYL HEXAPEPTIDE-1, ACETYL HEPTAPEPTIDE-4, PANTHENOL, BETAINE, INOSITOL, ACETYL HEXAPEPTIDE-8, SODIUM HYDROXIDE, PROPANEDIOL, SYNTHETIC WAX, SODIUM HYALURONATE, ACETYL OCTAPEPTIDE-3, POLYGLYCERYL-10 STEARATE, HYDROLYZED HYALURONIC ACID, BETA-GLUCAN, SODIUM HYALURONATE CROSSPOLYMER, CERAMIDE NP, HYALURONIC ACID, CHOLESTEROL, HYDROLYZED COLLAGEN, SODIUM ACETYLATED HYALURONATE",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/BluePeptide_Cream_00.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX The Blue Peptide Bakuchiol Plump Glow Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, BUTYLENE GLYCOL, GLYCERIN, DIPROPYLENE GLYCOL, NIACINAMIDE, 1,2-HEXANEDIOL, BETAINE, DIETHOXYETHYL SUCCINATE, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, DIMETHICONE, COPPER TRIPEPTIDE-1(GHK-Cu), POLYGLYCERYL-6 CAPRYLATE, POLYGLYCERYL-4 CAPRATE, BAKUCHIOL, HYDROGENATED LECITHIN, ALCOHOL, SODIUM METHYL STEAROYL TAURATE, ETHYLHEXYLGLYCERIN, HYDROXYPROPYL STARCH PHOSPHATE, DISODIUM EDTA, ADENOSINE, CAPRYLYL GLYCOL, TOCOPHEROL, DIPEPTIDE DIAMINOBUTYROYL BENZYLAMIDE DIACETATE, ACETYL HEXAPEPTIDE-1, ACETYL HEPTAPEPTIDE-4, PANTHENOL, INOSITOL, ACETYL HEXAPEPTIDE-8, SODIUM HYDROXIDE, PROPANEDIOL, BETA-GLUCAN, SODIUM HYALURONATE, HYALURONIC ACID, SODIUM HYALURONATE CROSSPOLYMER, HYDROLYZED COLLAGEN, HYDROLYZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE, ACETYL OCTAPEPTIDE-3",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/BluePeptide_Serum_00.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX RED RICE INOSITOL Pore Clarifying Deep Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, GLYCERIN, SODIUM COCOYL GLYCINATE, CELLULOSE, SODIUM LAUROYL GLUTAMATE, HYDRATED SILICA, KAOLIN, DISODIUM COCOAMPHODIACETATE, 1,2-HEXANEDIOL, ORYZA SATIVA (RICE) SEED WATER, BETAINE, SODIUM CHLORIDE, SODIUM SWEETALMONDAMPHOACETATE, LAURYL BETAINE, SODIUM METHYL COCOYL TAURATE, GLYCOL DISTEARATE, SODIUM POLYACRYLATE, GLYCOL STEARATE, ETHYLHEXYLGLYCERIN, HYDROXYACETOPHENONE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CITRIC ACID, INOSITOL, POLYGLYCERIN-3, PHYTOSTERYL/OCTYLDODECYL LAUROYL GLUTAMATE, GARDENIA FLORIDA FRUIT EXTRACT, DEXTRIN, CYANOCOBALAMIN, HEXYLENE GLYCOL, BUTYLENE GLYCOL, PANTHENOL, ORYZA SATIVA (RICE) SEED EXTRACT, NIACINAMIDE, GLUCONOLACTONE, PHYTIC ACID, BETA-GLUCAN, SODIUM HYALURONATE, TOCOPHEROL, CERAMIDE NP, HYDROLYZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Thumb_RedRice_Inositol_DeepCleanser_800x1067_1.webp",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق",
+      "تنقية عميقة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-002",
+    "brand": "COSRX",
+    "name": "COSRX RED RICE INOSITOL Exfoliating Care Pore Wash-Off Peel Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, DIPROPYLENE GLYCOL, TRIPROPYLENE GLYCOL, CELLULOSE, PROPANEDIOL, GLYCERIN, CARBOMER, STEARTRIMONIUM METHOSULFATE, ORYZA SATIVA (RICE) SEED WATER, ISOPROPYL ALCOHOL, SACCHARIDE ISOMERATE, HYDROXYACETOPHENONE, GLYCERETH-25 PCA ISOSTEARATE, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, CETYL ETHYLHEXANOATE, ETHYLHEXYL PALMITATE, SQUALANE, INOSITOL, BUTYLENE GLYCOL, HYDROGENATED LECITHIN, HYDROLYZED JOJOBA ESTERS, ETHYLHEXYLGLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, SODIUM HYALURONATE, SODIUM PHYTATE, CYANOCOBALAMIN, COPTIS JAPONICA ROOT EXTRACT, CITRIC ACID, SODIUM CITRATE, HYDROXYPROPYLTRIMONIUM HYALURONATE, DIPOTASSIUM GLYCYRRHIZATE, ORYZA SATIVA (RICE) EXTRACT, HYDROLYZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE, PANTHENOL, GLUCONOLACTONE, NIACINAMIDE, HYALURONIC ACID, GLYCOLIC ACID, PHYTIC ACID, HYDROLYZED SODIUM HYALURONATE, SODIUM HYALURONATE CROSSPOLYMER, TOCOPHEROL, SALICYLIC ACID, CERAMIDE NP, BETAINE, TROMETHAMINE",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Thumb_RedRice_Inositol_Serum_800x1067_1cb5f547-d3ec-4d5b-bbd8-4d4c7700dd16.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-002",
+    "brand": "COSRX",
+    "name": "One Step Original Clear Skin Calming Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Camellia Sinensis Leaf Water, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Gluconolactone, Panthenol, Aqua/Water, Allantoin, Arginine, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Glycerin, Pantothenic Acid, Adenosine, Asiaticoside, Pentylene Glycol, Madecassic Acid, Asiatic Acid, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Madecassoside, Sodium Hyaluronate Crosspolymer, Ceramide Np, Hydrolyzed Hyaluronic Acid, Polyglyceryl-2 Stearate, Polyglyceryl-10 Stearate, Hydrogenated Lecithin, Beta-Glucan, Capryloyl Salicylic Acid, Glyceryl Stearate, Hyaluronic Acid, Stearyl Alcohol, Oleic Acid, Cholesterol, Ethylhexylglycerin, Hydroxyacetophenone, Centella Asiatica Extract, Hydrolyzed Sodium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/OneStep_Calming_Pad_00.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-003",
+    "brand": "COSRX",
+    "name": "One Step Original Tone Clarifying Moisture Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "ORYZA SATIVA (RICE) BRAN WATER, BUTYLENE GLYCOL, AQUA/WATER, GLYCERIN, NIACINAMIDE, 1,2-HEXANEDIOL, GLUCONOLACTONE, XANTHAN GUM, ETHYLHEXYLGLYCERIN, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ADENOSINE, TROMETHAMINE, DISODIUM EDTA, HYDROGENATED LECITHIN, BETAINE, PANTHENOL, PANTOTHENIC ACID, ALLANTOIN, ALPHA-ARBUTIN, GARDENIA JASMINOIDES FRUIT EXTRACT, POLYGLYCERYL-10 LAURATE, 3-O-ETHYL ASCORBIC ACID, HYDROLYZED HYALURONIC ACID, HYALURONIC ACID, SODIUM HYALURONATE, HYDROLYZED SODIUM HYALURONATE, POTASSIUM HYALURONATE, DIMETHYLSILANOL HYALURONATE, HYDROXYPROPYLTRIMONIUM HYALURONATE, SODIUM HYALURONATE CROSSPOLYMER, SODIUM HYALURONATE DIMETHYLSILANOL, SODIUM ACETYLATED HYALURONATE, GLUTATHIONE, SQUALANE, SODIUM PCA, SODIUM LACTATE, PCA, TOCOPHEROL, SERINE, ALANINE, GLYCINE, GLUTAMIC ACID, LYSINE HCL, THREONINE, ARGININE, PROLINE",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/One-Step_Moisture_Pad_00.webp",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-004",
+    "brand": "COSRX",
+    "name": "One Step Original Peptide Collagen Lifting Glow Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, BUTYLENE GLYCOL, GLYCERIN, TRIPROPYLENE GLYCOL, NIACINAMIDE, PENTYLENE GLYCOL, 2,3-BUTANEDIOL, BETAINE, LACTOBACILLUS FERMENT, PROPANEDIOL, DIETHOXYETHYL SUCCINATE, HYDROXYACETOPHENONE, CAPRYLYL GLYCOL, ETHYLHEXYLGLYCERIN, 1,2-HEXANEDIOL, ADENOSINE, ARGININE, CARBOMER, DISODIUM EDTA, XANTHAN GUM, GLYCERYL ACRYLATE/ACRYLIC ACID COPOLYMER, DIPOTASSIUM GLYCYRRHIZATE, ALLANTOIN, PANTHENOL, CYANOCOBALAMIN, PRUNUS PERSICA (PEACH) FLOWER EXTRACT, HYDROLYZED COLLAGEN, PANTOTHENIC ACID, TOCOPHEROL, SODIUM HYALURONATE, HYALURONIC ACID, HYDROLYZED HYALURONIC ACID, PALMITOYL TRIPEPTIDE-5, COPPER TRIPEPTIDE-1, ACETYL HEXAPEPTIDE-8, DIMETHYLSILANOL HYALURONATE, POTASSIUM HYALURONATE, HYDROLYZED SODIUM HYALURONATE, HYDROXYPROPYLTRIMONIUM HYALURONATE, SODIUM HYALURONATE CROSSPOLYMER, COLLAGEN, SODIUM HYALURONATE DIMETHYLSILANOL, SODIUM ACETYLATED HYALURONATE, COLLAGEN EXTRACT",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/1_800x1067_40e9bec3-18f2-4c99-9778-941e17858fa3.webp",
+    "marketingClaims": [
+      "شد البشرة",
+      "تحفيز الكولاجين",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-005",
+    "brand": "COSRX",
+    "name": "One Step Original Blemish Pore Clear Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Salix Alba (Willow) Bark Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Betaine Salicylate, PEG-60 Hydrogenated Castor Oil, Ethyl Hexanediol, Panthenol, Sodium Hydroxide, Allantoin, Limonene, Adenosine, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aqua/Water, Arginine, Pantothenic Acid, Citrus Aurantium Dulcis (Orange) Peel Oil, Sodium Hyaluronate, Gluconolactone, Zinc PCA, Pentylene Glycol, Madecassoside, Capryloyl Salicylic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Ethylhexylglycerin, Hydrolyzed Sodium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/OneStep_Blemish_Pad_00.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-006",
+    "brand": "COSRX",
+    "name": "COSRX 5 PDRN Collagen Vitalizing Hydrogel Eye Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER, GLYCERIN, DIPROPYLENE GLYCOL, NIACINAMIDE, CERATONIA SILIQUA (CAROB) GUM, METHYLPROPANEDIOL, CHONDRUS CRISPUS POWDER, CHONDRUS CRISPUS, CELLULOSE GUM, HYDROXYACETOPHENONE, PANTHENOL, ALGIN, CAPRYLYL GLYCOL, POTASSIUM CHLORIDE, SUCROSE, ETHYLHEXYLGLYCERIN, SODIUM POLYACRYLATE, ADENOSINE, POLYGLYCERYL-10 LAURATE, POLYGLYCERYL-10 MYRISTATE, BUTYLENE GLYCOL, GARDENIA FLORIDA FRUIT EXTRACT, 1,2-HEXANEDIOL, SODIUM DNA, CAFFEINE, MALTODEXTRIN, ALLANTOIN, COLLAGEN, DEXTRIN, PANTOLACTONE, CYANOCOBALAMIN, DIPOTASSIUM GLYCYRRHIZATE, ASCORBIC ACID, SODIUM HYALURONATE, GLUTATHIONE, ORYZA SATIVA (RICE) EXTRACT, COPTIS JAPONICA ROOT EXTRACT, CAULERPA LENTILLIFERA EXTRACT, HYDROLYZED HYALURONIC ACID, HYALURONIC ACID, POTASSIUM HYALURONATE, HYDROLYZED SODIUM HYALURONATE, ACETYL HEXAPEPTIDE-8, LACTOBACILLUS FERMENT LYSATE, HYDROLYZED RICE PROTEIN, CENTELLA ASIATICA LEAF EXTRACT, DISODIUM EDTA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/5PDRN_EyePatch_00.webp",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-003",
+    "brand": "COSRX",
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Snail Secretion Filtrate, Betaine, Butylene Glycol, 1,2-Hexanediol, Sodium Polyacrylate, Phenoxyethanol, Sodium Hyaluronate, Allantoin, Ethyl Hexanediol, Carbomer, Panthenol, Arginine, Aqua/Water",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/james_800x1067_1_1_4e9750cc-2cd6-4817-ace5-be2305a85806.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-004",
+    "brand": "COSRX",
+    "name": "Deep Wrinkle Care Boost",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Caprylic/Capric Triglyceride, Butylene Glycol, Glycerin, Glycine Soja (Soybean) Oil, Tocopherol, Tocopheryl Acetate, Cetearyl Alcohol, Trehalose, Panthenol, Butyrospermum Parkii (Shea) Butter, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Glyceryl Polymethacrylate, Polyglyceryl-10 Stearate, Hydrogenated Lecithin, Helianthus Annuus (Sunflower) Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Carbomer, Retinol(0.3%), Tromethamine, Glyceryl Stearate, Polysilicone-11, Sodium Sulfite, Daucus Carota Sativa (Carrot) Root Extract, Allantoin, Glyceryl Caprylate, Propanediol, Oryza Sativa (Rice) Bran Wax, Tocotrienols, Stearic Acid, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Ethylhexylglycerin, Disodium EDTA, Adenosine, Sodium Hyaluronate, Sorbitan Isostearate, 1,2-Hexanediol, Elaeis Guineensis (Palm) Oil, Hydrolyzed Hyaluronic Acid, Beta-Carotene, Sodium Hyaluronate Crosspolymer, Myristic Acid, Hyaluronic Acid, Lauric Acid, Sodium Acetylated Hyaluronate, Ascorbic Acid, Limnanthes Alba (Meadowfoam) Seed Oil, 3-O-Ethyl Ascorbic Acid, Glutathione",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Peptide_retinol_0.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-005",
+    "brand": "COSRX",
+    "name": "Brightening Boost",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Dipropylene Glycol, Glycerin, Pentylene Glycol, 1,2-Hexanediol, Niacinamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyacrylate Crosspolymer-6, Butylene Glycol, Xanthan Gum, Ethylhexylglycerin, Adenosine, Polyquaternium-51, Disodium EDTA, Citric Acid, Caprylyl Glycol, Betaine, t-Butyl Alcohol, Sodium PCA, Sodium Lactate, Acetyl Hexapeptide-8, Copper Tripeptide-1, PCA, sh-Polypeptide-121, Serine, Alanine, Allantoin, Sodium Hyaluronate, Acetyl Glucosamine, Glycine, Glutamic Acid, Lysine HCl, Threonine, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Arginine, Tocopherol, Oligopeptide-68, Proline, Dextran, Palmitoyl Tripeptide-8, Glycine Soja (Soybean) Oil, Hydrogenated Lecithin, Potassium Sorbate, Sodium Oleate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/01__AD_C_23_8998780b-3124-400e-95c8-b9a619cc13ca.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-003",
+    "brand": "COSRX",
+    "name": "Advanced Snail 92 All in One Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Snail Secretion Filtrate, Betaine, Caprylic/Capric Triglyceride, Butylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Cetearyl Alcohol, Carbomer, Ethyl Hexanediol, Phenoxyethanol, Arginine, Dimethicone, Sodium Polyacrylate, Sodium Hyaluronate, Allantoin, Palmitic Acid, Panthenol, Xanthan Gum, Stearic acid, Adenosine, Water, Myristic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/snail_cream_thumbnail.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-004",
+    "brand": "COSRX",
+    "name": "The Ceramide Skin Barrier Moisturizer",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Water/Aqua, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, Butylene Glycol Dicaprylate/Dicaprate, Squalane, Pentaerythrityl Tetraisostearate, Dicaprylyl Carbonate, Behenyl Alcohol, Dimethicone, Betaine, Hydroxypropyl Bispalmitamide MEA, C14-22 Alcohols, Palmitic Acid, Stearic Acid, Hydroxypropyl Bislauramide MEA, Arachidyl Alcohol, Cholesterol, Polyacrylate-13, C12-20 Alkyl Glucoside, Allantoin, Arachidyl Glucoside, Caprylyl Glycol, Glyceryl Caprylate, Ethylhexylglycerin, Hydrogenated Polyisobutene, Carbomer, Tromethamine, Hydrogenated Lecithin, Dimethiconol, Cetearyl Alcohol, Polyglyceryl-10 Laurate, Ethylhexyl Palmitate, Sorbitan Isostearate, Phytosphingosine, Panthenol, Propanediol, Tocopherol, Ceramide NP, Sodium Hyaluronate, Ceramide NS, 1,2-Hexanediol, Hydrolyzed Hyaluronic Acid, Ceramide AP, Ceramide AS, Sodium Hyaluronate Crosspolymer, Hyaluronic Acid, Sodium Acetylated Hyaluronate, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Skinbarrier_Moisturizer_800x1067_shape.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-OTH-COS-007",
+    "brand": "COSRX",
+    "name": "The Peptide Collagen Hydrogel Eye Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Water, Dipropylene Glycol, Glycerin, Niacinamide, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus Powder, Chondrus Crispus, Cellulose Gum, Hydroxyacetophenone, Algin, Caprylyl Glycol, Potassium Chloride, Betaine, Panthenol, Sucrose, Ethylhexylglycerin, Sodium Polyacrylate,Polyglyceryl-10 Laurate, Adenosine, Polyglyceryl-10 Myristate, Maltodextrin, Caffeine, Collagen, Butylene Glycol, Cyanocobalamin, 1,2-Hexanediol, Sodium Hyaluronate, Dipotassium Glycyrrhizate, Pantolactone, Pentylene Glycol, Acetyl Hexapeptide-8, Dunaliella Salina Extract, shPolypeptide-121, Palmitoyl Tripeptide-5, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Potassium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Acetyl Tetrapeptide-5, Citric Acid, Disodium EDTA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Peptide-eye-patch2___800x1067-_-_-jpg.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-006",
+    "brand": "COSRX",
+    "name": "The 6 Peptide Skin Booster Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Dipropylene Glycol, Glycerin, Pentylene Glycol, 1,2-Hexanediol, Niacinamide, Acetyl Hexapeptide-8, Copper Tripeptide-1, sh-Polypeptide-121, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Oligopeptide-68, Palmitoyl Tripeptide-8, Allantoin, Sodium Hyaluronate, Acetyl Glucosamine, Serine, Alanine, Glycine, Threonine, Arginine, Proline, Betaine, Sodium PCA, Sodium Lactate, PCA, Glutamic Acid, Lysine HCl, Tocopherol, Dextran, Glycine Soja (Soybean) Oil, Hydrogenated Lecithin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyacrylate Crosspolymer-6, Butylene Glycol, Xanthan Gum, Ethylhexylglycerin, Adenosine, Polyquaternium-51, Disodium EDTA, Citric Acid, Caprylyl Glycol, t-Butyl Alcohol, Potassium Sorbate, Sodium Oleate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/1_23a79a66-a967-4533-9e71-cd88b0c6efb2.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-007",
+    "brand": "COSRX",
+    "name": "Advanced The Vitamin C 23 Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Ascorbic Acid(23%), Butylene Glycol, Dimethicone, Panthenol, 3-O-Ethyl Ascorbic Acid, Squalane, Sodium Hydroxide, Caffeine, Sodium Hyaluronate, Sodium Metaphosphate, Adenosine, Acetyl Glucosamine, Gardenia Florida Fruit Extract, Allantoin, Dextrin, Tocotrienols, Tocopherol, Elaeis Guineensis (Palm) Oil, Arginine, Niacinamide, Pentylene Glycol, Glutathione, Helianthus Annuus (Sunflower) Seed Oil, Methyl Trimethicone, Carthamus Tinctorius (Safflower) Seed Oil, Camellia Japonica Seed Oil, Daucus Carota Sativa (Carrot) Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Beta-Carotene",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Advanced_VitaminC23_00.webp",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-COS-001",
+    "brand": "COSRX",
+    "name": "Vitamin E Vitalizing Sunscreen SPF 50+",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Watet / Aqua / Eau, Propanediol, Homosalate, Octocrylene, Ethylhexyl Salicylate(Octisalate), Butyloctyl Salicylate, Butyl Methoxydibenzoylmethane(Avobenzone), Diphenylsiloxy phenyl trimethicone, Dimethicone, VP/Eicosene copolymer, Silica, Trisiloxane, Cyclopentasiloxane, Trimethylsiloxysilicate, 1,2-Hexanediol, Behenyl alcohol, Glyceryl stearate, PEG-100 stearate, C14-22 alcohols, Cetyl alcohol, Potassium cetyl phosphate, Polyacrylate-13, Polyisobutene, Fragrance / Parfum, C12-20 Alkyl glucoside, Butylene glycol, Disodium EDTA, Ethylhexylglycerin, Polysorbate 20, Sorbitan isostearate, Dextrin, Theobroma cacao (cocoa) extract, Gossypium herbaceum (cotton) extract, Glucose, Tocopherol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/VitaminE_SunScreen_00.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-008",
+    "brand": "COSRX",
+    "name": "The Niacinamide 15 Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Pentylene Glycol, Niacinamide(15%), Butylene Glycol, Acetyl Glucosamine, 1,2-Hexanediol, Zinc PCA, Trehalose, Xanthan Gum, Pullulan, Allantoin, Ethylhexylglycerin, Sodium Phytate, Citric Acid, Tocopherol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/niacin.png",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-001",
+    "brand": "COSRX",
+    "name": "The Ceramide Skin Barrier Moisturizing Mist",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Glycerin, Butylene Glycol, Caprylic/Capric Triglyceride, Hydrogenated Poly(C6-14 OLEFIN), Dimethicone, Cetyl Ethylhexanoate, Hydroxypropyl Bislauramide MEA, 1,2-Hexanediol, Cholesterol, Sodium Surfactin, Glyceryl Caprylate, Ethylhexylglycerin, Disodium EDTA, Behenic Acid, Squalane, Panthenol, Allantoin, Hydrogenated Lecithin, Cetearyl Alcohol, Tocopherol, Betaine, Stearic Acid, Propanediol, Sodium PCA, Sodium Hyaluronate, Sodium Lactate, PCA, Serine, Alanine, Glycine, Hydrolyzed Hyaluronic Acid, Ceramide NP, Glutamic Acid, Sodium Hyaluronate Crosspolymer, Lysine HCL, Threonine, Arginine, Hyaluronic Acid, Ceramide NS, Phytosphingosine, Ceramide AP, Ceramide AS, Proline, Sodium Acetylated Hyaluronate, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Skinbarrier_Mist_00_484b9ebd-d4b7-4386-9752-e56852ae7773.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-009",
+    "brand": "COSRX",
+    "name": "The Retinol 0.5 Oil",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Glycine Soja (Soybean) Oil, Di-C12-13 Alkyl Malate, Retinol(0.5%), Caprylic/Capric Triglyceride, BHT, Tocotrienols, Tocopherol, Elaeis Guineensis (Palm) Oil, Hydroxymethoxyphenyl Decanone",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/the-retinol-0-5-oil-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-002",
+    "brand": "COSRX",
+    "name": "Advanced Snail Mucin Gel Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Water, Acrylates Copolymer, Butylene Glycol, Glycerin, Disodium Laureth Sulfosuccinate, Sodium Cocoyl Isethionate, 1,2-Hexanediol, Coco-Glucoside, Lauryl Betaine, Snail Secretion Filtrate, Arginine, Tromethamine, Potassium Cocoyl Glycinate, Fragrance, Carbomer, Sodium Chloride, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, Disodium EDTA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/advanced-snail-mucin-gel-cleanser-cosrx-official-1.png",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-008",
+    "brand": "COSRX",
+    "name": "Acne Pimple Master Patch Original Fit 4SET (96 Patches)",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Petroleum Resin, Cellulose Gum, Styrene Isoprene Styrene Block Copolymer, Polyurethane Film, Polyisobutylene, Liquid Paraffin, Tetrakismethane",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Acne_pimple_patch_00.webp",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-005",
+    "brand": "COSRX",
+    "name": "COSRX Skin Barrier Moisturizing Body Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Behentrimonium Methosulfate, Dimethicone, Petrolatum, Butylene Glycol, Caprylyl Glycol, Potassium Phosphate, Ethylhexylglycerin, Disodium EDTA, Dipotassium Phosphate, Panthenol, Betaine, Synthetic Wax, Hydrogenated Lecithin, Squalane, Propanediol, Sodium PCA, Sodium Lactate, Stearic Acid, PCA, Sodium Hyaluronate, Polyglyceryl-10 Stearate, 1,2-Hexanediol, Serine, Alanine, Glycine, Hydrolyzed Hyaluronic Acid, Glutamic Acid, Lysine HCL, Threonine, Arginine, Ceramide NP, Sodium Hyaluronate Crosspolymer, Cholesterol, Hyaluronic Acid, Tocopherol, Proline, Palmitic Acid, Ceramide NS, Phytosphingosine, Sodium Acetylated Hyaluronate, Ceramide AP, Ceramide AS, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Skinbarrier_Cream_00_9ea9d922-f996-448a-b5b0-372c79f1043c.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-MSK-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX 5 PDRN Hyaluronic Acid Vital Hydrating Hydrogel Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Agar, Sclerotium Gum, Potassium Chloride, Sucrose, Butylene Glycol, Sodium Hyaluronate, Cellulose Gum, Polyglyceryl-10 Laurate, Panthenol, Allantoin, Xanthan Gum, Ethylhexylglycerin, Adenosine, Coptis Japonica Root Extract, Sodium Phytate, Sodium DNA, Alpha-Arbutin, Cyanocobalamin, Lactobacillus Ferment, Hydrolyzed Collagen, Centella Asiatica Extract, Caprylyl Glycol, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Tocopherol, Acetyl Hexapeptide-8, Propanediol, Pentylene Glycol, Sodium Acetylated Hyaluronate, Hydrolyzed DNA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/5PDRN_Hydrogel_Mask_00.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-010",
+    "brand": "COSRX",
+    "name": "COSRX 5 PDRN Collagen Intense Vitalizing Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Dipropylene Glycol, Butylene Glycol, Pentylene Glycol, Glycerin, Niacinamide, 1,2-Hexanediol, Betaine, Panthenol, Sodium DNA, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyacrylate Crosspolymer-6, Xanthan Gum, Ethylhexylglycerin, Adenosine, Hydrolyzed Corn Starch, Disodium EDTA, Hydrolyzed Collagen, Sucrose, t-Butyl Alcohol, Lactobacillus Ferment, Allantoin, Alpha-Arbutin, Centella Asiatica Extract, Propanediol, Tocopherol, Sodium Phytate, Sodium Hyaluronate, Hydrolyzed DNA, Caprylyl Glycol, Hydroxypropyltrimonium Hyaluronate, Acetyl Hexapeptide-8, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/5PDRN_Serum_00_41bfc9ae-bbf5-40a2-a27c-35b27a2f0780.webp",
+    "marketingClaims": [
+      "تحفيز الكولاجين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-002",
+    "brand": "COSRX",
+    "name": "COSRX 5 PDRN B5 Vital Soothing Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Butylene Glycol, Glycerin, Niacinamide, Pentylene Glycol, 2,3-Butanediol, 1,2-Hexanediol, Betaine, Diethoxyethyl Succinate, Sodium DNA, Carbomer, Arginine, Panthenol, Ethylhexylglycerin, Adenosine, Hydrolyzed Corn Starch, Disodium EDTA, Allantoin, Sucrose, Lactobacillus Ferment, Pantothenic Acid, Alpha-Arbutin, Hydrolyzed Collagen, Centella Asiatica Extract, Propanediol, Tocopherol, Sodium Phytate, Sodium Hyaluronate, Hydrolyzed DNA, Caprylyl Glycol, Hydroxypropyltrimonium Hyaluronate, Acetyl Hexapeptide-8, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/5PDRN_Toner_00.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-002",
+    "brand": "COSRX",
+    "name": "COSRX PDRN EXOSOME Skinplaning Glaze Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Polyvinyl Alcohol, Octyldodecanol, Methylpropanediol, Butylene Glycol, Niacinamide, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Algin, Polysorbate 80, Pentaerythrityl Tetraethylhexanoate, Pullulan, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-10 Oleate, Glyceryl Stearate, PEG-100 Stearate, Titanium Dioxide, Disteardimonium Hectorite, Synthetic Fluorphlogopite, Mica, Microcrystalline Cellulose, Ethylhexylglycerin, Sphingomonas Ferment Extract, Adenosine, Cellulose Gum, Sodium Phytate, Sodium DNA, Tin Oxide, Glutathione, Acetyl Glucosamine, Allantoin, Panthenol, Hydrolyzed Collagen, Gluconolactone, Mannitol, Centella Asiatica Leaf Extract, Glycerin, Lactobacillus Extracellular Vesicles, Hydrated Silica, Citric Acid, Sodium Hyaluronate, Caprylyl Glycol, Acetyl Hexapeptide-8",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/PDRN_Exosome_mask_00_7c9e832c-f72c-443a-b1a4-730bc669b15b.webp",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-COS-002",
+    "brand": "COSRX",
+    "name": "Airy-Light Invisible Sun Stick",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Methyl Methacrylate Crosspolymer, Synthetic Wax, Caprylyl Methicone, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Ethylhexyl Palmitate, Butyloctyl Salicylate, Neopentyl Glycol Diheptanoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Ozokerite, Tocopheryl Acetate, Silica, Vinyl Dimethicone, Polysilicone-15, Synthetic Fluorphlogopite, Propylheptyl Caprylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ceresin, Bisabolol, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Triethoxycaprylylsilane, Glyceryl Caprylate, Caprylyl Glycol, Disteardimonium Hectorite, Ethylhexylglycerin, Triethyl Citrate, Tocopherol, Ceramide NP, Water, Niacinamide, Allantoin, Zinc PCA, Panthenol, 1,2-Hexanediol, Sodium Hyaluronate, Aloe Barbadensis Leaf Water",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Airy-Light_SunStick_00.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-COS-003",
+    "brand": "COSRX",
+    "name": "COSRX AIRY-LIGHT OIL CONTROL CLEAR SUNSCREEN STICK SPF 50",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Diethylhexyl Carbonate, Homosalate, Methyl Methacrylate Crosspolymer, Synthetic Wax, Octocrylene, Dimethicone, Dimethicone/Vinyl Dimethicone Crosspolymer, Ethylhexyl Salicylate, Butyloctyl Salicylate, Isopropyl Palmitate, Butyl Methoxydibenzoylmethane, Diisostearyl Malate, Dimethiconol, Trisiloxane, Diphenylsiloxy Phenyl Trimethicone, Ethylhexyl Isononanoate, Synthetic Fluorphlogopite, Polyethylene, Polymethylsilsesquioxane, Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate, Ethylene/Propylene Copolymer, Camellia Japonica Seed Oil, Silica Dimethyl Silylate, Dimethicone Crosspolymer, Candelilla Wax Esters, Copernicia Cerifera (Carnauba) Wax, 3-O-Ethyl Ascorbic Acid, Panthenol, Sodium Hyaluronate, Tocopheryl Acetate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Airy-Light_Clear_SunStick_00_ffd57aae-2ac6-4ab6-870a-ccd935fc20c3.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-HSE-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Oil Serum",
+    "country": "Korea",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "Dimethicone, Hydrogenated Poly(C6-14 Olefin), Cetyl Ethylhexanoate, Dicaprylyl Carbonate, Dimethiconol, Disiloxane, Dicaprylyl Ether, Aminopropyl Dimethicone, Argania Spinosa Kernel Oil, Hexyldecanol, Fragrance/Parfum, Hexyl Cinnamal, Limonene, Citronellol, Tocopherol, Linalool, Benzyl Benzoate, Olea Europaea (Olive) Fruit Oil, Camellia Japonica Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Oryza Sativa (Rice) Bran Oil, Vitis Vinifera (Grape) Seed Oil, Macadamia Ternifolia Seed Oil, Tripeptide-132 HCl",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Peptide_132_00_OilSerum.webp",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CON-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Treatment",
+    "country": "Korea",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Cetyl Ethylhexanoate, Isopentyldiol, Cetyl Alcohol, Stearyl Alcohol, Behentrimonium Chloride, Coco-Caprylate/Caprate, Stearamidopropyl Dimethylamine, Sorbitol, Dipropylene Glycol, Dimethiconol, Hydroxypropyl Starch Phosphate, Amodimethicone, Lactic Acid, Maltitol, Fragrance/Parfum, Caprylyl Glycol, Trideceth-10, Sodium Gluconate, Ethylhexylglycerin, Anthemis Nobilis Flower Water, 1,2-Hexanediol, Propanediol, Argania Spinosa Kernel Oil, Olea Europaea (Olive) Fruit Oil, Camellia Japonica Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Oryza Sativa (Rice) Bran Oil, Vitis Vinifera (Grape) Seed Oil, Biotin, Tripeptide-132 HCl, Macadamia Ternifolia Seed Oil, Sodium Hyaluronate, Tocopherol, Laminaria Japonica Extract, Sodium Metaphosphate, Avena Sativa (Oat) Peptide, Arginine, Serine, Glutamic Acid, Threonine, Leucine, Proline, Aspartic Acid, Isoleucine, Glycine, Soluble Collagen, Hydrolyzed Hyaluronic Acid, Phenylalanine, Alanine, Tyrosine, Lysine, Sodium Hyaluronate Crosspolymer, Histidine, Hyaluronic Acid, Caffeine, Panthenol, Niacinamide, Hydrogenated Lecithin, Butylene Glycol, Cetearyl Alcohol, Valine, Sodium Acetylated Hyaluronate, Stearic Acid, Methionine, Cystine, Tryptophan, Ceramide NP, Hydrolyzed Vegetable Protein, Ceramide NS, Phytosphingosine, Cholesterol, Ceramide AP, Ceramide AS, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Peptide_132_00_Treatment.webp",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SHA-COS-001",
+    "brand": "COSRX",
+    "name": "COSRX PEPTIDE-132 Ultra Perfect Hair Bonding Shampoo",
+    "country": "Korea",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Sodium C14-16 Olefin Sulfonate, Glycerin, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Caprylyl/Capryl Glucoside, Lauryl Hydroxysultaine, Disodium Cocoyl Glutamate, Sodium Cocoyl Alaninate, Lauryl Betaine, Sodium Chloride, Cetyl Alcohol, Polyquaternium-10, Citric Acid, Sodium Salicylate, PVP, Fragrance/Parfum, Caprylyl Glycol, Trihydroxystearin, Caprylic/Capric Triglyceride, Polyquaternium-6, Sodium Citrate, PPG-3 Caprylyl Ether, C10-18 Triglycerides, Vitis Vinifera (Grape) Seed Oil, Dicaprylyl Ether, Sodium Metaphosphate, Ethylhexylglycerin, Piroctone Olamine, Anthemis Nobilis Flower Water, Glyceryl Stearate, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Macadamia Ternifolia Seed Oil, Dehydroacetic Acid, Hexyl Cinnamal, Propanediol, Zinc PCA, 1,2-Hexanediol, Biotin, Tripeptide-132 HCl, Tocopherol, Sodium Hyaluronate, Laminaria Japonica Extract, Avena Sativa (Oat) Peptide, Arginine, Serine, Glutamic Acid, Threonine, Leucine, Proline, Aspartic Acid, Isoleucine, Glycine, Soluble Collagen, Hydrolyzed Hyaluronic Acid, Phenylalanine, Alanine, Tyrosine, Lysine, Sodium Hyaluronate Crosspolymer, Histidine, Hyaluronic Acid, Caffeine, Panthenol, Niacinamide, Alcohol Denat., PEG-150 Pentaerythrityl Tetrastearate, Hydrogenated Lecithin, Butylene Glycol, Cetearyl Alcohol, Valine, PPG-2 Hydroxyethyl Cocamide, Stearic Acid, Sodium Acetylated Hyaluronate, Ceramide NP, Phytosphingosine, Cholesterol, Hydrolyzed Vegetable Protein, Methionine, Ceramide NS, Cystine, Ceramide AP, Ceramide EOP, Tryptophan, Ceramide AS",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Peptide_132_00_Shampoo.webp",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-003",
+    "brand": "COSRX",
+    "name": "COSRX The Alpha-Arbutin Discoloration Care Hydrogel Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Agar, Betaine, Sclerotium Gum, Potassium Chloride, Alpha-Arbutin, Erythritol, Sucrose, Cellulose Gum, Polyglyceryl-10 Laurate, Panthenol, Allantoin, Acetyl Glucosamine, Xanthan Gum, Ethylhexylglycerin, Adenosine, Theobroma Cacao (Cocoa) Seed Extract, Hydrolyzed Collagen, Sodium Phytate, Hydrogenated Lecithin, Cetearyl Alcohol, Stearic Acid, Pentylene Glycol, Ferulic Acid, Ceramide NP, Sodium Hyaluronate, Tocopherol, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ceramide NS, Cholesterol, Phytosphingosine, Hyaluronic Acid, Ceramide AP, Ceramide AS, Hydrolyzed Sodium Hyaluronate, Glutathione, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Alpha-Arbutin_Hydroge_Mask_00.webp",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-004",
+    "brand": "COSRX",
+    "name": "COSRX The Peptide Collagen Lifting Glow Hydrogel Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Agar, Erythritol, Sclerotium Gum, Potassium Chloride, Sucrose, Cellulose Gum, Polyglyceryl-10 Laurate, Panthenol, Ethylhexylglycerin, Allantoin, Xanthan Gum, Adenosine, Sodium Phytate, Hydrolyzed Collagen, Hydrogenated Lecithin, Cetearyl Alcohol, Cyanocobalamin, Stearic Acid, Tocopherol, Acetyl Hexapeptide-8, Butylene Glycol, Pentylene Glycol, Acetyl Glucosamine, Ceramide NP, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ceramide NS, Palmitoyl Tripeptide-5, Phytosphingosine, Cholesterol, Hyaluronic Acid, Ceramide AP, Ceramide AS, Caprylyl Glycol, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Hydrolyzed Sodium Hyaluronate, Copper Tripeptide-1, Acetyl Tetrapeptide-2, Dextran, Palmitoyl Tripeptide-8, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Peptide_Hydrogel_Mask_00.webp",
+    "marketingClaims": [
+      "شد البشرة",
+      "تحفيز الكولاجين",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-005",
+    "brand": "COSRX",
+    "name": "Advanced Snail Mucin Glass Glow Hydrogel Mask_3ea",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Snail Secretion Filtrate, Glycerin, Acrylates Copolymer, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus, Butylene Glycol, Betaine, Potassium Chloride, Agar, Erythritol, Sclerotium Gum, Sucrose, Cellulose Gum, Allantoin, Polyglyceryl-10 Laurate, Panthenol, Ethylhexylglycerin, Adenosine, Sodium Phytate, Hydrogenated Lecithin, Cetearyl Alcohol, Stearic Acid, Pentylene Glycol, Hydrolyzed Collagen, Gluconolactone, Ceramide NP, Sodium Hyaluronate, Tocopherol, Sodium Hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Ceramide NS, Cholesterol, Phytosphingosine, Hyaluronic Acid, Ceramide AP, Ceramide AS, Hydrolyzed Sodium Hyaluronate, Ceramide EOP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Snail_Hydrogel_Mask_BAZAAR.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-011",
+    "brand": "COSRX",
+    "name": "The Alpha-Arbutin 2 Discoloration Care Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water, Propanediol, Glycerin, Niacinamide, Tranexamic Acid, Acetyl Glucosamine, Alpha-Arbutin(2%), 1,2-Hexanediol, Dimethicone, Dimethyl Isosorbide, Diethoxyethyl Succinate, Butylene Glycol, Citric Acid, Alcohol, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Lecithin, Xanthan Gum, Sodium Metabisulfite, Disodium EDTA, Ethylhexylglycerin, Dextrin, Theobroma Cacao (Cocoa) Extract, Sodium Citrate, Madecassoside, Sodium Methyl Stearoyl Taurate, Sodium Hyaluronate, Tocopherol, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hyaluronic Acid, Ferulic Acid, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol, Arginine, Methyl Trimethicone, Allantoin, Glutathione, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Alpha-Albutin_800x1067_9f78595b-1e4f-4147-a56c-aade2a3286da.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-COS-004",
+    "brand": "COSRX",
+    "name": "Ultra-Light Invisible Sunscreen SPF50 PA++++",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aloe Barbadensis Leaf Water, Diethylhexyl Succinate, Propanediol, Aqua/Water, Drometrizole Trisiloxane, Ethylhexyl Triazone, Niacinamide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Terephthalylidene Dicamphor Sulfonic Acid, 1,2-Hexanediol, Behenyl Alcohol, Methyl Trimethicone, Sodium Polyacryloyldimethyl Taurate, Hamamelis Virginiana (Witch Hazel) Leaf Water, Tromethamine, Polyacrylate Crosspolymer-6, Arachidyl Alcohol, Caprylyl Glycol, Ethylhexylglycerin, Arachidyl Glucoside, Sodium Metaphosphate, Adenosine, Tocopherol, Sodium Hyaluronate, Allantoin, Citric Acid, Sodium Benzoate, Potassium Sorbate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/0_Ultra_light_invisible_800x1067_3b3f194c-15a5-4c66-92ec-58275778c6c9.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-006",
+    "brand": "COSRX",
+    "name": "Balancium Comfort Ceramide Soft Cream Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Propanediol, Caprylic/Capric Triglyceride, Glycerin, Polyglyceryl-3 Methylglucose Distearate, 1,2-Hexanediol, Panthenol, Ceramide NP, Hydrogenated Lecithin, Hexylene Glycol, Hydroxyacetophenone, Allantoin, Glyceryl Stearate, Dipropylene Glycol, Hydrolyzed Jojoba Esters, Hydroxyethylcellulose, Carbomer, Sorbitan Stearate, Arginine, Sorbitan Sesquioleate, Dipotassium Glycyrrhizate, Disodium EDTA, Sodium Hyaluronate, Sucrose Cocoate, Olea Europaea (Olive) Fruit Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Canarium Luzonicum Gum Nonvolatiles, Cupressus Sempervirens Oil",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/balancium-comfort-ceramide-soft-cream-sheet-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-006",
+    "brand": "COSRX",
+    "name": "Advanced Snail 92 All in one Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Snail Secretion Filtrate, Betaine, Caprylic/Capric Triglyceride, Cetearyl Olivate, Sorbitan Olivate, Cetearyl Alcohol, Carbomer, Arginine, Dimethicone, Sodium Polyacrylate, Phenoxyethanol, Sodium Hyaluronate, Stearic acid, Allantoin, Panthenol, Xanthan Gum, Ethyl Hexanediol, Adenosine",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/SnailCream50g_800x1067_485b8794-f831-48fe-b9c6-4ad940eed4dc.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-007",
+    "brand": "COSRX",
+    "name": "The Retinol 0.3 Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Water, Caprylic/Capric Triglyceride, Butylene Glycol, Glycerin, Glycine Soja (Soybean) Oil, Tocopherol, Tocopheryl Acetate, Cetearyl Alcohol, Trehalose, Panthenol, Butyrospermum Parkii (Shea) Butter, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Glyceryl Polymethacrylate, Polyglyceryl-10 Stearate, Hydrogenated Lecithin, Helianthus Annuus (Sunflower) Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Carbomer, Retinol(0.3%), Tromethamine, Glyceryl Stearate, Polysilicone-11, Sodium Sulfite, Daucus Carota Sativa (Carrot) Root Extract, Allantoin, Glyceryl Caprylate, Propanediol, Oryza Sativa (Rice) Bran Wax, Tocotrienols, Stearic Acid, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Ethylhexylglycerin, Disodium EDTA, Adenosine, Sodium Hyaluronate, Sorbitan Isostearate, 1,2-Hexanediol, Elaeis Guineensis (Palm) Oil, Hydrolyzed Hyaluronic Acid, Beta-Carotene, Sodium Hyaluronate Crosspolymer, Myristic Acid, Hyaluronic Acid, Lauric Acid, Sodium Acetylated Hyaluronate, Ascorbic Acid, Limnanthes Alba (Meadowfoam) Seed Oil, 3-O-Ethyl Ascorbic Acid, Glutathione",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Retinol03Cream_800x1067_c88d3441-5851-4a65-8438-a93bbfb4f86b.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-012",
+    "brand": "COSRX",
+    "name": "The AHA BHA PHA LHA 35 Peel",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycolic Acid, Lactic Acid, Potassium Hydroxide, Gluconolactone, Mandelic Acid, Dipropylene Glycol, Panthenol, Salicylic Acid(2%), Methylpropanediol, 1,2-Hexanediol, Octyldodeceth-16, Citric Acid, Hydroxyethylcellulose, Pentylene Glycol, Sodium Polyacryloyldimethyl Taurate, Cyanocobalamin, Polyacrylate Crosspolymer-6, Hydroxypropyl Starch Phosphate, Ethylhexylglycerin, Capryloyl Salicylic Acid, Polysorbate 60, Disodium Phosphate, Sodium Phosphate, Tocopherol, Allantoin, Hydrolyzed Hyaluronic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/The_35peel_0.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-009",
+    "brand": "COSRX",
+    "name": "COSRX One Step Green Calming Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Camellia Sinensis Leaf Water, Butylene Glycol, 1,2-Hexanediol, Centella Asiatica Extract, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract,Artemisia Vulgaris Extract, Taraxacum Officinale (Dandelion) Leaf Extract,1,2-Hexanediol,Butylene Glycol,1,2-Hexanediol,Allantoin,Panthenol,Arginine,Sodium Hyaluronate,Lactobionic Acid,Glycerin,Polyglyceryl-10 Laurate,Polyglyceryl-10 Myristate,Asiaticoside, Asiatic Acid,Madecassic Acid,Mentha Haplocalix Extract,Menthyl Lactate,Citrus Aurantium Bergamia (Bergamot) Fruit Oil,Limonene,Linalool",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Green_Pad_0.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-013",
+    "brand": "COSRX",
+    "name": "The AHA 2 BHA 2 Blemish Treatment Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Propanediol, Polysorbate 20, Glycolic Acid, Salicylic Acid, Gluconolactone, Zinc PCA, Allantoin, Sodium Hyaluronate, Sodium Hydroxide, Dipropylene Glycol, Hydroxyacetophenone, Caprylyl Glycol, Ethylhexylglycerin, Dipotassium Glycyrrhizate, 1,2-Hexanediol, Disodium EDTA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/AHA2BHA2_Treatment_00_0ee6119d-bd30-4aa2-b7f6-3ecf59cc7151.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-003",
+    "brand": "COSRX",
+    "name": "Low pH Niacinamide Micellar Cleansing Water",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Water, Dipropylene Glycol, Polyglyceryl-4 Caprate, Panthenol, Sodium Hyaluronate, Allantoin, Niacinamide(1,000ppm), Zinc PCA, Madecassoside, Propanediol, Caprylyl Glycol, Ethylhexylglycerin, 1,2-Hexanediol, Sodium Citrate, Citric Acid, Disodium EDTA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/NA_800x1067_2.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "توازن الحموضة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-010",
+    "brand": "COSRX",
+    "name": "24-HR Synergy Duo",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "[/Acne Free/] • The Niacinamide 15 Serum 20ml / 0.67 fl. oz Highly concentrated serum that combines the maximum concentration of niacinamide with optimal ratios of synergistic ingredients for total acne control. • The Hyaluronic Acid 3 Serum 20ml / 0.67 fl. oz Highly concentrated 3% hyaluronic acid serum that hydrates, plumps, soothes and supports the skin's moisture barrier. [/Brightening/] • The Vitamin C 23 Serum 20ml / 0.67 fl. oz A highly concentrated serum that fades acne scars and brightens the complexion to revitalize dull and dry skin. • The Hyaluronic Acid 3 Serum 20ml / 0.67 fl. oz Highly concentrated 3% hyaluronic acid serum that hydrates, plumps, soothes and supports the skin's moisture barrier. [/Increase Elasticity/] • The Retinol 0.5 Oil 20ml / 0.67 fl. oz For intermediate-level retinol users looking for a highly concentrated, youth booster. • The Hyaluronic Acid 3 Serum 20ml / 0.67 fl. oz Highly concentrated 3% hyaluronic acid serum that hydrates, plumps, soothes and supports the skin's moisture barrier [/Skin Firming/] The Retinol 0.1 Cream 20ml / 0.67 fl. oz An irritation-reduced solution created with the optimal ratio of key ingredients for first-time retinol users just starting to notice the appearance of fine lines caused by dry skin. • The Hyaluronic Acid 3 Serum 20ml / 0.67 fl. oz Highly concentrated 3% hyaluronic acid serum that hydrates, plumps, soothes and supports the skin's moisture barrier",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/1210__5_800x1067_78ea57d3-d42a-44a0-b1cf-9a5394b0e15c.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-COS-005",
+    "brand": "COSRX",
+    "name": "Aloe 54.2 Aqua Tone-up Sunscreen SPF 50+ PA++++",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aloe Barbadensis Leaf Water, Homosalate, Butylene Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Glycerin, Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Methyl Trimethicone, Niacinamide, Titanium Dioxide (CI 77891), Diisopropyl Sebacate, Terephthalylidene Dicamphor Sulfonic Acid, 1,2-Hexanediol, Potassium Cetyl Phosphate, Cetearyl Alcohol, Tromethamine, Glyceryl Stearate, Behenyl Alcohol, Polyacrylate Crosspolymer-6, Xanthan Gum, Sodium Polyacryloyldimethyl Taurate, Hydrogenated Lecithin, Poly C10-30 Alkyl Acrylate, Ethylhexylglycerin, Stearic Acid, Aluminum Hydroxide, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Iron Oxides (CI 77491), Disodium EDTA, Triethoxycaprylylsilane, Iron Oxides (CI 77492), Sodium Hyaluronate, Allantoin, Myristic Acid, Cyanocobalamin, Lauric Acid, Tocopherol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/aloe-54-2-aqua-tone-up-sunscreen-spf-50-pa-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-003",
+    "brand": "COSRX",
+    "name": "AC Collection Calming Liquid Intensive",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Butylene Glycol, 1,2-Hexanediol, Ethyl Hexanediol, Asiaticoside, Asiatic Acid Madecassic Acid, Cassia Obtusifolia Seed Extract, Butylene Glycol, 1,2-Hexanediol, Hydroxyethylcellulose Panthenol, Butylene Glycol, Betaine, Dimethyl Sulfone, Betaine Salicylate, Zinc PCA, Polysorbate 20 Allantoin, Sodium Lactate, Water, Lactic Acid, Alcohol, Glycolic Acid, Sodium Hyaluronate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Polysorbate 60",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-calming-liquid-intensive-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-004",
+    "brand": "COSRX",
+    "name": "AC Collection Calming Liquid Mild",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Camellia Sinensis Leaf Water, Butylene Glycol, Dimethyl Sulfone, Betaine, 1,2-Hexanediol, Betaine Salicylate, Gluconolactone, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Glycerin, Panthenol, Allantoin, Arginine, Sodium Hyaluronate, Melaleuca Alternifolia (Tea Tree) Leaf Oil , Asiaticoside, Asiatic Acid, Madecassic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-calming-liquid-mild-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-014",
+    "brand": "COSRX",
+    "name": "The Vitamin C 13 Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Ascorbic Acid(13%), Butylene Glycol, Dipropylene Glycol, Tromethamine, 3-0-Ethyl Ascorbic Acid, Panthenol, Acetyl Glucosamine, Caffeine, Sodium Hyaluronate, Sodium Sulfite, Disodium EDTA, Glutathione, Adenosine, Gardenia Florida Fruit Extract, Allantoin, Dextrin, Squalane, Tocotrienols, Tocopherol, Elaeis Guineensis (Palm) Oil, Arginine, Niacinamide, Pentylene Glycol, Glycyrrhiza Glabra (Licorice) Root Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/The_VitaminC13_00.webp",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-011",
+    "brand": "COSRX",
+    "name": "Lip Plump - Refresh AHA BHA Vitamin C Lip Plumper",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Petrolatum, Hydrogenated Polyisobutene, Polyisobutene, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Butyrospermum Parkii (Shea) Butter, Diisostearyl Malate, Ethylene/Propylene/Styrene Copolymer, Sorbitan Sesquioleate, Microcrystalline Wax, Vanillyl Butyl Ether ,Butylene/Ethylene/Styrene Copolymer, Ethylhexylglycerin, Water, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Butylene Glycol, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Amber Powder, Mentha Piperita (Peppermint) Leaf Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Moringa Oleifera Seed Oil, Magnesium Ascorbyl Phosphate, Citric Acid, Betaine Salicylate, Anemarrhena Asphodeloides Root Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/lip-plump-refresh-aha-bha-vitamin-c-lip-plumper-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-005",
+    "brand": "COSRX",
+    "name": "Hydrium Watery Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Allantoin, Panthenol, Sodium Hyaluronate, Pentylene Glycol, Sodium hyaluronate Crosspolymer, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Ethylhexylglycerin, Hydrolyzed Sodium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-watery-toner-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-008",
+    "brand": "COSRX",
+    "name": "Balancium Comfort Ceramide Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Centella Asiatica Leaf Water, Butylene Glycol, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Cetearyl Alcohol , Betaine, 1,2-Hexanediol, Cetearyl Olivate, Elaeis Guineensis (Palm) oil,Ceramide NP,Sorbitan Olivate,Hydrogenated Lecithin,Triethylhexanoin, Beeswax,Elaeis Guineensis (Palm) Kernel Oil,Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Cyclohexasiloxane, Cassia Obtusifolia Seed Extract,Sucrose Distearate,Dipropylene Glycol, Panthenol, Niacinamide, Dimethicone/Vinyl Dimethicone Crosspolymer, Glyceryl Stearate,Xanthan Gum,Sodium Hyaluronate, ,Limonene, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Asiaticoside, Asiatic Acid, Madecassic Acid, Linalool",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/balancium-comfort-ceramide-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-006",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Centella AsiaticaExtract, Centella Asiatica Leaf Extract, Centella AsiaticaRoot Extract, Butylene Glycol, 1,2-Hexanediol, Betaine, Panthenol, Glycerin, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl TaurateCopolymer, Ethylhexylglycerin, Allantoin, Caprylic/Capric Triglyceride, Water, Pinus Pinaster Bark Extract, Asiaticoside, Asiatic Acid, MadecassicAcid, Madecassoside",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-toner-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-007",
+    "brand": "COSRX",
+    "name": "Two in One Poreless Power Liquid",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Salix Alba (Willow) Bark Water, Butylene Glycol, Hydroxypropyl Cyclodextrin, Water, Pentylene Glycol, 1,2-Hexanediol, Betaine Salicylate, Arginine, Betaine, PEG-60 Hydrogenated Castor Oil, Allantoin, Panthenol, Ethylhexylglycerin, Sodium Hyaluronate, Carbomer, Cassia Obtusifolia Seed Extract, Menthyl Lactate, Mentha Haplocalix Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/two-in-one-poreless-power-liquid-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "قابض للمسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-008",
+    "brand": "COSRX",
+    "name": "AHA 7 Whitehead Power Liquid",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Pyrus Malus (Apple) Fruit Water, Butylene Glycol, Glycolic Acid, Niacinamide, Sodium Hydroxide, 1,2-Hexanediol, Panthenol, Sodium Hyaluronate, Xanthan Gum, Ethyl Hexanediol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/aha-7-whitehead-power-liquid-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مضاد للرؤوس السوداء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-009",
+    "brand": "COSRX",
+    "name": "AHA/BHA Clarifying Treatment Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Water, Salix Alba (Willow) Bark Water, Pyrus Malus (Apple) Fruit Water, Butylene Glycol, 1,2-Hexanediol, Sodium Lactate, Glycolic Acid, Betaine Salicylate, Allantoin, Panthenol, Ethyl Hexanediol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ahabha-clarifying-treatment-toner-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-010",
+    "brand": "COSRX",
+    "name": "Centella Water Alcohol-Free Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Water, Centella Asiatica Leaf Water, Butylene Glycol , 1,2-Hexanediol, Betaine, Panthenol, Allantoin, Ethyl Hexanediol, Sodium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/centella-water-alcohol-free-toner-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-011",
+    "brand": "COSRX",
+    "name": "BHA Blackhead Power Liquid",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Salix Alba (Willow) Bark Water, Butylene Glycol, Betaine Salicylate, Niacinamide, 1,2-Hexanediol, Arginine, Panthenol, Sodium Hyaluronate, Xanthan Gum, Ethyl Hexanediol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/bha-blackhead-power-liquid-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء",
+      "تنقية المسام",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-012",
+    "brand": "COSRX",
+    "name": "Refresh ABC Daily Toner (AHA BHA Vitamin C)",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Actinidia Chinensis (Kiwi) Fruit Extract, Hylocereus Undatus Fruit Extract, Salix Alba (Willow) Bark Water, Pyrus Malus (Apple) Fruit Water, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Ethyl Hexanediol, Sodium Lactate, Water, Glycolic Acid, Allantoin, Panthenol, Adenosine, Betaine Salicylate, Ascorbyl Glucoside",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/refresh-abc-daily-toner-aha-bha-vitamin-c-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-COS-013",
+    "brand": "COSRX",
+    "name": "Full Fit Propolis Synergy Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Honey Extract, Butylene Glycol, 1,2-Hexanediol, Glycerin, Betaine, Cassia Obtusifolia Seed Extract, Panthenol, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Ethylhexylglycerin, Sodium Hyaluronate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/full-fit-propolis-synergy-toner-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-009",
+    "brand": "COSRX",
+    "name": "The Retinol 0.1 Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Water, Caprylic/Capric Triglyceride, Propanediol, Glycerin, Tocopheryl Acetate, Cetearyl Alcohol, Trehalose, Panthenol, Butyrospermum Parkii (Shea) Butter, Glycine Soja (Soybean) Oil, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Glyceryl Polymethacrylate, Helianthus Annuus (Sunflower) Seed Oil, Polyglyceryl-10 Stearate, Hydrogenated Lecithin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Carbomer, Tromethamine, Glyceryl Stearate, Polysilicone-11, Sodium Sulfite, Tocopherol, Daucus Carota Sativa (Carrot) Root Extract, Retinol(0.1%), Allantoin, Glyceryl Caprylate, Oryza Sativa (Rice) Bran Wax, Tocotrienols, Stearic Acid, Polyglyceryl-3 Methylglucose Distearate, Palmitic Acid, Disodium EDTA, Ethylhexylglycerin, Adenosine, Sorbitan Isostearate, Elaeis Guineensis (Palm) Oil, BHT, Beta-Carotene, Myristic Acid, Lauric Acid, Ascorbic Acid, Limnanthes Alba (Meadowfoam) Seed Oil, 3-O-Ethyl Ascorbic Acid, Glutathione, Sodium Hyaluronate, 1,2-Hexanediol, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/RetinolCream_800x1067_7e167f9b-dc45-4d41-babf-65b26b14cf23.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-012",
+    "brand": "COSRX",
+    "name": "Lip Sleep - Balancium Ceramide Lip Butter Sleeping Mask",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Ricinus Communis (Castor) Seed Oil, Polyglyceryl-3 Distearate, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Simmondsia Chinensis (Jojoba) Seed Oil, Caprylic/Capric Triglyceride, Beeswax, Ozokerite, Polyethylene, Mangifera Indica (Mango) Seed Butter, Euphorbia Cerifera (Candelilla) Wax, Glyceryl Stearate Citrate, Ethylhexylglycerin, Glycerin, Ceramide NP, Phytosphingosine",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/lip-sleep-balancium-ceramide-lip-butter-sleeping-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-004",
+    "brand": "COSRX",
+    "name": "AC Collection Calming Foam Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycerin, Stearic Acid, Myristic Acid, PEG-32, Potassium Hydroxide, Palmitic Acid, Lauric Acid, Glyceryl Stearate, PEG-100 Stearate, Lauramide DEA, Cocamidopropyl Betaine, Potassium Cocoate, Salicylic Acid, Sodium Chloride, Arachidic Acid, Lavandula Hybrida Oil, Linalool, Disodium EDTA, Oleic Acid, Limonene, Asiaticoside, Asiatic Acid, Madecassic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-calming-foam-cleanser-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-010",
+    "brand": "COSRX",
+    "name": "Oil-Free Ultra-Moisturizing Lotion with Birch Sap",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Betula Platyphylla Japonica Juice, Butylene Glycol, Glycerin, Dimethicone, Betaine, Cetearyl Alcohol, 1,2-Hexanediol, Cetearyl Olivate, Sorbitan Olivate, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethyl Hexanediol, Xanthan Gum, Allantoin, Panthenol, Sodium Hyaluronate, Sodium Lactate, 4-Terpineol, Water",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/oil-free-ultra-moisturizing-lotion-with-birch-sap-cosrx-official-1.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-013",
+    "brand": "COSRX",
+    "name": "One Step Original Clear Pad",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Salix Alba (Willow) Bark Water, Butylene Glycol, Glycerin, Betaine Salicylate, 1,2-Hexanediol, Arginine, PEG-60 Hydrogenated Castor Oil, Panthenol, Allantoin, Ethyl Hexanediol, Citrus Aurantium Dulcis (Orange) Peel Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Hydroxide, Sodium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/Original_Pad_0.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-015",
+    "brand": "COSRX",
+    "name": "The Hyaluronic Acid 3 Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Propanediol, Glycerin, Sodium Hyaluronate(3%), Pentylene Glycol, 1,2-Hexanediol, Diethoxyethyl Succinate, Sodium Polyacryloyldimethyl Taurate, Betaine, Xanthan Gum, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium PCA, Sodium Lactate, PCA, Glyceryl Acrylate/Acrylic Acid Copolymer, Hydrogenated Lecithin, Ethylhexylglycerin, Serine, Alanine, Glycine, Sodium Phytate, Sorbitan Isostearate, PVM/MA Copolymer, Glutamic Acid, Citric Acid, Lysine HCl, Threonine, Arginine, Sodium Methyl Stearoyl Taurate, Proline, Ceramide NP, Cholesterol, Caprylic/Capric Triglyceride, Phytosphingosine, Stearic Acid, Oleic Acid, Alcohol, Tocopherol, Lactic Acid, Caprylyl Glycol, Caprylhydroxamic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/the-hyaluronic-acid-3-serum-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-COS-006",
+    "brand": "COSRX",
+    "name": "Aloe Soothing Sun Cream  SPF50+/ PA+++",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "WATER, ETHYLHEXYL METHOXYCINNAMATE, GLYCERIN, PROPYLENE GLYCOL, CYCLOPENTASILOXANE, PHENYLBENZIMIDAZOLE SULFONIC ACID, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, DICAPRYLYL CARBONATE, ISOAMYL P-METHOXYCINNAMATE, POTASSIUM CETYL PHOSPHATE, ALCOHOL, DIMETHICONE, BUTYLENE GLYCOL, GLYCERYL STEARATE, TITANIUM DIOXIDE, C14-22 ALCOHOLS, POLYMETHYL METHACRYLATE, CETEARYL ALCOHOL, PEG-100 STEARATE, TRIETHANOLAMINE, SILICA, SODIUM HYDROXIDE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, C12-20 ALKYL GLUCOSIDE, ALUMINUM HYDROXIDE, STEARIC ACID, FRAGRANCE, CAPRYLYL GLYCOL, PHENOXYETHANOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, ALOE ARBORESCENS LEAF EXTRACT, DIPOTASSIUM GLYCYRRHIZATE, CARBOMER, XANTHAN GUM, LIMONENE, TOCOPHERYL ACETATE, DISODIUM EDTA, HEXYL CINNAMAL, LINALOOL, BENZYL SALICYLATE, GERANIOL, BENZYL ALCOHOL, CITRONELLOL, BENZYL BENZOATE, CITRAL",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/aloe-soothing-sun-cream-spf50-pa-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مهدئ",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-005",
+    "brand": "COSRX",
+    "name": "Hydrium Triple Hyaluronic Moisturizing Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycerin, Stearic Acid, Myristic Acid, Lauric Acid, Potassium Hydroxide,Palmitic Acid, PotassiumCocoylGlycinate, Coco-Glucoside, Glyceryl Stearate,Fragrance(Parfum), Polyquaternium-7, Acrylates/C10-30 Alkyl AcrylateCrosspolymer, SodiumCocoylIsethionate, Arachidic Acid, Disodium EDTA, 1,2-Hexanediol, Oleic Acid, Sodium Benzoate,QuillajaSaponaria Bark Extract, CitricAcid, Butylene Glycol, Panthenol, Hyaluronic Acid,Ethylhexylglycerin, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-triple-hyaluronic-moisturizing-cleanser-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-014",
+    "brand": "COSRX",
+    "name": "Master Patch Intensive [90ea]",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Cellulose Gum, Hydrogenated Poly(C6-20 Olefin), Polyisobutene, Styrene/Isoprene Copolymer, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/master-patch-intensive-90ea-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-015",
+    "brand": "COSRX",
+    "name": "Master Patch X-Large",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Cellulose Gum, Hydrogenated Poly(C6-20 Olefin), Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Polyisobutene, Styrene/Isoprene Copolymer, Niacinamide",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/master-patch-x-large-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-016",
+    "brand": "COSRX",
+    "name": "Master Patch Intensive [36ea]",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Cellulose Gum, Hydrogenated Poly(C6-20 Olefin), Polyisobutene, Styrene/Isoprene Copolymer, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/master-patch-intensive-36ea-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-017",
+    "brand": "COSRX",
+    "name": "Master Patch Basic [36ea]",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Cellulose Gum, Hydrogenated Poly(C6-20 Olefin), Polyisobutene, Styrene/Isoprene Copolymer",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/master-patch-basic-36ea-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-016",
+    "brand": "COSRX",
+    "name": "AC Collection Blemish Spot Clearing Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Butylene Glycol, Niacinamide, Panthenol, 1,2-Hexanediol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ectoin, Ethylhexylglycerin, Glycerin, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Allantoin, Sodium Hyaluronate, Asiaticoside, Asiatic acid, Madecassic acid, Helianthus Annus (Sunflower) Seed Oil, Macadamia Ternifolia Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sucrose distearate, Glyceryl Strearate, Hydrogenated Lecithin, Dipropylene Glycol, Ceramide NP",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-blemish-spot-clearing-serum-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-017",
+    "brand": "COSRX",
+    "name": "Advanced Snail Radiance Dual Essence",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Snail Secretion Filtrate, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Betaine, Panthenol, Water, Glycerin, Limnanthes Alba (Meadowfoam) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Allantoin, Carbomer, Macadamia Ternifolia Seed Oil, Sodium Polyacrylate, Sodium Hyaluronate, Inulin Lauryl Carbamate, Arginine, Argania Spinosa Kernel Oil, Xanthan Gum, Sodium Surfactin, Ethylhexylglycerin, Glutathione",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/advanced-snail-radiance-dual-essence-cosrx-official-1.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-011",
+    "brand": "COSRX",
+    "name": "Refresh AHA/BHA Vitamin C Daily Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Actinidia Chinensis (Kiwi) Fruit Extract, Hylocereus Undatus Fruit Extract, Hippophae Rhamnoides Water, Butylene Glycol, Cetyl Ethylhexanoate, Niacinamide, 1,2-Hexanediol, Macadamia Ternifolia Seed Oil, Cetearyl Alcohol, Betaine, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Carbomer, Arginine, Panthenol, Cetearyl Olivate, Sorbitan Olivate, Allantoin, Adenosine, Sodium Hyaluronate, Alpha-Arbutin, Menthyl Lactate, Mentha Haplocalix Extract, Tocopherol, Lactobionic Acid, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Betaine Salicylate, Ascorbyl Glucoside, Glycolic Acid, Water",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/refresh-ahabha-vitamin-c-daily-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-018",
+    "brand": "COSRX",
+    "name": "Refresh AHA/BHA Vitamin C Booster Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Actinidia Chinensis (Kiwi) Fruit Extract, Hylocereus Undatus Fruit Extract, Hippophae Rhamnoides Water, Butylene Glycol, Niacinamide, 1,2-Hexanediol, Glycolic Acid, Betaine, Sodium Hydroxide, Water, Panthenol, Allantoin, Hydroxyethylcellulose, Glycerin, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Sodium Hyaluronate, Adenosine, Ascorbyl Glucoside, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Betaine Salicylate, Alpha-Arbutin, Menthyl Lactate, Mentha Haplocalix Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/refresh-ahabha-vitamin-c-booster-serum-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-007",
+    "brand": "COSRX",
+    "name": "Poreless Clarifying Charcoal Mask Pink",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Silica, Propanediol, Kaolin, Glycerin, Diatomaceous Earth, 1,2-Hexanediol, Butylene Glycol, Camellia Sinensis Seed Extract, Betaine, Carbomer, Tromethamine, Hydroxyacetophenone, Titanium Dioxide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Cellulose, Charcoal Powder, Calamine, Cellulose Gum, Xanthan Gum, Silica Dimethyl Silylate, Disodium EDTA, Ethylhexylglycerin, Ethylcellulose, Gardenia Florida Fruit Extract, Dextrin, Lauric Acid, Zea Mays (Corn) Starch, Aluminum Hydroxide, Mannitol, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Polyglyceryl-10 Stearate, Salicylic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/poreless-clarifying-charcoal-mask-pink-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "قابض للمسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-006",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Creamy Foam Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycerin, Myristic Acid, Palmitic Acid, Stearic Acid, Lauric Acid, Potassium Hydroxide, Glyceryl Stearate, 1,2-Hexanediol, Polyquaternium-7, Ethylhexylglycerin, Citrus Limon (Lemon) Fruit Extract, Citrus Nobilis (Mandarin Orange) Oil, Disodium EDTA, Butylene Glycol, Eucalyptus Globulus Leaf Oil, Lavandula Angustifolia (Lavender) Oil, Pinus Palustris Oil, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Sodium Benzoate, Coccinia Indica Fruit Extract, Amber Powder, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Centella Asiatica Leaf Extract, Corallina Officinalis Extract, Moringa Oleifera Seed Oil, Hydrogenated Phosphatidylcholine, Caprylic/Capric Triglyceride, Sucrose Stearate, Centella Asiatica Extract, Cetearyl Alcohol, Centella Asiatica Root Extract, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-creamy-foam-cleanser-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-007",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Clear Cleansing Oil",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Ethylhexyl Palmitate, Sorbeth-30 Tetraoleate, Triethylhexanoin, Glycine Soja (Soybean) Oil, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Citrus Aurantifolia (Lime) Oil, Citrus Limon (Lemon) Peel Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Caprylyl Glycol, Ethylhexylglycerin, Avena Sativa (Oat) Kernel Oil, Olea Europaea (Olive) Fruit Oil, Oenothera Biennis (Evening Primrose) Oil, Persea Gratissima (Avocado) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Water, 1,2-Hexanediol, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Pinus Pinaster Bark Extract, Asiaticoside, Asiatic Acid, Madecassoside, Madecassic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-clear-cleansing-oil-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SCR-COS-001",
+    "brand": "COSRX",
+    "name": "Low pH Goodnight Soft Peeling Gel",
+    "country": "Korea",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "Water, Cellulose, Glycerin, Rosa Damascena Flower Water, Propanediol, Butylene Glycol, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Lavandula Angustifolia (Lavender) Flower Water, Tromethamine, Niacinamide, Maltodextrin, Ethylhexylglycerin, Disodium EDTA, Pentylene Glycol, Lactobionic Acid, Papain, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Lactobacillus/Soybean Ferment Extract, Sodium Hyaluronate, Sodium Metabisulfite, Lactobacillus/Rice Ferment, Camellia Japonica Flower Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/low-ph-goodnight-soft-peeling-gel-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-008",
+    "brand": "COSRX",
+    "name": "AC Collection Blemish Care Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Glycerin, Propanediol, Niacinamide, Melaleuca Alternifolia (Tea Tree) Leaf Extract, 1,2-Hexanediol, Hexylene Glycol, Hydroxyacetophenone, Hydroxyethylcellulose, Arginine, Allantoin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dipotassium Glycyrrhizate, Xanthan Gum, Disodium EDTA, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Caprylic/Capric Triglyceride, Ectoin, Arbutin, Asiaticoside, Dextrin, Asiatic Acid, Madecassic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-blemish-care-sheet-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-018",
+    "brand": "COSRX",
+    "name": "Advanced Snail Hydrogel Eye Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycerin, Snail Secretion Filtrate, Niacinamide, Carrageenan, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Betaine, Hydroxyacetophenone, Allantoin, Chlorphenesin, Cyamopsis Tetragonoloba (Guar) Gum, Calcium Chloride, Butylene Glycol, Sucrose, Cellulose Gum, Adenosine, Potassium Chloride, Dipotassium Glycyrrhizate, Ethylhexylglycerin, PEG-90M",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/AnyConv.com__Snail-eye-patch2_800x1067_e8793905-5ab9-4172-a398-5d25b6cf39cc.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-012",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Cream Intense",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Butylene Glycol, Cetearyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Glycerin, Cetearyl Olivate, 1,2-Hexanediol, Sorbitan Olivate, Macadamia Ternifolia Seed Oil, Panthenol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethylhexylglycerin, Beeswax, Arginine, Carbomer, Asiaticoside, Madecassic Acid, Asiatic Acid, Centella Asiatica Oil, Madecassoside, Allantoin, Sodium Hyaluronate, Glycine Soja (Soybean) Oil, Water, Pinus Pinaster Bark Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-cream-intense-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-009",
+    "brand": "COSRX",
+    "name": "Ultimate Nourishing Rice Overnight Spa Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Glycerin, Niacinamide, Betaine, Cetearyl Olivate, 1,2-Hexanediol, Dimethicone, Sorbitan Olivate, Oryza Sativa (Rice) Extract, Elaeis Guineensis (Palm) Kernel Oil, Cetearyl Alcohol, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ethyl Hexanediol, Elaeis Guineensis (Palm) Oil, Carbomer, Arginine, Xanthan Gum, Allantoin, Sorbitan Isostearate, Polysorbate 60, Tocopherol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ultimate-nourishing-rice-overnight-spa-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-010",
+    "brand": "COSRX",
+    "name": "Hydrium Triple Hyaluronic Water Wave Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Alcohol, Panthenol, Betaine, 1,2-Hexanediol, Paeonia Suffruticosa Root Extract, Centella, Asiatica Extract, Polyglyceryl-10 Laurate, Chamomilla Recutita (Matricaria) Flower Extract, Glyceryl Caprylate, Arginine, Xanthan Gum, Carbomer, Sodium Hyaluronate, Ethylhexylglycerin, Disodium EDTA, Pantolactone, Eucalyptus Globulus Leaf Oil, Hydrolyzed Hyaluronic Acid, Diethylhexyl Sodium Sulfosuccinate, Dipropylene Glycol, Sodium Acetylated, Hyaluronate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-triple-hyaluronic-water-wave-sheet-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-011",
+    "brand": "COSRX",
+    "name": "Full Fit Propolis Nourishing Magnet Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Dipropylene Glycol, Glycereth-26m Glycerin, Butylene Glycol, 1,2-Hexanediol, Panthenol, Trehalose, Hexylene Glycol, Hydroxyacetophenone, Xanthan Gum, Propolis Extract, Royal Jelly Extract, Honey Extract, Disodium EDTA, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate , Pimpinella Anisum(Anise) Fruit Extract, Vanilla Planifolia Fruit Extract, Camiellia Sinensis Leaf Extract, Rosa Centifolia Flower Water, Pyrus Communis (Pear) Fruit Extract, Cocos Nucifera (Coconut) Oil, Fragaria Chiloensis (Strawberry) Fruit Extract, Rosa Damascena Flower Water.",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/full-fit-propolis-nourishing-magnet-sheet-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-012",
+    "brand": "COSRX",
+    "name": "Full Fit Propolis Honey Overnight Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Butylene Glycol, Glycerin, Honey Extract, Royal Jelly Extract, 1,2-Hexanediol, Water, Betaine, Cassia Obtusifolia Seed Extract, Carbomer, Arginine, Ethylhexylglycerin, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Oil, Sodium Polyacrylate, Panthenol, Allantoin, Adenosine, Sodium Hyaluronate, Beeswax",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/full-fit-propolis-honey-overnight-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-013",
+    "brand": "COSRX",
+    "name": "Advanced Snail Mucin Power Sheet Mask 10 Sheets",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Glycerin, Snail Secretion Filtrate, 1,2-Hexanediol, Panthenol, Hydroxyacetophenone, Hexylene Glycol, Xanthan Gum, Dipropylene Glycol, Sodium Polyacrylate, Allantoin, Hydroxyethylcellulose, Sodium Hyaluronate, Disodium EDTA, Dipotassium Glycyrrhizate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/advanced-snail-mucin-power-sheet-mask-10-sheets-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-COS-014",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Calming True Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Butylene Glycol, Glycerin, Alcohol, Betaine, Centella Asiatica Extract, Xanthan Gum, Paeonia Suffruticosa RootExtract, 1,2-Hexanediol, Polyglyceryl-10 Laurate, Chamomilla Recutita (Matricaria) Flower Extract, Glyceryl Caprylate,Panthenol, Ethylhexylglycerin, Disodium EDTA, Eucalyptus Globulus Leaf Oil, Centella Asiatica Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Hydrogenated Phosphatidylcholine, Diethylhexyl Sodium Sulfosuccinate, Caprylic/Capric Triglyceride, Sucrose Stearate, Pantolactone, Dipropylene Glycol, Asiaticoside, Asiatic Acid, Madecassic Acid, Cholesterol, Madecassoside, Centella Asiatica Root Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-calming-true-sheet-mask-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-013",
+    "brand": "COSRX",
+    "name": "AC Collection Lightweight Soothing Moisturizer",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Aloe Barbadensis Leaf Water, Camellia Sinensis Leaf Water, Butylene Glycol, Cetyl Ethylhexanoate, Glycerin, 1,2-Hexanediol, Niacinamide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cyclomethicone, Cetearyl Olivate, Betaine, Cetearyl Alcohol, Sorbitan Olivate, Panthenol, Ethylhexylglycerin, Allantoin, Xanthan gum, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Hyaluronate, Arginine, Zinc PCA, Betaine Salicylate, Mentha Haplocalix Extract, Menthyl Lactate, Citric Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Asiaticoside, Asiatic Acid, Madecassic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-lightweight-soothing-moisturizer-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-019",
+    "brand": "COSRX",
+    "name": "AC Collection Acne Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Carboxymethylcellulose sodium, Polyisobutene, Rosin, Polybutene, Mineral oil, Centella Asiatica Extract, Polyuethane film",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-acne-patch-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-014",
+    "brand": "COSRX",
+    "name": "AC Collection Ultimate Spot Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aloe Barbadensis Leaf Water, Butylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Glycerine, Zinc Oxide, Cetearyl Alcohol, Dimethyl Sulfone, Betaine, Polysorbate 60, Elaeis Guineensis (Palm) Oil, Elaeis Guineensis (Palm) Kernel Oil, Cetearyl Olivate, Sorbitan Olivate, 1,2-Hexanediol, Calamine, Dimethicone, Illicium Verum (Anise) Fruit Extract, Scutellaria Baicalensis Root Extract, Xanthan gum, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Ethyl Hexanediol, Asiaticoside, Asiatic acid, Madecassic acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/ac-collection-ultimate-spot-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-020",
+    "brand": "COSRX",
+    "name": "Acne Pimple Master Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Petroleum Resin, Cellulose Gum, Styrene Isoprene Styrene Block Copolymer, Polyurethane Film, Polyisobutylene, Liquid Paraffin, Tetrakismethane",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/acne-pimple-master-patch-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-EYE-COS-001",
+    "brand": "COSRX",
+    "name": "Advanced Snail Peptide Eye Cream",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": null,
+    "ingredients": "Snail Secretion Filtrate, Butylene Glycol, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, 1,2-Hexanediol, Niacinamide, Water, Palmitic Acid, Arginine, Carbomer, Stearic Acid, Betaine, Cetearyl Olivate, Sorbitan Olivate, Sodium Polyacrylate, Allantoin, Tocopheryl Acetate, Panthenol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hyaluronate, Adenosine, Xanthan Gum, Myristic Acid, Copper Tripeptide-1, Acetyl Hexapeptide-8, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/advanced-snail-peptide-eye-cream-cosrx-official-1.png",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-OTH-COS-021",
+    "brand": "COSRX",
+    "name": "Clear Fit Master Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Petroleum Resin, Cellulose Gum, Styrene Isoprene Styrene Block Copolymer, Polyurethane Film, Polyisobutylene, Liquid Paraffin, Tetrakis Methane",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/clear-fit-master-patch-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-019",
+    "brand": "COSRX",
+    "name": "Full fit Propolis Light Ampoule",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Butylene Glycol, Glycerin, Betaine, 1,2-Hexanediol, Cassia Obtusifolia Seed Extract, Sodium Hyaluronate, Hydroxyethylcellulose, Carbomer, Panthenol, Arginine",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/full-fit-propolis-light-ampoule-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-015",
+    "brand": "COSRX",
+    "name": "Full Fit Propolis Light Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Propolis Extract, Butylene Glycol, Glycerin, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, 1,2-Hexanediol, Honey Extract, Royal Jelly Extract, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cassia Obtusifolia Seed Extract, Cetearyl Olivate, Beeswax, Cetearyl Alcohol, Sorbitan Olivate, Allantoin, Arginine, Carbomer, Xanthan Gum",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/FullfitCream_2type_800x1067_245c55aa-861b-4c7d-b3b9-98bf84de4415.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-020",
+    "brand": "COSRX",
+    "name": "Galactomyces 95 Tone Balancing Essence",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Galactomyces Ferment Filtrate, Niacinamide, Panthenol, Glycerin, 1,2-Hexanediol, Butylene Glycol, Betaine, Sodium Hyaluronate, Allantoin, Xanthan Gum, Ethyl Hexanediol, Adenosine",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/galactomyces-95-tone-balancing-essence-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-021",
+    "brand": "COSRX",
+    "name": "Hyaluronic Acid Hydra Power Essence",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Hippophae Rhamnoides Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Sodium Hyaluronate, Panthenol, Ethyl Hexanediol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hyaluronic-acid-hydra-power-essence-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-016",
+    "brand": "COSRX",
+    "name": "Hyaluronic Acid Intensive Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Hippophae Rhamnoides Water, Ethyl Hexanediol, 1,2-Hexanediol, Glycerin, Butylene Glycol, Caprylic/Capric Triglyceride, Betaine, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Macadamia Ternifolia Seed Oil, Sodium Hyaluronate, Arginine, Panthenol, Dimethicone, Ethylhexylglycerin, Carbomer, Allantoin, Xanthan Gum",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hyaluronic-acid-intensive-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-SSE-COS-022",
+    "brand": "COSRX",
+    "name": "Hydrium Triple Hyaluronic Moisture Ampoule",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycerin, Butylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Methyl Gluceth-10, Sodium Hyaluronate, Carbomer, Panthenol, Tromethamine, Ethylhexylglycerin, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Gluconolactone, Lactobionic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-triple-hyaluronic-moisture-ampoule-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-017",
+    "brand": "COSRX",
+    "name": "Hydrium Green Tea Aqua Soothing Gel Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Water, Propanediol, Camellia Sinensis Leaf Extract, Glycerin, Pentylene Glycol, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Tromethamine, Butylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Allantoin, Aloe Ferox Leaf Extract, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer, Disodium EDTA, Hydrolyzed Hibiscus Esculentus Extract, Lupinus Albus Seed Extract, Moringa Oleifera Seed Extract, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-green-tea-aqua-soothing-gel-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-SSE-COS-023",
+    "brand": "COSRX",
+    "name": "Hydrium Centella Aqua Soothing Ampoule",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Water, Centella Asiatica Extract, Dipropylene Glycol, Glycerin, 1,2-Hexanediol, Betaine, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Pentylene Glycol, Octanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Ethylhexylglycerin, Allantoin, Madecassoside, Panthenol",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-centella-aqua-soothing-ampoule-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-COS-008",
+    "brand": "COSRX",
+    "name": "Low pH Good Morning Gel Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Water, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Polysorbate 20, Styrax Japonicus Branch/Fruit/Leaf Extract, Butylene Glycol, Saccharomyces Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Allantoin, Caprylyl Glycol, Ethylhexylglycerin, Betaine Salicylate, Citric Acid, Ethyl Hexanediol, 1,2-Hexanediol, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Disodium EDTA",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/low-ph-good-morning-gel-cleanser-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-018",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Butylene Glycol, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetearyl Olivate, Sorbitan Olivate, Triethylhexanoin, Macadamia Ternifolia Seed Oil, Beeswax, Panthenol, Cetearyl Alcohol, Ethylhexylglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer,Cyclohexasiloxane, Asiaticoside, Madecassic Acid, Asiatic Acid, Arginine, Madecassoside, Allantoin, Carbomer, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Hyaluronate, Water, Pinus Pinaster Bark Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-COS-024",
+    "brand": "COSRX",
+    "name": "Pure Fit Cica Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Centella AsiaticaExtract, Centella Asiatica Leaf Extract, Centella AsiaticaRoot Extract, Butylene Glycol, Glycerin, 1,2-Hexanediol, Betaine, Panthenol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl TaurateCopolymer, Polyglyceryl10 Laurate, Polyglyceryl-10 Myristate, Sodium Hyaluronate, Allantoin, Ethylhexylglycerin, Xanthan Gum, Water, Pinus Pinaster Bark Extract, Asiaticoside, Asiatic Acid, MadecassicAcid, Madecassoside",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/pure-fit-cica-serum-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-COS-019",
+    "brand": "COSRX",
+    "name": "Hydrium Moisture Power Enriched Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Water, Glycerin, Ethylhexyl Stearate, Vinyl Dimethicone, Pentylene Glycol, Cocos Nucifera (Coconut) Oil, 1,2-Hexanediol, Cetearyl Alcohol, Panthenol, Polymethylsilsesquioxane, Arachidyl Alcohol, Propolis Extract, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyglyceryl-6 Stearate, Butylene Glycol, Carbomer, Behenyl Alcohol, Glyceryl Stearate, Tromethamine, Dimethiconol, Caprylyl Glycol, Arachidyl Glucoside, Hydrogenated Lecithin, Ceramide NP, Ethylhexylglycerin, Xanthan Gum, Sucrose Stearate, Polyglyceryl-6 Behenate, Sodium Polyacrylate Starch, Stearic Acid, Palmitic Acid, Sodium Hyaluronate, Cholesterol, Hyaluronic Acid, Glycosphingolipids, Hydrolyzed Hyaluronic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/hydrium-moisture-power-enriched-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-LOT-COS-020",
+    "brand": "COSRX",
+    "name": "Centella Blemish Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Centella Asiatica Leaf Water, Butylene Glycol, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Zinc Oxide, Dimethicone, Betaine, 1,2-Hexanediol, Viola Tricolor Extract, Elaeis Guineensis(Palm) oil, Elaeis Guineensis(Palm) Kernel Oil, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Centella Asiatica Extract, Zinc PCA, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Xanthan Gum , Melaleuca Alternifolia (Tea Tree) Leaf Oil, Scutellaria Baicalensis Root Extract",
+    "image": "https://cdn.shopify.com/s/files/1/0513/3775/6828/files/centella-blemish-cream-cosrx-official-1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
