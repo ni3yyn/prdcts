@@ -7158,7 +7158,7 @@
       "icon": "shopping-bag"
     },
     "quantity": "30ml",
-    "ingredients": "ماء, بنزوات الصوديوم, صمغ الزانثان, الجلسرين, بولي ستيرات السكروز, بالميتات السيتيل, صوديوم ستيرويل جلوتامات, زبدة الشيا, فيتامين C (حمض الأسكوربيك النقي), جليسريدات نباتية مهدرجة, كحول السيتريل, ثلاثي جليسريد الكابريليك/الكابريك, عطر",
+    "ingredients": "Water, Sodium Benzoate, Xanthan Gum, Glycerin, Sucrose Polystearate, Cetyl Palmitate, Sodium Stearoyl Glutamate, Butyrospermum Parkii (Shea) Butter, Vitamin C (Ascorbic Acid), Hydrogenated Vegetable Glycerides, Cetyl Alcohol, Caprylic/Capric Triglyceride, Parfum (Fragrance).",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768690795/zbz6dusjdefbti5aqwow.jpg",
     "marketingClaims": [],
     "price": {
@@ -10278,6 +10278,35 @@
       "ترطيب مكثف",
       "للبشرة الجافة",
       "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "OT-SCR-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Glycolic Acid 7% Exfoliating Toner",
+    "image": "https://www.beautifydz.com/cdn/shop/files/glycolic.jpg?v=1686351874&width=1200",
+    "ingredients": "Water, Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol.",
+    "country": "Other",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "null",
+    "price": {
+      "max": null,
+      "min": 5500,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "combination_skin"
+    ],
+    "marketingClaims": [
+      "تقشير",
+      "تقشير لطيف",
+      "تنقية المسام",
+      "تفتيح البشرة"
     ]
   }
 ]
