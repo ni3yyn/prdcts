@@ -10335,5 +10335,34 @@
       "مرطب للبشرة",
       "للبشرة الجافة"
     ]
+  },
+  {
+    "id": "FR-SUN-TOU-001",
+    "brand": "Touché",
+    "name": "Protection Solaire Effet Sérum SPF 50",
+    "image": "https://www.touchelab.com/cdn/shop/files/PS1_2048x2048.png",
+    "ingredients": "Aqua, Glycerin, Propanediol, Sodium Hyaluronate, Niacinamide, Ascorbyl Glucoside, Xylitylglucoside, Anhydroxylitol, Xylitol, Sodium PCA, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Oryza Sativa Bran Wax, Diisopropyl Sebacate, Polyglyceryl-6 Distearate, Polyglyceryl-6 Behenate, Glyceryl Stearate Citrate, Cetyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine, Sodium Lauroyl Lactylate, Xanthan Gum, Sclerotium Gum, Tocopherol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Benzyl Alcohol, Salicylic Acid, Sorbic Acid, Glycerin, Parfum (100 % naturel).",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 3245,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "sensitive_skin",
+      "all_skin_types"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة",
+      "مرطب للبشرة"
+    ]
   }
 ]
