@@ -10364,5 +10364,717 @@
       "للبشرة الحساسة",
       "مرطب للبشرة"
     ]
+  },
+  {
+    "id": "FR-SUN-TOU-002",
+    "brand": "Touché",
+    "name": "Water Complex sunscreen lot de 12",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Propanediol, Glycerin, Betaine, Limnanthes Alba Seed Oil, Squalane, Polyglyceryl-6 Distearate, Behenyl Alcohol, Sclerotium Gum, Xanthan Gum, Hydrolyzed Hyaluronic Acid, Malachite Extract, Aureobasidium Pullulans Ferment, Undaria Pinnatifida Extract, Mentha Arvensis Leaf Extract, Tocopherol, Citric Acid, Gluconolactone, Sodium Benzoate, Caprylyl Glycol, Sodium Phytate, Ethylhexylglycerin",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_fad47f93-be62-4657-9617-caf08ea2d53d.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": {
+      "min": 29400.0,
+      "max": 29400.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-TOU-003",
+    "brand": "Touché",
+    "name": "Water Complex sunscreen",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Propanediol, Glycerin, Betaine, Limnanthes Alba Seed Oil, Squalane, Polyglyceryl-6 Distearate, Behenyl Alcohol, Sclerotium Gum, Xanthan Gum, Hydrolyzed Hyaluronic Acid, Malachite Extract, Aureobasidium Pullulans Ferment, Undaria Pinnatifida Extract, Mentha Arvensis Leaf Extract, Tocopherol, Citric Acid, Gluconolactone, Sodium Benzoate, Caprylyl Glycol, Sodium Phytate, Ethylhexylglycerin",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_fad47f93-be62-4657-9617-caf08ea2d53d.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-001",
+    "brand": "Touché",
+    "name": "Niacinamide + Zinc",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Niacinamide (10%), Zinc PCA (1%), Brassica Napus Seed Oil, Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Fragrance (Natural), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/Pack-Gel-douche-Nian-_-zinc.png",
+    "marketingClaims": [
+      "تنقية المسام",
+      "توازن إفراز الدهون"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-LOT-TOU-001",
+    "brand": "Touché",
+    "name": "Water Complex Rich Cream [ Peaux Sèches à Sensibles ]",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Glycerin, Propanediol, Betaine, Simmondsia Chinensis Seed Oil, Helianthus Annuus Seed Oil, Squalane, Polyglyceryl-6 Distearate, Cetearyl Alcohol, Hydrolyzed Hyaluronic Acid, Centella Asiatica Extract, Malachite Extract, Palmitoyl Tripeptide-5, Cholesterol, Phytosphingosine, Beta-Glucan, Tocopherol, Sclerotium Gum, Xanthan Gum, Citric Acid, Gluconolactone, Sodium Benzoate, Caprylyl Glycol, Sodium Phytate, Ethylhexylglycerin",
+    "image": "https://www.touchelab.com/cdn/shop/files/WCRC1.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": {
+      "min": 2350.0,
+      "max": 2350.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-TOU-002",
+    "brand": "Touché",
+    "name": "Water Complex Cream [ Peaux Normales à Mixtes ]",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Glycerin, Propanediol, Betaine, Squalane, Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, Polyglyceryl-6 Distearate, Cetearyl Alcohol, Panthenol, Sodium PCA, Hydrolyzed Hyaluronic Acid, Lactobacillus Ferment Lysate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Beta-Glucan, Tocopherol, Allantoin, Sclerotium Gum, Xanthan Gum, Citric Acid, Gluconolactone, Sodium Benzoate, Caprylyl Glycol, Sodium Phytate, Ethylhexylglycerin",
+    "image": "https://www.touchelab.com/cdn/shop/files/WCC1.png",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2350.0,
+      "max": 2350.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-LOT-TOU-003",
+    "brand": "Touché",
+    "name": "Water Complex Gel [ Peaux Mixtes à Grasses ]",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Propanediol, Glycerin, Betaine, Limnanthes Alba Seed Oil, Squalane, Polyglyceryl-6 Distearate, Behenyl Alcohol, Sclerotium Gum, Xanthan Gum, Hydrolyzed Hyaluronic Acid, Malachite Extract, Aureobasidium Pullulans Ferment, Undaria Pinnatifida Extract, Mentha Arvensis Leaf Extract, Tocopherol, Citric Acid, Gluconolactone, Sodium Benzoate, Caprylyl Glycol, Sodium Phytate, Ethylhexylglycerin",
+    "image": "https://www.touchelab.com/cdn/shop/files/WCG1.png",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2350.0,
+      "max": 2350.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-TOU-002",
+    "brand": "Touché",
+    "name": "Niacinamide 12% – ULTRA PURE · HIGH POTENCY",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Niacinamide (10%), Zinc PCA (1%), Brassica Napus Seed Oil, Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Fragrance (Natural), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_db6d76ca-c41f-4504-9e18-a7ea5ce0bc9d.png",
+    "marketingClaims": [
+      "توازن إفراز الدهون",
+      "تنقية المسام"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SSE-TOU-003",
+    "brand": "Touché",
+    "name": "ACIDE SALICYLIQUE 2% ULTRA PURE · HIGH POTENCY",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Glycerin, Sodium Hyaluronate, Salicylic Acid (2%), Panthenol, Allantoin, Phenoxyethanol, Citric Acid",
+    "image": "https://www.touchelab.com/cdn/shop/files/AS1.png",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": {
+      "min": 1900.0,
+      "max": 1900.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-OTH-TOU-001",
+    "brand": "Touché",
+    "name": "Micro-Dart Pimple Patches",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Carboxymethyl Cellulose, Aqua, Homopolymer, Petroleum Resins, Styrene-Butadiene Rubber, Sodium Hyaluronate, Mineral Oil, Polyvinylpyrrolidone, Niacinamide, Salicylic Acid, Pentaerythritol Tetrakis",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_6ae39dc9-01f3-4580-9229-0c756c076f99.png",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": {
+      "min": 2600.0,
+      "max": 2600.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-TOU-001",
+    "brand": "Touché",
+    "name": "Total Cleanser Hydratant",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Sodium Cocoyl Glycinate, Sodium Cocoamphoacetate, Cocamidopropyl Betaine, Glycerin, Polyglyceryl-10 Laurate, Niacinamide, Camellia Sinensis Leaf Extract, Ficus Carica Fruit Extract, Malpighia Punicifolia Fruit Extract, Hydrolyzed Hyaluronic Acid, Ceramide NP , Ceramide AP , Ceramide EOP , Phytosphingosine, Tocopherol, Polyquaternium-7, Sodium Chloride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Ethylhexylglycerin, Citric Acid",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_fad47f93-be62-4657-9617-caf08ea2d53d.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2250.0,
+      "max": 2250.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-TOU-004",
+    "brand": "Touché",
+    "name": "Spray protecteur SPF 50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Propanediol, Niacinamide, Ascorbyl Glucoside, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine, Sodium Lauroyl Lactylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Butyl Methoxydibenzoylmethane, Polyglyceryl-10 Laurate, Pentylene Glycol, Ethylhexylglycerin, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Parfum*. *Parfum 100 % naturel",
+    "image": "https://www.touchelab.com/cdn/shop/files/SP1.png",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-TOU-005",
+    "brand": "Touché",
+    "name": "Protection Solaire Effet Sérum SPF 50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Glycerin, Propanediol, Sodium Hyaluronate, Niacinamide, Ascorbyl Glucoside, Xylitylglucoside, Anhydroxylitol, Xylitol, Sodium PCA, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Oryza Sativa Bran Wax, Diisopropyl Sebacate, Polyglyceryl-6 Distearate, Polyglyceryl-6 Behenate, Glyceryl Stearate Citrate, Cetyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine, Sodium Lauroyl Lactylate, Xanthan Gum, Sclerotium Gum, Tocopherol, Trisodium Ethylenediamine Disuccinate, Citric Acid, Benzyl Alcohol, Salicylic Acid, Sorbic Acid, Glycerin, Parfum (100 % naturel)",
+    "image": "https://www.touchelab.com/cdn/shop/files/PS1.png",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 2950.0,
+      "max": 2950.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-004",
+    "brand": "Touché",
+    "name": "Gel Vitamine C 11% + SPF 30",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Zinc Oxide, Titanium Dioxide, Ascorbic Acid, Sodium Ascorbyl Phosphate, Glycerin, Brassica Napus Seed Oil, Niacinamide, Camellia Sinensis Leaf Extract, Caprylic/Capric Triglyceride, Ferulic Acid, Tocopherol, Ergothioneine, Caesalpinia Spinosa Gum, Pongamia Pinnata Seed Extract, Xanthan Gum, Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, Sorbic Acid), Sodium Hydroxide, Fragrance",
+    "image": "https://www.touchelab.com/cdn/shop/files/vitamine-c_8611c70e-f44d-432e-b8cf-540e49f341a4.png",
+    "marketingClaims": [
+      "مضاد للأكسدة",
+      "حماية من الشمس",
+      "تفتيح البشرة"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-005",
+    "brand": "Touché",
+    "name": "[ Peaux Sensibles ] ACIDE HYALURONIQUE + NIACINAMIDE ULTRA PURE · HIGH POTENCY",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Sodium Hyaluronate, Niacinamide, Panthenol, Allantoin, Phenoxyethanol, Citric Acid",
+    "image": "https://www.touchelab.com/cdn/shop/files/PS-1.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-TOU-001",
+    "brand": "Touché",
+    "name": "Shampoing Anti Chute",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Decyl Glucoside, Disodium Cocoyl Glutamate, Glycerin, Glycol Distearate, Steareth-4, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Origanum Vulgare Oil, Eucalyptus Globulus Leaf Oil, Citrus Limon (Lemon) Peel Oil, Lavandula Angustifolia (Lavender) Oil, Salvia Officinalis (Sage) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ricinus Communis (Castor) Seed Oil, Biotin, Hydrolyzed Keratin, Propylene Glycol, Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Decylene Glycol, Sodium Benzoate, Imidazolidinyl Urea, Methylchloroisothiazolinone, Methylisothiazolinone (Kathon CG), Citric Acid, Citronellol, Geraniol, Linalool",
+    "image": "https://www.touchelab.com/cdn/shop/files/shampoing-anti-chute_fd9693c0-3966-4071-87d8-0610927d4489.png",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر"
+    ],
+    "price": {
+      "min": 1900.0,
+      "max": 1900.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-TOU-002",
+    "brand": "Touché",
+    "name": "Gel Nettoyant Purifiant Visage",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Decyl Glucoside, Glycerin, Aloe Barbadensis Leaf Juice, Coco-Glucoside, Glyceryl Oleate, Cellulose Gum, Zinc PCA, Salicylic Acid, Niacinamide, Allantoin, Citric Acid, Sodium Hydroxide, Rosa Damascena Flower Oil, Rosa Damascena Flower Water, Benzyl Alcohol, Salicylic Acid, Glycerin, Sorbic Acid, Fragrance, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_2.jpg",
+    "marketingClaims": [
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 1900.0,
+      "max": 1900.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-006",
+    "brand": "Touché",
+    "name": "VITAMINE C 11% ULTRA PURE · HIGH POTENCY",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Ascorbic Acid (11%), Glycerin, Brassica Napus Seed Oil, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Ferulic Acid, Tocopherol, Benzyl Alcohol, Salicylic Acid, Sorbic Acid",
+    "image": "https://www.touchelab.com/cdn/shop/files/VC-1.png",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 1700.0,
+      "max": 1700.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-TOU-001",
+    "brand": "Touché",
+    "name": "Lotion tonique",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycolic Acid, Rosa Damascena Flower Water, Centaurea Cyanus Flower Water, Aloe Barbadensis Leaf Water, Propanediol, Glycerin, Triethanolamine, Aminomethyl Propanol, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Aspartic Acid, Alanine, Glycine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Arginine, Pca, Sodium Pca, Sodium Lactate, Fructose, Glucose, Sucrose, Urea, Hexyl Nicotinate, Dextrin, Citric Acid, Polysorbate 20, Gellan Gum, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Hexylene Glycol, Potassium Sorbate, Sodium Benzoate, 1,2-Hexanediol, Caprylyl Glycol",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_b050fb27-a666-4383-a278-73bbc68fe9cb.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": {
+      "min": 2600.0,
+      "max": 2600.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-TOU-004",
+    "brand": "Touché",
+    "name": "Crème hydratante visage",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (water), GLYCERIN (vegetable glycerine), LACTOBACILLUS FERMENT, COCOS NUCIFERA FRUIT EXTRACT (coconut fruit extract), SIMMONDSIA CHINENSIS SEED OIL* (jojoba oil), HYALURONIC ACID, KUNZEA POMIFERA FRUIT EXTRACT (muntries berry extract), SYZYGIUM LUEHMANNII FRUIT EXTRACT (riberry extract), TASMANNIA LANCEOLATA FRUIT EXTRACT (pepperberry extract), SODIUM LEVULINATE, LYSOLECITHIN, SCLEROTIUM GUM, SODIUM ANISATE, XANTHAN GUM, PULLULAN, HELIANTHUS ANNUUS SEED OIL* (sunflower oil), JASMINUM GRANDIFLORUM FLOWER EXTRACT* (jasmine oil), LITSEA CUBEBA FRUIT OIL* (may chang oil), PELARGONIUM GRAVEOLENS OIL* (rose geranium oil), TOCOPHEROL (vitamin e), LACTIC ACID, BETA-SITOSTEROL, SILICA, SQUALENE, CITRAL, GERANIOL, CITRONELLOL, LIMONENE, LINALOOL (naturellement présents dans les huiles essentielles)",
+    "image": "https://www.touchelab.com/cdn/shop/files/2_e5cfdce6-a00e-4d4e-ba8e-250f36e77a7e.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1400.0,
+      "max": 1400.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-007",
+    "brand": "Touché",
+    "name": "ACIDE HYALURONIQUE 3,5 % ULTRA PURE · HIGH POTENCY",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Sodium Hyaluronate (3,5%), Panthenol, Allantoin, Phenoxyethanol, Citric Acid",
+    "image": "https://www.touchelab.com/cdn/shop/files/AH-1.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": {
+      "min": 2250.0,
+      "max": 2250.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  
+  {
+    "id": "FR-CON-TOU-001",
+    "brand": "Touché",
+    "name": "Après-Shampooing Densité",
+    "country": "France",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Gluconolactone, Dehydroxanthan Gum, Sodium DNA, Potassium Glutathione Isomerized Linoleate, Biotin, Syringa Vulgaris Leaf Cell Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Lauroyl Lysine, Biosaccharide Gum-1, Urea, Levulinic Acid, Sodium Levulinate, Glyceryl Caprylate, p-Anisic Acid, Hydroxypropyl Guar, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Starch Hydroxypropyltrimonium Chloride, Sodium Hydroxide, Lactic Acid, Sodium Lactate, Sodium Chloride, Potassium Chloride, Sodium Anisate, Calcium Gluconate, Potassium Sorbate, Sodium Benzoate, Brassica Napus Oil, Ricinus Communis Seed Oil, Panax Ginseng Root Extract, Arginine, Nigella Sativa Seed Oil, Prunus Amygdalus Dulcis Oil, Panthenol, Caffeine, Fragrance",
+    "image": "https://www.touchelab.com/cdn/shop/files/apres-shampoing-pousse_99fe9aef-98e7-4e4c-8be6-d84491917e15.png",
+    "marketingClaims": [
+      "تكثيف الشعر",
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 1700.0,
+      "max": 1700.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-TOU-002",
+    "brand": "Touché",
+    "name": "Shampooing Pousse et croissance",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Propanediol, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Sodium Chloride, Betaine, Sodium Methyl Cocoyl Taurate, Coco-Glucoside, Ricinus Communis (Castor) Seed Oil, Phyllanthus Emblica Fruit Extract, Panax Ginseng Root Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Origanum Vulgare Oil, Eucalyptus Globulus Leaf Oil, Citrus Limon (Lemon) Peel Oil, Lavandula Angustifolia (Lavender) Oil, Salvia Officinalis (Sage) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Biotin, Arginine, Hydrolyzed Keratin, Glycerin, Panthenol, Caffeine, Imidazolidinyl Urea, Methylchloroisothiazolinone, Methylisothiazolinone (Kathon CG), Xanthan Gum, Citric Acid, Lauroyl Lysine, Limonene, Linalool",
+    "image": "https://www.touchelab.com/cdn/shop/files/shampoing-pousse_09da93bd-6ab8-4234-80b7-ffa6850f4c07.png",
+    "marketingClaims": [
+      "تعزيز النمو"
+    ],
+    "price": {
+      "min": 1900.0,
+      "max": 1900.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-TOU-001",
+    "brand": "Touché",
+    "name": "Gel Douche nettoyant Anti-Imperfections",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Decyl Glucoside, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Ricinus Communis (Castor) Seed Oil, Butyrospermum Parkii (Shea) Butter Extract, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Niacinamide, Salicylic Acid, Citric Acid, Sodium Benzoate, Potassium Sorbate, Glyceryl Oleate, Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Cellulose Gum, Xanthan Gum",
+    "image": "https://www.touchelab.com/cdn/shop/files/Gel-douche_2.png",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": {
+      "min": 1750.0,
+      "max": 1750.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-008",
+    "brand": "Touché",
+    "name": "Anti-Irritations",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua (Water), Vitamin D3 (Cholecalciferol), Zinc PCA, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Niacinamide, Salicylic Acid, Rosmarinus Officinalis (Rosemary) Leaf Oil, Pelargonium Graveolens (Geranium) Flower Oil, Rosa Canina (Rosehip) Seed Oil, Argania Spinosa (Argan) Kernel Oil, Cananga Odorata (Ylang Ylang) Flower Oil, Panthenol (Vitamin B5), Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/Anti-irritations_3a2811de-68c9-45b8-beba-0e6917b32df1.png",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": {
+      "min": 3350.0,
+      "max": 3350.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-TOU-003",
+    "brand": "Touché",
+    "name": "Shampoing Anti-Psoriasis",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua (Water), Decyl Glucoside, Cocamidopropyl Betaine, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Origanum Vulgare Oil, Eucalyptus Globulus Leaf Oil, Citrus Limon (Lemon) Peel Oil, Lavandula Angustifolia (Lavender) Oil, Salvia Officinalis (Sage) Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ricinus Communis (Castor) Seed Oil, Hydrolyzed Keratin, Glycerin, Niacinamide, Salicylic Acid, Aloe Barbadensis Leaf Juice, Zanthoxylum Bungeanum Fruit Extract, Biotin, Imidazolidinyl Urea, Methylchloroisothiazolinone, Methylisothiazolinone, Xanthan Gum, Sodium Hydroxide",
+    "image": "https://www.touchelab.com/cdn/shop/files/shampoing-anti-pelllicu.png",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": {
+      "min": 3500.0,
+      "max": 3500.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-009",
+    "brand": "Touché",
+    "name": "Acide Salicylique 10% Ultra Pure",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Salicylic Acid (10%), Glycerin, Fragrance (Natural), Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/anti-imperfctions_2.png",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": {
+      "min": 1900.0,
+      "max": 1900.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-HSE-TOU-001",
+    "brand": "Touché",
+    "name": "Anti Chute",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Rosmarinus Officinalis (Rosemary) Leaf Water, Mentha Piperita (Peppermint) Leaf Water, Allium Sativum (Garlic) Oil, Ricinus Communis (Castor) Seed Oil, Sesamum Indicum (Sesame) Seed Oil, Linum Usitatissimum (Linseed) Seed Oil, Argania Spinosa (Argan) Kernel Oil, Cananga Odorata (Ylang Ylang) Flower Oil, Panthenol (Vitamin B5), Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Fragrance (Natural), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/AC1.png",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر"
+    ],
+    "price": {
+      "min": 1900.0,
+      "max": 1900.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-TOU-010",
+    "brand": "Touché",
+    "name": "Sérum Niacinamide 12% Ultra pure 30ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Niacinamide (10%), Zinc PCA (1%), Brassica Napus Seed Oil, Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Fragrance (Natural), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/Nicinamide-zinc_2.png",
+    "marketingClaims": [
+      "توازن إفراز الدهون",
+      "تنقية المسام"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SSE-TOU-011",
+    "brand": "Touché",
+    "name": "Anti Acné",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Corylus Avellana (Hazel) Seed Oil, MELALEUCA ALTERNIFOLIA LEAF OIL, Simmondsia Chinensis (Jojoba) Seed Oil, Nigella Sativa Seed Oil, Opuntia Ficus-Indica Seed Oil, Azadirachta Indica (Neem) Seed Oil, Tocopherol (Vitamin E), Geogard ECT (Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid), Fragrance (Natural), C12-15 Alkyl Benzoate (Merytol 318), Caprylic/Capric Triglyceride",
+    "image": "https://www.touchelab.com/cdn/shop/files/1_87581144-4130-4f63-92d0-64ab12114d09.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": {
+      "min": 2450.0,
+      "max": 2450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
   }
 ]
