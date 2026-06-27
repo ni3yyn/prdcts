@@ -11076,5 +11076,1252 @@
     "targetTypes": [
       "بشرة معرضة للحبوب"
     ]
+  },
+  {
+    "id": "US-SSE-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Hyaluronic Acid 2% + B5 (Original Formulation)",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Sodium Hyaluronate, Pentylene Glycol, Propanediol, Sodium Hyaluronate Crosspolymer, Panthenol, Ahnfeltia Concinna Extract, Glycerin, Trisodium Ethylenediamine Disuccinate, Citric Acid, Isoceteth-20, Ethoxydiglycol, Ethylhexylglycerin, Hexylene Glycol, 1,2-Hexanediol, Phenoxyethanol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw56cd0f2e/Images/products/The%20Ordinary/rdn-hyaluronic-acid-2pct-b5-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Niacinamide 5% Face and Body Emulsion",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Ethyl Macadamiate, Niacinamide, Propanediol, Glycerin, Sphingomonas Ferment Extract, Pentylene Glycol, Ethylhexyl Olivate, Polyglyceryl-4 Oleate, Sodium Acrylates Copolymer, Isoceteth-20, Sodium Citrate, Citric Acid, Malic Acid, Trisodium Ethylenediamine Disuccinate, Tocopherol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw435ebf8a/Images/products/The%20Ordinary/ORD-nia-5-face-body-100ml-packshot.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "توازن إفراز الدهون",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-002",
+    "brand": "The Ordinary",
+    "name": "Vitamin C Suspension 23% + HA Spheres 2%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Ascorbic Acid, Squalane, Isodecyl Neopentanoate, Isononyl Isononanoate, Coconut Alkanes, Ethylene/Propylene/Styrene Copolymer, Ethylhexyl Palmitate, Silica Dimethyl Silylate, Sodium Hyaluronate, Glucomannan, Coco-Caprylate/Caprate, Butylene/Ethylene/Styrene Copolymer, Acrylates/Ethylhexyl Acrylate Crosspolymer, Trihydroxystearin, Bht.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwd0597332/Images/products/The%20Ordinary/rdn-vitamin-c-suspension-23pct-ha-spheres-2pct-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-003",
+    "brand": "The Ordinary",
+    "name": "Rice Lipids + Ectoin Microemulsion",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water/Eau, Oryza Sativa (Rice) Lipids, Simmondsia Chinensis (Jojoba) Seed Oil, Ectoin, Hydrogenated Lecithin, Propanediol, Glycerin, Rhus Succedanea Fruit Wax, Glyceryl Glucoside, Sodium Hyaluronate, Allantoin, Urea, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Threonine, Arginine, Proline, PCA, Sodium PCA, Xylitylglucoside, Anhydroxylitol, Xylitol, Fructose, Glucose, Maltose, Trehalose, Betaine, Pentylene Glycol, Polyglyceryl-10 Laurate, Hydroxyacetophenone, Tocopherol, Sodium Chloride, Sodium Lactate, Sodium Citrate, Citric Acid, Sodium Hydroxide, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw97ea82d2/Images/products/The%20Ordinary/ord-rice-lipids-ectoin-microemulsion-60ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "إصلاح حاجز البشرة",
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-004",
+    "brand": "The Ordinary",
+    "name": "Ascorbyl Glucoside Solution 12%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Ascorbyl Glucoside, Propanediol, Aminomethyl Propanol, Triethanolamine, Isoceteth-20, Xanthan Gum, Dimethyl Isosorbide, Ethoxydiglycol, Trisodium Ethylenediamine Disuccinate, 1,2-Hexanediol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw345ba9db/Images/products/The%20Ordinary/rdn-ascorbyl-glucoside-solution-12pct-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-005",
+    "brand": "The Ordinary",
+    "name": "Retinol 0.5% in Squalane",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwf2a8fcd2/Images/products/The%20Ordinary/rdn-retinol-0-5pct-in-squalane-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-006",
+    "brand": "The Ordinary",
+    "name": "Alpha Arbutin 2% + HA",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Alpha-Arbutin, Propanediol, Polyacrylate Crosspolymer-6, Hydrolyzed Sodium Hyaluronate, Ergothioneine, Polysorbate 20, Citric Acid, Sodium Citrate, Sodium Hydroxide, Sodium Metabisulfite, Trisodium Ethylenediamine Disuccinate, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa689472f/Images/products/The%20Ordinary/FY25-D41247-ORD-Web-Alp-Arb-2pct-30ml-1x1-EN-1.jpg?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-007",
+    "brand": "The Ordinary",
+    "name": "Resveratrol 3% + Ferulic Acid 3%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Propanediol, Resveratrol, Ferulic Acid.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw096f2502/Images/products/The%20Ordinary/rdn-resveratrol-3pct-ferulic-acid-3pct-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مضاد للأكسدة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Glucoside Foaming Cleanser",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Decyl Glucoside, Coco Glucoside, Xanthan Gum, Tocopherol, Phytic Acid, Benzyl Alcohol, Ethylhexylglycerin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwf372b319/Images/products/The%20Ordinary/rdn-glucoside-foaming-cleanser-150ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-THEO-002",
+    "brand": "The Ordinary",
+    "name": "Sulfur 10% Powder-to-Cream Concentrate",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Glycerin, Propanediol, Silica Silylate, Sulfur, Aqua/Water/Eau, Carnitine, Niacinamide, Acacia Senegal Gum, Kaolin, Polylysine, Citric Acid, Sodium Citrate, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw86d342b0/Images/products/The%20Ordinary/ord-sulfur-10pct-powder-to-cream-concentrate-5g.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "US-SUN-THEO-001",
+    "brand": "The Ordinary",
+    "name": "UV Filters SPF 45 Serum",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water/Eau, Isododecane, Octocrylene, Dimethicone/Vinyl Dimethicone Crosspolymer, Homosalate, Butyloctyl Salicylate, Ethylhexyl Salicylate, Diethylhexyl 2,6-naphthalate, Tri(Polyglyceryl-3/Lauryl) Hydrogenated Trilinoleate, Butyl Methoxydibenzoylmethane, Poly C10-30 Alkyl Acrylate, Acetyl Carnosine, Biosaccharide Gum-2, Phospholipids, Sphingolipids, Glycerin, Propanediol, Pentylene Glycol, Magnesium Sulfate, p-Anisic acid, Sodium Citrate, Tocopherol, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwdbfb996a/Images/products/The%20Ordinary/ord-uv-filters-spf-45-serum-int-60ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-008",
+    "brand": "The Ordinary",
+    "name": "Soothing & Barrier Support Serum",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Centella Asiatica Phytotechnologies, Ceramides, Niacinamide, Vitamin B12, Ginger Root Extract, Rapeseed Sterols, Bisabolol, Epigallocatechin gallate",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw9e4e9531/Images/products/The%20Ordinary/SBSS%20PackShot.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مهدئ",
+      "إصلاح حاجز البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-009",
+    "brand": "The Ordinary",
+    "name": "Retinal 0.2% Emulsion",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Coco-Caprylate/Caprate, Propanediol, Pentylene Glycol, Hydroxyapatite, Retinal, Cetylhydroxyproline Palmitamide, 4-t-Butylcyclohexanol, Hydroxyphenyl Propamidobenzoic Acid, Ergothioneine, Biosaccharide Gum-1, Bisabolol, Brassica Campestris Sterols, Zingiber Officinale Root Extract, Butylene Glycol, Isohexadecane, Hexyldecanol, Maltodextrin, Caesalpinia Spinosa Gum, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Stearic Acid, Isoceteth-20, Polysorbate 60, Ascorbyl Palmitate, Tocopherol, Lactic Acid, Sodium Lactate, Sodium Hydroxide, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa863ca2c/Images/products/The%20Ordinary/ord-retinal-02-emulsion-15ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-THEO-002",
+    "brand": "The Ordinary",
+    "name": "Azelaic Acid Suspension 10%",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Isodecyl Neopentanoate, Dimethicone, Azelaic Acid, Dimethicone/Bis-Isobutyl Ppg-20 Crosspolymer, Dimethyl Isosorbide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysilicone-11, Isohexadecane, Tocopherol, Trisodium Ethylenediamine Disuccinate, Isoceteth-20, Polysorbate 60, Triethanolamine, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwedfce090/Images/products/The%20Ordinary/rdn-azelaic-acid-suspension-10pct-100ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد لحب الشباب",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-010",
+    "brand": "The Ordinary",
+    "name": "Volufiline 92% + Pal-Isoleucine 1%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Hydrogenated Polyisobutene, Caprylyl Glycol, Polyglyceryl-3 Stearate, Palmitoyl Isoleucine, Anemarrhena Asphodeloides Root Extract, Rhus Succedanea Fruit Wax, Tocopherol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwcc943d10/Images/products/The%20Ordinary/ord-volufiline-92-pal-isoleucine-1-15ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "شد البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-011",
+    "brand": "The Ordinary",
+    "name": "Balancing & Clarifying Serum",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Lactococcus Ferment Lysate, Propanediol, Potassium Azeloyl Diglycinate, Carnitine, Acetyl Glucosamine, Sarcosine, Ectoin, Adenosine, Polylysine, Silanetriol, Glycerin, Pentylene Glycol, Sclerotium Gum, Xanthan Gum, Isoceteth-20, Citric Acid, Sodium Citrate, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Ethylhexylglycerin, Sodium Benzoate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw50ee888c/Images/products/The%20Ordinary/ord-balancing-clarifying-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "توازن إفراز الدهون",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-012",
+    "brand": "The Ordinary",
+    "name": "Caffeine 3% + Escin 1% Face Serum",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water/Eau, Ethyl Macadamiate, Ethylhexyl Olivate, Caffeine, Propanediol, Glycerin, Maltodextrin, Escin, Bacillus Ferment, Pentylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Sodium Stearoyl Glutamate, Isoceteth-20, Xanthan Gum, Hydroxyethylcellulose, Citric Acid, Sodium Citrate, Sodium Hydroxide, Malic Acid, Trisodium Ethylenediamine Disuccinate, Tocopherol, Salicylic Acid, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw33ea054d/Images/products/The%20Ordinary/ord-caffeine-3pct-escin-1pct-face-serum-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "الهالات السوداء",
+      "الانتفاخات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-013",
+    "brand": "The Ordinary",
+    "name": "Pycnogenol 5%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Propanediol, Pinus Pinaster Bark Extract.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw01d1ded4/Images/products/The%20Ordinary/rdn-Pycnogenol-5pct-15ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مضاد للأكسدة",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-014",
+    "brand": "The Ordinary",
+    "name": "EUK 134 0.1%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Propanediol, Ethylbisiminomethylguaiacol Manganese Chloride.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw140fcd8e/Images/products/The%20Ordinary/rdn-euk-134-0-1pct-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-MSK-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Salicylic Acid 2% Masque",
+    "country": "USA",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Kaolin, Squalane, Glycerin, Dimethyl Isosorbide, Silica Cetyl Silylate, Salicylic Acid, Sodium Polyacrylate, Pentylene Glycol, Charcoal Powder, 4-T-Butylcyclohexanol, Sclerotium Gum, Acacia Senegal Gum, Xanthan Gum, Phytic Acid, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Chlorphenesin, Phenoxyethanol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw9d3b726b/Images/products/The%20Ordinary/rdn-salicylic-acid-2pct-masque-100ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-015",
+    "brand": "The Ordinary",
+    "name": "Retinol 1% in Squalane",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa8c028f4/Images/products/The%20Ordinary/rdn-retinol-1pct-in-squalane-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-016",
+    "brand": "The Ordinary",
+    "name": "Retinol 0.2% in Squalane",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Retinol, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, BHT.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw30e9d48b/Images/products/The%20Ordinary/rdn-retinol-0-2pct-in-squalane-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-TON-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Multi-Active Delivery Essence",
+    "country": "USA",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water/Eau, Glycerin, Propanediol, Sodium Caproyl Prolinate, Glycogen, Gellan Gum, Citric Acid, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwc63c2349/Images/products/The%20Ordinary/ord-multi-active-delivery-essence-100ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-017",
+    "brand": "The Ordinary",
+    "name": "Aloe 2% + NAG 2% Solution",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Propanediol, Glycerin, Dipropylene Glycol, Aloe Barbadensis Leaf Juice Powder, N-Acetyl Glucosamine, Palmitoyl Pentapeptide-4, Biosaccharide Gum-2, Pentylene Glycol, Xanthan Gum, Isoceteth-20, Hydroxymethoxyphenyl Decanone, Sodium Lactate, Lactic Acid, Sodium Hydroxide, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw4bf58faa/Images/products/The%20Ordinary/rdn-aloe-2pct-nag-2pct-solution-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-018",
+    "brand": "The Ordinary",
+    "name": "Marine Hyaluronics",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Algae Extract, Pseudoalteromonas Exopolysaccharides, Pseudoalteromonas Ferment Extract, Ahnfeltia Concinna Extract, Arginine, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Aspartic Acid, PCA, Sodium PCA, Sodium Lactate, Salicylic Acid, Citric Acid, Propanediol, Dimethyl Isosorbide, Ethoxydiglycol, Polysorbate 20, Potassium Sorbate, Sodium Salicylate, Sodium Benzoate, Hexylene Glycol, 1,2-Hexanediol, Phenoxyethanol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw0a9c4f42/Images/products/The%20Ordinary/rdn-marine-hyaluronics-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-BWA-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Sulphate 4% Cleanser for Body and Hair",
+    "country": "USA",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Polysorbate 20, Xanthan Gum, Tocopherol, Phytic Acid, Trisodium Ethylenediamine Disuccinate, Benzyl Alcohol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwe3ff4b7d/Images/products/The%20Ordinary/rdn-4pct-sulphate-cleanser-for-body-and-hair-240ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-019",
+    "brand": "The Ordinary",
+    "name": "Lactic Acid 10% + HA",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Lactic Acid, Glycerin, Pentylene Glycol, Propanediol, Sodium Hydroxide, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Acacia Senegal Gum, Xanthan Gum, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa3282a3d/Images/products/The%20Ordinary/rdn-lactic-acid-10pct-ha-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-020",
+    "brand": "The Ordinary",
+    "name": "Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Coconut Alkanes, Tetrahexyldecyl Ascorbate, Ethyl Linoleate, Coco-Caprylate/Caprate, Simmondsia Chinensis (Jojoba) Seed Oil, Solanum Lycopersicum (Tomato) Fruit Extract, Squalane.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwc0556b70/Images/products/The%20Ordinary/rdn-ascorbyl-tetraisopalmitate-solution-20pct-in-vitamin-f-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-THEO-003",
+    "brand": "The Ordinary",
+    "name": "Lash Curl Finisher",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Isododecane, Squalane, Ethylene/Propylene/Styrene Copolymer, Acrylates/Dimethicone Copolymer, VP/Eicosene Copolymer, Trihydroxystearin, Butylene/Ethylene/Styrene Copolymer, Glycerin, Tocopherol, BHT, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwe59f1b93/Images/products/The%20Ordinary/ord-lash-curl-finisher-10ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-THEO-004",
+    "brand": "The Ordinary",
+    "name": "PHA 5% Exfoliating Lip Serum",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Glycerin, Aqua/Water/Eau, Gluconolactone, Ectoin, Daucus Carota Sativa (Carrot) Juice, Citric Acid, Malic Acid, Tartaric Acid, Sodium Hydroxide, Xanthan Gum, Potassium Sorbate, Sodium Benzoate.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwce4d9afa/Images/products/The%20Ordinary/ord-pha-5pct-lip-exfoliating-serum-15ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-021",
+    "brand": "The Ordinary",
+    "name": "Amino Acids + B5",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Propanediol, Betaine, Sodium PCA, Panthenol, Sodium Lactate, Arginine, PCA, Aspartic Acid, Glycine, Alanine, Serine, Threonine, Valine, Proline, Isoleucine, Lysine HCl, Histidine, Phenylalanine, Glutamic Acid, Citric Acid, Dimethyl Isosorbide, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, 1,2-Hexanediol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwd2f9b3dc/Images/products/The%20Ordinary/rdn-amino-acids-b5-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "إصلاح حاجز البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-THEO-003",
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + HA",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Cetyl Alcohol, Propanediol, Stearyl Alcohol, Glycerin, Sodium Hyaluronate, Arginine, Aspartic Acid, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glucose, Maltose, Fructose, Trehalose, Sodium PCA, PCA, Sodium Lactate, Urea, Allantoin, Linoleic Acid, Oleic Acid, Phytosteryl Canola Glycerides, Palmitic Acid, Stearic Acid, Lecithin, Triolein, Tocopherol, Carbomer, Isoceteth-20, Polysorbate 60, Sodium Chloride, Citric Acid, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Triethanolamine, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw51f90af8/Images/products/The%20Ordinary/rdn-natural-moisturizing-factors-ha-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CON-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Behentrimonium Chloride 2% Conditioner",
+    "country": "USA",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Cetearyl Alcohol, Behentrimonium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Phytic Acid, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwa149681c/Images/products/The%20Ordinary/rdn-behentrimonium-chloride-2pct-conditioner-240ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-022",
+    "brand": "The Ordinary",
+    "name": "Multi-Peptide + HA Serum",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Lactococcus Ferment Lysate, Acetyl Hexapeptide-8, Pentapeptide-18, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-38, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Acetylarginyltryptophyl Diphenylglycine, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Allantoin, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Arginine, Aspartic Acid, Trehalose, Fructose, Glucose, Maltose, Urea, Sodium PCA, PCA, Sodium Lactate, Citric Acid, Hydroxypropyl Cyclodextrin, Sodium Chloride, Sodium Hydroxide, Butylene Glycol, Pentylene Glycol, Acacia Senegal Gum, Xanthan Gum, Carbomer, Polysorbate 20, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Ethoxydiglycol, Sodium Benzoate, Caprylyl Glycol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw68423659/Images/products/The%20Ordinary/rdn-multi-peptide-ha-serum-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-023",
+    "brand": "The Ordinary",
+    "name": "Hyaluronic Acid 2% + B5 (with Ceramides)",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Hyaluronic acid, ceramides, pro-vitamin B5",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw67286abd/Images/products/The%20Ordinary/ord-hyaluronic-acid-2pct-B5-30ml-Clr-Acu.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف",
+      "إصلاح حاجز البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-TON-THEO-002",
+    "brand": "The Ordinary",
+    "name": "Glycolic Acid 7% Exfoliating Toner",
+    "country": "USA",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Glycolic Acid, Aloe Barbadensis Leaf Water, Panax Ginseng Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw8b57fa2b/Images/products/The%20Ordinary/ord-glyc-acid-7pct-100ml-Aug-UPC.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير",
+      "تفتيح البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-THEO-002",
+    "brand": "The Ordinary",
+    "name": "Squalane Cleanser",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Sucrose Stearate, Ethyl Macadamiate, Sucrose Laurate",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwc2d7f1a8/Images/products/The%20Ordinary/rdn-squalane-cleanser-50ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-024",
+    "brand": "The Ordinary",
+    "name": "Granactive Retinoid 2% Emulsion",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Ethyl Linoleate, Propanediol, Dimethyl Isosorbide, Cetearyl Isononanoate, Bisabolol, Hydroxypinacolone Retinoate, Retinol, Tasmannia Lanceolata Fruit/Leaf Extract, Inulin Lauryl Carbamate, Glyceryl Stearate, Ceteareth-12, Ceteareth-20, Cetearyl Alcohol, Carrageenan, Xanthan Gum, Acacia Senegal Gum, Cetyl Palmitate, Sucrose Laurate, Polysorbate 20, Isoceteth-20, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone, Behentrimonium Chloride, Trisodium Ethylenediamine Disuccinate, Disodium Edta, Dehydroacetic Acid, Benzoic Acid, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw66368c91/Images/products/The%20Ordinary/rdn-granactive-retinoid-2pct-emulsion-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تجديد البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-025",
+    "brand": "The Ordinary",
+    "name": "Matrixyl 10% + HA",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-38, Sodium Hyaluronate, Hydroxypropyl Cyclodextrin, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Trisodium Ethylenediamine Disuccinate, Carbomer, Polysorbate 20, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwe106ffc9/Images/products/The%20Ordinary/rdn-matrixyl-10pct-ha-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-HSE-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + HA for Scalp",
+    "country": "USA",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Squalane, C12-13 Alkyl Glyceryl Hydrolyzed Hyaluronate, Arginine, Aspartic Acid, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Glutamic Acid, Glucose, Fructose, Sucrose, PCA, Sodium PCA, Zinc PCA, Magnesium PCA, Manganese PCA, Urea, Sodium Lactate, Lactic Acid, Hexyl Nicotinate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Isoceteth-20, Dextrin, Hexylene Glycol, Potassium Sorbate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwad3fe7aa/Images/products/The%20Ordinary/rdn-hair-care-natural-moisturizing-factors-ha-60ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "ترطيب مكثف",
+      "تنقية فروة الرأس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-026",
+    "brand": "The Ordinary",
+    "name": "AHA 30% + BHA 2% Peeling Solution",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Glycolic Acid, Aqua (Water), Aloe Barbadensis Leaf Water, Sodium Hydroxide, Daucus Carota Sativa Extract, Propanediol, Cocamidopropyl Dimethylamine, Salicylic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Panthenol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Glycerin, Pentylene Glycol, Xanthan Gum, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwdf7a6213/Images/products/The%20Ordinary/rdn-aha-30pct-bha-2pct-peeling-solution-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-OTH-THEO-005",
+    "brand": "The Ordinary",
+    "name": "Squalane + Amino Acids Lip Balm",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Sorbitan Olivate, Aqua (Water), Trihydroxystearin, Betaine, Jojoba Esters, Helianthus Annuus Seed Wax, Sodium PCA, PCA, Serine, Alanine, Arginine, Proline, Glycine, Glutamic Acid, Lysine HCl, Threonine, Sodium Lactate, Adansonia Digitata Seed Oil, Caprylic/Capric Triglyceride, Acacia Decurrens Flower Wax, Polyglycerin-3, Hydroxymethoxyphenyl Decanone, Tocopherol, Calcium Gluconate, Gluconolactone, Sodium Benzoate.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw99c8c0a6/Images/products/The%20Ordinary/ord-squalane-amino-acids-lip-balm-15ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-THEO-006",
+    "brand": "The Ordinary",
+    "name": "Serum Foundation",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Cyclopentasiloxane, Aqua/Water/Eau, Caprylyl Methicone, Coconut Alkanes, Trimethylsiloxysilicate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Coco Caprylate/Caprate, Dimethicone/PEG-10/15 Crosspolymer, Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone, Dipropylene Glycol, Tocopherol, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Hectorite, Sodium Chloride, Hexyl Laurate, Dimethicone/Vinyl Dimethicone Crosspolymer, PEG-10 Dimethicone, Stearic Acid, Methyl Methacrylate Crosspolymer, Alumina, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin. May Contain [+/-]: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Tin Oxide, Aluminum Hydroxide, Bismuth Oxychloride (CI 77163), Mica, Magnesium Stearate, Triethoxycaprylylsilane.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw60f28d4c/Images/products/The%20Ordinary/Colours/rdn-serum-foundation-31-y-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-EYE-THEO-001",
+    "brand": "The Ordinary",
+    "name": "Multi-Peptide Eye Serum",
+    "country": "USA",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol, Propanediol, Dipropylene Glycol, Acetyl Glucosamine, Niacinamide, Palmitoyl Tripeptide-38, Acetyl Tetrapeptide-5, Myristoyl Nonapeptide-3, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Caffeine, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Fraxinus Excelsior Bark Extract, Silanetriol, Arginine, Pentylene Glycol, Hydroxymethoxyphenyl Decanone, Propyl Gallate, Maltodextrin, Hydroxypropyl Cyclodextrin, Hydroxyethylcellulose, Xanthan Gum, Citric Acid, Glycolic Acid, Sodium Citrate, Polysorbate 20, Trisodium Ethylenediamine Disuccinate, Dehydroacetic Acid, Ethylhexylglycerin, Benzyl Alcohol, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw9d7fd4b6/Images/products/The%20Ordinary/FY25-D41247-ORD-Web-PDP-Mlt-Pptd-Eye-1x1-EN-1.jpg?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "الهالات السوداء",
+      "الانتفاخات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-027",
+    "brand": "The Ordinary",
+    "name": "Granactive Retinoid 5% in Squalane",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, C12-15 Alkyl Benzoate, Bisabolol, Dimethyl Isosorbide, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Hydroxypinacolone Retinoate, Solanum Lycopersicum (Tomato) Fruit Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydroxymethoxyphenyl Decanone.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw9817555f/Images/products/The%20Ordinary/rdn-granactive-retinoid-5pct-in-squalane-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تجديد البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-THEO-007",
+    "brand": "The Ordinary",
+    "name": "Soothing & Barrier Support Serum Set",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Propanediol, Isodecyl Neopentanoate, Pentylene Glycol, Niacinamide, Hexyldecanol, Cetearyl Alcohol, Xylitylglucoside, Ceteth-20 Phosphate, Anhydroxylitol, Ethyl Linoleate, Asiaticoside, Asiatic Acid, Madecassic Acid, Naringenin, Cyanocobalamin, Panthenyl Triacetate, 4-T-Butylcyclohexanol, Hydroxyphenyl Propamidobenzoic Acid, Cetylhydroxyproline Palmitamide, Bisabolol, Brassica Campestris Sterols, Sphingolipids, Phospholipids, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Propyl Gallate, Xylitol, Zingiber Officinale Root Extract, Stearic Acid, Dicetyl Phosphate, Isoceteth-20, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Tocopherol, Dehydroacetic Acid, P-Anisic Acid, Phytic Acid, Sodium Phytate, Sodium Citrate, Sodium Hydroxide, Benzyl Alcohol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw46324f4d/Images/products/The%20Ordinary/ord-soothing-barrier-support-serum-gift-set.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مهدئ",
+      "إصلاح حاجز البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-028",
+    "brand": "The Ordinary",
+    "name": "Argireline Solution 10%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Propanediol, Acetyl Hexapeptide-8, Trisodium Ethylenediamine Disuccinate, Gellan Gum, Sodium Chloride, Isoceteth-20, Dimethyl Isosorbide, Potassium Sorbate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw2cc2fd64/Images/products/The%20Ordinary/FY25-D41247-ORD-Web-Argl-10pct-1x1-EN-1.jpg?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-029",
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Niacinamide, Pentylene Glycol, Zinc PCA, Dimethyl Isosorbide, Tamarindus Indica Seed Gum, Xanthan Gum, Isoceteth-20, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwce8a7cdf/Images/products/The%20Ordinary/rdn-niacinamide-10pct-zinc-1pct-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "توازن إفراز الدهون",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "US-CLE-THEO-003",
+    "brand": "The Ordinary",
+    "name": "Glycolipid Cream Cleanser",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Behenyl Alcohol, Polyglyceryl-2 Stearate, Glycolipids, Pentylene Glycol, Polyglyceryl-6 Dicaprate, Glyceryl Stearate, Stearyl Alcohol, Diutan Gum, Polyacrylate Crosspolymer-6, Sodium Phytate, Phytic Acid, Trisodium Ethylenediamine Disuccinate, Sodium Benzoate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwe8ac30c1/Images/products/The%20Ordinary/rdn-glycolipid-cream-cleanser-150ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-TON-THEO-003",
+    "brand": "The Ordinary",
+    "name": "Saccharomyces Ferment 30% Milky Toner",
+    "country": "USA",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Yeast Extract, Squalane, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw335816bb/Images/products/The%20Ordinary/ord-saccharomyce-ferment-milky-toner-100ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-THEO-004",
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + Inulin Body Lotion",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Inulin, Propanediol, Isodecyl Neopentanoate, Arachidyl Alcohol, Rhus Succedanea Fruit Wax, Sodium Hyaluronate, Arginine, Glycine, Alanine, Serine, Proline, Threonine, Glutamic Acid, Lysine HCl, Betaine, Sodium PCA, PCA, Xylitylglucoside, Anhydroxylitol, Xylitol, Glucose, Maltose, Fructose, Sucrose, Trehalose, Sodium Lactate, Urea, Allantoin, Behenyl Alcohol, Arachidyl Glucoside, Pentylene Glycol, Polyacrylate Crosspolymer-6, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Tocopherol, Citric Acid, Sodium Hydroxide, Sodium Chloride, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw3c2f2aea/Images/products/The%20Ordinary/ord-natural-moisturizing-factors-inulin-body-lotion-240ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-THEO-005",
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + Beta Glucan",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), PPG-24-Glycereth-24, Propanediol, Betaine, Beta-Glucan, Arginine, Glycine, Alanine, Serine, Proline, Threonine, Glutamic Acid, Lysine HCl, Glucose, Maltose, Fructose, Trehalose, Xylitol, Anhydroxylitol, Xylitylglucoside, Sodium PCA, PCA, Sodium Lactate, Urea, Allantoin, Sodium Hyaluronate, Phospholipids, Sphingolipids, Glycerin, Pentylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Sodium Chloride, Sodium Citrate, Citric Acid, Tocopherol, P-Anisic Acid, Aminomethyl Propanol, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwf7afd35c/Images/products/The%20Ordinary/ord-nmf-bg-30mL-packshot-Resized.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "إصلاح حاجز البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-030",
+    "brand": "The Ordinary",
+    "name": "Multi-Antioxidant Radiance Serum",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water/Eau, Propanediol, Ascorbyl Glucoside, Ergothioneine, Epigallocatechin Gallatyl Glucoside, Acetyl Tetrapeptide-2, Heptapeptide-6, Tocotrienols, Tremella Fuciformis Sporocarp Extract, Sphingomonas Ferment Extract, Panax Ginseng Root Extract, Bixa Orellana Seed Extract, Glycerin, Isoceteth-20, Citric Acid, Sodium Citrate, Sodium Hydroxide, Caprylyl Glycol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwade40aeb/Images/products/The%20Ordinary/ORD-Product-MARS-Packshot.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مضاد للأكسدة",
+      "توحيد لون البشرة",
+      "نضارة وإشراق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-031",
+    "brand": "The Ordinary",
+    "name": "GF 15% Solution",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua/Water/Eau, Butylene Glycol, Nicotiana Benthamiana Hexapeptide-40 sh-Oligopeptide-1, Nicotiana Benthamiana Hexapeptide-40 sh-Polypeptide-76, Nicotiana Benthamiana Octapeptide-30 sh-Oligopeptide-2, Sclerotium Gum, Glycerin, Trisodium Ethylenediamine Disuccinate, Citric Acid, Sodium Citrate, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwb99bbad3/Images/products/The%20Ordinary/ORD-gf-15-pct-packshot.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-032",
+    "brand": "The Ordinary",
+    "name": "Salicylic Acid 2% Anhydrous Solution",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Caprylic/Capric Triglyceride, Pentylene Glycol, Salicylic Acid, Oleic/Linoleic/Linolenic Polyglycerides, 4-t-Butylcyclohexanol, Hydroxymethoxyphenyl Decanone, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwdd7cf5fb/Images/products/The%20Ordinary/rdn-salicylic-anhydrous-solution-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-HSE-THEO-002",
+    "brand": "The Ordinary",
+    "name": "Multi-Peptide Lash and Brow Serum",
+    "country": "USA",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol, Myristoyl Pentapeptide-17, Biotinoyl Tripeptide-1, Oligopeptide-2, Acetyl Tetrapeptide-3, Caffeine, Panthenol, Arginine, Glycine, Glycoproteins, Larix Europaea Wood Extract, Trifolium Pratense Flower Extract, Camellia Sinensis Leaf Extract, Dextran, Maltodextrin, Zinc Chloride, Hydroxyethylcellulose, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Polysorbate 20, Sodium Metabisulfite, Caprylyl Glycol, 1,2-Hexanediol, Sodium Benzoate, Benzoic Acid, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw0fd80738/Images/products/The%20Ordinary/rdn-multi-peptide-lash-and-brow-serum-eu-5ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تكثيف الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-THEO-033",
+    "brand": "The Ordinary",
+    "name": "Multi-Peptide + Copper Peptides 1% Serum",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Glycerin, Lactococcus Ferment Lysate, Copper Tripeptide-1, Acetyl Hexapeptide-8, Pentapeptide-18, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-38, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Acetylarginyltryptophyl Diphenylglycine, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Allantoin, Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Arginine, Aspartic Acid, Trehalose, Fructose, Glucose, Maltose, Urea, Sodium Pca, Pca, Sodium Lactate, Citric Acid, Hydroxypropyl Cyclodextrin, Sodium Chloride, Sodium Hydroxide, Butylene Glycol, Pentylene Glycol, Acacia Senegal Gum, Xanthan Gum, Carbomer, Polysorbate 20, Dimethyl Isosorbide, Sodium Benzoate, Caprylyl Glycol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwc59c3eaf/Images/products/The%20Ordinary/rdn-multi-peptide-copper-peptides-1pct-serum-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تجديد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-THEO-006",
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + PhytoCeramides",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Cetyl Ethylhexanoate, Isodecyl Neopentanoate, Glycerin, Propanediol, Polyglyceryl-6 Polyricinoleate, Hydrogenated Vegetable Oil, Polyglyceryl-2 Isostearate, Isosorbide Dicaprylate, Disteardimonium Hectorite, Phytosteryl Canola Glycerides, Glycosphingolipids, Glycolipids, Linoleic Acid, Oleic Acid, Palmitic Acid, Stearic Acid, Arginine, Glycine, Alanine, Serine, Proline, Threonine, Glutamic Acid, Lysine HCl, Betaine, Xylitylglucoside, Anhydroxylitol, Xylitol, Glucose, Maltose, Fructose, Trehalose, Sodium PCA, PCA, Sodium Lactate, Urea, Allantoin, Sodium Hyaluronate, Lecithin, Triolein, Dimethyl Isosorbide, Pentylene Glycol, Tocopherol, Hydroxymethoxyphenyl Decanone, Citric Acid, Trisodium Ethylenediamine Disuccinate, Magnesium Sulfate, Sodium Chloride, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw0f806e78/Images/products/The%20Ordinary/FY25-D41247-ORD-Web-PDP-NMF-PC-30ml-1x1-EN-1.jpg?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف",
+      "إصلاح حاجز البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-034",
+    "brand": "The Ordinary",
+    "name": "Salicylic Acid 2% Solution",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Saccharide Isomerate, Cocamidopropyl Dimethylamine, Salicylic Acid, Hydroxyethylcellulose, Polysorbate 20, Citric Acid, Sodium Citrate, Sodium Hydroxide, Phenoxyethanol, Chlorphenesin.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwcece52fb/Images/products/The%20Ordinary/rdn-salicylic-acid-2pct-solution-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-SSE-THEO-035",
+    "brand": "The Ordinary",
+    "name": "Lactic Acid 5% + HA",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Water), Lactic Acid, Glycerin, Pentylene Glycol, Propanediol, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract, Acacia Senegal Gum, Xanthan Gum, Isoceteth-20, Trisodium Ethylenediamine Disuccinate, Sodium Hydroxide, Ethylhexylglycerin, 1,2-Hexanediol, Caprylyl Glycol.",
+    "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dwff3b7bf8/Images/products/The%20Ordinary/rdn-lactic-acid-5pct-ha-30ml.png?sw=900&sh=900&sm=fit",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
+
 ]
