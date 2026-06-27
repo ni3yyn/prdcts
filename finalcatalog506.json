@@ -485,25 +485,6 @@
     "targetTypes": []
   },
   {
-    "id": "FR-LOT-BIO-005",
-    "brand": "Bioderma",
-    "name": "Créaline Défensive",
-    "country": "France",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "40 ml",
-    "ingredients": "water, GLYCERIN, DICAPRYLYL ETHER, PROPYLHEPTYL CAPRYLATE, BUTYLENE GLYCOL, GLYCERYL STEARATE CITRATE, GLYCOL PALMITATE, SQUALANE, SUCROSE STEARATE, MANGIFERA INDICA (MANGO) SEED BUTTER, PENTYLENE GLYCOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CAPRYLYL GLYCOL, CARNOSINE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, MANNITOL, XYLITOL, TOCOPHEROL, SALVIA MILTIORRHIZA FLOWER/LEAF/ROOT EXTRACT, RHAMNOSE, GLYCINE SOJA (SOYBEAN) OIL, POLYSORBATE 60, SORBITAN ISOSTEARATE, PALMITOYL TETRAPEPTIDE-10. [BI 2012]",
-    "image": "https://images.openbeautyfacts.org/images/products/370/112/980/4445/front_fr.3.400.jpg",
-    "marketingClaims": [
-      "moisturizing"
-    ],
-    "price": null,
-    "targetTypes": []
-  },
-  {
     "id": "FR-LOT-URI-003",
     "brand": "Uriage",
     "name": "ROSELIANE CC Cream SPF50+",
@@ -3358,46 +3339,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
-    "id": "FR-SUN-BIO-002",
-    "brand": "Bioderma",
-    "name": "Photoderm Max SPF 50+ - Aquafluide",
-    "country": "France",
-    "category": {
-      "id": "sunscreen",
-      "label": "واقي شمس",
-      "icon": "sun"
-    },
-    "quantity": "40 ml",
-    "ingredients": "water, DICAPRYLYL CARBONATE, OCTOCRYLENE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], BUTYL METHOXYDIBENZOYLMETHANE, GLYCERIN, METHYL METHACRYLATE CROSSPOLYMER, CYCLOHEXASILOXANE, CYCLOPENTASILOXANE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, POLYMETHYLSILSESQUIOXANE, METHYLPROPANEDIOL, HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, DECYL GLUCOSIDE, GLYCERYL STEARATE CITRATE, PENTYLENE GLYCOL, MICROCRYSTALLINE CELLULOSE, C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, DISODIUM EDTA, XANTHAN GUM, MANNITOL, XYLITOL, SODIUM HYDROXIDE, CELLULOSE GUM, RHAMNOSE, PROPYLENE GLYCOL, CITRIC ACID, ECTOIN, TOCOPHEROL",
-    "image": "https://images.openbeautyfacts.org/images/products/340/156/119/7715/front_fr.4.400.jpg",
-    "marketingClaims": [
-      "moisturizing"
-    ],
-    "price": {
-      "min": 3500,
-      "max": 3500,
-      "currency": "DZD"
-    },
-    "targetTypes": []
-  },
-  {
-    "id": "FR-ORE-BIO-001",
-    "brand": "BIODERMA",
-    "name": "Atoderm huile de douche",
-    "country": "France",
-    "category": {
-      "id": "oil_replacement",
-      "label": "بديل الزيت",
-      "icon": "water"
-    },
-    "quantity": "200ml",
-    "ingredients": "water, glycerin, PEG-7 glyceryl cocoate, sodium cocoamphoacetate, lauryl glucoside, coco-glucoside, glyceryl oleate, citric acid, PEG-90 glyceryl isostearate, fragrance (parfum), mannitol, polysorbate 20, xylitol, laureth-2, rhamnose, niacinamide, fructooligosaccharides, tocopherol, hydrogenated palm glycerides citrate, lecithin,ascorbyl palmitate.",
-    "image": "https://www.bioderma.be/sites/be/files/styles/product_packshot_slider/public/products/%7B151306%7D_%7B%7D_%7B28138G%7D.jpg?itok=3IBBBOTw",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
-  },
+  
   {
     "id": "FR-OTH-BIO-001",
     "brand": "Bioderma",
@@ -3418,23 +3360,6 @@
     "targetTypes": []
   },
   {
-    "id": "FR-LOT-BIO-004",
-    "brand": "Bioderma",
-    "name": "Atoderm lèvres",
-    "country": "France",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "",
-    "ingredients": "Mineral oil (paraffinum liquidum), paraffin, microchrystalline wax (cera microchrystallina), synthetic wax, butyrospernum parkii (shea) butter, lauryl PCA, beeswax (cera alba), topopherol, lecithin, arachidyl propionate, topopheryl acetate, retinyl palmitate, ethyl linolenate, BHT, ethyl linoleate, ethyl oleate, laminaria ochroleuca extract, octyldodecanol, capryl/capric triglyceride, fragrance (parfum)",
-    "image": "https://images.openbeautyfacts.org/images/products/340/139/937/2346/front_fr.6.400.jpg",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
-  },
-  {
     "id": "FR-LOT-BIO-003",
     "brand": "Bioderma",
     "name": "Atoderm Crème de douche",
@@ -3450,23 +3375,6 @@
     "marketingClaims": [
       "moisturizing"
     ],
-    "price": null,
-    "targetTypes": []
-  },
-  {
-    "id": "FR-LOT-BIO-002",
-    "brand": "Bioderma",
-    "name": "Cicabio crème",
-    "country": "France",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "100 ml",
-    "ingredients": "water, GLYCERIN, ETHYLHEXYL PALMITATE, FRUCTOOLIGOSACCHARIDES, ZINC OXIDE, OCTYLDODECANOL, BUTYLENE GLYCOL, POLYACRYLAMIDE, MANNITOL, XYLITOL, RHAMNOSE, LAMINARIA OCHROLEUCA EXTRACT, COPPER SULFATE, ZINC SULFATE, SODIUM HYALURONATE, VITIS VINIFERA (GRAPE) VINE EXTRACT, ASIATICOSIDE, ASIATIC ACID, MADECASSIC ACID, C13-14 ISOPARAFFIN, OCTYLDODECYL XYLOSIDE, PEG-30 DIPOLYHYDROXYSTEARATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAURETH-7, LAURETH-3, HYDROXYETHYLCELLULOSE, ACETYL DIPEPTIDE-1 CETYL ESTER, POTASSIUM SORBATE. [BI 561]",
-    "image": "https://images.openbeautyfacts.org/images/products/340/139/716/3496/front_fr.10.400.jpg",
-    "marketingClaims": [],
     "price": null,
     "targetTypes": []
   },
@@ -4992,29 +4900,6 @@
     "marketingClaims": [],
     "price": null,
     "targetTypes": []
-  },
-  {
-    "id": "FR-LOT-BIO-001",
-    "brand": "Bioderma",
-    "name": "Sébium sensitive",
-    "country": "France",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "30 ml",
-    "ingredients": "water, glycerin, methyl methacrylate crosspolymer, dipropylene glycol, zinc gluconate, coco-caprylate/caprate, vinyl dimethicone/methicone silsesquioxane crosspolymer, caprylic/capric triglyceride, arachidyl alcohol, behenyl alcohol, polyacrylate crosspolymer-6, sodium polyacrylate, glycyrrhetinic acid, propylene glycol, arachidyl glucoside, bakuchiol, laminaria ochroleuca extract, mannitol, xylitol, sodium metabisulfite, rhamnose, ginkgo bilboa leaf extract, tocopherol, fructooligosaccharides, fragrance (parfum).",
-    "image": "https://images.openbeautyfacts.org/images/products/000/000/601/0699/front_fr.7.400.jpg",
-    "marketingClaims": [
-      "moisturizing",
-      "pore_minimizing"
-    ],
-    "price": null,
-    "targetTypes": [
-      "بشرة حساسة",
-      "بشرة مختلطة"
-    ]
   },
   {
     "id": "FR-SHA-YVE-002",
@@ -9524,33 +9409,6 @@
     "targetTypes": []
   },
   {
-    "id": "FR-CLE-BIOD-001",
-    "brand": "Bioderma",
-    "name": "Sébium Gel moussant",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774481302/eu98cndwbmnfhlaugkil.jpg",
-    "ingredients": "​Aqua, ​Sodium Cocoamphoacetate, ​Sodium Laureth Sulfate, ​Methylpropanediol, ​Disodium EDTA, ​Lactic Acid, ​Zinc Sulfate, ​Sodium Chloride, ​Copper Sulfate, ​Potassium Sorbate, ​Xylitol,  ​Fructooligosaccharides,  ​Mannitol,  ​Rhamnose,  ​Propylene Glycol,  ​Sodium Hydroxide,  ​Ginkgo Biloba Leaf Extract,  ​Fragrance (Parfum)",
-    "country": "France",
-    "category": {
-      "id": "cleanser",
-      "label": "غسول وجه",
-      "icon": "soap"
-    },
-    "quantity": "200",
-    "price": {
-      "min": 2700,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "combination_skin",
-      "oily_skin"
-    ],
-    "marketingClaims": [
-      "للبشرة الدهنية",
-      "تنظيف لطيف"
-    ]
-  },
-  {
     "id": "DZ-LOT-PEA-001",
     "brand": "Peau Parfaite",
     "name": "Olive Cream Crème restructurante Anti-irritation, Protectrice",
@@ -12322,6 +12180,1630 @@
     ],
     "price": null,
     "targetTypes": []
-  }
-
+  },
+  {
+    "id": "FR-LOT-BIO-001",
+    "brand": "Bioderma",
+    "name": "Atoderm 2-In-1 Oil",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "C15-19 ALKANE, SQUALANE, TRIDECYL TRIMELLITATE, DI-C12-13 ALKYL MALATE, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, LIMNANTHES ALBA (MEADOWFOAM) SEED OIL, PONGAMIA GLABRA SEED OIL, FRAGRANCE (PARFUM), PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CERAMIDE NP, TOCOPHEROL, BIXA ORELLANA SEED EXTRACT. [BI2081]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156649%7D_%7B%7D_%7B28148%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-002",
+    "brand": "Bioderma",
+    "name": "Sensibio AR+ Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, C15-19 ALKANE, C10-18 TRIGLYCERIDES, DIPROPYLENE GLYCOL, GLYCERYL STEARATE CITRATE, HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX, PENTYLENE GLYCOL, SQUALANE, SUCROSE STEARATE, CORN STARCH MODIFIED, COCOS NUCIFERA (COCONUT) OIL, MALTOOLIGOSYL GLUCOSIDE, GLYCERYL CAPRYLATE/CAPRATE, SCLEROTIUM GUM, GLYCYRRHETINIC ACID, HYDROGENATED STARCH HYDROLYSATE, XANTHAN GUM, 1-METHYLHYDANTOIN-2-IMIDE, PHYTOSPHINGOSINE, SODIUM CITRATE, CITRIC ACID, MANNITOL, XYLITOL, O-CYMEN-5-OL, BENZOTRIAZOLYL DODECYL P-CRESOL, RHAMNOSE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL. [BI2087]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151471%7D_%7B%7D_%7B28688B%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-001",
+    "brand": "Bioderma",
+    "name": "Photoderm PEDIATRICS Mineral SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, ZINC OXIDE [NANO], CAPRYLIC/CAPRIC TRIGLYCERIDE, TITANIUM DIOXIDE [NANO], GLYCERIN, C15-19 ALKANE, C13-15 ALKANE, SILICA, SQUALANE, GLYCERYL ISOSTEARATE, DISTEARDIMONIUM HECTORITE, POLYGLYCERYL-3 POLYRICINOLEATE, PENTYLENE GLYCOL, PRUNUS ARMENIACA (APRICOT) KERNEL OIL, POLYHYDROXYSTEARIC ACID, TOCOPHEROL, SODIUM CHLORIDE, SODIUM CITRATE, GLYCINE SOJA (SOYBEAN) OIL, CITRIC ACID. [BI2034]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/mobile_image_text/public/products/Ecobio_Photoderm.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-002",
+    "brand": "Bioderma",
+    "name": "Photoderm Spray SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DICAPRYLYL CARBONATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], DIISOPROPYL SEBACATE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL TRIAZONE, GLYCERIN, DECYL GLUCOSIDE, METHYLPROPANEDIOL, C20-22 ALKYL PHOSPHATE, ETHYLHEXYL METHOXYCRYLENE, C20-22 ALCOHOLS, PENTYLENE GLYCOL, MICROCRYSTALLINE CELLULOSE, DISODIUM EDTA, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, MANNITOL, XYLITOL, PROPYLENE GLYCOL, CELLULOSE GUM, CITRIC ACID, SODIUM HYDROXIDE, RHAMNOSE, XANTHAN GUM, ECTOIN, TOCOPHEROL, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT. [BI518]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157168%7D_%7B%7D_%7B28556B%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-BIO-003",
+    "brand": "Bioderma",
+    "name": "Atoderm Intensive Balm Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, PARAFFINUM LIQUIDUM/MINERAL OIL/HUILE MINERALE, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, BEHENYL ALCOHOL, CANOLA/CANOLA OIL/HUILE DE COLZA, SUCROSE STEARATE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, PENTYLENE GLYCOL, PHYTOSTEROLS, XYLITOL, ZINC GLUCONATE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PALMITAMIDE MEA, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, SODIUM CITRATE, MANNITOL, RHAMNOSE, SODIUM LAUROYL LACTYLATE, SODIUM HYDROXIDE, POLYSORBATE 60, SORBITAN ISOSTEARATE, TOCOPHEROL, PHYTOSPHINGOSINE, CERAMIDE NP, ETHYLHEXYLGLYCERIN, CERAMIDE AP, CHOLESTEROL, CARBOMER, XANTHAN GUM, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT, CERAMIDE EOP. [BI669]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B187932%7D_%7B%7D_%7B28104E%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-BIO-001",
+    "brand": "Bioderma",
+    "name": "Sébium Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, BUTYLENE GLYCOL, GLYCERIN, PROPANEDIOL, ACETYL GLUCOSAMINE, PENTYLENE GLYCOL, SALICYLIC ACID, XANTHAN GUM, POLYSORBATE 20, SODIUM CITRATE, HYDROLYZED HYALURONIC ACID, MANNITOL, SODIUM HYDROXIDE, PROPYL GALLATE, SODIUM METABISULFITE, FRAGRANCE (PARFUM), AMINOETHANESULFINIC ACID.",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/Packshot__Sebium-serum-F30ml-28600-MAD-july23.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تقشير لطيف",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-004",
+    "brand": "Bioderma",
+    "name": "Sensibio Seborrheic Dermatitis Face Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, COCOS NUCIFERA (COCONUT) OIL, PROPYLENE GLYCOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, DIMETHICONE, GLYCYRRHETINIC ACID, SORBITAN SESQUIOLEATE, CETYL ALCOHOL, PHENOXYETHANOL, CARBOMER, SCLEROTIUM GUM, PIROCTONE OLAMINE, GLYCERYL UNDECYLENATE, CLIMBAZOLE, SODIUM HYDROXIDE, FRUCTOOLIGOSACCHARIDES, MANNITOL, XYLITOL, RHAMNOSE, LAMINARIA OCHROLEUCA EXTRACT. [BI488]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B198855%7D_%7B%7D_%7B28711B%7D.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-003",
+    "brand": "Bioderma",
+    "name": "Cicabio SPF50+ Skin Healing Cream",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIETHYLHEXYL BUTAMIDO TRIAZONE, DICAPRYLYL CARBONATE, DIISOPROPYL SEBACATE, PROPANEDIOL, BUTYL METHOXYDIBENZOYLMETHANE, CORN STARCH MODIFIED, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, POLYGLYCERYL-6 STEARATE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIBUTYL ADIPATE, ETHYLHEXYL TRIAZONE, BUTYLENE GLYCOL, PENTYLENE GLYCOL, XYLOSE, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, MICROCRYSTALLINE CELLULOSE, GLYCERYL CAPRYLATE, SQUALANE, POLYGLYCERYL-6 BEHENATE, SODIUM POLYGLUTAMATE, POLYACRYLATE CROSSPOLYMER-6, SODIUM CITRATE, XANTHAN GUM, DIPALMITOYL HYDROXYPROLINE, SODIUM HYALURONATE, O-CYMEN-5-OL, MANNITOL, RHAMNOSE, XYLITOL, SODIUM HYDROXIDE, ACETYL DIPEPTIDE-1 CETYL ESTER, GLABRIDIN, TOCOPHEROL, FRUCTOOLIGOSACCHARIDES, PROPYLHEPTYL CAPRYLATE. [BI689]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156829%7D_%7B%7D_%7B28009A%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-BIO-004",
+    "brand": "Bioderma",
+    "name": "Photoderm Aquafluide SPF50+ Sunscreen",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIBUTYL ADIPATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DICAPRYLYL CARBONATE, DIISOPROPYL SEBACATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, CORN STARCH MODIFIED, GLYCERIN, POLYGLYCERYL-6 STEARATE, 1,2-HEXANEDIOL, MICROCRYSTALLINE CELLULOSE, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, CAPRYLYL GLYCOL, POLYGLYCERYL-6 BEHENATE, CELLULOSE GUM, ECTOIN, MANNITOL, XYLITOL, O-CYMEN-5-OL, XANTHAN GUM, RHAMNOSE, SODIUM HYDROXIDE, BUTYL METHOXYDIBENZOYLMETHANE, TOCOPHEROL, PROPYLHEPTYL CAPRYLATE. [BI642]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B160315%7D_%7B%7D_%7B28575E%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-005",
+    "brand": "Bioderma",
+    "name": "Photoderm XDefense Ultra Fluid SPF50+ Shade 01",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, TITANIUM DIOXIDE (CI 77891), GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCRYLENE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIISOPROPYL SEBACATE, PROPANEDIOL, DICAPRYLYL CARBONATE, 1,2-HEXANEDIOL, POLYSORBATE 60, SILICA, CETYL PHOSPHATE, IRON OXIDES (CI 77492), ARGININE, BENTONITE, HYDROXYACETOPHENONE, FRAGRANCE (PARFUM), CITRIC ACID, ECTOIN, MANNITOL, METHOXYPHENYLIMINO DIMETHYLCYCLOHEXENYL ETHYL GLYCINATE, SODIUM PHYTATE, XANTHAN GUM, XYLITOL, IRON OXIDES (CI 77491), RHAMNOSE, IRON OXIDES (CI 77499), SODIUM LAUROYL GLUTAMATE, O-CYMEN-5-OL, LYSINE, BIOSACCHARIDE GUM-4, MAGNESIUM CHLORIDE, TRIMETHOXYBENZYL ACETYLSINAPATE, SODIUM HYALURONATE, TOCOPHEROL. [BI2120]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B196029%7D_%7B%7D_%7B28596%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-BIO-002",
+    "brand": "Bioderma",
+    "name": "Hydrabio Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, SQUALANE, BUTYLENE GLYCOL, NIACINAMIDE, PENTYLENE GLYCOL, PROPYLENE GLYCOL, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, CAPRYLIC/CAPRIC TRIGLYCERIDE, DICAPRYLYL CARBONATE, CARBOMER, SILICA, DEXTRIN PALMITATE, FRUCTOOLIGOSACCHARIDES, HYDROXYACETOPHENONE, POLYSORBATE 60, DIISOSTEARYL MALATE, FRAGRANCE (PARFUM), MANNITOL, SODIUM CITRATE, XYLITOL, HEXYLDECANOL, RHAMNOSE, SODIUM PCA, SORBITAN ISOSTEARATE, SODIUM HYDROXIDE, LACTOBACILLUS FERMENT, SODIUM HYALURONATE, CITRIC ACID, SACCHARIDE ISOMERATE, PYRUS MALUS (APPLE) SEED EXTRACT, BRASSICA CAMPESTRIS (RAPESEED) STEROLS, TOCOPHEROL. [BI2016]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B197343%7D_%7B%7D_%7B28363C%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-001",
+    "brand": "Bioderma",
+    "name": "Sensibio Foaming Gel Face Wash",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, SODIUM COCOAMPHOACETATE, PROPANEDIOL, SODIUM LAUROYL SARCOSINATE, CITRIC ACID, COCO-GLUCOSIDE, GLYCERYL OLEATE, SODIUM CITRATE, PEG-90 GLYCERYL ISOSTEARATE, MANNITOL, XYLITOL, LAURETH-2, RHAMNOSE, FRUCTOOLIGOSACCHARIDES, TOCOPHEROL, HYDROGENATED PALM GLYCERIDES CITRATE. [BI722]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B166039%7D_%7B%7D_%7B28726B%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "للبشرة الحساسة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-005",
+    "brand": "Bioderma",
+    "name": "Sensibio Defensive Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, DICAPRYLYL ETHER, PROPYLHEPTYL CAPRYLATE, BUTYLENE GLYCOL, GLYCERYL STEARATE CITRATE, GLYCOL PALMITATE, SQUALANE, SUCROSE STEARATE, MANGIFERA INDICA (MANGO) SEED BUTTER, PENTYLENE GLYCOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CAPRYLYL GLYCOL, CARNOSINE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, MANNITOL, XYLITOL, TOCOPHEROL, SALVIA MILTIORRHIZA FLOWER/LEAF/ROOT EXTRACT, RHAMNOSE, GLYCINE SOJA (SOYBEAN) OIL, POLYSORBATE 60, SORBITAN ISOSTEARATE, PALMITOYL TETRAPEPTIDE-10. [BI 2012]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151462%7D_%7B%7D_%7B28694A%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-006",
+    "brand": "Bioderma",
+    "name": "Photoderm Spot Age SPF 50+ Sunscreen For Dark Spots",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIBUTYL ADIPATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, DIISOPROPYL SEBACATE, BUTYL METHOXYDIBENZOYLMETHANE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, PROPANEDIOL, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, GLYCERIN, POLYGLYCERYL-6 STEARATE, ASCORBYL GLUCOSIDE, 1,2-HEXANEDIOL, TOCOPHEROL, TITANIUM DIOXIDE (CI 77891), C20-22 ALKYL PHOSPHATE, FRAGRANCE (PARFUM), C20-22 ALCOHOLS, SODIUM HYDROXIDE, POLYACRYLATE CROSSPOLYMER-6, POLYGLYCERYL-6 BEHENATE, SODIUM CITRATE, XANTHAN GUM, GLYCINE SOJA (SOYBEAN) OIL, CAPRYLYL GLYCOL, ECTOIN, MANNITOL, XYLITOL, O-CYMEN-5-OL, CITRIC ACID, RHAMNOSE, ASIATICOSIDE, MADECASSIC ACID, ASIATIC ACID, SODIUM LAUROYL GLUTAMATE, LYSINE, MAGNESIUM CHLORIDE, FRUCTOOLIGOSACCHARIDES, DICAPRYLYL CARBONATE, PROPYLHEPTYL CAPRYLATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT. [BI481]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157150%7D_%7B%7D_%7B28535B%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIO-002",
+    "brand": "Bioderma",
+    "name": "Pigmentbio H2O Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, POLYSORBATE 20, DIPROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, FRUCTOOLIGOSACCHARIDES, DISODIUM EDTA, MANNITOL, XYLITOL, CETRIMONIUM BROMIDE, BUTYLENE GLYCOL, LYSINE, AZELAIC ACID, ANDROGRAPHIS PANICULATA LEAF EXTRACT, RHAMNOSE, HEXAPEPTIDE-2. [BI 520]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157216%7D_%7B%7D_%7B28916%7D.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تفتيح البقع الداكنة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIO-003",
+    "brand": "Bioderma",
+    "name": "Sensibio AR+ Micellar gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, BUTYLENE GLYCOL, GLYCERIN, TRIETHYL CITRATE, POLYGLYCERYL-4 CAPRATE, POLYGLYCERYL-6 CAPRYLATE, SODIUM COCOAMPHOACETATE, PENTYLENE GLYCOL, SODIUM CITRATE, XANTHAN GUM, CITRIC ACID, MALTOOLIGOSYL GLUCOSIDE, MANNITOL, XYLITOL, HYDROGENATED STARCH HYDROLYSATE, 1-METHYLHYDANTOIN-2-IMIDE, RHAMNOSE. [BI2086]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151456%7D_%7B%7D_%7B28760%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "للبشرة الحساسة",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-BIO-001",
+    "brand": "Bioderma",
+    "name": "Atoderm Intensive Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, SODIUM LAURETH SULFATE, LAURYL GLUCOSIDE, PEG-200 HYDROGENATED GLYCERYL PALMATE, DISODIUM EDTA, PEG-7 GLYCERYL COCOATE, SODIUM CHLORIDE, CAPRYLYL GLYCOL, ZINC SULFATE, COPPER SULFATE, SODIUM HYDROXIDE, CITRIC ACID, POLYSORBATE 20, NIACINAMIDE, FRUCTOOLIGOSACCHARIDES, MANNITOL, XYLITOL, RHAMNOSE. [BI 730]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156766%7D_%7B%7D_%7B28124%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-BIO-002",
+    "brand": "Bioderma",
+    "name": "Atoderm Shower Oil",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, SODIUM COCOAMPHOACETATE, PEG-7 GLYCERYL COCOATE, LAURYL GLUCOSIDE, CITRIC ACID, COCO-GLUCOSIDE, GLYCERYL OLEATE, FRAGRANCE (PARFUM), LAURETH-2, MANNITOL, POLYSORBATE 20, XYLITOL, RHAMNOSE, NIACINAMIDE, FRUCTOOLIGOSACCHARIDES, TOCOPHEROL, HYDROGENATED PALM GLYCERIDES CITRATE. [BI725]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B203355%7D_%7B%7D_%7BA01013300%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-007",
+    "brand": "Bioderma",
+    "name": "Photoderm Aquafluide SPF50+ Tinted Sunscreen",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIBUTYL ADIPATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DICAPRYLYL CARBONATE, DIISOPROPYL SEBACATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, CORN STARCH MODIFIED, TITANIUM DIOXIDE (CI 77891), GLYCERIN, 1,2-HEXANEDIOL, CETYL ALCOHOL, GLYCERYL STEARATE, MICROCRYSTALLINE CELLULOSE, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, PEG-75 STEARATE, IRON OXIDES (CI 77492), CAPRYLYL GLYCOL, SODIUM CITRATE, CETETH-20, STEARETH-20, IRON OXIDES (CI 77491), CELLULOSE GUM, ECTOIN, MANNITOL, XYLITOL, O-CYMEN-5-OL, SODIUM HYDROXIDE, XANTHAN GUM, IRON OXIDES (CI 77499), CITRIC ACID, RHAMNOSE, SODIUM LAUROYL GLUTAMATE, LYSINE, BUTYL METHOXYDIBENZOYLMETHANE, MAGNESIUM CHLORIDE, TOCOPHEROL, PROPYLHEPTYL CAPRYLATE. [BI640]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156988%7D_%7B%7D_%7B28576E%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-BIO-001",
+    "brand": "Bioderma",
+    "name": "Sensibio AR+ SOS Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, BUTYLENE GLYCOL, TRIETHYL CITRATE, PENTYLENE GLYCOL, MALTOOLIGOSYL GLUCOSIDE, 1-METHYLHYDANTOIN-2-IMIDE, SODIUM CITRATE, CITRIC ACID, HYDROGENATED STARCH HYDROLYSATE, MANNITOL, XYLITOL, RHAMNOSE. [BI2100]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151459%7D_%7B%7D_%7B28715%7D.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "للبشرة الحساسة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-006",
+    "brand": "Bioderma",
+    "name": "Hydrabio Cream Rich",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, TRIETHYLHEXANOIN, TRIDECYL TRIMELLITATE, C10-18 TRIGLYCERIDES, GLYCERYL BEHENATE, LAUROYL LYSINE, NIACINAMIDE, PENTYLENE GLYCOL, SQUALANE, CETYL PALMITATE, HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX, POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE, PROPYLENE GLYCOL, ARACHIDYL ALCOHOL, CARBOMER, FRAGRANCE (PARFUM), GLYCERYL CAPRYLATE/CAPRATE, BEHENYL ALCOHOL, CAPRYLYL GLYCOL, FRUCTOOLIGOSACCHARIDES, SODIUM CITRATE, ARACHIDYL GLUCOSIDE, MANNITOL, XYLITOL, HEXYLDECANOL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, RHAMNOSE, SODIUM PCA, SODIUM HYDROXIDE, CITRIC ACID, SODIUM HYALURONATE, SACCHARIDE ISOMERATE, PYRUS MALUS (APPLE) SEED EXTRACT, BRASSICA CAMPESTRIS (RAPESEED) STEROLS, TOCOPHEROL. [BI2091]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B197340%7D_%7B%7D_%7B28376A%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-BIO-001",
+    "brand": "Bioderma",
+    "name": "Nodé DS+ Anti Dandraff Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, SODIUM LAURETH SULFATE, SODIUM COCOAMPHOACETATE, PEG-60 ALMOND GLYCERIDES, SODIUM LAUROYL SARCOSINATE, CITRIC ACID, COCO-BETAINE, SODIUM CITRATE, POLYACRYLATE CROSSPOLYMER-6, PIROCTONE OLAMINE, PEG-90 GLYCERYL ISOSTEARATE, POLYQUATERNIUM-10, PYRIDOXINE HCL, SALICYLIC ACID, UNDECYL ALCOHOL, ZINC GLUCONATE, PALMITAMIDE MEA, SODIUM HYDROXIDE, MANNITOL, XYLITOL, LAURETH-2, RHAMNOSE, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 547]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B197349%7D_%7B%7D_%7B28438A%7D.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIO-004",
+    "brand": "Bioderma",
+    "name": "Hydrabio H2O Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, DISODIUM EDTA, MANNITOL, XYLITOL, CETRIMONIUM BROMIDE, RHAMNOSE, NIACINAMIDE, HEXYLDECANOL, SODIUM HYDROXIDE, PYRUS MALUS (APPLE) SEED EXTRACT, BRASSICA CAMPESTRIS (RAPESEED) STEROLS, TOCOPHEROL, FRAGRANCE (PARFUM). [BI 546]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B184011%7D_%7B%7D_%7BA01004200%7D.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-BIO-008",
+    "brand": "Bioderma",
+    "name": "Photoderm XDefense Ultra Fluid SPF50+ Shade 02",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, GLYCERIN, TITANIUM DIOXIDE (CI 77891), BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCRYLENE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIISOPROPYL SEBACATE, PROPANEDIOL, DICAPRYLYL CARBONATE, 1,2-HEXANEDIOL, IRON OXIDES (CI 77492), POLYSORBATE 60, SILICA, CETYL PHOSPHATE, ARGININE, BENTONITE, HYDROXYACETOPHENONE, FRAGRANCE (PARFUM), IRON OXIDES (CI 77491), IRON OXIDES (CI 77499), CITRIC ACID, ECTOIN, MANNITOL, METHOXYPHENYLIMINO DIMETHYLCYCLOHEXENYL ETHYL GLYCINATE, SODIUM PHYTATE, XANTHAN GUM, XYLITOL, RHAMNOSE, SODIUM LAUROYL GLUTAMATE, O-CYMEN-5-OL, LYSINE, BIOSACCHARIDE GUM-4, MAGNESIUM CHLORIDE, TRIMETHOXYBENZYL ACETYLSINAPATE, SODIUM HYALURONATE, TOCOPHEROL. [BI2122]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B196032%7D_%7B%7D_%7B28597%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-BIO-001",
+    "brand": "Bioderma",
+    "name": "Atoderm Restorative Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "RICINUS COMMUNIS (CASTOR) SEED OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) OIL, COCOS NUCIFERA (COCONUT) OIL, TRIHYDROXYSTEARIN, CYPERUS ESCULENTUS ROOT OIL, HYDROGENATED PALM OIL, HYDROGENATED RAPESEED OIL, HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX, PENTYLENE GLYCOL, HYDROGENATED VEGETABLE OIL, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, PONGAMIA GLABRA SEED OIL. [BI585]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B184017%7D_%7B%7D_%7B28095A%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-005",
+    "brand": "Bioderma",
+    "name": "Pigmentbio Foaming Cream Brightening Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, CITRIC ACID, BUTYROSPERMUM PARKII (SHEA) OIL, MAGNESIUM LAURETH SULFATE, SODIUM HYDROXIDE, CELLULOSE ACETATE, SODIUM COCOAMPHOACETATE, METHYLPROPANEDIOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, COCO-GLUCOSIDE, GLYCERYL OLEATE, SODIUM COCOYL GLUTAMATE, XANTHAN GUM, SODIUM CITRATE, BENZOIC ACID, PROPANEDIOL, ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER, MANNITOL, XYLITOL, RHAMNOSE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, LYSINE, AZELAIC ACID, ANDROGRAPHIS PANICULATA LEAF EXTRACT, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, HYDROGENATED PALM GLYCERIDES CITRATE, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 672]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157243%7D_%7B%7D_%7B28912B%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة",
+      "تفتيح البقع الداكنة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-BIO-002",
+    "brand": "Bioderma",
+    "name": "Atoderm Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "PARAFFINUM LIQUIDUM/MINERAL OIL/HUILE MINERALE, SYNTHETIC WAX, CERA MICROCRISTALLINA/MICROCRYSTALLINE WAX/CIRE MICROCRISTALLINE, PARAFFIN, BUTYROSPERMUM PARKII (SHEA) BUTTER, CERA ALBA/BEESWAX/CIRE D'ABEILLE, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, TOCOPHEROL, FRAGRANCE (PARFUM). [BI 577]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/Packshot_Atoderm-Stick-Levres-T4g-28098A-MAD-May25.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-006",
+    "brand": "Bioderma",
+    "name": "Sensibio Seborrheic Dermatitis Face & Body Wash",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, SODIUM LAURETH SULFATE, COCO-BETAINE, SODIUM LAUROYL SARCOSINATE, SODIUM CITRATE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, HYDROXYACETOPHENONE, ZINC GLUCONATE, COCO-GLUCOSIDE, GLYCERYL OLEATE, DIPOTASSIUM GLYCYRRHIZATE, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, MANNITOL, SODIUM HYDROXIDE, UNDECYL ALCOHOL, XYLITOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, CITRIC ACID, PIROCTONE OLAMINE, PYRIDOXINE HCL, RHAMNOSE, LAMINARIA OCHROLEUCA EXTRACT, FRUCTOOLIGOSACCHARIDES, TOCOPHEROL, HYDROGENATED PALM GLYCERIDES CITRATE. [BI422]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B188004%7D_%7BBIO_SENSIBIO_DS_GEL%7D_%7B28713A%7D.png",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "للبشرة الحساسة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-007",
+    "brand": "Bioderma",
+    "name": "Sébium Exfoliating Purifying Gel Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, CELLULOSE ACETATE, SODIUM LAURETH SULFATE, XANTHAN GUM, LAURYL GLUCOSIDE, GLYCOLIC ACID, SODIUM CITRATE, SODIUM HYDROXIDE, SALICYLIC ACID, MANNITOL, XYLITOL, RHAMNOSE, FRUCTOOLIGOSACCHARIDES, PROPYLENE GLYCOL, GINKGO BILOBA LEAF EXTRACT, FRAGRANCE (PARFUM). [BI 459]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157252%7D_%7B%7D_%7B28625I%7D.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تقشير",
+      "تنقية المسام",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-007",
+    "brand": "Bioderma",
+    "name": "Photoderm Aftersun Gel Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, CAPRYLIC/CAPRIC TRIGLYCERIDE, GLYCERIN, SODIUM POLYACRYLATE, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, DIPOTASSIUM GLYCYRRHIZATE, SODIUM CITRATE, MANNITOL, XYLITOL, RHAMNOSE, SODIUM HYDROXIDE, FRUCTOOLIGOSACCHARIDES, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 448]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157081%7D_%7B%7D_%7B28520B%7D.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-BIO-002",
+    "brand": "Bioderma",
+    "name": "Nodé Gentle Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, CAPRYLYL/CAPRYL GLUCOSIDE, PEG-150 DISTEARATE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, PEG-15 COCOPOLYAMINE, SODIUM LAUROYL OAT AMINO ACIDS, LACTIC ACID, SODIUM CITRATE, CAPRYLYL GLYCOL, QUATERNIUM-80, PROPYLENE GLYCOL, MANNITOL, XYLITOL, RHAMNOSE, PHENOXYETHANOL, TETRASODIUM EDTA, ETHYLHEXYLGLYCERIN, FRUCTOOLIGOSACCHARIDES, SODIUM HYDROXIDE, FRAGRANCE (PARFUM). [ND 003]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B174367%7D_%7B%7D_%7B28428I%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-BIO-003",
+    "brand": "Bioderma",
+    "name": "Hydrabio Hyalu+ serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, BUTYLENE GLYCOL, GLYCERIN, PROPANEDIOL, PENTYLENE GLYCOL, NIACINAMIDE, POLYSORBATE 20, XANTHAN GUM, HYDROLYZED HYALURONIC ACID, FRUCTOOLIGOSACCHARIDES, SODIUM CITRATE, CITRIC ACID, CARNOSINE, ADENOSINE, FRAGRANCE (PARFUM), SACCHARIDE ISOMERATE, SODIUM HYALURONATE, PEUMUS BOLDUS LEAF EXTRACT, HEXYLDECANOL, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, PYRUS MALUS (APPLE) SEED EXTRACT, BRASSICA CAMPESTRIS (RAPESEED) STEROLS, TOCOPHEROL. [BI2067]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B170080%7D_%7B%7D_%7BA01004700%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-009",
+    "brand": "Bioderma",
+    "name": "Photoderm XDefense Ultra Fluid SPF50+ invisible",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, SILICA, GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCRYLENE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIISOPROPYL SEBACATE, LAUROYL LYSINE, PROPANEDIOL, DICAPRYLYL CARBONATE, 1,2-HEXANEDIOL, POLYSORBATE 60, CETYL PHOSPHATE, ARGININE, BENTONITE, HYDROXYACETOPHENONE, FRAGRANCE (PARFUM), CITRIC ACID, ECTOIN, MANNITOL, METHOXYPHENYLIMINO DIMETHYLCYCLOHEXENYL ETHYL GLYCINATE, SODIUM PHYTATE, XANTHAN GUM, XYLITOL, RHAMNOSE, O-CYMEN-5-OL, BIOSACCHARIDE GUM-4, TRIMETHOXYBENZYL ACETYLSINAPATE, SODIUM HYALURONATE, TOCOPHEROL. [BI2118]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/Packshot_Photoderm%20XDefense%20Invisible%20SPF50%2028599.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-BIO-010",
+    "brand": "Bioderma",
+    "name": "Photoderm XDefense Ultra-Fluid SPF50+ Shade 04",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BUTYL METHOXYDIBENZOYLMETHANE, TITANIUM DIOXIDE (CI 77891), ETHYLHEXYL METHOXYCRYLENE, IRON OXIDES (CI 77492), DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIISOPROPYL SEBACATE, PROPANEDIOL, DICAPRYLYL CARBONATE, 1,2-HEXANEDIOL, POLYSORBATE 60, SILICA, CETYL PHOSPHATE, ARGININE, IRON OXIDES (CI 77491), IRON OXIDES (CI 77499), BENTONITE, HYDROXYACETOPHENONE, FRAGRANCE (PARFUM), CITRIC ACID, ECTOIN, MANNITOL, METHOXYPHENYLIMINO DIMETHYLCYCLOHEXENYL ETHYL GLYCINATE, SODIUM PHYTATE, XANTHAN GUM, XYLITOL, RHAMNOSE, SODIUM LAUROYL GLUTAMATE, O-CYMEN-5-OL, LYSINE, BIOSACCHARIDE GUM-4, MAGNESIUM CHLORIDE, TRIMETHOXYBENZYL ACETYLSINAPATE, SODIUM HYALURONATE, TOCOPHEROL. [BI2121]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B196035%7D_%7B%7D_%7B28595%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-BIO-008",
+    "brand": "Bioderma",
+    "name": "Pigmentbio Sensitive Areas",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, CETYL ALCOHOL, DIMETHICONE, POLYMETHYLSILSESQUIOXANE, DIPROPYLENE GLYCOL, PROPYLHEPTYL CAPRYLATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER, C14-22 ALCOHOLS, PENTYLENE GLYCOL, CARBOMER, POLYSILICONE-11, CAPRYLYL GLYCOL, 1,2-HEXANEDIOL, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, BUTYLENE GLYCOL, DISODIUM EDTA, LYSINE, C12-20 ALKYL GLUCOSIDE, AZELAIC ACID, LAMINARIA OCHROLEUCA EXTRACT, MANNITOL, SALICYLIC ACID, XYLITOL, ANDROGRAPHIS PANICULATA LEAF EXTRACT, RHAMNOSE, SODIUM HYDROXIDE, GLYCYRRHIZA GLABRA (LICORICE) ROOT EXTRACT, DECYL GLUCOSIDE, FRUCTOOLIGOSACCHARIDES, TOCOPHEROL. [BI 750]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151363%7D_%7B%7D_%7B28918%7D.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تفتيح البشرة",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-009",
+    "brand": "Bioderma",
+    "name": "Atoderm Hand & Nail Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, ALUMINUM STARCH OCTENYLSUCCINATE, ISONONYL ISONONANOATE, BUTYROSPERMUM PARKII (SHEA) OIL, PALMITIC ACID, STEARIC ACID, SORBITAN STEARATE, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, DISODIUM EDTA, MANNITOL, XYLITOL, RHAMNOSE, SODIUM HYDROXIDE, NIACINAMIDE, POLYQUATERNIUM-51, FRAGRANCE (PARFUM). [BI 707]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156781%7D_%7B%7D_%7B28070D%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-008",
+    "brand": "Bioderma",
+    "name": "Sensibio Micellar Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "ETHYLHEXYL PALMITATE, BRASSICA CAMPESTRIS (RAPESEED) SEED OIL, POLYGLYCERYL-4 OLEATE, AQUA/WATER/EAU, SODIUM PCA, PROPANEDIOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, BENZOTRIAZOLYL DODECYL P-CRESOL, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, LAMINARIA OCHROLEUCA EXTRACT, STEARYL GLYCYRRHETINATE. [BI2065]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B159910%7D_%7B%7D_%7B28701C%7D.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-009",
+    "brand": "Bioderma",
+    "name": "Sébium H2O Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SODIUM CITRATE, CITRIC ACID, DISODIUM EDTA, ZINC GLUCONATE, CETRIMONIUM BROMIDE, COPPER SULFATE, FRAGRANCE (PARFUM), FRUCTOOLIGOSACCHARIDES, MANNITOL, RHAMNOSE, XYLITOL, PROPYLENE GLYCOL, GINKGO BILOBA LEAF EXTRACT. [BI442]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151381%7D_%7B%7D_%7B28642A%7D.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-011",
+    "brand": "Bioderma",
+    "name": "Photoderm AKN Mat for Oily Skin Prone To Acne SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], CORN STARCH MODIFIED, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL TRIAZONE, POTASSIUM CETYL PHOSPHATE, BRASSICA CAMPESTRIS/ALEURITES FORDII OIL COPOLYMER, HYDROXYETHYL ACRYLATE/ SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, 1,2-HEXANEDIOL, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, SILICA, DECYL GLUCOSIDE, GLYCOLIC ACID, BORON NITRIDE, SALICYLIC ACID, TOCOPHERYL ACETATE, PROPYLENE GLYCOL, XANTHAN GUM, SODIUM HYDROXIDE, POLYSORBATE 60, SORBITAN ISOSTEARATE, ECTOIN, MANNITOL, XYLITOL, RHAMNOSE, GINKGO BILOBA LEAF EXTRACT, FRUCTOOLIGOSACCHARIDES, PROPYL GALLATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, TOCOPHEROL, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 573]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156979%7D_%7B%7D_%7B28481B%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الدهنية",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-010",
+    "brand": "Bioderma",
+    "name": "Pigmentbio Night Cream Brightening",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, PROPANEDIOL, SQUALANE, ASCORBYL GLUCOSIDE, DIPROPYLENE GLYCOL, NIACINAMIDE, BUTYLENE GLYCOL, POLYMETHYLSILSESQUIOXANE, HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER, CARBOMER, SODIUM HYDROXIDE, PENTYLENE GLYCOL, TOCOPHERYL ACETATE, C14-22 ALCOHOLS, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, SALICYLIC ACID, SODIUM CITRATE, LYSINE, AZELAIC ACID, C12-20 ALKYL GLUCOSIDE, DISODIUM PHOSPHATE, MANNITOL, XYLITOL, ANDROGRAPHIS PANICULATA LEAF EXTRACT, RHAMNOSE, SODIUM METABISULFITE, POTASSIUM PHOSPHATE, SACCHARIDE ISOMERATE, BIOSACCHARIDE GUM-1, GLYCYRRHIZA GLABRA (LICORICE) ROOT EXTRACT, GLYCERYL CAPRYLATE, SODIUM ANISATE, SODIUM LEVULINATE, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, HEXAPEPTIDE-2, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 748]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157987%7D_%7B%7D_%7B28915%7D.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تفتيح البقع الداكنة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-BIO-011",
+    "brand": "Bioderma",
+    "name": "Cicabio Skin Healing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, CAPRYLIC/CAPRIC TRIGLYCERIDE, GLYCERIN, POLYGLYCERYL-3 POLYRICINOLEATE, BRASSICA CAMPESTRIS (RAPESEED) SEED OIL, BUTYLENE GLYCOL, TAPIOCA STARCH, HYDROGENATED RAPESEED OIL, XYLOSE, POLYGLYCERYL-3 DIISOSTEARATE, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, MAGNESIUM SULFATE, PENTYLENE GLYCOL, SQUALANE, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, SODIUM POLYGLUTAMATE, SODIUM CITRATE, XANTHAN GUM, SODIUM HYALURONATE, TOCOPHEROL, MANNITOL, RHAMNOSE, XYLITOL, ACETYL DIPEPTIDE-1 CETYL ESTER, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, CITRIC ACID, FRUCTOOLIGOSACCHARIDES. [BI 2039]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/Hero%20Packshot_Cicabio-Creme-plusT40ml-MADsep25.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIO-010",
+    "brand": "Bioderma",
+    "name": "Sensibio H2O Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, DISODIUM EDTA, CETRIMONIUM BROMIDE, PROPYLENE GLYCOL, CUCUMIS SATIVUS (CUCUMBER) FRUIT EXTRACT, FRUCTOOLIGOSACCHARIDES, MANNITOL, XYLITOL, RHAMNOSE. [BI446]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151402%7D_%7B%7D_%7B28709A%7D.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-012",
+    "brand": "Bioderma",
+    "name": "Photoderm XDefense Ultra Fluid SPF50+ Shade 03",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BUTYL METHOXYDIBENZOYLMETHANE, TITANIUM DIOXIDE (CI 77891), ETHYLHEXYL METHOXYCRYLENE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIISOPROPYL SEBACATE, PROPANEDIOL, DICAPRYLYL CARBONATE, IRON OXIDES (CI 77492), 1,2-HEXANEDIOL, POLYSORBATE 60, SILICA, CETYL PHOSPHATE, ARGININE, BENTONITE, HYDROXYACETOPHENONE, IRON OXIDES (CI 77491), FRAGRANCE (PARFUM), IRON OXIDES (CI 77499), CITRIC ACID, ECTOIN, MANNITOL, METHOXYPHENYLIMINO DIMETHYLCYCLOHEXENYL ETHYL GLYCINATE, SODIUM PHYTATE, XANTHAN GUM, XYLITOL, RHAMNOSE, SODIUM LAUROYL GLUTAMATE, O-CYMEN-5-OL, LYSINE, BIOSACCHARIDE GUM-4, MAGNESIUM CHLORIDE, TRIMETHOXYBENZYL ACETYLSINAPATE, SODIUM HYALURONATE, TOCOPHEROL. [BI2119]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B196017%7D_%7B%7D_%7B28598%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-BIO-012",
+    "brand": "Bioderma",
+    "name": "Sébium Pore Refiner Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, METHYL METHACRYLATE CROSSPOLYMER, DIPROPYLENE GLYCOL, CYCLOPENTASILOXANE, CYCLOHEXASILOXANE, DIMETHICONE, GLYCERIN, PROPANEDIOL, SODIUM POLYACRYLATE, SQUALANE, PENTYLENE GLYCOL, SILICA, LAURYL PEG/PPG-18/18 METHICONE, 1,2-HEXANEDIOL, C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER, CAPRYLYL GLYCOL, DISODIUM EDTA, SALICYLIC ACID, TRIDECETH-6, FOMES OFFICINALIS (MUSHROOM) EXTRACT, XYLITOL, PROPYLENE GLYCOL, SODIUM HYDROXIDE, FRAGRANCE (PARFUM), ISOSTEARYL ALCOHOL, PEG/PPG-18/18 DIMETHICONE, FRUCTOOLIGOSACCHARIDES, MANNITOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, GINKGO BILOBA LEAF EXTRACT, PROPYL GALLATE, RHAMNOSE, LAMINARIA OCHROLEUCA EXTRACT, CITRIC ACID. [BI600]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B159670%7D_%7B%7D_%7B28614E%7D.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "توازن الدهون والزيوت",
+      "للبشرة الدهنية",
+      "قابض للمسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-013",
+    "brand": "Bioderma",
+    "name": "Hydrabio Perfector SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, DIISOPROPYL SEBACATE, ETHYLHEXYL PELARGONATE, BUTYL METHOXYDIBENZOYLMETHANE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BORON NITRIDE, COCOS NUCIFERA (COCONUT) OIL, NIACINAMIDE, MICA, MICROCRYSTALLINE CELLULOSE, POTASSIUM CETYL PHOSPHATE, TITANIUM DIOXIDE (CI 77891), CAPRYLIC/CAPRIC TRIGLYCERIDE, DICAPRYLYL CARBONATE, 1,2-HEXANEDIOL, PHENYLBENZIMIDAZOLE SULFONIC ACID, PROPYLENE GLYCOL, FRAGRANCE (PARFUM), BEHENYL ALCOHOL, GLYCERYL BEHENATE, SILICA, DEXTRIN PALMITATE, ARGININE, LECITHIN, DIISOSTEARYL MALATE, FRUCTOOLIGOSACCHARIDES, SODIUM PHYTATE, XANTHAN GUM, MANNITOL, XYLITOL, HEXYLDECANOL, O-CYMEN-5-OL, RHAMNOSE, SODIUM PCA, LACTOBACILLUS FERMENT, IRON OXIDES (CI 77491), CITRIC ACID, SODIUM HYALURONATE, SACCHARIDE ISOMERATE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, PYRUS MALUS (APPLE) SEED EXTRACT, BRASSICA CAMPESTRIS (RAPESEED) STEROLS. [BI712]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/Hero%20Packshot_Hydrabio-Perfecteur-SPF30-T40ml-28369-MADmay25.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-BIO-003",
+    "brand": "Bioderma",
+    "name": "Cicabio Lip repair",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "RICINUS COMMUNIS (CASTOR) SEED OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) OIL, GLYCERIN, TRIHYDROXYSTEARIN, AQUA/WATER/EAU, CETYL PALMITATE, BUTYLENE GLYCOL, JOJOBA ESTERS, XYLOSE, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX, PENTYLENE GLYCOL, SQUALANE, SODIUM POLYGLUTAMATE, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, PONGAMIA GLABRA SEED OIL, SODIUM HYALURONATE, POLYGLYCERIN-3, ACACIA DECURRENS FLOWER WAX, MANNITOL, RHAMNOSE, XYLITOL, ACETYL DIPEPTIDE-1 CETYL ESTER, FRUCTOOLIGOSACCHARIDES, TOCOPHEROL. [BI2053]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156850%7D_%7B%7D_%7B28000%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-011",
+    "brand": "Bioderma",
+    "name": "Hydrabio Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, CAPRYLYL/CAPRYL GLUCOSIDE, TRIETHYL CITRATE, COCO-GLUCOSIDE, GLYCERYL OLEATE, PENTYLENE GLYCOL, XANTHAN GUM, FRAGRANCE (PARFUM), SODIUM CITRATE, POLYGLYCERYL-4 CAPRATE, POLYGLYCERYL-6 CAPRYLATE, CITRIC ACID, MANNITOL, SACCHARIDE ISOMERATE, XYLITOL, RHAMNOSE, TOCOPHEROL, HYDROGENATED PALM GLYCERIDES CITRATE. [BI2014]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B197334%7D_%7B%7D_%7B28384%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-BIO-004",
+    "brand": "Bioderma",
+    "name": "Sébium Night Peel",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCOLIC ACID, SODIUM HYDROXIDE, PANTHENOL, AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER, DIPROPYLENE GLYCOL, HYDROXYETHYLCELLULOSE, MANNITOL, PROPYL GALLATE, XYLITOL, SODIUM METABISULFITE, RHAMNOSE, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 761]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157279%7D_%7B%7D_%7B28615B%7D.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام",
+      "مضاد لحب الشباب",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-014",
+    "brand": "Bioderma",
+    "name": "Photoderm Invisible Mist SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "DIMETHYL ETHER, DIBUTYL ADIPATE, DICAPRYLYL CARBONATE, C12-15 ALKYL BENZOATE, DIISOPROPYL SEBACATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BRASSICA CAMPESTRIS/ALEURITES FORDII OIL COPOLYMER, FRAGRANCE (PARFUM), TOCOPHEROL, GLYCINE SOJA (SOYBEAN) OIL, PROPYLHEPTYL CAPRYLATE. [BI718]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157009%7D_%7B%7D_%7B28547C%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIO-012",
+    "brand": "Bioderma",
+    "name": "Sébium Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, SODIUM COCOAMPHOACETATE, SODIUM LAURETH SULFATE, METHYLPROPANEDIOL, DISODIUM EDTA, LACTIC ACID, ZINC SULFATE, SODIUM CHLORIDE, COPPER SULFATE, POTASSIUM SORBATE, XYLITOL, FRUCTOOLIGOSACCHARIDES, MANNITOL, RHAMNOSE, PROPYLENE GLYCOL, SODIUM HYDROXIDE, GINKGO BILOBA LEAF EXTRACT, FRAGRANCE (PARFUM). [BI 418]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157297%7D_%7B%7D_%7B28663A%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "للبشرة الدهنية",
+      "مضاد لحب الشباب"
+    ],
+    "price": {
+      "min": 2700,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-015",
+    "brand": "Bioderma",
+    "name": "Photoderm Cream SPF 50+ For Dry Skin",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIBUTYL ADIPATE, DIISOPROPYL SEBACATE, HOMOSALATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, PROPANEDIOL, ETHYLHEXYL SALICYLATE, ETHYLHEXYL TRIAZONE, GLYCERIN, SILICA, TITANIUM DIOXIDE (CI 77891), SUCROSE LAURATE, UNDECANE, C20-22 ALKYL PHOSPHATE, SODIUM STEAROYL GLUTAMATE, C20-22 ALCOHOLS, SODIUM POLYACRYLATE, TRIDECANE, CAPRYLOYL GLYCINE, SODIUM HYDROXIDE, SODIUM CITRATE, CAPRYLYL GLYCOL, ECTOIN, MANNITOL, XYLITOL, RHAMNOSE, SODIUM LAUROYL GLUTAMATE, LYSINE, MAGNESIUM CHLORIDE, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, LAMINARIA OCHROLEUCA EXTRACT. [BI543]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157042%7D_%7B%7D_%7B28540D%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الجافة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-013",
+    "brand": "Bioderma",
+    "name": "Sensibio Defensive Rich Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, DICAPRYLYL ETHER, GLYCOL PALMITATE, BUTYLENE GLYCOL, CETYL PALMITATE, GLYCERYL STEARATE CITRATE, SQUALANE, SUCROSE STEARATE, TRIDECYL TRIMELLITATE, GLYCERYL DIBEHENATE, POLYSORBATE 60, PENTYLENE GLYCOL, TRIBEHENIN, GLYCERYL BEHENATE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CAPRYLYL GLYCOL, CARNOSINE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, MANNITOL, XYLITOL, TOCOPHEROL, SALVIA MILTIORRHIZA FLOWER/LEAF/ROOT EXTRACT, RHAMNOSE, GLYCINE SOJA (SOYBEAN) OIL, SORBITAN ISOSTEARATE, SODIUM HYDROXIDE, PALMITOYL TETRAPEPTIDE-10. [BI 2003]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B176029%7D_%7B%7D_%7B28695A%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-016",
+    "brand": "Bioderma",
+    "name": "Photoderm M SPF 50+ Tinted Sunscreen",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIBUTYL ADIPATE, TITANIUM DIOXIDE [NANO], TITANIUM DIOXIDE (CI 77891), DIISOPROPYL SEBACATE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], IRON OXIDES (CI 77492), DIETHYLHEXYL BUTAMIDO TRIAZONE, POTASSIUM CETYL PHOSPHATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, CORN STARCH MODIFIED, PENTYLENE GLYCOL, PROPANEDIOL, SILICA, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, IRON OXIDES (CI 77491), DECYL GLUCOSIDE, TOCOPHERYL ACETATE, IRON OXIDES (CI 77499), POLYACRYLATE CROSSPOLYMER-6, CAPRYLYL GLYCOL, XANTHAN GUM, ECTOIN, MANNITOL, XYLITOL, SODIUM LAUROYL GLUTAMATE, RHAMNOSE, LYSINE, PROPYLENE GLYCOL, SODIUM HYDROXIDE, MAGNESIUM CHLORIDE, GLABRIDIN, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCAEXTRACT [BI 711]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151348%7D_%7B%7D_%7B28546X%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-BIO-002",
+    "brand": "Bioderma",
+    "name": "Atoderm SOS Anti-Itching Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, DIPROPYLENE GLYCOL, ISOSTEARYL ISOSTEARATE, SUCROSE STEARATE, SQUALANE, MICROCRYSTALLINE CELLULOSE, PENTYLENE GLYCOL, GLYCYRRHETINIC ACID, CELLULOSE GUM, MANNITOL, POLYACRYLATE CROSSPOLYMER-6, XYLITOL, RHAMNOSE, TAMBOURISSA TRICHOPHYLLA LEAF EXTRACT, TOCOPHEROL, LECITHIN, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, CITRIC ACID, NIACINAMIDE, CAMELLIA SINENSIS LEAF EXTRACT, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT. [BI 732]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156799%7D_%7B%7D_%7B28141D%7D.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-014",
+    "brand": "Bioderma",
+    "name": "Sébium Mat Control Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, CYCLOPENTASILOXANE, METHYL METHACRYLATE CROSSPOLYMER, CYCLOHEXASILOXANE, DIPROPYLENE GLYCOL, POLYMETHYLSILSESQUIOXANE, PEG-10 DIMETHICONE, HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER, BUTYLENE GLYCOL, SODIUM CHLORIDE, VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER, C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER, ZINC GLUCONATE, DISODIUM EDTA, SALICYLIC ACID, MANNITOL, XYLITOL, RHAMNOSE, XANTHAN GUM, SODIUM HYDROXIDE, DODECYL GALLATE, PYRIDOXINE HCL, FOMES OFFICINALIS (MUSHROOM) EXTRACT, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, FRAGRANCE (PARFUM). [BI 724]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151369%7D_%7B%7D_%7B28658B%7D.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "للبشرة الدهنية",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-CLE-BIO-013",
+    "brand": "Bioderma",
+    "name": "Sébium Hydra cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, CAPRYLYL/CAPRYL GLUCOSIDE, BUTYROSPERMUM PARKII (SHEA) OIL, GLYCERIN, METHYLPROPANEDIOL, DISODIUM COCOYL GLUTAMATE, CITRIC ACID, PENTYLENE GLYCOL, SCLEROTIUM GUM, XANTHAN GUM, CAPRYLYL GLYCOL, PROPANEDIOL, SODIUM CITRATE, FRAGRANCE (PARFUM), MANNITOL, SACCHARIDE ISOMERATE, XYLITOL, BENZOTRIAZOLYL DODECYL P-CRESOL, RHAMNOSE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, AMINOETHANESULFINIC ACID, SODIUM METABISULFITE. [BI2069]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151384%7D_%7B%7D_%7B28646%7D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-015",
+    "brand": "Bioderma",
+    "name": "Hydrabio Cream Light",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, LAUROYL LYSINE, NIACINAMIDE, PENTYLENE GLYCOL, SQUALANE, DICAPRYLYL CARBONATE, GLYCERYL CAPRYLATE/CAPRATE, POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE, PROPYLENE GLYCOL, ARACHIDYL ALCOHOL, CARBOMER, BEHENYL ALCOHOL, CAPRYLYL GLYCOL, FRAGRANCE (PARFUM), FRUCTOOLIGOSACCHARIDES, SODIUM CITRATE, ARACHIDYL GLUCOSIDE, XANTHAN GUM, MANNITOL, XYLITOL, HEXYLDECANOL, RHAMNOSE, SODIUM PCA, CITRIC ACID, SODIUM HYALURONATE, SACCHARIDE ISOMERATE, PYRUS MALUS (APPLE) SEED EXTRACT, BRASSICA CAMPESTRIS (RAPESEED) STEROLS, TOCOPHEROL. [BI2092]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B197331%7D_%7B%7D_%7B28370C%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-016",
+    "brand": "Bioderma",
+    "name": "Sébium Sensitive Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, METHYL METHACRYLATE CROSSPOLYMER, DIPROPYLENE GLYCOL, ZINC GLUCONATE, COCO-CAPRYLATE/CAPRATE, VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER, CAPRYLIC/CAPRIC TRIGLYCERIDE, ARACHIDYL ALCOHOL, BEHENYL ALCOHOL, POLYACRYLATE CROSSPOLYMER-6, SODIUM POLYACRYLATE, GLYCYRRHETINIC ACID, PROPYLENE GLYCOL, ARACHIDYL GLUCOSIDE, BAKUCHIOL, LAMINARIA OCHROLEUCA EXTRACT, MANNITOL, XYLITOL, SODIUM METABISULFITE, RHAMNOSE, GINKGO BILOBA LEAF EXTRACT, TOCOPHEROL, FRUCTOOLIGOSACCHARIDES, FRAGRANCE (PARFUM). [BI 728]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B191769%7D_%7B%7D_%7BA01005600%7D.jpg",
+    "marketingClaims": [
+      "للبشرة الحساسة",
+      "للبشرة الدهنية",
+      "مضاد لحب الشباب",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-017",
+    "brand": "Bioderma",
+    "name": "Sébium Hydra Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, PARAFFINUM LIQUIDUM/MINERAL OIL/HUILE MINERALE, ETHYLHEXYL PALMITATE, DIPROPYLENE GLYCOL, XYLITOL, BIS-PEG/PPG-16/16 PEG/PPG-16/16 DIMETHICONE, SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, ISOHEXADECANE, GLYCYRRHETINIC ACID, TOCOPHERYL ACETATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, POLYSORBATE 80, DISODIUM EDTA, ALLANTOIN, FRUCTOOLIGOSACCHARIDES, MANNITOL, SORBITAN OLEATE, PROPYLENE GLYCOL, CETRIMONIUM BROMIDE, CERAMIDE NP, FRAGRANCE (PARFUM), RHAMNOSE, GINKGO BILOBA LEAF EXTRACT, PROPYL GALLATE, PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE, TRIISOPROPANOLAMINE, LAMINARIA OCHROLEUCA EXTRACT. [BI217]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B187959%7D_%7B%7D_%7BA01005300%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الدهنية",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-017",
+    "brand": "Bioderma",
+    "name": "Sensibio AR+ CC cream SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, DIISOPROPYL SEBACATE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL TRIAZONE, TITANIUM DIOXIDE (CI 77891), PROPYLENE GLYCOL, GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, CETYL PHOSPHATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], PENTYLENE GLYCOL, MICROCRYSTALLINE CELLULOSE, ARGININE, IRON OXIDES (CI 77492), PROPANEDIOL, MALTOOLIGOSYL GLUCOSIDE, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, GLYCYRRHETINIC ACID, DECYL GLUCOSIDE, CELLULOSE ACETATE, HYDROGENATED STARCH HYDROLYSATE, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, 1-METHYLHYDANTOIN-2-IMIDE, MAGNESIUM STEARATE, PROPYLENE GLYCOL STEARATE, CITRIC ACID, PHYTOSPHINGOSINE, SODIUM CITRATE, TOCOPHERYL ACETATE, IRON OXIDES (CI 77491), MANNITOL, XYLITOL, O-CYMEN-5-OL, IRON OXIDES (CI 77499), RHAMNOSE, POLYSORBATE 60, SORBITAN ISOSTEARATE, SODIUM LAUROYL GLUTAMATE, XANTHAN GUM, DIETHYLHEXYL BUTAMIDO TRIAZONE, LYSINE, MAGNESIUM CHLORIDE. [BI2088]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151468%7D_%7B%7D_%7B28714%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة",
+      "للبشرة الحساسة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-018",
+    "brand": "Bioderma",
+    "name": "Photoderm Mineral Fluide Sunscreen SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "ZINC OXIDE [NANO], CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) OIL, DICAPRYLYL ETHER, ISOSTEARYL ISOSTEARATE, TITANIUM DIOXIDE [NANO], DICAPRYLYL CARBONATE, POLYHYDROXYSTEARIC ACID, SILICA, GLYCERYL ISOSTEARATE, TOCOPHEROL, STEARALKONIUM HECTORITE, AQUA/WATER/EAU, PROPYLENE CARBONATE, GLYCINE SOJA (SOYBEAN) OIL.",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B157111%7D_%7B%7D_%7B28412W%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-019",
+    "brand": "Bioderma",
+    "name": "Photoderm Milk Ultra SPF 50+ Sunscreen",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIBUTYL ADIPATE, DICAPRYLYL CARBONATE, C12-15 ALKYL BENZOATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, PROPANEDIOL, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL TRIAZONE, POLYGLYCERYL-6 STEARATE, GLYCERIN, BRASSICA CAMPESTRIS/ALEURITES FORDI OIL COPOLYMER, C20-22 ALKYL PHOSPHATE, 1,2-HEXANEDIOL, C20-22 ALCOHOLS, MICROCRYSTALLINE CELLULOSE, POLYGLYCERYL-6 BEHENATE, SODIUM CITRATE, XANTHAN GUM, CELLULOSE GUM, CAPRYLYL GLYCOL, ECTOIN, MANNITOL, XYLITOL, O-CYMEN-5-OL, SODIUM HYDROXIDE, RHAMNOSE, CITRIC ACID, TOCOPHEROL, DIISOPROPYL SEBACATE, FRUCTOOLIGOSACCHARIDES, PROPYLHEPTYL CAPRYLATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT. [BI2061]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B198825%7D_%7B%7D_%7B28560A%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-BIO-014",
+    "brand": "Bioderma",
+    "name": "Sensibio H2O Eye Makeup Remover",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, ISOHEXADECANE, ISODODECANE, PROPANEDIOL, SODIUM CHLORIDE, CAPRYLIC/CAPRIC TRIGLYCERIDE, FRUCTOOLIGOSACCHARIDES, PANTHENOL, SODIUM CITRATE, MANNITOL, XYLITOL, COPPER GLUCONATE, CITRIC ACID, CETRIMONIUM BROMIDE, RHAMNOSE, POLYGLYCERYL-10 LAURATE, LAMINARIA OCHROLEUCA EXTRACT. [BI 766]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B159913%7D_%7B%7D_%7B28730A%7D.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-BIO-005",
+    "brand": "Bioderma",
+    "name": "Sensibio Defensive Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, BUTYLENE GLYCOL, C15-19 ALKANE, SQUALANE, CELLULOSE, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, PENTYLENE GLYCOL, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, CARNOSINE, POLYACRYLATE CROSSPOLYMER-6, MALTODEXTRIN, XANTHAN GUM, MANNITOL, XYLITOL, TOCOPHEROL, SALVIA MILTIORRHIZA ROOT EXTRACT, RHAMNOSE, BIOSACCHARIDE GUM-1, CITRIC ACID, GLYCINE SOJA (SOYBEAN) OIL, HYDROLYZED HYALURONIC ACID, SODIUM HYDROXIDE, PALMITOYL TETRAPEPTIDE-10. [BI 2010]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B166123%7D_%7B%7D_%7B28738A%7D.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-020",
+    "brand": "Bioderma",
+    "name": "Photoderm ULTRA-FLUID AR+ SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, C12-15 ALKYL BENZOATE, SILICA, GLYCERIN, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCRYLENE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, DIISOPROPYL SEBACATE, LAUROYL LYSINE, PROPANEDIOL, DICAPRYLYL CARBONATE, 1,2-HEXANEDIOL, POLYSORBATE 60, CETYL PHOSPHATE, MALTOOLIGOSYL GLUCOSIDE, GLYCYRRHETINIC ACID, ARGININE, HYDROGENATED STARCH HYDROLYSATE, 1-METHYLHYDANTOIN-2-IMIDE, HYDROXYACETOPHENONE, CITRIC ACID, ECTOIN, MANNITOL, SODIUM PHYTATE, XANTHAN GUM, XYLITOL, RHAMNOSE, O-CYMEN-5-OL, SODIUM HYALURONATE, TOCOPHEROL. [BI506]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B198843%7D_%7B%7D_%7BA01005100%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-018",
+    "brand": "Bioderma",
+    "name": "Atoderm Cream Ultra Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, PARAFFINUM LIQUIDUM/MINERAL OIL/HUILE MINERALE, GLYCERIN, BRASSICA CAMPESTRIS (RAPESEED) SEED OIL, SODIUM POLYACRYLATE, PENTYLENE GLYCOL, CETEARYL ALCOHOL, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SODIUM CITRATE, XYLITOL, CETEARYL GLUCOSIDE, MANNITOL, TOCOPHEROL, RHAMNOSE, XYLITYLGLUCOSIDE, HELIANTHUS ANNUUS (SUNFLOWER) SEED O I L, ANHYDROXYLITOL, N I A C I N A M I D E, G L U C O S E, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT. [BI 475]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B151405%7D_%7B%7D_%7B28065C%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-019",
+    "brand": "Bioderma",
+    "name": "Sébium Kerato+ Body",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, BUTYLENE GLYCOL, NIACINAMIDE, DIPROPYLENE GLYCOL, 1,2-HEXANEDIOL, MALTODEXTRIN, SALICYLIC ACID, CITRIC ACID, SODIUM CITRATE, POLYSORBATE 20, SODIUM HYDROXIDE, MANNITOL, XYLITOL, PROPYL GALLATE, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, SODIUM METABISULFITE, RHAMNOSE, SYRINGA VULGARIS (LILAC) EXTRACT, FRAGRANCE (PARFUM), AMINOETHANESULFINIC ACID. [BI2085]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B183981%7D_%7B%7D_%7B28673%7D.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-EYE-BIO-001",
+    "brand": "Bioderma",
+    "name": "Atoderm Intensive Eye Cream",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, GLYCERIN, PARAFFINUM LIQUIDUM/MINERAL OIL/HUILE MINERALE, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, DIPROPYLENE GLYCOL, BRASSICA CAMPESTRIS (RAPESEED) SEED OIL, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, SUCROSE STEARATE, 1,2-HEXANEDIOL, GLYCYRRHETINIC ACID, SODIUM CITRATE, POLYSORBATE 60, SORBITAN ISOSTEARATE, MANNITOL, SODIUM LAUROYL LACTYLATE, XYLITOL, CITRIC ACID, PENTYLENE GLYCOL, RHAMNOSE, TOCOPHEROL, PHYTOSPHINGOSINE, CERAMIDE NP, SODIUM HYALURONATE, ETHYLHEXYLGLYCERIN, CERAMIDE AP, CHOLESTEROL, CARBOMER, XANTHAN GUM, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT, CERAMIDE EOP. [BI 478]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B156757%7D_%7B%7D_%7B28072%7D.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-021",
+    "brand": "Bioderma",
+    "name": "Pigmentbio Daily Care SPF50+ Brightening Cream",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DICAPRYLYL CARBONATE, OCTOCRYLENE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL [NANO], GLYCERIN, BUTYL METHOXYDIBENZOYLMETHANE, DIPROPYLENE GLYCOL, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, DIMETHICONE, ASCORBYL GLUCOSIDE, BUTYROSPERMUM PARKII (SHEA) OIL, NIACINAMIDE, SILICA, POLYMETHYLSILSESQUIOXANE, JOJOBA ESTERS, HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER, DECYL GLUCOSIDE, C20-22 ALKYL PHOSPHATE, C20-22 ALCOHOLS, XANTHAN GUM, HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, PENTYLENE GLYCOL, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, HYDROGENATED CASTOR OIL, SALICYLIC ACID, SODIUM CITRATE, LYSINE, AZELAIC ACID, MANNITOL, POLYGLYCERIN-3, XYLITOL, ANDROGRAPHIS PANICULATA LEAF EXTRACT, RHAMNOSE, PROPYLENE GLYCOL, ACACIA DECURRENS FLOWER WAX, SACCHARIDE ISOMERATE, GLYCYRRHIZA GLABRA (LICORICE) ROOT EXTRACT, TOCOPHEROL, FRUCTOOLIGOSACCHARIDES, CAPRYLIC/CAPRIC TRIGLYCERIDE, LAMINARIA OCHROLEUCA EXTRACT, FRAGRANCE (PARFUM). [BI 747]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B159553%7D_%7B%7D_%7B28913A%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "تفتيح البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-BIO-003",
+    "brand": "Bioderma",
+    "name": "Sébium Lotion Face Toner",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, PEG-11 METHYL ETHER DIMETHICONE, BUTYLENE GLYCOL, GLYCERIN, FOMES OFFICINALIS (MUSHROOM) EXTRACT, CAPRYLOYL GLYCINE, POLYSORBATE 20, SODIUM CITRATE, ZINC GLUCONATE, SALICYLIC ACID, SODIUM HYDROXIDE, MANNITOL, SODIUM METABISULFITE, XYLITOL, RHAMNOSE, PYRIDOXINE HCL, PROPYL GALLATE, PEG-40 HYDROGENATED CASTOR OIL, FRUCTOOLIGOSACCHARIDES, PHENOXYETHANOL, FRAGRANCE (PARFUM). [BI 727]",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B159538%7D_%7B%7D_%7B28672A%7D.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "تنقية المسام",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-BIO-020",
+    "brand": "Bioderma",
+    "name": "Sébium Kerato+ Gel Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DI-C12-13 ALKYL MALATE, PROPANEDIOL, PROPYLHEPTYL CAPRYLATE, GLYCERIN, SALICYLIC ACID, SODIUM POLYACRYLOYLDIMETHYL TAURATE, ARACHIDYL ALCOHOL, DIMETHICONE, CETEARYL ALCOHOL, BEHENYL ALCOHOL, COCO-GLUCOSIDE, ARACHIDYL GLUCOSIDE, SODIUM HYDROXIDE, SODIUM CITRATE, CHONDRUS CRISPUS EXTRACT, MANNITOL, PROPYL GALLATE, XYLITOL, RHAMNOSE, SODIUM METABISULFITE, TOCOPHEROL, FRAGRANCE (PARFUM).",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B195981%7D_%7B%7D_%7B28675A%7D.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-BIO-022",
+    "brand": "Bioderma",
+    "name": "Photoderm Pediatrics Spray SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA/WATER/EAU, DIBUTYL ADIPATE, DICAPRYLYL CARBONATE, C12-15 ALKYL BENZOATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, PROPANEDIOL, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL TRIAZONE, GLYCERIN, BRASSICA CAMPESTRIS/ALEURITES FORDII OIL COPOLYMER, POLYGLYCERYL-6 STEARATE, 1,2-HEXANEDIOL, PRUNUS ARMENIACA (APRICOT) KERNEL OIL, C20-22 ALKYL PHOSPHATE, MICROCRYSTALLINE CELLULOSE, C20-22 ALCOHOLS, TOCOPHEROL, SODIUM CITRATE, CAPRYLYL GLYCOL, POLYGLYCERYL-6 BEHENATE, CELLULOSE GUM, O-CYMEN-5-OL, GLYCINE SOJA (SOYBEAN) OIL, SODIUM HYDROXIDE, CITRIC ACID, XANTHAN GUM, DIISOPROPYL SEBACATE, PROPYLHEPTYL CAPRYLATE.",
+    "image": "https://www.bioderma.co.uk/sites/uk/files/styles/product_packshot_slider/public/products/%7B198834%7D_%7B%7D_%7B28223%7D.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
 ]
