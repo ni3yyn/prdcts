@@ -5431,23 +5431,6 @@
     "targetTypes": []
   },
   {
-    "id": "KR-CLE-COS-002",
-    "brand": "Coserx",
-    "name": "SALICYLIC ACID DAILY GENTLE CLEANSER",
-    "country": "Korea",
-    "category": {
-      "id": "cleanser",
-      "label": "غسول وجه",
-      "icon": "soap"
-    },
-    "quantity": "null",
-    "ingredients": "ماء, حمض الميريستيك, كلوريد الصوديوم, كوكاميدوبروبيل بيتين (CAPB), صوديوم ميثيل كوكويل توريت, إيثيل هكسيل جليسرين, حمض الستياريك, زيت الخروع المهدرج PEG-60, بوليسوربات 80, كابريليل جليكول, الجلسرين, هيدروكسيد البوتاسيوم, حمض الساليسيليك, حمض اللوريك, بيوتيلين جلايكول, 1,2-هيكسانيديول, ثنائي الصوديوم EDTA, جلايكول ثنائي الستيارات, زيت شجرة الشاي العطري, حمض السيتريك",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768857592/e2hs3a5z371c4fkuryfr.jpg",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
-  },
-  {
     "id": "DZ-CLE-MAG-002",
     "brand": "MAGIC DREAM",
     "name": "PURE BOOST",
