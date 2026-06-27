@@ -10308,5 +10308,32 @@
       "تنقية المسام",
       "تفتيح البشرة"
     ]
+  },
+  {
+    "id": "DZ-LOT-ABU-001",
+    "brand": "Abusaad",
+    "name": "كريم حليب الماعز",
+    "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-44-6.png",
+    "ingredients": "Water, Citric Acid, Triethanolamine, Coco-Caprylate, Isopropyl Myristate, Beeswax, Sodium Hydroxide, Glycerin, Vitamin E (Tocopherol), Methylchloroisothiazolinone, Methylisothiazolinone, Goat Milk.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "max": null,
+      "min": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "normal_skin",
+      "dry_skin"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ]
   }
 ]
