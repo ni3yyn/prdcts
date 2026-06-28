@@ -7134,7 +7134,7 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 350,
+      "min": 250,
       "max": 350,
       "currency": "DZD"
     },
@@ -9585,7 +9585,7 @@
     "brand": "Paula's choice",
     "name": "Exfoloate 2% BHA salicylic acid",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1775774874/n2fovbcmw8nsgfzidk0d.jpg",
-    "ingredients": "",
+    "ingredients": "Water, Methylpropanediol, Butylene Glycol, Salicylic Acid, Polysorbate 20, Camellia Oleifera (Green Tea) Leaf Extract, Sodium Hydroxide, Tetrasodium EDTA",
     "country": "Other",
     "category": {
       "id": "toner",
@@ -10222,8 +10222,8 @@
       "حماية من الشمس"
     ],
     "price": {
-      "min": 29400.0,
-      "max": 29400.0,
+      "min": 29400,
+      "max": 29400,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10245,8 +10245,8 @@
       "حماية من الشمس"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10269,8 +10269,8 @@
       "توازن إفراز الدهون"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10296,8 +10296,8 @@
       "ترطيب مكثف"
     ],
     "price": {
-      "min": 2350.0,
-      "max": 2350.0,
+      "min": 2350,
+      "max": 2350,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10322,8 +10322,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 2350.0,
-      "max": 2350.0,
+      "min": 2350,
+      "max": 2350,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10348,8 +10348,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 2350.0,
-      "max": 2350.0,
+      "min": 2350,
+      "max": 2350,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10375,8 +10375,8 @@
       "تنقية المسام"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10402,8 +10402,8 @@
       "مضاد لحب الشباب"
     ],
     "price": {
-      "min": 1900.0,
-      "max": 1900.0,
+      "min": 1900,
+      "max": 1900,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10427,8 +10427,8 @@
       "مضاد لحب الشباب"
     ],
     "price": {
-      "min": 2600.0,
-      "max": 2600.0,
+      "min": 2600,
+      "max": 2600,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10453,8 +10453,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 2250.0,
-      "max": 2250.0,
+      "min": 2250,
+      "max": 2250,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10477,8 +10477,8 @@
       "حماية واسعة الطيف"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10501,8 +10501,8 @@
       "حماية واسعة الطيف"
     ],
     "price": {
-      "min": 2950.0,
-      "max": 2950.0,
+      "min": 2950,
+      "max": 2950,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10526,8 +10526,8 @@
       "تفتيح البشرة"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10550,8 +10550,8 @@
       "مهدئ"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10575,8 +10575,8 @@
       "مضاد لتساقط الشعر"
     ],
     "price": {
-      "min": 1900.0,
-      "max": 1900.0,
+      "min": 1900,
+      "max": 1900,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10598,8 +10598,8 @@
       "تنظيف عميق"
     ],
     "price": {
-      "min": 1900.0,
-      "max": 1900.0,
+      "min": 1900,
+      "max": 1900,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10622,8 +10622,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 1700.0,
-      "max": 1700.0,
+      "min": 1700,
+      "max": 1700,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10646,8 +10646,8 @@
       "توحيد لون البشرة"
     ],
     "price": {
-      "min": 2600.0,
-      "max": 2600.0,
+      "min": 2600,
+      "max": 2600,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10669,8 +10669,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 1400.0,
-      "max": 1400.0,
+      "min": 1400,
+      "max": 1400,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10693,13 +10693,12 @@
       "ترطيب مكثف"
     ],
     "price": {
-      "min": 2250.0,
-      "max": 2250.0,
+      "min": 2250,
+      "max": 2250,
       "currency": "DZD"
     },
     "targetTypes": []
   },
-  
   {
     "id": "FR-CON-TOU-001",
     "brand": "Touché",
@@ -10718,8 +10717,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 1700.0,
-      "max": 1700.0,
+      "min": 1700,
+      "max": 1700,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10741,8 +10740,8 @@
       "تعزيز النمو"
     ],
     "price": {
-      "min": 1900.0,
-      "max": 1900.0,
+      "min": 1900,
+      "max": 1900,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10764,8 +10763,8 @@
       "مضاد لحب الشباب"
     ],
     "price": {
-      "min": 1750.0,
-      "max": 1750.0,
+      "min": 1750,
+      "max": 1750,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10787,8 +10786,8 @@
       "مهدئ"
     ],
     "price": {
-      "min": 3350.0,
-      "max": 3350.0,
+      "min": 3350,
+      "max": 3350,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10810,8 +10809,8 @@
       "مهدئ"
     ],
     "price": {
-      "min": 3500.0,
-      "max": 3500.0,
+      "min": 3500,
+      "max": 3500,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10834,8 +10833,8 @@
       "تنقية المسام"
     ],
     "price": {
-      "min": 1900.0,
-      "max": 1900.0,
+      "min": 1900,
+      "max": 1900,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10859,8 +10858,8 @@
       "مضاد لتساقط الشعر"
     ],
     "price": {
-      "min": 1900.0,
-      "max": 1900.0,
+      "min": 1900,
+      "max": 1900,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -10883,8 +10882,8 @@
       "تنقية المسام"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -10909,8 +10908,8 @@
       "مضاد لحب الشباب"
     ],
     "price": {
-      "min": 2450.0,
-      "max": 2450.0,
+      "min": 2450,
+      "max": 2450,
       "currency": "DZD"
     },
     "targetTypes": [
