@@ -1158,7 +1158,9 @@
       "حماية واسعة الطيف"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "FR-LOT-MIX-009",
@@ -1329,7 +1331,9 @@
       "حماية واسعة الطيف"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "FR-LOT-MIX-004",
@@ -5111,7 +5115,7 @@
       "label": "بديل الزيت",
       "icon": "water"
     },
-    "quantity": "150",
+    "quantity": "150 ml",
     "ingredients": "ماء, كحول سيتوستيريل, كحول الستياريل, زيت الأرغان, بروتين متحلل, عطر, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772224406/n8ehfc4ihzzylrxn55sx.jpg",
     "marketingClaims": [
@@ -5120,7 +5124,7 @@
     ],
     "price": {
       "min": 300,
-      "max": 300,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -6374,7 +6378,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "300",
     "ingredients": "ماء, كوكو جليسيرين بروبيل, الجلسرين, كوكو جلوكوسايد, حمض الساليسيليك, حمض السيتريك, عطر, ألكيل بولي غليكوزيد",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769768746/crtmptqpw5oqdz9tlwxq.jpg",
     "marketingClaims": [],
