@@ -1701,7 +1701,11 @@
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, SODIUM LAURYL SULFATE, GLYCOL DISTEARATE, SODIUM CHLORIDE, AMODIMETHICONE, CI 19140 / YELLOW 5, CI 15985 / YELLOW 6, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM BENZOATE, SODIUM HYDROXIDE, PPG-5-CETETH-20, TRIDECETH-6, SALICYLIC ACID, MEL / HONEY, LIMONENE, BENZYL ALCOHOL, BENZYL SALICYLATE, 2-OLEAMIDO-1,3-OCTADECANEDIOL, PROPOLIS EXTRACT, CARBOMER, CETRIMONIUM CHLORIDE, CITRIC ACID, COUMARIN, ROYAL JELLY, PARFUM / FRAGRANCE. (C164290/2).",
     "image": "https://images.openbeautyfacts.org/images/products/360/054/154/0262/front_ro.7.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -8628,7 +8632,11 @@
       "icon": "pump-soap"
     },
     "quantity": "270 ml",
-    "price": null,
+    "price": {
+      "min": 200,
+      "max": 200,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
