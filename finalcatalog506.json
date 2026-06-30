@@ -8950,7 +8950,11 @@
       "icon": "pump-soap"
     },
     "quantity": "100 ml",
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
