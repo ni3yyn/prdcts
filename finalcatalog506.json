@@ -574,7 +574,11 @@
     "ingredients": "AQUA (WATER, EAU) ● DIMETHICONE ● BUTYROSPERMUM PARKII (SHEA) BUTTER ● ETHYLHEXYL PALMITATE ● ISONONYL ISONONANOATE ● GLYCERIN ● POLYSORBATE 60 ● PROPANEDIOL ● BUTYLENE GLYCOL ● GLYCERYL STEARATE ● PEG-100 STEARATE ● CETYL ALCOHOL ● PENTAERYTHRITYL DISTEARATE ● 1,2-HEXANEDIOL ● SODIUM POLYACRYLATE ● EMPETRUM NIGRUM FRUIT JUICE ● PARFUM (FRAGRANCE) ● CHLORPHENESIN ● ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER ● TOCOPHERYL ACETATE ● o-CYMEN-5-OL ● XANTHAN GUM ● SODIUM HYDROXIDE ● SODIUM HYALURONATE ● POTASSIUM SORBATE",
     "image": "https://images.openbeautyfacts.org/images/products/366/143/400/4711/front_fr.4.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1019,7 +1023,11 @@
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, DIMETHICONE, SODIUM CHLORIDE, COCO-BETAINE, GLYCOL DISTEARATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDE MIPA, SODIUM BENZOATE, HYDROXYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN, SODIUM COCOATE, SODIUM HYDROXIDE, ARGININE, SALICYLIC ACID, LIMONENE, LINALOOL, 2-OLEAMIDO-1,3-OCTADECANEDIOL, CARBOMER, METHYL COCOATE, CITRIC ACID, HEXYLENE GLYCOL, HEXYL CINNAMAL, GLYCERYL LINOLEATE, GLYCERYL OLEATE, GLYCERYL LINOLENATE, PARFUM / FRAGRANCE. (F.I.L C48232/1)",
     "image": "https://images.openbeautyfacts.org/images/products/361/034/001/0248/front_fr.5.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1309,7 +1317,11 @@
     "ingredients": "water, Sodium Laureth Sulfate, Sodium Chloride, Glycerin, Coco-Betaine, PEG-60 Hydrogenated Castor Oil, PPG-5-Ceteth-20, CI 19140/Yellow 5, CI 42090/Blue 1, Linalool, Parfum/Fragrance, Sodium Benzoate, Salicylic Acid, Sodium Hydroxide, Limonene, Citral, Citrus Nobilis Peel Oil/Mandarin Orange Peel Oil, Citric Acid, Polyquaternium-10. (FIL C163656/2)",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/036/2626/front_fr.5.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 700,
+      "max": 700,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
