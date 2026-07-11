@@ -7188,7 +7188,7 @@
       "deep_cleansing"
     ],
     "price": {
-      "min": 500,
+      "min": 450,
       "max": 500,
       "currency": "DZD"
     },
