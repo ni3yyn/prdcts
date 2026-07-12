@@ -5748,7 +5748,11 @@
     "ingredients": "ماء, كاربومير, ثلاثي إيثانولامين (TEA), سوربيتول, بروبيلين غليكول, مستخلص الألوفيرا, PEG-7 جليسيريل كوكوات, بانثينول (بروفيتامين B5), زيت الخروع المهدرج PEG-40, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772054590/lepjay9ahl142564or0n.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6648,7 +6652,11 @@
     "ingredients": "ماء, الجلسرين, كحول السيتريل, ثلاثي إيثانولامين (TEA), بروبيلين جلايكول, كاربومير, رباعي الصوديوم EDTA, فينوكسي إيثانول, كلورفينيسين, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768763815/iktbwnstdu1yb5r2tsms.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
