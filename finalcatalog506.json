@@ -5736,7 +5736,10 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772215063/zpvapjuqhivdbtszcecq.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-XXX-ABU-002",
