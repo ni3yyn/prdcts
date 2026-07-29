@@ -16741,5 +16741,1311 @@
     "targetTypes": [
       "بشرة حساسة"
     ]
+  },
+    {
+    "id": "US-LOT-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Very Dry and Damaged Feet Cream 100ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, Dimethicone, Cera Microcristallina, Panthenol, Ethylhexylglycerin, Paraffin, Bisabolol, Menthol, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Citric Acid, Disodium Phosphate, Potassium Phosphate, Tocopherol, BHT, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/697b0b76c117d/neutrogena-very-dry-p681.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "US-LOT-NEU-003",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Aqua-Gel 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Dimethicone, Cetearyl Olivate, Sorbitan Olivate, Alanine, Glycine, Threonine, Lysine Hydrochloride, Serine, Arginine, Proline, Allantoin, Maltose, Ethylhexylglycerin, Caprylyl Glycol, Dimethiconol, Pentylene Glycol, Sodium Hyaluronate, Fructose, Betaine, PCA, Sodium PCA, Urea, Glucose, Trehalose, Sodium Lactate, Glutamic Acid, Synthetic Beeswax, Dimethicone Crosspolymer, Polyacrylate Crosspolymer-6, Sodium Chloride, t-Butyl Alcohol, Citric Acid, Sodium Hydroxide, Tocopherol, Parfum, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4eacf36e4/neutrogena-hydro-boost-p90055.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-004",
+    "brand": "Neutrogena",
+    "name": "Collagen Bank Moisturizing Cream SPF30 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Octocrylene, Homosalate, Ethylhexyl Salicylate, Silica, Butyl Methoxydibenzoylmethane, Caprylyl Methicone, Diisopropyl Adipate, Dimethicone, Potassium Cetyl Phosphate, Synthetic Beeswax, Benzyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Cetyl Dimethicone, Caprylyl Glycol, Ethylhexylglycerin, Sodium Polyacrylate, Behenyl Alcohol, Acrylates/Dimethicone Copolymer, Xanthan Gum, Chlorphenesin, Dimethicone/PEG-10/15 Crosspolymer, Disodium EDTA, Hydrolyzed Jojoba Esters, Ethylhexyl Stearate, Tocopheryl Acetate, BHT, Trideceth-6, Jojoba Esters, Acetyl Dipeptide-31 Amide, Hydrolyzed Collagen, Dipropylene Glycol, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6960df07a0f45/neutrogena-collagen-bank-p114856.jpg",
+    "marketingClaims": [
+      "تحفيز الكولاجين",
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-NEU-001",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Serum 10% Niacinamide 30 ml",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Niacinamide, Glycerin, Acetyl Glucosamine, Pentylene Glycol, Dimethicone, Phenoxyethanol, Carbomer, Disodium Edta, Sodium Hyaluronate, Sodium Hydroxide, Ethylhexylglycerin, Dimethicone/Vinyl Dimethicone Crosspolymer, Amodimethicone",
+    "image": "https://cdn1.costatic.com/img/product/400/6811f2d3a56b2/neutrogena-hydro-boost-p100649.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توحيد لون البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-005",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost Anti-Aging Cream 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water), Pentaerythrityl Tetraethylhexanoate, Dimethicone, Glycerin, PPG-15 Stearyl Ether, Stearyl Alcohol, Cetearyl Alcohol, Butylene Glycol, Ceteareth-20, Isohexadecane, Retinol, Hydrolyzed Myrtus Communis Leaf Extract, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Sodium Hyaluronate, Caprylyl Glycol, Polyacrylamide, Cellulose, C13-14 Isoparaffin, Laureth-7, Dimethicone Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Disodium EDTA, Sodium Hydroxide, BHT, Ascorbic Acid, Phenoxyethanol, Chlorphenesin, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4dde0a3c3/neutrogena-retinol-boost-p90053.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-006",
+    "brand": "Neutrogena",
+    "name": "Deep Hydration Oil Enriched Lotion 400ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Prunus Amygdalus Dulcis Oil, Caprylyl Glycol, Sodium Hydroxide, p-Anisic Acid, Parfum, Avena Sativa (Oat) Kernel Oil, Ethylhexylglycerin, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4d381ba0f/neutrogena-deep-hydration-p76007.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "US-SCR-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Anti-Brilliance Lime Exfoliating Gel 150ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Glycerin, Sodium Laureth Sulfate, Cellulose, Lauryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Parfum, Citric Acid, Disodium EDTA, Menthyl Lactate, Sodium Hydroxide, Propylene Glycol, Aloe Barbadensis Leaf Juice Powder, Citrus Aurantifolia Juice, Potassium Sorbate, Sodium Sulfite",
+    "image": "https://cdn1.costatic.com/img/product/400/697b2edf9e774/neutrogena-anti-brilliance-p99091.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق",
+      "توازن الدهون والزيوت",
+      "للبشرة الدهنية"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "US-CLE-NEU-003",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Aqua-Gel Unscented Moisturizing Cleanser 200 ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Cocamidopropyl Hydroxysultaine, Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Potassium Acrylates Copolymer, Hydroxyacetophenone, Phenoxyethanol, Linoleamidopropyl PG-dimonium Chloride Phosphate, Propylene Glycol, Coconut Acid, Polyquaternium-10, Sodium Hydroxide, Disodium EDTA, Citric Acid, Ethylhexylglycerin, Disodium Tetrapropenyl Succinate, Hydrolyzed Hyaluronic Acid, Tocopheryl Acetate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/687f52cf1b5d0/neutrogena-hydro-boost-p96424.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-MSK-NEU-001",
+    "brand": "Neutrogena",
+    "name": "Calm Turmeric Purifying Mask 50ml",
+    "country": "USA",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Kaolin, Bentonite, Sodium Methyl Cocoyl Taurate, CI 77891, Trideceth-9, C12-15 Alkyl Lactate, Salicylic Acid*, Citric Acid, C77492, PEG-5 Ethylhexanoate, Sodium Chloride, Xanthan Gum, Cetyl Lactate, Cocamidopropyl PG-Dimonium Chloride Phosphate, Sodium Citrate, Disodium EDTA, Chlorphenesin, Parfum, Sodium Hydroxide, Menthol, Benzalkonium Chloride, Cetyl Alcohol, Curcuma Longa Root Extract, Phytic Acid, Phenoxyethanol. * Actif purifiant",
+    "image": "https://cdn1.costatic.com/img/product/400/6867991c4e085/neutrogena-calm-turmeric-p99093.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مهدئ",
+      "تنقية عميقة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-007",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost Day Cream SPF15 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Homosalate, C12-15 Alkyl Benzoate, Isododecane, Ethylhexyl Salicylate, Octocrylene, Glycerin, Butyl Methoxydibenzoylmethane, Cetyl Alcohol, Steareth-21, Cellulose, Dimethicone, Stearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Caprylic/Capric Triglyceride, Caprylyl Glycol, Phenoxyethanol, Parfum, Chlorphenesin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Hydrolyzed Myrtus Communis Leaf Extract, Retinol, BHT, Sodium Hyaluronate, Disodium EDTA, Sodium Hydroxide, Ascorbic Acid, Ethylhexylglycerin. [PR-0004203]",
+    "image": "https://cdn1.costatic.com/img/product/400/6882165966a56/neutrogena-retinol-boost-p96423.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-008",
+    "brand": "Neutrogena",
+    "name": "Deep Hydration Hypoallergenic Body Milk 400ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Glycerin, Isopropryl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Caprylyl Glycol, Avena Sativa Kernel Oil, Sodium Hydroxide, p-Anisic Acid,Ethylhexyglycerin, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/669a6a71816a7/neutrogena-deep-hydration-p90050.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "US-SSE-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost Anti-Aging Serum 30ml",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Dimethicone, Aluminum Starch Octenylsuccinate, Dimethicone Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Cellulose, C12-15 Alkyl Benzoate, Ascorbyl Glucoside, Retinol, Hydrolyzed Myrtus Communis Leaf Extract, Caprylic/Capric Triglyceride, Sodium Hyaluronate, Ethylhexylglycerin, Glycerin, Caprylyl Glycol, C13-14 Isoparaffin, Laureth-7, Polyacrylamide, Xanthan Gum, Disodium EDTA, Sodium Hydroxide, BHT, Ascorbic Acid, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4dae92079/neutrogena-retinol-boost-p90047.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-009",
+    "brand": "Neutrogena",
+    "name": "Concentrated Hand Cream Fragrance Free 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Sodium Cetearyl Sulfate, Dilauryl Thiodipropionate, Sodium Sulfate, Methylparaben, Propylparaben",
+    "image": "https://cdn1.costatic.com/img/product/400/685c08df92b65/neutrogena-concentrated-hand-p49312.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "US-SCR-NEU-003",
+    "brand": "Neutrogena",
+    "name": "Anti-Blemish Exfoliating Gel 150ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Hydroxysultaine, Sorbitol, Cellulose, Salicylic Acid, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Acrylates Crosspolymer-4, C12-15 Alkyl Lactate, Panthenol, Cocamidopropyl PG-Dimonium Chloride Phosphate, Talc, Disodium Tetrapropenyl Succinate, Cera Microcristallina, Sodium Chloride, Disodium EDTA, Citric Acid, Sodium Hydroxide, Benzalkonium Chloride, Parfum, CI 19140, CI 73360. [PR-017564]",
+    "image": "https://cdn1.costatic.com/img/product/400/6878c6fcc8f22/neutrogena-anti-blemish-p99096.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "US-SSE-NEU-003",
+    "brand": "Neutrogena",
+    "name": "Anti-Spots + Perfume-Free Daily Serum 30 ml",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Propylene Glycol, Glycolic Acid, Dimethicone, Sodium Hydroxide, Mandelic Acid, Gluconolactone, Neopentyl Glycol Diheptanoate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Salicylic Acid*, t-Butyl Alcohol, Dimethicone Crosspolymer, Polyacrylate Crosspolymer-6, Polysorbate 60, Sorbitan Isostearate, Disodium EDTA",
+    "image": "https://cdn1.costatic.com/img/product/400/697b144f38314/neutrogena-anti-spots-p96426.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-004",
+    "brand": "Neutrogena",
+    "name": "Anti-Shine Cleansing Gel Lime 200ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Glycerin, Sodium Laureth Sulfate, Lauryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Parfum, Citric Acid, Disodium EDTA, Propylene Glycol, Sodium Hydroxide, Aloe Barbadensis Leaf Juice Powder, Citrus Aurantifolia Juice, Potassium Sorbate, Sodium Sulfite. [PR-0005807]",
+    "image": "https://cdn1.costatic.com/img/product/400/682ec0e74f067/neutrogena-anti-shine-p99088.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "للبشرة الدهنية",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "US-SCR-NEU-004",
+    "brand": "Neutrogena",
+    "name": "Anti-Spots + Unscented Liquid Scrub 125 ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "125 ml",
+    "ingredients": "Aqua, Glycerin, Glycolic Acid, Butylene Glycol, Polysorbate 20, Sodium Hydroxide, Citric Acid, Sodium Benzoate, Panthenol, C12-15 Alkyl Lactate, Cocamidopropyl PG-Dimonium Chloride Phosphate, Disodium EDTA, Sodium Chloride",
+    "image": "https://cdn1.costatic.com/img/product/400/67ff4e592270c/neutrogena-anti-spots-p96421.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-MSK-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Skin Detox Purifying Clay Mask 2in1 150ml",
+    "country": "USA",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Glycerin, Kaolin, Bentonite, Sodium Methyl Cocoyl Taurate, CI 77891, Trideceth-9, Panthenol, Salicylic Acid, Menthyl Lactate, PEG-5 Ethylhexanoate, Sodium Chloride, Xanthan Gum, Disodium EDTA, Citric Acid, Glycolic Acid, Sodium Citrate, Sodium Hydroxide, Parfum, CI 42053",
+    "image": "https://cdn1.costatic.com/img/product/400/630e201c7c5fd/neutrogena-skin-detox-p76035.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنقية عميقة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-005",
+    "brand": "Neutrogena",
+    "name": "Grapefruit Purity Cleansing Gel 150 ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Glycerin, Sodium Laureth Sulfate, Lauryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Salicylic Acid*, Parfum, Citric Acid, Disodium EDTA, Sodium Hydroxide, Sodium Ascorbyl Phosphate, Propylene Glycol, Citrus Grandis Fruit Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/697b15941edff/neutrogena-grapefruit-purity-p99098.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-001",
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Invisible Fluid Hydrating Sunscreen SPF50 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69cf6afda07fd/neutrogena-ultra-sheer-p116627.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Invisible Sun Milk SPF30 200 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69ce9dbec91ef/neutrogena-ultra-sheer-p116629.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-010",
+    "brand": "Neutrogena",
+    "name": "Deep Hydration Moisturizing Body Milk 48H 400ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Caprylyl Glycol, Parfum, Sodium Hydroxide, p-Anisic Acid, Avena Sativa (Oat) Kernel Oil, Ethylhexylglycerin, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696a5108079a7/neutrogena-deep-hydration-p90048.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-011",
+    "brand": "Neutrogena",
+    "name": "Concentrated Fragrance Free Hands Cream 2 x 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "2 x 50ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Ethylhexylglycerin, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Sodium Sulfate, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/68b949a68cdba/neutrogena-concentrated-fragrance-p50787.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SCR-NEU-005",
+    "brand": "Neutrogena",
+    "name": "Skin Detox Purifying Scrub 150ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Hydroxysultaine, Cellulose, Sorbitol, Acrylates Crosspolymer-4, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Cera Microcristallina, Salicylic Acid, Disodium Tetrapropenyl Succinate, Menthol, Polysorbate 20, Sodium Chloride, Disodium EDTA, Citric Acid, Glycolic Acid, Sodium Hydroxide, Parfum, CI 77510, CI 42053. [PR-019215]",
+    "image": "https://cdn1.costatic.com/img/product/400/5f6862793261a/neutrogena-skin-detox-p48792.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية عميقة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-012",
+    "brand": "Neutrogena",
+    "name": "Concentrated Moisturizing Hand Cream 2 x 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "2 x 50ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Stearic Acid, Palmitic Acid, Sodium Cetearyl Sulfate, Dilauryl Thiodipropionate, Sodium Sulfate, Methylparaben, Propylparaben, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/6878c6c1188bd/neutrogena-concentrated-moisturizing-p49985.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-006",
+    "brand": "Neutrogena",
+    "name": "Anti-Spots Cleansing Gel 200ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Cocamidopropyl Hydroxysultaine, Sodium Methyl Cocoyl Taurate, Glycerin, Salicylic Acid, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, C12-15 Alkyl Lactate, Panthenol, Cocamidopropyl PG-Dimonium Chloride Phosphate, Disodium Tetrapropenyl Succinate, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Disodium EDTA, Citric Acid, Sodium Hydroxide,Tocopherol, Benzalkonium Chloride, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67c556a951358/neutrogena-anti-spots-p99099.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-013",
+    "brand": "Neutrogena",
+    "name": "Deep Hydration Multi-Use Comfort Balm 300ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "300ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Carbomer, Potassium Cetyl Phosphate, Caprylyl Glycol, p-Anisic Acid, Parfum, Sodium Hydroxide, Avena Sativa (Oat) Kernel Oil, Ethylhexylglycerin, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696a515224ce5/neutrogena-deep-hydration-p90049.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-007",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Triple Action Micellar Water 400ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, PEG-6 Caprylic/Capric Glycerides, Polysorbate 20, Butylene Glycol, PEG-8, Sodium Hyaluronate, Poloxamer 407, Disodium EDTA, Citric Acid, BHT, Sodium Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67596a11a5994/neutrogena-hydro-boost-p90058.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-003",
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Age Shield Invisible Sun Fluid SPF50 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69ce9cdc8d7cd/neutrogena-ultra-sheer-p116625.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-EYE-NEU-001",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost Anti-Aging Eye Contour 15ml",
+    "country": "USA",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua, Pentaerythrityl Tetraethylhexanoate, Dimethicone, Glycerin, PPG-15 Stearyl Ether, Stearyl Alcohol, Cetearyl Alcohol, Butylene Glycol, Ceteareth-20, Isohexadecane, Retinol, Hydrolyzed Myrtus Communis Leaf Extract, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Sodium Hyaluronate, Caprylyl Glycol, Polyacrylamide, Cellulose, C13-14 Isoparaffin, Laureth-7, Dimethicone Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer Disodium EDTA, Sodium Hydroxide, BHT, Ascorbic Acid, Phenoxyethanol, Chlorphenesin",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4ea3885bc/neutrogena-retinol-boost-p90052.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-014",
+    "brand": "Neutrogena",
+    "name": "Express Absorption Feet Cream 100ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Glycerin, Paraffinum Liquidum, Cetyl Alcohol, Panthenol, Allantoin, Hydrogenated Palm Glycerides, Potassium Cetyl Phosphate, Caprylyl Glycol, Carbomer, Sodium Polyacrylate, Sodium Hydroxide, Citric Acid, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6797850fa37f2/neutrogena-express-absorption-p13778.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-015",
+    "brand": "Neutrogena",
+    "name": "Cracked Chapped Damaged Heels Feet Cream 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Glycerin, Aqua, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Dimenthicone, Sodium Cetearyl Sulfate, Panthenol, Caprylyl Glycol, Ethylhexylglycerin, Parfum, Butylene Glycol, Palmitic Acid, Stearic Acid, Citric Acid, Disodium Phosphate, Potassium Phosphate, Centella Asiatica Extract, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/697b31b167071/neutrogena-cracked-chapped-p27548.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-NEU-001",
+    "brand": "Neutrogena",
+    "name": "Lip Stick Nutrition 3 x 4.8g + in which 1 Free",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Hydrogenated polyisobutene, Synthetic wac, Polyisobutene, Polyglyceryl-3 diisostearate, Cera microcristallina, Caprylic/capric triglyceride, Copernicia cerifera cera, Disteardimonium hectorite, Tocopheryl acetate, Butyrospermum parkii butter, Prunus amygdalus dulcis oil, Persea gratissima oil, Glycerin, Alcohol, Aqua, Tocopherol, Parfum (PR-0001731)",
+    "image": "https://cdn1.costatic.com/img/product/400/64c7a252ac516/neutrogena-lip-stick-p51101.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-NEU-004",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Ultra Hydrating Serum 30 ml",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Dimethicone, Butylene Glycol, Neopentyl Glycol Diheptanoate, Aluminum Starch Octenylsuccinate, Isododecane, Polyacrylate Crosspolymer-6, Betaine, Caprylyl Glycol, Ethylhexylglycerin, Pentylene Glycol, Cetearyl Olivate, Dimethiconol, Sodium PCA, Sorbitan Olivate, Tocopheryl Acetate, Fructose, Sodium Hyaluronate, Sodium Lactate, Urea, Citric Acid, PCA, Sodium Hydroxide, Maltose, Serine, Alanine, Sodium Chloride, Trehalose, Glycine, t-Butyl Alcohol, Allantoin, Glutamic Acid, Lysine HCl, Threonine, Arginine, Glucose, Proline, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecb2eeeba4/neutrogena-hydro-boost-p90056.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-008",
+    "brand": "Neutrogena",
+    "name": "2-in-1 Anti- Blemish Cleanser and Mask 150ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Glycerin, Kaolin, Bentonite, Sodium Methyl Cocoyl Taurate, CI 77891, Trideceth-9, C12-15,Alkyl Lactate, Salicylic Acid, Cetyl Lactate, Cocamidopropyl PG-Dimonium Chloride Phosphate,Menthol, Cetyl Alcohol, PEG-5 Ethylhexanoate, Sodium Chloride, Xanthan Gum, Disodium EDTA, Citric Acid, Sodium Citrate, Sodium Hydroxide, Chlorphenesin, Benzalkonium Chloride, Parfum. [PR-017563]",
+    "image": "https://cdn1.costatic.com/img/product/400/6788d1d5bef78/neutrogena-2-in-p99095.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-EYE-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Collagen Bank Revitalizing Eye Gel-Cream 15 g",
+    "country": "USA",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 g",
+    "ingredients": "Aqua, Glycerin, Niacinamide, Dimethicone, Avena Sativa (Oat) Kernel Flour, Cetearyl Olivate, Polyacrylamide, Sorbitan Olivate, Sodium Polyacrylate, Caprylyl Glycol, Glyceryl Dilaurate, Steareth-10, C13-14 Isoparaffin, Chlorphenesin, Dimethiconol, Dimethicone crosspolymer, Laureth-7, Citric Acid, Vaccinium Macrocarpon Fruit Extract, 1, 2-Hexanediol, Acetyl Dipeptide-31 Amide, Hydrolyzed Collagen",
+    "image": "https://cdn1.costatic.com/img/product/400/6960c10c74bab/neutrogena-collagen-bank-p114857.jpg",
+    "marketingClaims": [
+      "تحفيز الكولاجين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SHA-NEU-001",
+    "brand": "Neutrogena",
+    "name": "T/Gel Strong Severe Itchiness 250ml",
+    "country": "USA",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Salicylic Acid, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Polyquaternium-22, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Piroctone Olamine, Hexylene Glycol, Propylene Glycol, Sodium Citrate, Citric Acid, Sodium Bicarbonate, BHT, Tocopheryl Acetate, Parfum, Citronellol, CI 19140, CI 16035, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/690a07c1dc55b/neutrogena-t-gel-p13025.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-004",
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Invisible Sun Lotion SPF50 200 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69ce9dccae0b4/neutrogena-ultra-sheer-p116630.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-OTH-NEU-002",
+    "brand": "Neutrogena",
+    "name": "Lips Stick Nutrition 4.8g",
+    "country": "USA",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "4.8g",
+    "ingredients": "Hydrogenated polyisobutene, Synthetic wac, Polyisobutene, Polyglyceryl-3 diisostearate, Cera microcristallina, Caprylic/capric triglyceride, Copernicia cerifera cera, Disteardimonium hectorite, Tocopheryl acetate, Butyrospermum parkii butter, Prunus amygdalus dulcis oil, Persea gratissima oil, Glycerin, Alcohol, Aqua, Tocopherol, Parfum (PR-0001731)",
+    "image": "https://cdn1.costatic.com/img/product/400/668e36b87940a/neutrogena-lips-stick-p686.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-016",
+    "brand": "Neutrogena",
+    "name": "Hands Cream Express Absorption 75ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myrisitate, Ethylhexylglycerin, Caprylyl Glycol, Cetyl Alcohol, Potassium Cetyl Phosphate, p-Anisic Acid, Carbomer, Sodium Polyacrylate, Sodium Hydroxide, Tocopheryl Acetate, Tocopherol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/685c08f00f72a/neutrogena-hands-cream-p50354.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SSE-NEU-005",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost + Intense Night Serum 30ml",
+    "country": "USA",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Isohexadecane, Dicaprylyl Carbonate, PPG-15 Stearyl Ether, Pentaerythrityl Tetraethylhexanoate, Triethyl Citrate, Caprylic/Capric Triglyceride, Retinol, Glycine Soja Oil, Bisabolol, BHT, Tocopherol, Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4e5461120/neutrogena-retinol-boost-p90054.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-017",
+    "brand": "Neutrogena",
+    "name": "Anti-Spots + Perfume-free Moisturizing Gel 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Dimethicone, Niacinamide, Zea Mays Starch, Panthenol, Polyacrylamide, Phenoxyethanol, Cetearyl Olivate, C13-14 Isoparaffin, Sorbitan Olivate, Caprylyl Glycol, Ethylhexylglycerin, Dimethicone Crosspolymer, Carbomer, Laureth-7, Sodium Hydroxide, Tocopherol. [PR-0004771]",
+    "image": "https://cdn1.costatic.com/img/product/400/67ff50786260d/neutrogena-anti-spots-p96420.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-018",
+    "brand": "Neutrogena",
+    "name": "Express Absorption Hand Cream 2 x 75ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "2 x 75ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myrisitate, Ethylhexylglycerin, Caprylyl Glycol, Cetyl Alcohol, Potassium Cetyl Phosphate, p-Anisic Acid, Carbomer, Sodium Polyacrylate, Sodium Hydroxide, Tocopheryl Acetate, Tocopherol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6878c6ed396fa/neutrogena-express-absorption-p51100.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-005",
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Invisible Fluid Sunscreen Oil Control SPF50+ 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69ce9cec5250f/neutrogena-ultra-sheer-p116628.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "US-CLE-NEU-009",
+    "brand": "Neutrogena",
+    "name": "Anti-Spots + Unscented Cleansing Gel 200 ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Hydroxysultaine, Sorbitol, Gluconolactone, Salicylic Acid, Sodium Hydroxide, Sodium Chloride, Potassium Acrylates Copolymer, Disodium EDTA, Citric Acid, Sodium Bicarbonate",
+    "image": "https://cdn1.costatic.com/img/product/400/67fe5268dc55e/neutrogena-anti-spots-p96425.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-019",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Gel-Cream 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Palmitate, Cetyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Alanine, Maltose, Glycine, Allantoine, Lysine Hydrochloride, Arginine, Serine, Proline, Threonine, Ethylhexylglycerin, Pentylene Glycol, Ceramide NP, Tropolone, Socium Hyaluronate, 1,2-Hexanediol, Caprylyl Glycol, Trehalose, Betaine, Urea, Fructose, Glucose, PCA, Sodium PCA, Gutamic Acid, Sodium Lactate, Palmitic Acid, Stearic Acid, Dimethicone, Sodium Chloride, Polyacrylate Crosspolymer-6, C10-30 Cholesterol/Lanosterol Esters, t-Butyl Alcohol, Sodium Hydroxde, Citric Acid, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4e5cb1693/neutrogena-hydro-boost-p90046.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-020",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost + Intense Care Cream 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/696a50f0cb843/neutrogena-retinol-boost-p96422.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SCR-NEU-006",
+    "brand": "Neutrogena",
+    "name": "Deep Clean Invigorating Exfoliating Gel 150ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Glycerin, Sodium Laureth Sulfate, Microcrystalline Cellulose, Lauryl Glucoside, Acrylates/ C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Parfum, Synthetic Wax, Menthol, Disodium Edta, Sodium Hydroxide, Ci 77007, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/679b662a3bf0a/neutrogena-deep-clean-p99094.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-021",
+    "brand": "Neutrogena",
+    "name": "Anti-Aging Hand Cream SPF20 75 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Dicaprylyl Carbonate, Ethylhexyl Salicylate, Dimethicone, Steareth-21, Butyl, Methoxydibenzoylmethane, Octocrylene, Butyrospermum Parkii Butter, Squalane, Butylene, Glycol, Sorbitan Stearate, Aluminum Starch Octenylsuccinate, Styrene/Acrylates Copolymer, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone Crosspolymer, Phenoxyethanol, Caprylyl Glycol, Behenyl Alcohol, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polymethyl Methacrylate, Caprylhydroxamic Acid, Mica, CI 77891, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sucrose Cocoate, PEG-8 Laurate, Disodium EDTA, Isohexadecane, Sodium Hydroxide, Acrylates Copolymer, Xanthan Gum, Polysorbate 60, Sorbitan Isostearate, Leontopodium Alpinum Flower/Leaf Extract, Magnesium Aspartate, Zinc Gluconate, Sodium Dodecylbenzenesulfonate, Linseed Acid, Tocopherol, Glycine Soja Oil, Copper Gluconate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/697b0e4fa9227/neutrogena-anti-aging-p102060.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SHA-NEU-002",
+    "brand": "Neutrogena",
+    "name": "T/Gel Dry Dandruff Shampoo 250ml",
+    "country": "USA",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Salicylic Acid, Piroctone Olamine, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Benzotriazoyl Dodecyl p-Cresol, Tris(Tetramethylhydroxypiperidinol) Citrate, Polyquaternium-39, Alcohol, Cocamide MEA, Citric Acid, Sodium Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/690a09a7c62f4/neutrogena-t-gel-p40393.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-022",
+    "brand": "Neutrogena",
+    "name": "Intense Nutrition Foot Cream 150ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Paraffinum Liquidum, Dimethicone, Cera Microcristallina, Panthenol, Ethylhexylglycerin, Parrafin, Bisabolol, Menthol, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Citric Acid, Disodium Phosphate, Potassium Phosphate, Tocopherol, BHT, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6878c77301897/neutrogena-intense-nutrition-p32785.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-023",
+    "brand": "Neutrogena",
+    "name": "Concentrated Moisturising Hand Cream 50ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Ethylhexylglycerin, Palmitic Acid, Stearic Acid, Sodium Cetearyl Sulfate, Caprylyl Glycol, Disodium Phosphate, Potassium Phosphate, Tocopheryl Acetate, Tocopherol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/685c08ce1fca5/neutrogena-concentrated-moisturising-p88200.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-010",
+    "brand": "Neutrogena",
+    "name": "Calming Turmeric Cleansing Foam 150ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Citric Acid, Sodium Chloride, Sodium Hydroxide, Curcuma Longa Extract, Linoleamidopropyl PG-dimonium Chloride Phosphate, Potassium Acrylates Copolymer, Propylene Glycol, Disodium Tetrapropenyl Succinate, Sodium Lauryl Sulfate, Sodium C14-16 Olefin Sulfonate, Disodium EDTA, Tocopheryl Acetate, Phenoxyethanol, Sodium Benzoate, Parfum, CI 15985",
+    "image": "https://cdn1.costatic.com/img/product/400/6878c6399d03c/neutrogena-calming-turmeric-p99087.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "US-SCR-NEU-007",
+    "brand": "Neutrogena",
+    "name": "Visibly Clear Anti-Black Spots Scrubbing Cream 150ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Cetyl Alcohol, PPG-15 Stearyl Ether, Cellulose, Glycerin, Polysorbate 60, Steareth-21, Salicylic Acid, Chondrus Crispus, Glucose, Agar, Menthyl Lactate, PVP, Potassium Cetyl Phosphate, Xanthan Gum, Potassium Chloride, Ammonium Polyacrylate, Mica, Sodium Hydroxide, BHT, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Parfum (Fragrance), CI 77492, CI 77891, CI 73360",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4ecedcf60/neutrogena-visibly-clear-p99089.jpg",
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء",
+      "تقشير",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-006",
+    "brand": "Neutrogena",
+    "name": "Ultra Sheer Invisible Hydrating Sun Cream SPF50 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69ce9d471d1a6/neutrogena-ultra-sheer-p116626.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-EYE-NEU-003",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Eye Contour Cream 15 ml",
+    "country": "USA",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Glycerin, Dimethicone, Cetearyl Olivate, Sorbitan Olivate, Ethylhexylglycerin, Trehalose, Sodium Hyaluronate, Caprylyl Glycol, Dimethiconol, Tropolone, 1,2-Hexanediol, Allantoin, Pentylene Glycol, Betaine, Sodium PCA, Sodium Lactate, PCA, Serine, Alanine, Glycine, Glutamic Acid, Lysine HCl, Arginine, Threonine, Proline, Fructose, Urea, Maltose, Glucose, Synthetic Beeswax, t-Butyl Alcohol, Dimethicone Crosspolymer, Polyacrylate Crosspolymer-6, Sodium Chloride, Sodium Hydroxide, Citric Acid, Tocopheryl Acetate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696a4e9a646e3/neutrogena-hydro-boost-p102061.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SHA-NEU-003",
+    "brand": "Neutrogena",
+    "name": "T/Gel Anti-Dandruff Shampoo Oily Dandruff 250ml",
+    "country": "USA",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidoproyl Betaine, Sodium Chloride, Salicylic Acid, Piroctone Olamine, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Polyquaternium-39, Benzotriazoyl Dodecyl P-Cresol, Tris-Tetramethylhydroxypiperidinol Citrate, Alcohol, Cocamide MEA, Citric Acid, Sodium Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6878c769e7c67/neutrogena-t-gel-p55538.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مخصص للشعر الدهني"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-024",
+    "brand": "Neutrogena",
+    "name": "Collagen Bank Moisturizing Cream 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Dicaprylyl Carbonate, Butyrospermum Parkii Butter, Hydroxypropyl Starch Phosphate, Bakuchiol, Caprylyl Glycol, Glyceryl Dilaurate, Palmitic Acid, Steareth-10, Stearic Acid, Petrolatum, Sodium Polyacrylate, Chlorphenesin, Acetyl Dipeptide-31 Amide, Hydrolyzed Collagen, Tocopherol, Bht",
+    "image": "https://cdn1.costatic.com/img/product/400/6960debc6c5ae/neutrogena-collagen-bank-p114855.jpg",
+    "marketingClaims": [
+      "تحفيز الكولاجين",
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SUN-NEU-007",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Fragrance-Free Moisturizing Fluid SPF50 50 ml",
+    "country": "USA",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, C12-15 Alkyl Benzoate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Caprylyl Methicone, Diisopropyl Adipate, Aluminum Starch Octenylsuccinate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (Nano), Niacinamide, Dimethicone, Diisopropyl Sebacate, Glycerin, Glyceryl Stearate, Peg-100 Stearate, Hydroxyacetophenone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Triacontanyl Pvp, Decyl Glucoside, Dimethicone Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrolyzed Jojoba Esters, Titanium Dioxide (Nano), Sodium Ascorbyl Phosphate, Disodium Edta, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Pentylene Glycol, Panthenol, Silica, Sodium Hyaluronate, Jojoba Esters, Sodium Hydroxide, Propylene Glycol, Polysorbate 60, Sorbitan Isostearate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67ff6a9aad5e7/neutrogena-hydro-boost-p96427.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-TON-NEU-001",
+    "brand": "Neutrogena",
+    "name": "Lotion Désincrustante Anti-Points Noirs 200 ml",
+    "country": "USA",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/697b2a91cd384/neutrogena-lotion-desincrustante-p99097.jpg",
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-CLE-NEU-011",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Aqua-Gel Moisturizing Cleaner 200 ml",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Cocamidopropyl Hydroxysultaine, Sodium Cocoyl Isethionate, Sodium Methyl Cocoyl Taurate, Sodium Chloride, Sodium Hydrolyzed Potato Starch Dodecenylsuccinate, Potassium Acrylates Copolymer, Hydroxyacetophenone, Phenoxyethanol, Linoleamidopropyl PG-dimonium Chloride Phosphate, Propylene Glycol, Coconut Acid, Polyquaternium-10, Sodium Hydroxide, Disodium EDTA, Citric Acid, Ethylhexylglycerin, Disodium Tetrapropenyl Succinate, Hydrolyzed Hyaluronic Acid, Tocopheryl Acetate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/697b3626aa973/neutrogena-hydro-boost-p90057.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-SCR-NEU-008",
+    "brand": "Neutrogena",
+    "name": "Grapefruit Purity Exfoliating Gel 150 ml",
+    "country": "USA",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Glycerin, Sodium Laureth Sulfate, Cellulose, Lauryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Salicylic Acid, Parfum, Citric Acid, Disodium EDTA, Sodium Hydroxide, Sodium Ascorbyl Phosphate, Propylene Glycol, Citrus Grandis Fruit Extract. [PR-0005804]* purifying agent",
+    "image": "https://cdn1.costatic.com/img/product/400/697b11d02380b/neutrogena-grapefruit-purity-p99090.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "US-LOT-NEU-025",
+    "brand": "Neutrogena",
+    "name": "Extreme Repair Soothing Body Lotion 400ml",
+    "country": "USA",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myristate, Cetyl Alcohol, Potassium Cetyl Phosphate, Carbomer, Caprylyl Glycol, Parfum, Sodium Hydroxide, p-Anisic Acid, Ethylhexylglycerin, Butylene Glycol, Centella Asiatica Extract, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696a516986fd1/neutrogena-extreme-repair-p90051.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   }
 ]
