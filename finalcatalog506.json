@@ -5547,7 +5547,7 @@
       "icon": "sun"
     },
     "quantity": "50ml",
-    "ingredients": "ماء, الجلسرين, حمض الستياريك, ثاني أكسيد التيتانيوم، بروبيلين غليكول, بانثينول (بروفيتامين B5), صمغ الزانثان, كحول السيتيل, ثلاثي إيثانولامين (TEA), رباعي الصوديوم EDTA, حمض الستريك, مستخلص الألوفيرا, أفوبينزون, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), فينوكسي إيثانول",
+    "ingredients": "Aqua, Glycerin Stearate, Panthenol, Glycerin, Titanium Dioxide (Nano), Propylene Glycol, Stearic Acid, Isoamyl p-Methoxycinnamate, EDTA, Cetyl Alcohol, Xanthan Gum, Aloe Vera Extract, Citric Acid, Triethanolamine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Parfums, Phenoxyethanol",
     "image": "https://laplace7.dz/public/uploads/all/JfUe9XZYDev1Use5MWKOxVJdm9wtN5YrcP7stTEx.webp",
     "marketingClaims": [],
     "price": {
@@ -16742,7 +16742,7 @@
       "بشرة حساسة"
     ]
   },
-    {
+  {
     "id": "US-LOT-NEU-002",
     "brand": "Neutrogena",
     "name": "Very Dry and Damaged Feet Cream 100ml",
@@ -20952,7 +20952,7 @@
     },
     "targetTypes": []
   },
-    {
+  {
     "id": "IT-MSK-ROU-001",
     "brand": "Rougj",
     "name": "Light Effect Mask",
@@ -22965,7 +22965,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "FR-TON-SVR-001",
     "brand": "SVR",
     "name": "[B3] Essence Hydra 150ml",
@@ -25193,7 +25193,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "FR-OTH-LAR-001",
     "brand": "La Roche-Posay",
     "name": "Effaclar Duo+M Patch Bouton Multi-Actions",
@@ -28430,7 +28430,7 @@
       "فروة حساسة"
     ]
   },
-    {
+  {
     "id": "FR-SSE-URI-001",
     "brand": "Uriage",
     "name": "Age Absolu Sérum Micro-Redensifiant Booster Collagène 30 ml",
