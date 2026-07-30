@@ -28429,5 +28429,2902 @@
     "targetTypes": [
       "فروة حساسة"
     ]
+  },
+    {
+    "id": "FR-SSE-URI-001",
+    "brand": "Uriage",
+    "name": "Age Absolu Sérum Micro-Redensifiant Booster Collagène 30 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water, Eau), Propanediol, Glycerin, Betaine, Dicaprylyl Carbonate, Pentylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butyrospermum Parkii (Shea) Butter, Polyglycerin-3, Limnanthes Alba (Meadowfoam) Seed Oil, Castor Oil/Ipdi Copolymer, Helianthus Annuus (Sunflower) Seed Oil, Caesalpinia Spinosa Fruit Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Parfum (Fragrance), Carbomer, Sodium Hyaluronate, Ascorbyl Tetraisopalmitate, Sodium Hydroxide, Tocopheryl Acetate, Kappaphycus Alvarezii Extract, Trisodium Ethylenediamine Disuccinate, Butylene Glycol, Retinyl Palmitate, Lupinus Albus Seed Extract, Acacia Senegal Gum, Xanthan Gum, Tocopherol, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Ci 19140 (Yellow 5), Ci 17200 (Red 33), Spirulina Platensis Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6720ff09489a8/uriage-age-absolu-p95116.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-001",
+    "brand": "Uriage",
+    "name": "Thermal Micellar Water Sensitive Skin 500ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water), Polysorbate 20, Glycerin, Poloxamer 184, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Polyaminopropyl Biguanide, Parfum (Fragrance), Prunus Armeniaca (Apricot) Fruit Extract, Citric Acid, Ascorbic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/646f193617983/uriage-thermal-micellar-p77381.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-004",
+    "brand": "Uriage",
+    "name": "Hyséac Gel SOS Asséchant 15 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua (Water, Eau), Alcohol Denat, Glycolic Acid, Malic Acid, Hydroxypropyl Methylcellulose, Salix Alba (Willow) Bark Extract, Sodium Hydroxide, Arginine, Glycyrrhiza Inflata Root Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/690075d849c3a/uriage-hyseac-gel-p94805.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-TON-URI-001",
+    "brand": "Uriage",
+    "name": "Thermal Spring Water 300ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "300ml",
+    "ingredients": "Aqua (Water, Eau), Nitrogen.",
+    "image": "https://cdn1.costatic.com/img/product/400/688a2e750d371/uriage-thermal-spring-p6087.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-001",
+    "brand": "Uriage",
+    "name": "Baby 1st Cleansing Water 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water,Eau), Glycerin, Caprylyl/Capryl Glucoside, Polysorbate 20, Parfum (Fragrance), Hydroxyacetophenone, Ethyl Lauroyl Arginate HCL, Citric Acid, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/668bfd3f552b1/uriage-baby-1st-p56359.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-005",
+    "brand": "Uriage",
+    "name": "Baby 1st Cold Cream 75ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua (Water, Eau), Helianthus Annuus (Sunflower) Seed Oil, Squalane, Sodium Chloride, Polyglyceryl-2, Dipolyhydroxystearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Butylene Glycol, Cera Alba (Beeswax), Polyglyceryl-3 Diisostaearate, Stearalkonium Bentonite, Magnesium Sulfate, Sodium Benzoate, Propanediol, Tocopheryl Acetate, Citric Acid, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed882b9813/uriage-baby-1st-p56364.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-URI-001",
+    "brand": "Uriage",
+    "name": "Bariésun 100 Extreme Protective Fluid SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Dicaprylyl Carbonate, Methylen Bis-Benzotriazolyl Tetramethyl, Butylphenol [nano], Octocrylene, Ethylhexyl Salicylate, Ethylhexyl Triazone, Polymethyl Methacrylate, Butyl Methoxydibenzoyl Methane, Bis-Ethylhexylophenol Methoxyphenyl Triazine, Triacontanyl PVP, Decyl Glucoside, C20-22 Alkyl Phosphate, C20-22 Alcohols, Phenoxyethanol, Potassium Cetyl Phosphate, Glycerin, Butylene Glycol, Glucose, Chlorphenesin, Tetrasodium EDTA, Xanthan Gum, Hydrogenated Polydecene, o-Cymen-5-Ol, Tocopheryl Acetate, Propylene Glycol, Trehalose, Citric Acid, Sodium Hydroxide, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/6a16e08d885e7/uriage-bariesun-100-p115245.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-URI-002",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Drying Repairing Spray 100ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water, Eau), Butylene Glycol, Glycerin, Magnesium Aluminium Silicate, PEG-80 Glyceryl Cocoate, Chlorphenesin, Copper Gluconate, Sodium Dextran Sulfate, Xanthan Gum, Manganese Gluconate, PVP, Zinc Gluconate, Phytosphingosine, Sodium Hydroxide, Asiaticoside",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecdc92064b/uriage-bariederm-cica-p24732.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-OTH-URI-002",
+    "brand": "Uriage",
+    "name": "Baby 1st Scented Skincare Water 50ml",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), PEG-40 Hydrogenated Castor Oil, Parfum (Fragrance), 1,2-Hexanediol, Lactic Acid, Glycerin, Leontopodium Alpinium Flower/Leaf Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecf3de8ee4/uriage-baby-1st-p56367.jpg",
+    "marketingClaims": [
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-002",
+    "brand": "Uriage",
+    "name": "Gyn-Phy Intimate Hygiene Refreshing Gel 200ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Uriage Thermal Spring Water, Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoamphoacetate, Sodium Laureth-8 Sulfate, PEG-80 Glyceryl Cocoate, Glycerin, Coco-Glucoside, Lactic Acid, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Sodium Methyl Cocoyl Taurate, Parfum (Fragrance), Magnesium Laureth-8 Sulfate, Glycol Distearate, PEG-120 Methyl Glucose Dioleate, DMDM Hydantoin, Glyceryl Oleate, Magnesium Oleth Sulfate, Piroctone Olamine, Alcohol, Leontopodum Alpinum Flower (Leaf Extract)",
+    "image": "https://cdn1.costatic.com/img/product/400/679a2065c8b69/uriage-gyn-phy-p8104.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-006",
+    "brand": "Uriage",
+    "name": "Age Absolu Crème Rose Redensifiante 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua (Water, Eau), Caprylic/Capric Triglyceride, C13-15 Alkane, Cetearyl Isononanoate, Butyrospermum Parkii (Shea) Butter, Diglycerin, Polysorbate60, Tribehenin, Propanediol, Silica, Sorbitan Stearate, Glycerin, 1,2-Hexanediol, Cetyl Alcohol, Shorea Stenoptera Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Polyacrylate, Hydroxyacetophenone, Potassium Cetyl Phosphate, Mica, Xanthan Gum, Parfum (Fragrance), Citric Acid, Caesalpinia Spinosa Fruit Extract, Ci 77891 (Titanium Dioxide), Ethylhexyl Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Butylene Glycol, Retinyl Palmitate, Kappaphycus Alvarezii Extract, Adenosine, Sodium Hyaluronate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Spirulina Platensis Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Ci 14700 (Red 4)",
+    "image": "https://cdn1.costatic.com/img/product/400/6720fff8e3820/uriage-age-absolu-p95283.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-URI-001",
+    "brand": "Uriage",
+    "name": "Age Absolu Masque de Nuit Redensifiante 15 ml",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua (Water, Eau), Diglycerin, Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii (Shea) Butter, Octyldodecanol, 1,2-Hexanediol, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Shorea Stenoptera Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hyaluronate, Parfum (Fragrance), Caesalpinia Spinosa Fruit Extract, Ethylhexyl Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Sodium Hydroxide, Butylene Glycol, Retinyl Palmitate, Kappaphycus Alvarezii Extract, Adenosine, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Punica Granatum Fruit Extract, Spirulina Platensis Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Ci 14700 (Red 4)",
+    "image": "https://cdn1.costatic.com/img/product/400/6720fff8e3820/uriage-age-absolu-p95283.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-URI-002",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Daily Serum 30ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water, Eau), Glycerin, Diglycerin, 1,2-Hexanediol, Inulin, Panthenol, Sodium Polyacryloyldimethyl Taurate, Xanthan Gum, Sodium Hyaluronate, Propanediol, Centella Asiatica Leaf Extract, Citric Acid, Zinc Gluconate, Glutamylamidoethyl Indole",
+    "image": "https://cdn1.costatic.com/img/product/400/67d2f922d21ea/uriage-bariederm-cica-p51952.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-URI-003",
+    "brand": "Uriage",
+    "name": "Xémose Cleansing Soothing Oil 1 L",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1 L",
+    "ingredients": "Aqua (Water, Eau), Sorbitol, Glycerin, Sodium Laureth Sulfate, Coco-Glucoside, Sodium Cocoamphoacetate, Sodium Methyl Cocoyl Taurate, Caprylyl Glycol, Citric Acid, Sodium Benzoate, Glyceryl Oleate, Polyquaternium-10, PEG-75 Shea Butter Glycerides, Safflower Oil/Palm Oil Aminopropanediol Esters, Polyglyceryl-10 Stearate, Tocopherol, Triethyl Citrate, Polyglyceryl-6 Behenate, Hydrogenated Vegetable Glycerides Citrate, Behenic Acid, Ceramide Np, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide ns, Ceramide Eop, Ceramide Ap, Sodium Cetearyl Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/68b854b15a391/uriage-xemose-cleansing-p72246.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-007",
+    "brand": "Uriage",
+    "name": "1st Change with Edelweiss 100ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water, Eau), Helianthus Annuus (Sunflower) Seed Oil, Zinc Oxide, Dicaprylyl Carbonate, Polglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Butylene Glycol, Cera Alba (Beeswax), Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Chloride, Stearalkonium Bentonite, Polglyceryl-3 Diisostearate, Magnesium Sulfate, Propanediol, Tocopheryl Acetate, Citric Acid, Tocopherol, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecd8f2d306/uriage-1st-change-p56361.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-URI-002",
+    "brand": "Uriage",
+    "name": "Bariésun Stick Minéral SPF50+ 18 g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "18 g",
+    "ingredients": "OCTYLDODECANOL • TITANIUM DIOXIDE[NANO] • SYNTHETIC WAX • BIS-DIGLYCERYL POLYACYLADIPATE-2 • BUTYLENE GLYCOL COCOATE • ZINC OXIDE[NANO] • CERA ALBA (BEESWAX) • CI 77891 (TITANIUM DIOXIDE) • HYDROGENATED CASTOR OIL • DIPENTAERYTHRITYL TETRAHYDROXYSTEARATE/TETRAISOSTEARATE • STEARIC ACID • ALUMINA • AQUA (WATER, EAU) • MICA • RICINUS COMMUNIS (CASTOR) SEED OIL • TOCOPHERYL ACETATE • BUTYROSPERMUM PARKII (SHEA) BUTTER • CI 77492 (IRON OXIDES) • TRIETHOXYCAPRYLYLSILANE • CI 77491 (IRON OXIDES) • ASCORBYL PALMITATE",
+    "image": "https://cdn1.costatic.com/img/product/400/6968f148de921/uriage-bariesun-stick-p98274.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-008",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Ointment Fissures Cracks 40g",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40g",
+    "ingredients": "Paraffinum Liquidum (Mineral Oil), Paraffin, Hydrogenated Polydecene, Cera Microcristallina (Microcrystalline Wax), Dimethicone, Panthenol, Persea Gratissima (Avocado Oil), Glycerin, Triacotanyl Pvp, Butyrospermum Parkii (Shea) Butter, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Hydrogenated Avocado Oil, Brassica Campestris (Rapeseed) Sterols, Squalane, Synthetic Wax, Tocopheryl Acetate, Ethylene/Propylene Copolymer, Polyethylene, Polyquaternium-61, Tocopherol, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/668bef355af46/uriage-bariederm-cica-p25725.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-URI-003",
+    "brand": "Uriage",
+    "name": "Thermal Spring Water Glow Up Water Essence 100ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water/Eau), Diglycerin, 1,2-Hexanediol, Albiza Julibrissin Bark Extrract, Glycerin, Xylitylglucoside, Anhydroxylitol, Inulin, PEG-80 Glyceryl Cocoate, Xylitol, Sodium Hyaluronate, Calcium Gluconate, Glucose, Parfum (Fragrance), Xanthan Gum, Polyquaternium-51, Magnesium Gluconate, Sodium Benzoate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed364c871d/uriage-thermal-spring-p45256.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-003",
+    "brand": "Uriage",
+    "name": "Bariésun Invisible Spray Very High Protection SPF50+ 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Triazone,Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine- Diethylhexyl Butamido Triazone, Heptyl Undecylenate, Propanediol, Triacontanyl Pvp, C20-22 Alkyl Phosphate, C20-22 Alcohols, Sodium Hydroxide, Decyl Glucoside- Butylene Glycol, Glucose, Parfum (Fragrance), Coco-Glucoside, Chlorphenesin- Coconut Alcohol, Glycerin, Xanthan Gum, Tocopheryl Acetate, O-Cymen-5-Ol,Trehalose, Tocopherol, Spirulina Platensis Extract, Haematococcus Pluvialis Extract, Olea Europaea (Olive) Fruit Oil, Glycine Max (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d59f252415/uriage-bariesun-invisible-p115235.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-009",
+    "brand": "Uriage",
+    "name": "Hyséac 3-Regul + Anti-Blemish Global Care 40 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water, Eau), Di-C12-13 Alkyl Malate, Polymethyl Methacrylate, Dicaprylyl Ether, Tapioca Starch, Glycolic Acid, Sodium Hydroxide, Diglycerin, Glycerin, Malic Acid, Steareth-2, Steareth-21, Lactic Acid, Pentaerythrityl Distearate, Butylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Jojoba Esters, Dimethicone, Glyceryl Stearate, Parfum (Fragrance), Peg-100 Stearate, Propanediol, Tocopheryl Acetate, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Piroctone Olamine, Xanthan Gum, Pentylene Glycol, Phytosphingosine, Lens Esculenta (Lentil) Seed Extract, Polymethylsilsesquioxane, Salicylic Acid, Zinc Lactate, Asiaticoside, Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Polyglycerin-3, Glycyrrhiza Inflata Root Extract, Sodium Benzoate, Rhamnose, Glucose, Glucuronic Acid, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/690074f34aa77/uriage-hyseac-3-p94810.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-BWA-URI-004",
+    "brand": "Uriage",
+    "name": "Extra-Rich Dermatological Gel 1 L",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1 L",
+    "ingredients": "Aqua (Water, Eau), Sodium Laureth Sulfate, PEG-80 Glyceryl Cocoate, Sodium Chloride Glycerin, Sodium Cocoamphoacetate, Sodium Laureth-8 Sulfate, Sodium Methyl Cocoyl Taurate, Parfum (Fragrance), Coco-Glucoside, Glyceryl Oleate, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Magnesium Laureth-8 Sulfate, Citric Acid, DMDM Hydantoin, Magnesium Oleth Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a169d673e87e/uriage-extra-rich-p118594.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-HSE-URI-001",
+    "brand": "Uriage",
+    "name": "DS Regulating Anti Dandruff Lotion 100ml",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Alcohol, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, PEG-6 Caprylic/Capric Glycerides, Eau Thermale Uriage, Piroctone Olamine, Citric Acid, Juniperus Oxycedrus Wood Oil, Phytosphingosine, Asiaticoside",
+    "image": "https://cdn1.costatic.com/img/product/400/674edc94616af/uriage-ds-regulating-p8102.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-010",
+    "brand": "Uriage",
+    "name": "Toléderm Control Soin Calmant Intensif Riche 40 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water, Eau) ,Cetearyl Ethylhexanoate ,Squalane ,Dicaprylyl Ether, Polyglyceryl-6 Distearate ,Glycerin ,Behenyl Alcohol ,Glyceryl Stearate ,1,2-Hexanediol ,Jojoba Esters ,Hydroxyacetophenone ,Potassium Cetyl Phosphate ,Acrylates/C10-30 Alkyl Acrylate Crosspolymer ,Cetyl Alcohol ,Polyglyceryl-3 Beeswax ,Xanthan Gum ,Tocopheryl Acetate ,Sodium Hydroxide ,Hydrolyzed Algin, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/67e158f61dee2/uriage-tolederm-control-p99050.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-URI-002",
+    "brand": "Uriage",
+    "name": "Thermal Micellar Water Sensitive Skin 250ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua (Water), Polysorbate 20, Glycerin, Poloxamer 184, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Polyaminopropyl Biguanide, Parfum (Fragrance), Prunus Armeniaca (Apricot) Fruit Extract, Citric Acid, Ascorbic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed0d42d813/uriage-thermal-micellar-p77380.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-URI-001",
+    "brand": "Uriage",
+    "name": "AP HAIR Chute & Croissance Fortifying Shampoo 200 ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a46164d3e086/uriage-ap-hair-p118585.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-003",
+    "brand": "Uriage",
+    "name": "Derm-Phy Cleansing Cream 200 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a461a94ed80c/uriage-derm-phy-p118590.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-URI-001",
+    "brand": "Uriage",
+    "name": "Age Absolu Baume Regard Flouteur Redensifiant 15 ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua (Water, Eau) ,Caprylic/Capric Triglyceride ,Cocoglycerides ,Glycerin ,Glyceryl Stearate Se ,Silica ,1,2-Hexanediol ,Cetyl Alcohol ,Hydroxyacetophenone ,Hydrogenated Rapeseed Oil ,Potassium Cetyl Phosphate ,Acrylates/C10-30 Alkyl Acrylate Crosspolymer ,Sodium Dextran Sulfate ,Propanediol ,Sodium Gluconate ,Ethylhexyl Stearate ,Sodium Hyaluronate ,Sodium Hydroxide ,Ascorbyl Tetraisopalmitate ,Tocopheryl Acetate ,Caesalpinia Spinosa Fruit Extract ,Tocopherol ,Butylene Glycol ,Xanthan Gum ,Retinyl Palmitate ,Helianthus Annuus (Sunflower) Seed Oil ,Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate ,Sodium Hyaluronate Crosspolymer ,Sodium Isostearate ,Kappaphycus Alvarezii Extract ,Gentiana Lutea Root Extract ,Tetrapeptide-4 ,Theobroma Cacao (Cocoa) Seed Extract ,Haematococcus Pluvialis Extract ,Olea Europaea (Olive) Fruit Oil ,Spirulina Platensis Extract ,Glycine Max (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/68b00d8cdf54d/uriage-age-absolu-p112286.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-011",
+    "brand": "Uriage",
+    "name": "Hyséac Sos Paste - Local Care 15g",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15g",
+    "ingredients": "Zinc Oxide, Oleic/Linoleic/Linolenic/Polyglycerides, Aqua (Water/Eau), Illite, Talc, Tridecyl Trimellitate, Octyldodecanol, Cera Alba (Beeswax), Steareth-2, Sodium Shale Oil Sulfonate, Disteardimonium Hectorite, 1,2-Hexanediol, Propylene Carbonate, 4-Terpineol, Salicylic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/6787d6a700c80/uriage-hyseac-sos-p94813.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-OTH-URI-003",
+    "brand": "Uriage",
+    "name": "Bariésun Self-Tanning Spray 100ml",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Butylene Glucol, Dihydroxyacetone, Glycerin, Phenoxyethanol, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Parfum (Fragrance), Erythrulose, Citric Acid, Polyquaternium-51,Nitrogen",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d6fcd845ff/uriage-bariesun-self-p115243.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-URI-004",
+    "brand": "Uriage",
+    "name": "Baby 1st Cleansing Water Wipes 70 Wipes",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "70 Wipes",
+    "ingredients": "Aqua (Water, Eau), Glycerin, Caprylyl/Capryl Glucoside, Polysorbate 20, Parfum (Fragrance), Hydroxyacetophenone, Ethyl Lauroyl Arginate HCL, Citric Acid, Leontopodium Alpinum Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/67dabc3db75d2/uriage-baby-1st-p56376.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-012",
+    "brand": "Uriage",
+    "name": "Age Absolu Redensifying Rosy Cream 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Caprylic/Capric Triglyceride, C13-15 Alkane, Cetearyl Isononanoate, Butyrospermum Parkii (Shea) Butter, Diglycerin, Polysorbate60, Tribehenin, Propanediol, Silica, Sorbitan Stearate, Glycerin, 1,2-Hexanediol, Cetyl Alcohol, Shorea Stenoptera Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Polyacrylate, Hydroxyacetophenone, Potassium Cetyl Phosphate, Mica, Xanthan Gum, Parfum (Fragrance), Citric Acid, Caesalpinia Spinosa Fruit Extract, Ci 77891 (Titanium Dioxide), Ethylhexyl Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Butylene Glycol, Retinyl Palmitate, Kappaphycus Alvarezii Extract, Adenosine, Sodium Hyaluronate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Spirulina Platensis Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Ci 14700 (Red 4)",
+    "image": "https://cdn1.costatic.com/img/product/400/67c0975c6fc14/uriage-age-absolu-p77369.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-URI-002",
+    "brand": "Uriage",
+    "name": "Thermal Spring Water Sérum Booster H.A 30ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water, Eau), Glycerin, Diglycerin, Sodium Lactate, Sodium Hyaluronate, Xylitylglucoside, 1,2-Hexanediol, Polysorbate 20, Anhydroxylitol, Citric Acid, Sodium Benzoate, Xylitol, Glucose, Parfum (Fragrance), Althaea Officinalis Flower Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/668bfd56c232f/uriage-thermal-spring-p82229.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-URI-002",
+    "brand": "Uriage",
+    "name": "Water Eye Contour Cream 15ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua (Water, Eau), Butylene Glycol, Isononyl Isononanoate, Propanediol, 1,2-Hexanediol, Dimethicone, Polymethyl Methacrylate, Tromethamine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Sodium Dextran Sulfate, Xylitylglucoside, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Anhydroxylitol, Isohexadecane, Glycerin, Trehalose, Urea, Xylitol, o-Cymen-5-Ol, Polysorbate 80, Glucose, Pentylene Glycol, Serine, Sorbitan Oleate, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, Potassium Phosphate",
+    "image": "https://cdn1.costatic.com/img/product/400/668be8677e6fb/uriage-water-eye-p54224.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-URI-002",
+    "brand": "Uriage",
+    "name": "DS HAIR Kerato-Reducing Treatment Shampoo 150ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua (Water, Eau), Sodium Laureth Sulfate, Sodium Cocoyl Glutamate, Cocamidopropyl Betaine, Decyl Glucoside, Lactic Acid, Parfum (Fragrance), Butylene Glycol, Glycine, Propylene Glycol, Piroctone Olamine, Coco-Glucoside, Glyceryl Oleate, Zinc Lactate, Laureth-2, PEG/PPG-120/10 Trimethylolpropane Trioleate, Sodium Hydroxide, Citric Acid, Glycerin, Hibiscus Sabdariffa Flower Extract, Phytosphingosine, Leontopodium Alpinum Flower/Leaf Extract, Sodium Benzoate, Asiaticoside, Potassium Sorbate, Tocopherol, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/668bed19c4498/uriage-ds-hair-p77921.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-013",
+    "brand": "Uriage",
+    "name": "Xémose Lipid Replenishing Anti-Irritation Cream 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Butyrospermum Parkii (Shea) Butter, Ethylhexyl Palmitate, Octyldodecanol, Dicaprylyl Ether, Glycerin, Polysorbate 60, Behenyl Alcohol, Propanediol, Squalane, Glyceryl Stearate, Peg-100 Stearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Tocopheryl Acetate, Piroctone Olamine, Xanthan Gum, Cetrimonium Bromide, O-Cymen-5-Ol, Safflower Oil/Palm Oil Aminopropanediol Esters, Sodium Hydroxide, Borage Seed Oil Aminopropanediol Amides, Polyglyceryl-10 Stearate, Asiaticoside, Phytosphingosine, Triethyl Citrate, Tocopherol, Polyglyceryl-6 Behenate, Behenic Acid, Ceramide Np, Cetearyl Alcohol, Cholesterol, Lactic Acid, Ceramide Ns, Ceramide Eop, Ceramide Ap, Sodium Cetearyl Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/68e8d25314052/uriage-xemose-lipid-p78394.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-014",
+    "brand": "Uriage",
+    "name": "Age Lift Firming Smoothing Day Fluid 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Cetearyl Ethylhexanoate, Dimethicone, Isononyl Isononanoate, Dicaprylyl Carbonate, Butylene Glycol, Propanediol, Glycerin, Lactic Acid, Dicaprylyl Ether, Steareth-2, Steareth-21, Boron Nitride, Cetyl Alcohol, Limnanthes Alba (Meadowfoam) Seed Oil, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Retinyl Palmitate, Sodium Hyaluronate, Croton Lechleri Resin Extract, Tocopherol, Sodium Hydroxide, Polyacrylate-13, Parfum (Fragrance), CI 77891 (Titanium Dioxide), Copernicia Cerifera Cera (Copernicia Cerifera (Carnauba) Wax), Chlorphenesin, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caesalpinia Spinosa Fruit Extract, Calcium Silicate, Mica, O-Cymen-5-Ol, Xanthan Gum, Kappaphycus Alvarezii Extract, Adenosine, Polysorbate 20, Sorbitan Isostearate, Rosa Multiflora Fruit Extract, Theobroma Cacao (Cocoa) Seed Extract, Tin Oxide",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed92f90560/uriage-age-lift-p77377.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-002",
+    "brand": "Uriage",
+    "name": "Bariésun Very High Protection Invisible Spray SPF50+ 200 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, C12-15 Alkyl Benzoate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Heptyl Undecylenate, Propanediol, Triacontanyl Pvp, C20-22 Alkyl Phosphate, C20-22 Alcohols, Sodium Hydroxide, Decyl Glucoside, Butylene Glycol, Glucose, Parfum (Fragrance), Coco-Glucoside, Chlorphenesin, Coconut Alcohol, Glycerin, Xanthan Gum, Tocopheryl Acetate, O-Cymen-5-Ol, Trehalose, Dimethyl Phenethyl Acetate, Tocopherol, Trimethylcyclopentenyl Methylisopentenol, Spirulina Platensis Extract, Haematococcus Pluvialis Extract, Olea Europaea (Olive) Fruit Oil, Glycine Soja (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4f92515ec6a/uriage-bariesun-very-p115251.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-003",
+    "brand": "Uriage",
+    "name": "Bariésun Very High Protection Moisturising Protective Cream SPF50+ 50 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Heptyl Undecylenate, Propanediol, Triacontanyl Pvp, C20-22 Alkyl Phosphate, Diethylhexyl Butamido Triazone, C20-22 Alcohols, Sodium Hydroxide, Decyl Glucoside, Butylene Glycol, Glucose, Parfum (Fragrance), Xanthan Gum, Coco-Glucoside, Chlorphenesin, Coconut Alcohol, Glycerin, Tocopheryl Acetate, O-Cymen-5-Ol, Trehalose, Dimethyl Phenethyl Acetate, Tocopherol, Trimethylcyclopentenyl Methylisopentenol, Haematococcus Pluvialis Extract, Olea Europaea (Olive) Fruit Oil, Spirulina Platensis Extract, Glycine Soja (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4f92515ec6a/uriage-bariesun-very-p115251.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-002",
+    "brand": "Uriage",
+    "name": "Thermal Micellar Water Normal to Dry Skin 250ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua (Water,Eau), Polysorbate 20, Poloxamer 184, Glycerin, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Polyaminopropyl Biguanide, Parfum (Fragrance), Vaccinium Macrocarpon (Cranberry) Fruit Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed0cbec932/uriage-thermal-micellar-p77386.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-015",
+    "brand": "Uriage",
+    "name": "Roséliane Soin Anti-Rougeurs 40 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water, Eau), Squalane, Glycerin, Dicaprylyl Ether, Butyrospermum Parkii (Shea) Butter, Diglycerin, Propanediol, Cetyl Alcohol, Pentaerythrityl Distearate, 1,2-Hexanediol, Steareth-2, Steareth-21, Dimethicone, Glyceryl Stearate, Peg-100 Stearate, Sodium Polyacrylate, Parfum (Fragrance), Ci 77891 (Titanium Dioxide), Chlorphenesin, Mica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Xanthan Gum, O-Cymen-5-Ol, Maltodextrin, Asiaticoside, Asparagopsis Armata Extract, Panax Ginseng Root Extract, Polyglyceryl-10 Stearate, Sodium Benzoate, Potassium Sorbate, Ascophyllum Nodosum Extract, Triethyl Citrate, Polyglyceryl-6 Behenate, Ci 77491 (Iron Oxides), Silica, Behenic Acid, Ceramide Np, Cetearyl Alcohol, Cholesterol, Lactic Acid, Ceramide Ns, Tocopherol, Ceramide Eop, Ceramide Ap, Sodium Cetearyl Sulfate, Sodium Hydroxide",
+    "image": "https://cdn1.costatic.com/img/product/400/67d852b6924c5/uriage-roseliane-soin-p99044.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-URI-004",
+    "brand": "Uriage",
+    "name": "Bariésun Invisible Sun Stick SPF50+ 18 g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "18 g",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6819d978375ee/uriage-bariesun-invisible-p98275.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-URI-003",
+    "brand": "Uriage",
+    "name": "DS HAIR Anti-Dandruff Treatment Shampoo 200ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Sodium Laureth Sulfate, Sodium Cocoyl Glutamate, Cocamidopropyl Betaine, Decyl Glucoside, Coco Glucoside, Parfum (Fragrance), Butylene Glycol, Glycol Distearate, Piroctone Olamine, Glyceryl Oleate, Citric Acid, Polyquaternium-22, Propylene Glycol, Zinc Lactate, Laureth-2, PEG-PPG-120/10 Trimethylpropane Trioleate, Glycerin, Glyceryl Stearate, Benzoic Acid, Hibiscus Sabdarriffa Flower Extract, Phytosphingosine, Leontopodium Alpinum Flower/Leaf Extract, Sodium Benzoate, Asiaticoside, Tocopherol, Potassium Sorbate, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/668bef78476b2/uriage-ds-hair-p78875.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-URI-005",
+    "brand": "Uriage",
+    "name": "Xémose Moisturizing Lips Care 4g",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "4g",
+    "ingredients": "Paraffinum Liquidum (Mineral Oil), Paraffin, Cera Microcristallina (Microcrystalline Wax), Copernica Cerifera Cera (Copernicia Cerifera (Carnauba) Wax), Butyrospermum Parkii (Shea) Butter, C 12-13 Alkyl Lactate, Cera Alba (Beeswax), Cetyl Alcohol, Borago Officinalis Seed Oil, Tocopheryl Acetate, Stearyl Glycyrrhetinate, Sodium Hyaluronate, Ascorbyl Palmitate, Tocopherol, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/6787da253f3e0/uriage-xemose-moisturizing-p21308.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-URI-005",
+    "brand": "Uriage",
+    "name": "Derm-Phy Dermatological Surgras Gel 500 ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d391e6d370/uriage-derm-phy-p118595.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-003",
+    "brand": "Uriage",
+    "name": "Thermal Micellar Water Normal to Dry Skins 500ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water,Eau), Polysorbate 20, Poloxamer 184, Glycerin, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Polyaminopropyl Biguanide, Parfum (Fragrance), Vaccinium Macrocarpon (Cranberry) Fruit Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/646f18f4768e6/uriage-thermal-micellar-p77387.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-URI-006",
+    "brand": "Uriage",
+    "name": "Baby 1st Cleansing Cream 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Coco-Betaine,Hydroxypropyl Starch Phosphate, Lauric Acid, Helianthus Annuus (Sunflower) Seed Oil, Decyl Glucoside, Parfum, (Fragrance), Glycerin, Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Isethionate, Butyrospermum Parkii (Shea) Butter, Caprylyl Glycol, Sodium Benzoate, Xanthan Gum, Sodium Hydroxide, Tocopheryl Acetate, Leontopodium Alpinum Flower/Leaf Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/668bfd30b3ac4/uriage-baby-1st-p56353.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-016",
+    "brand": "Uriage",
+    "name": "Xémose Anti-Itch Soothing Oil Balm 500ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water), C13-15 Alkane, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Cetearyl Ethylhexanoate, Isononyl Isononanoate, Beheneth-25, Butylene Glycol, Glycerin, 1,2-Hexanediol, Shorea Stenoptera Seed Butter, Brassica Campestris (Rapeseed) Sterols, Chlorphenesin, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, o-Cymen-5-Oil, Tocopheryl Acetate, Raspberry Seed Oil/Palm Oil Hydroxide, Asiaticoside, Phytosphingosine, Borage Seed Oil Aminopropanediol Amides, Citric Acid.",
+    "image": "https://cdn1.costatic.com/img/product/400/66fba35c123ce/uriage-xemose-anti-p49125.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-URI-007",
+    "brand": "Uriage",
+    "name": "Cleansing Soothing Oil 200ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water), Glycerin, Hydrogenated Starch Hydrolysate, Sodium Cocoamphoacetate, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Glutamate, Sodium Laureth Sulfate, Sodium Laureth-8 Sulfate, Ceteareth-60, Myristyl Glycol, Polysorbate 20, Coco-Glucoside, Glyceryl Oleate, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Polyquaternium-10-Magnesium Laureth-8 Sulfate, PEG-75 Shea Butter Glycerides, Magnesium Oleth Sulfate, Sodium Acetate, Isopropyl Alcohol, Brassica Campestris, Rapeseed Sterols, Raspberry Seed Oil/Palm Oil, Aminopropanediol Esters, Tocopherol, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/66fba35c123ce/uriage-xemose-anti-p49125.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-URI-005",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica-Cream SPF50+ 40ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water/Eau), Ethylhexyl Methoxycinnamate, Neopentyl Glycol Diheptanoate, Cetyl PEG/PPG-10/1 Dimethicone, Dicaprylyl Ether, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Sodium Chloride, Ethylhexyl Triazone, Dimethicone, Ethylhexyl Salicylate, Glyceryl Behenate, Panthenol, PEG-30 Dipolyhydroxystearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Disteardimonium Hectorite, Magnesium Sulfate, Hydrogenated Polydecene, Methylpropanediol, Polyglyceryl-3 Diisostearate, Tocopheryl Acetate, Butylene Glycol, Copper Gluconate, Glycerin, Propylene Carbonate, Propanediol, Triacontanyl PVP, Xanthan Gum, Citric Acid, Zinc Gluconate, Polyquaternium-61, Hyaluronic Acid, Silanetriol, BHT, Borage Seed Oil Aminopropanediol Amides, Glutamylamidoethyl Indole",
+    "image": "https://cdn1.costatic.com/img/product/400/674edeb450f34/uriage-bariederm-cica-p80949.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-017",
+    "brand": "Uriage",
+    "name": "Toléderm Control Soin Calmant Intensif 40 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water, Eau) , Cetearyl Ethylhexanoate , Squalane , Dicaprylyl Ether , Diglycerin , Glycerin , Polyglyceryl-6 Distearate , 1,2-Hexanediol , Jojoba Esters , Acrylates/C10-30 Alkyl Acrylate Crosspolymer , Hydroxyacetophenone , Potassium Cetyl Phosphate , Cetyl Alcohol , Polyglyceryl-3 Beeswax , Xanthan Gum , Tocopheryl Acetate , Sodium Hydroxide , Hydrolyzed Algin , Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/67e162057df16/uriage-tolederm-control-p99049.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-URI-004",
+    "brand": "Uriage",
+    "name": "Thermal Spring Water 50ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Nitrogen.",
+    "image": "https://cdn1.costatic.com/img/product/400/688a3063ee61f/uriage-thermal-spring-p14321.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-008",
+    "brand": "Uriage",
+    "name": "Baby 1st Cleansing Soothing Oil 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water/Eau), Glycerin, Hydrogenated Starch Hydrolysate, Sodium Cocoamphoacetate, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Glutamate, Sodium Laureth Sulfate, Sodium Laureth-8 Sulfate, Ceteareth-60 Myristyl Glycol, Polysorbate 20, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Polyquaternium-10, Magnesium Laureth-8 Sulfate, PEG-75 Shea Butter Glycerides, Magnesium Oleth Sulfate, Isopropyl Alcohol, Brassica Campestris (Rapeseed) Sterols, Raspberry Seed Oil/Palmitoyl Aminopropanediol Esters, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/674ece0dea48d/uriage-baby-1st-p60008.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-018",
+    "brand": "Uriage",
+    "name": "Silky Body Lotion 500ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Palmitate, Paraffinum Liquidum (Mineral Oil), Glycerin, Dimethicone, Butyrospermum Parkii (Shea) Butter, Polysorbate 80, Butylene Glycol, 1,2-Hexanediol, Glyceryl Stearate, PEG-100 Stearate, Pentaerythrityl Distearate, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum (Fragrance), Chlorphenesin, Tocopheryl Acetate, O-Cymen-5-Ol, Sodium Hydroxide, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hyaluronate, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecde36e74d/uriage-silky-body-p72261.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-019",
+    "brand": "Uriage",
+    "name": "Hyséac Mat' 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water/Eau), Alcohol, Glycerin, Diglycerin, Isododecane, Isodecyl Neopentanoate, Aluminium Starch Octenylsuccinate, Butylene Glycol, Polymethyl Methacrylate, Ptfe, Cetearyl Isononanoate, Dimethicone, Dimethicone/ Bis-Isobutyl PPG-20 Crosspolymer, Polyacrylate 13, Cetyl Alcohol, Parfum (Fragrance), Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Polyisobutene, Acrylates/C 10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, Lens Esculenta (Lentil) Seed Extract, O-Cymen-5-Ol, Sodium Hydroxide, Polysorbate-20, Sorbitan Isostearate, Phenoxyethanol, Glycyrrhiza Inflata Root Extract, Ethylhexylglycerin, Tocopherol, CI 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/6900725eb801a/uriage-hyseac-mat-p94806.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "قابض للمسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-CLE-URI-004",
+    "brand": "Uriage",
+    "name": "DS Cleansing Gel 150ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Sodium Cocamphoacetate, Butylene Glycol, Decyl Glucoside, Sodium Chloride, Sodium Laureth-8 Sulfate, Zinc Coceth Sulfate, Sodium Lauroyl Glutamate, Sodium Methyl Cocoyl Taurate, Sodium Myristoyl Sarcosinate, Coco-Glucoside, Glyceryl Oleate, Lactic Acid, Peg-120 Methyl Glucose Dioleate, Piroctone Olamine, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Magnesium Laureth-8 Sulfate, Benzoic Acid, Copper Gluconate, Manganese Gluconate, Magnesium Oleth Sulfate, Coceth-3, Phytosphingosine, Asiaticoside, CI 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/668be5c5427fe/uriage-d-s-p16660.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-006",
+    "brand": "Uriage",
+    "name": "Bariésun Aqua-Fluid Ultra-Mat Very High Protection SPF50+ 50 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a3293a92907d/uriage-bariesun-aqua-p115228.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-020",
+    "brand": "Uriage",
+    "name": "Xémose Lipid-Replenishing Anti-Irritation Cerat 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Butyrospermum Parkii (Shea) Butter, Cetearyl Isononanoate, Polysorbate 60, Glycerin, Octyldodecanol, Propylheptyl Caprylate, Glyceryl Stearate, Peg-100 Stearate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Brassica Campestris (Rapeseed) Sterols, Butylene Glycol, Dimethicone, Isohexadecane, Chlorphenesin, Polysorbate 80, Tocopheryl Acetate, Lactic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetrimonium Bromide, O-Cy-Men-5-Ol, Piroctone Olamine, Xanthan Gum, Asiaticoside, Phytosphingosine, Borage Seed Oil Aminopropanediol Amides",
+    "image": "https://cdn1.costatic.com/img/product/400/69a95e086db2e/uriage-xemose-lipid-p22514.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-URI-009",
+    "brand": "Uriage",
+    "name": "Cleansing Cream 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Coco-Betaine, Hydroxypropyl Starch, Phosphate, Lauric Acid, Helianthus Annuus (Sunflower) Seed Oil, Decyl Glucoside, Glycerin, Parfum (Fragrance), Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Isethionate, Butyrospermum Parkii (Shea) Butter, Caprylyl Glycol, Sodium Benzoate, Xanthan Gum, Limnanthes Alba (Meadowfoam) Seed Oil, Sodium Hydroxide, Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a32769225767/uriage-cleansing-cream-p118591.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-URI-005",
+    "brand": "Uriage",
+    "name": "Xémose SOS Anti-Itch Mist 200ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Butyrospermum Parkii Shea Butter, Hydrogenated Polydecene, Squalane, Ceteareth-20, Cetearyl Isononanoate, Glyceryl Stearate, Butylene Glycol, Glycerin, Dicaprylyl Ether, 1,2-Hexanediol, Ceteareth-12, Cetearyl Alcohol, Brassica Campestris (Rapseed) Sterols, Chlorphenesin, o-Cymen-5-Ol, Tocopheryl Acetate, Raspberry Seed Oil/Palm Oil Aminopropanediol Esters, Shorea Stenoptera Seed Butter, Citric Acid, Asiaticoside, Phytosphingosine, Borage Seed Oil, Aminopropanediol Amides, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/668beabeeba28/uriage-xemose-sos-p49122.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-021",
+    "brand": "Uriage",
+    "name": "Water Hand Cream 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Glycerin, Dimethicone, Butylene Glycol, Butyrospermum Parkii (Shea) Butter, Cetyl Alcohol, Cetearyl Isononanoate, Isononyl Isononanoate, Glyceryl Behenate, Potassium Cetyl Phosphate, Hydroxyethylacrylate/Sodium Acryloyldimethyltaurate Copolymer, Phenoxyethanol, Glyceryl Stearate, PEG-100 Stearate, Parfum (Fragrance), Chlorphenesin, Tocopheryl Acetate, O-Cymen-5-Ol, Xanthan Gum, Polysorbate 60, Sorbitan Isostearate, Sodium Hydroxide, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/681b10c852dec/uriage-water-hand-p80952.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-005",
+    "brand": "Uriage",
+    "name": "Baby 1ère Eau Nettoyante Set of 2 x 500 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "2 x 500 ml",
+    "ingredients": "Aqua (Water,Eau), Glycerin, Polysobate 20, Caprylyl/Capryl Glucoside, Parfum (Fragrance), Hydroxyacetophenone, Ethyl Lauroyl Arginate HCL, Citric Acid, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/683d599f220c1/uriage-baby-1ere-p95284.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-URI-004",
+    "brand": "Uriage",
+    "name": "AP HAIR Volume Shampoo 200 ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a461392dbd62/uriage-ap-hair-p118587.jpg",
+    "marketingClaims": [
+      "تكثيف الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-007",
+    "brand": "Uriage",
+    "name": "Bariésun SPF50+ Mineral Cream Very High Protection SPF50+ 100ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "100ml",
+    "ingredients": "Dicaprylyl Carbonate, Aqua, Titanium Dioxide [Nano], Zinc Oxide [Nano], Neopentyl Glycol Diheptanoate, PEG-30 Dipolyhydroxystearate, Sodium CHloride, Butylene Glyucol, Nylon-12, Polyglyceryl-3 Diisostearate, Alumina, Dimethicone, Glycerin, Octyldodecanol, Magnesium Sulfate, Cera Alba (Beeswax), Glucose, Triethoxycaprylylsilane, Xanthan Gum, Disteardimonium Hectorite, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Propylene Carbonate, Tocopherol, Ascorbyl Tetraisopalmitate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d6db00a45b/uriage-bariesun-spf50-p115241.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-022",
+    "brand": "Uriage",
+    "name": "Light Water Cream SPF20 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Methoxycinamate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Dimethicone, Isononyl Isononanoate, Polymethyl Methacrylate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Squalane, Steareth-2, Steareth-21, Phenoxyethanol, Butylene Glycol, Parfum (Fragrance), Glycerin, Trhalose, Urea, Cetyl Alcohol, Chlorphenesin, Tetrasodium Edta, Xylitylglucoside, Ahdroxylitol, Citric Acid, O-Cy-Men-5-Ol, Tocopheryl Acetate, Xanthan Gum, Pentylene Glycol, Serine, Polysorbate 60, Sorbitan Isostearate, Xylitol, Glucose, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, Ascorbyl Tetraisopalmitate, Bht, Potassium Phosphate",
+    "image": "https://cdn1.costatic.com/img/product/400/674ece8b4f7c2/uriage-light-water-p89003.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-023",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Insulating Repairing Hand Cream 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water), Parffinum Liquidum (Mineral Oil), Cetyl PEG-PPG-10/Dimethicone, Butylene Glycol, Glycerin, Stearyl Dimethicone, Squalane, PEG-7 Glyceryl Cocoate, Dimethicone, Hydrogenated Polydecene, Mel (Honey), PVP, Magnesium Sulfate, Tapioca Starch, Chlorphenesin, 0-Cymen-5-Ol, Polyquaternium-51, Polymethylsilsesquioxane, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/668bfd28affd9/uriage-bariederm-cica-p54896.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-URI-003",
+    "brand": "Uriage",
+    "name": "Dépiderm Corrective Eye Contour Care 15 ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua (Water, Eau), Squalane, Glycerin, Maltodextrin, Sodium Polyacryloyldimethyl Taurate, 1,2-Hexanediol, Ascorbyl Glucoside, Sucrose Dilaurate, Dimethicone, Hydroxyacetophenone, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Dextran Sulfate, Sodium Hydroxide, Niacinamide, Sodium Cocoyl Glutamate, Sodium Citrate, Mica, Dipotassium Glycyrrhizate, Tocopheryl Acetate, Ci 77891 (Titanium Dioxide), Pisum Sativum Extract (Pisum Sativum (Pea) Extract), Biosaccharide Gum-1, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674edda18e37d/uriage-depiderm-corrective-p85087.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-URI-006",
+    "brand": "Uriage",
+    "name": "Moisturising Lipstick 2 x 4g",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "2 x 4g",
+    "ingredients": "Paraffinum Liquidum (Mineral Oil), Paraffin, Cera Microcristallina (Microcrystalline Wax), Carnauba (Copernicia Cerifera (Carnauba) Wax), Butyrospermum Parkii ( Shea Butter) Fruit, C12-13 Alkyl Lactate, Cera Alba (Beeswax), Cetyl Alcohol, Borago Officinalis (Borago Officinalis Seed Oil), Tocopheryl Acetate, Stearyl Glycyrrhetinate, Sodium Hyaluronate, Parfum (Fragrance), Tocopherol, Ascorbyl Palmitate, Bht",
+    "image": "https://cdn1.costatic.com/img/product/400/6581a984475d7/uriage-moisturising-lipstick-28145.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-008",
+    "brand": "Uriage",
+    "name": "Bariésun Very High Sun Protection Moisturizing Kid Lotion SPF50+ 100ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Methylene Bis-benzotriazolyl Tetramethylbutylphenol[nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl Pvp, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Coco-glucoside, Benzoic Acid, Tetrasodium Edta , Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, O-cymen-5-ol - Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d6d8aca79c/uriage-bariesun-very-p115240.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-024",
+    "brand": "Uriage",
+    "name": "Xémose Lipid Replenishing Anti-Irritation Cream 400ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Water, Eau), Paraffinum Liquidum (Mineral Oil), Butyrospermum Parkii (Shea) Butter, Dicaprylyl Ether, Glycerin, Polysorbate 60, Butylene Glycol, Cetyl Alcohol, Squalane, Sodium Polyacrylate, Glyceryl Stearate, Peg-100 Stearate, Brassica Campestris (Rapeseed) Sterols, Doùethicone, Chlorphenesin, Tocopheryl Acetate, Cetrimonium Bromide, O-Cy-Men-5-Ol, Piroctone Olamine, Xanthan Gum, Raspberry Seed Oil/ Palm Oil Aminopropanediol Esters, Asiaticoside, Phytosphingosine, Borage Seed Oil Aminopropanediol Amides",
+    "image": "https://cdn1.costatic.com/img/product/400/6996e2b31246c/uriage-xemose-lipid-p72225.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SSE-URI-003",
+    "brand": "Uriage",
+    "name": "Baby 1st Natural Serum 15 x 5ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "15 x 5ml",
+    "ingredients": "Aqua (Water).",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed9286b6a2/uriage-baby-1st-p56351.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-URI-006",
+    "brand": "Uriage",
+    "name": "Bariésun After-Sun Refreshing Thermal Mist 150ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Dicaprylyl Carbonate, Hydrogenated Polydecene, Cetearyl Isononanoate, Ceteareth-20, Glycerin, Glyceryl Stearate, Phenoxyethanol, Brassica Campestris (Rapeseed) Sterols, Glucose, Ceteareth-12, Cetearyl Alcohol, Parfum (Fragrance), PEG-40 Hydrogenated Castor Oil, Dimethicone, Methylparaben, Propylparaben, Tocopheryl Acetate, Chlorhexidine Digluconate, Stearyl Glycyrrhetinate, Trehalose, Citric Acid, Ascorbyl Tetraisopalmitate, Nitrogen",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d7e38858f9/uriage-bariesun-after-p115244.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-025",
+    "brand": "Uriage",
+    "name": "Xémose Anti-Itch Soothing Oil Balm 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Ether, Butyrospermum Parkii (Shea) Butter, Triheptanoin, Tricaprylin, Cetearyl Ethylhexanoate, Beheneth-25, Glycerin, Propanediol, 1,2-Hexanediol, Shorea Stenoptera Seed Butter, Xanthan Gum, Chlorphenesin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Sodium Polyacrylate, Safflower Oil/Palm Oil Aminopropanediol Esters, Tocopheryl Acetate, O-Cymen-5-Ol, Sodium Hydroxide, Polyglyceryl-10 Stearate, Tocopherol, Asiaticoside, Phytosphingosine, Triethyl Citrate, Polyglyceryl-6 Behenate, Borage Seed Oil Aminopropanediol Amides, Behenic Acid, Ceramide Np, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide Ns, Ceramide Eop, Ceramide Ap, Sodium Cetearyl Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/68e8d2739d1c2/uriage-xemose-anti-p42978.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-OIB-URI-001",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica - Dermatological Oil 100ml",
+    "country": "France",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "100ml",
+    "ingredients": "Helianthus Annuus (Sunflower) Seed Oil, Squalane, Calophyllum Inophyllum Seed Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Bisabolol, Tocopheryl Acetate, Borage Seed Oil, Aminopropanediol Amides",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed98731b5d/uriage-bariederm-cica-p50603.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-026",
+    "brand": "Uriage",
+    "name": "Water Hand Cream 2 x 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "2 x 50ml",
+    "ingredients": "Aqua (Eau), Glycerin, Dimethicone, Butylene Glycol, Butyrospermum Parkii (Shea) Butter, Cetyl Alcohol, Cetearyl Isononanoate, Isononyl Isononanoate, Glyceryl Behenate, Potassium Cetyl Phosphate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Glyceryl Stearate, Peg-100 Stearate, Parfum (Fragrance), Chlorphenesin, Tocopheryl Acetate, O-Cymen-5-Ol, Xanthan Gum, Polysorbate 60, Sorbitan Isostearate, Sodium Hydroxide, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/6437df026c57f/uriage-water-hand-p82249.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-URI-004",
+    "brand": "Uriage",
+    "name": "Age Lift Intensive Firming Smoothing Serum 30ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water, Eau), Propanediol, Lactic Acid, Isodecyl Neopentanoate, Polysorbate 60, Glycerin, Butylene Glycol, Sodium Hydroxide, Cetyl Alcohol, Limnanthes Alba (Meadowfoam) Seed Oil, Sorbitan Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Sodium Hyaluronate, Retinyl Palmitate, Croton Lechleri Resin Extract, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethicone, Caesalpinia Spinosa Fruit Extract, CI 77891 (Titanium Dioxide), Chlorphenesin, Xanthan Gum, Parfum (Fragrance), Mica, O-Cymen-5-Ol, Kappaphycus Alvarezii Extract, Adenosine, Theobroma Cacao Seed Extract, Tin Oxide",
+    "image": "https://cdn1.costatic.com/img/product/400/668bed54b9a0d/uriage-age-lift-p77378.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-009",
+    "brand": "Uriage",
+    "name": "Hyséac 3-Regul Global Tinted Skin-Care SPF30 40ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Methoxycinnamate, CI77891 (Titanium Dioxide), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Octocrylene, Dicaprylyl Carbonate, Nylon-2, Steareth-2, Steareth-21, Dimethicone, Cetyl Alcohol, Hydrogenated Vegetable Oil, Butylene Glycol, Potassium Cetyl Phosphate, Tromethamine, Lactic Acid, Parfum (Fragrance), CI 77492 (Iron Oxides), Phenoxyethanol, Hydrogenated Palm Kernel Glycerides, Glyceryl Stearate, Peg-100 Stearate, Ci 77491 (Iron Oxides), Chlorphenesin, Polyacrylate 13, Tetrasodium Edta, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyisobutene, Hydrogenated Palm Glycerides, Ci 77499 (Iron Oxides), O-cymen-5-ol, Salicylic Acid, Tocopheryl Acetate, Alumina, Triethoxycaprylsilane, Propanediol, Polysorbate 20, Sorbitan Isostearate, Asiaticoside, Glycyrrhiza Inflata Root Extract, Phytosphingosine, Bht, Tocopherol, Rhamnose, Lens Esculenta (Lentil) Fruit Extract, Glucose, Glucuronic Acid, Ethylhexylglycerin",
+    "image": "https://cdn1.costatic.com/img/product/400/6900743abd2f5/uriage-hyseac-3-p94811.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-006",
+    "brand": "Uriage",
+    "name": "Thermal Micellar Water Combination to Oily Skin 250ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua (Water, Eau), Polysorbate 20, Poloxamer 184, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Glycerin, Polyaminopropyl Biguanide, Glycerin, Parfum (Fragrance), Pentylene Glycol, Citric Acid, Lens Esculenta (Lentil) Seed Extract, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed968e4ff6/uriage-thermal-micellar-p77383.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-URI-010",
+    "brand": "Uriage",
+    "name": "Bariésun Mineral Stick SPF50+ 8g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "8g",
+    "ingredients": "Octyldodecanol, Titanium Dioxide [Nano], Synthetic Wax, Bis-Diglyceryl Polacyladipate2, Butylene Glycol Cocoate, Zinc Oxide [Nano], Cera Alba (Beeswax), CI 77891 (Titanium Dioxide), Hydrogenated Castor Oil, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Stearic Acid, Alumina, Aqua, Mica, Ricinus Communis (Castor) Seed Oil, Tocopheryl Acetate, Butyrospermum Parkii (Shea) Butter, CI 77492 (Iron Oxides), Triethoxycaprylsilane, CI 77491 (Iron Oxides), Ascorbyl Palmitate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a48ed3da1e26/uriage-bariesun-mineral-131713.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-010",
+    "brand": "Uriage",
+    "name": "Cleansing Cream 1L",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua (Water, Eau), Coco-Betaine, Hydroxypropyl Starch, Phosphate, Lauric Acid, Helianthus Annuus (Sunflower) Seed Oil, Decyl Glucoside, Glycerin, Parfum (Fragrance), Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Isethionate, Butyrospermum Parkii (Shea) Butter, Caprylyl Glycol, Sodium Benzoate, Xanthan Gum, Limnanthes Alba (Meadowfoam) Seed Oil, Sodium Hydroxide, Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a169d51c4aa7/uriage-cleansing-cream-p118589.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-URI-007",
+    "brand": "Uriage",
+    "name": "Thermal Spring Water 150ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua (Water, Eau), Nitrogen.",
+    "image": "https://cdn1.costatic.com/img/product/400/688a3091bba90/uriage-thermal-spring-p5995.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-027",
+    "brand": "Uriage",
+    "name": "Xémose Anti-Itch Soothing Oil Balm 500ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water/Eau), C13-15 Alkane, Hydrogenated Polydecene, Butyrospermum Parkii (Shea Butter), Cetearyl Ethylhexanoate, Isononyl Isonanoate, Beheneth-25, Butylene Glycol, Glycerin, 1-2 Hexanediol, Shorea Stenoptera Seed Butter, Brassica Campestris (Rapeseed) Sterols, Chlorphenesin, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, O-Cy-Men-5-Ol, Tocopheryl Acetate, Raspberry Seed Oil/Palm Oil, Aminopropanediol Esters, Sodium Hydroxide, Asiaticoside, Phytosphingosine, Borage Seed Oil Aminopropanediol Amides, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/6996e3d422acf/uriage-xemose-anti-p50545.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-URI-007",
+    "brand": "Uriage",
+    "name": "Hyséac Purifying Oil 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Paraffinum Liquidum Mineral Oil, Caprylic/Capric Triglyceride, PEG-20 Glyceryl Triisostearate, Di-C12-13 Alkyl Malate, Helianthus Annuus Sunflower Seed Oil, Nigella Sativa Seed Oil, Parfum (Fragrance), Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/690076be23272/uriage-hyseac-purifying-p94809.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-011",
+    "brand": "Uriage",
+    "name": "Baby 1st Mineral Cream SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Dicaprylyl Carbonate, Aqua (Water, Eau), Titanium Dioxide (Nano), Zinc Oxide (Nano), Neopentyl Glycol Dipheptanoate, Peg-30 Dipolyhydroxystearate, Sodium Chloride, Butylene Glycol, Nylon-12, Polyglyceryl-3 Diisostearate, Stearic Acid, Alumina, Dimethicone, Glycerin, Octyldodecanol, Magnesium Sulfate, Cera Alba (Beeswax), Glucose, Triethoxycaprylylsilane, Xanthan Gum, Disteardimonium Hectorite, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Propylene Carbonate, Tocopherol, Ascorbyl Tetraisopalmitate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecda42ffe5/uriage-baby-1st-p27730.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-028",
+    "brand": "Uriage",
+    "name": "Roséliane Anti-Redness Cream SPF30 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Dicaprylyl Carbonate, Dimethicone, Isononyl Isononanoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Polymethyl Methacrylate, Tapioca Starch, Steareth-2, Steareth-21, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butylene Glycol, Phenoxyethanol, Parfum (Fragrance), Cetyl Alcohol, Chlorphenesin, Brassica Campestris (Rapeseed) Sterols, o-cymen-5-ol, Tocopheryl Acetate, Xanthan Gum, Polysorbate 60, Raspberry Seed oil/Palm oil Aminopropanediol Esters, Sorbitan Isostearate, Polymethylsilsesquioxane, Sorbitol, Citric Acid, Asiaticoside, Phytosphingosine, BHT, Panax Ginseng Root Extract, Maltodextrin, CI 14700 (Red 4), Tocopherol, Ascophyllum Nodosum Extract, Asparagopsis Armata Extract, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/67973ad544325/uriage-roseliane-anti-p99043.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "توحيد لون البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-029",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Insulating Repairing Cream 75ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua (Water, Eau), Hydrogenated Polydecene, Octyldodecanol, Cetyl PEG/PPG-10/1, Dimethicone, Butylene Glycol, Stearyl Dimethicone, Glycerin, PVP, Squalane, Magnesium Sulfate, Brassica Campestris (Rapeseed) Sterols, Dimethicone, Chlorphenesin, Diazolidinyl Urea, O-Cymen-5-Ol, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/668be591694a4/uriage-bariederm-cica-p2476.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-008",
+    "brand": "Uriage",
+    "name": "Hyséac Cleansing Gel 500 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua/Water/Eau, Sodium Laureth Sulfate, PEG-80 Glyceryl Cocoate, Sodium Cocoamphoacetate, PPG-2 Hydroxyethyl Cocamide, Sodium Laureth-8 Sulfate, Sodium Methyl Cocoyl Taurate, Coco-Glucoside, Glyceryl Oleate, Glycine, Citric Acid, PPG-2 Hydroxyethyl Coco/Isostearamide, Piroctone Olamine, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Parfum (Fragrance), Magnesium Laureth-8 Sulfate, Magnesium Oleth Sulfate, Epilobium Angustfolium Flower/Leaf/Stem Extract, Phenoxyethanol, Sodium Metabisulfite, Tocopherol, Hydrogenet Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/69007706bc90a/uriage-hyseac-cleansing-p94802.jpg",
+    "marketingClaims": [
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-URI-005",
+    "brand": "Uriage",
+    "name": "Dépiderm Anti-Dark Spot Intensive Care 30 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water, Eau), Di-C12-13 Alkyl Malate, Dicaprylyl Ether, Glycerin, Squalane, Ascorbyl Tetraisopalmitate, Glycolic Acid, Steareth-2, Steareth-21, Lactic Acid, Sodium Hydroxide, Maltodextrin, 1,2-Hexanediol, Glycyrrhetinic Acid, Sodium Polyacryloyldimethyl Taurate, Sucrose Dilaurate, Jojoba Esters, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glyceryl Behenate, Glyceryl Stearate, Peg-100 Stearate, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Benzoic Acid, Niacinamide, Xanthan Gum, Sodium Cocoyl Glutamate, Tocopheryl Acetate, Pisum Sativum Extract (Pisum Sativum (Pea) Extract), Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Polyglycerin-3, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/674edd943a10c/uriage-depiderm-anti-p85084.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-009",
+    "brand": "Uriage",
+    "name": "Baby 1st Cleansing Water 1L",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua (Water,Eau), Glycerin, Caprylyl/Capryl Glucoside, Polysorbate 20, Parfum (Fragrance), Hydroxyacetophenone, Ethyl Lauroyl Arginate HCL, Citric Acid, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/668beb0fd2ebf/uriage-baby-1st-p56360.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-030",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Repairing Cream 15ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua (Water), Paraffinum Liquidum (Mineral Oil), Sodium Chloride, Zinc Oxide, Cetyl PEG-PPG-10/1 Dimethicone, Propylheptyl Caprylate, Butylene Glycol, Hydrogenated Polydecene, Panthenol, Glycerin, Dimethicone, Disteardimonium Hectorite, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Methylpropanediol, Tocopheryl Acetate, Triacontanyl PVP, Copper Gluconate, Propanediol, Propylene Carbonate, Citric Acid, Glutamylaminoethyl Inole, Polyquaternium-61, Hyaluronic Acid, Silanetriol, Borage Seed Oil Aminopropanediol Amides",
+    "image": "https://cdn1.costatic.com/img/product/400/63985f1383100/uriage-bariederm-cica-p80954.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-URI-005",
+    "brand": "Uriage",
+    "name": "DS HAIR Soft Balancing Shampoo 500ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Cocoyl Glutamate, Decyl Glucoside, Butylene Glycol, Parfum (Fragrance), Coco-Glucoside, Glyceryl Oleate, Polyquaternium-22, Sodium Benzoate, PEG-120 Methyl Glucose Dioleate, Citric Acid, Propylene Glycol, Glycerin, Piroctone Olamine, Hibiscus Sabdariffa Flower Extract, Phytosphingosine, Leontopodium Alpinum Flower/Leaf Extract, Asiaticoside, Tocopherol, Potassium Sorbate, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/69416d53b45d2/uriage-ds-hair-p43565.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-011",
+    "brand": "Uriage",
+    "name": "Gyn-8 Intimate Hygiene Soothing Cleansing Gel 100ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Uriage Thermal Spring Water, Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoamphoacetate, Sodium Laureth-8 Sulfate, PEG-80 Glyceryl Cocoate, Glycerin, Coco-Glucoside, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Sodium Methyl Cocoyl Taurate, Parfum (Fragrance), Magnesium Laureth-8 Sulfate, Glycol Distearate, PEG-120 Methyl Glucose Dioleate, Piroctone Olamine, DMDM Hydantoin, Glyceryl Oleate, Magnesium Oleth Sulfate, Lactic Acid, Alcohol, Leontopodium Alpinum Flower (Leaf Extract)",
+    "image": "https://cdn1.costatic.com/img/product/400/668e364532bac/uriage-gyn-8-p8103.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-010",
+    "brand": "Uriage",
+    "name": "Make-Up Removing Oil 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Helianthus Annuus (Sunflower) Seed Oil, Polyglyceryl-4 Oleate, Simmondsia Chinensis (Jojoba) Seed Oil, Apricot Kernel Oil Polyglyceryl-6 Esters, Parfum (Fragrance), Tocopheryl Acetate, Vaccinium Macrocarpon (Cranberry) Seed Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/674eddcb6ebe2/uriage-make-up-p77391.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-011",
+    "brand": "Uriage",
+    "name": "Roséliane Dermo-Cleansing Fluid 250 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua (Water, Eau) ,Hydroxypropylstarch Phosphate ,Polyglyceryl-4 Caprate ,Prunusarmeniaca (Apricot) Kernel Oil ,Glycerin ,1,2-Hexanediol -Hydroxyacetophenone ,Xanthan Gum ,Lauryl Glucoside,Polyglyceryl-2 Dipolyhydroxystearate ,Butyrospermumparkii (Shea) Butter ,Parfum (Fragrance) ,Tocopheryl Acetate,Citric Acid ,Ci 77491 (Iron Oxides) ,Silica ,Asparagopsisarmata Extract ,Sodium Benzoate ,Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/6894bcdf0fc6d/uriage-roseliane-dermo-p99048.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-012",
+    "brand": "Uriage",
+    "name": "Xémose Cleansing Soothing Oil 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Sorbitol, Glycerin, Sodium Laureth Sulfate, Coco-Glucoside, Sodium Cocoamphoacetate, Sodium Methyl Cocoyl Taurate, Caprylyl Glycol, Citric Acid, Sodium Benzoate, Glyceryl Oleate, Polyquaternium-10, PEG-75 Shea Butter Glycerides, Safflower Oil/Palm Oil Aminopropanediol Esters, Polyglyceryl-10 Stearate, Tocopherol, Triethyl Citrate, Polyglyceryl-6 Behenate, Hydrogenated Vegetable Glycerides Citrate, Behenic Acid, Ceramide Np, Cetearyl Alcohol, Cholesterol, Glyceryl Stearate, Lactic Acid, Ceramide ns, Ceramide Eop, Ceramide Ap, Sodium Cetearyl Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/691c8d3c46652/uriage-xemose-cleansing-p72257.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-URI-004",
+    "brand": "Uriage",
+    "name": "Age Lift Smoothing Eye Care 15ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua (Water, Eau), Dimethicone, Butylene Glycol, Diglycerin, Silica, Butyrospermum Parkii (Shea) Butter, Cetyl Alcohol, Squalane, Jojoba Esters, 1,2-Hexanediol, Boron Nitride, Glyceryl Stearate, PEG-100 Stearate, Glyceryl Behenate, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), Dimethiconol, Polyacrylate Crosspolymer-6, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Dextran Sulfate, Caesalpinia Spinosa Fruit Extract, Isohexadecane, Benzoic Acid, Mica, Glycerin, Ascorbyl Tetraisopalmitate, Polysorbate 80, Tocopheryl Acetate, Kappaphycus Alvarezii Extract, O-Cymen-5-Ol, CI 77891 (Titanium Dioxide), Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Polyglycerin-3, Retinyl Palmitate, Adenosine, Sodium Hyaluronate, Sodium Hydroxide, Sorbitan Oleate, T-Butyl Alcohol, Theobroma Cacao (Cocoa) Seed Extract, Spirulina Platensis Extract, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/668bed1271f81/uriage-age-lift-p77372.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-012",
+    "brand": "Uriage",
+    "name": "Cleansing Water Foam 150ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua (Water, Eau), Decyl Glucoside, Glycerin, Sodium Cocoyl Glutamate, Propanediol, Sodium Methyl Cocoyl Taurate, Triethyl Citrate, Citric Acid, Parfum (Fragrance), Sodium Benzoate, Propylene Glycol, Coco-Glucoside, Glyceryl Oleate, Polyquaternium-10, Leontopodium Alpinum Flower/Leaf Extract, Tocopherol, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/668bed6da5894/uriage-cleansing-water-p77389.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-031",
+    "brand": "Uriage",
+    "name": "Baby 1st Anti-Itch Soothing Oil Balm 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), C13-15 Alkane, Hydrogenated Polydecene, Butyrospermum Parkii (Shea) Butter, Cetearyl Ethylhexanoate, Isononyl Isononanoate, Beheneth 25, Butylene Glycol, Glycerin, 1,3-Hexanediol, Shorea Stenoptera Seed Butter, Brassica Campestris (Rapeseed) Sterols, Chlorphenesin, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polyacrylate, o-Cymen-5-Ol, Tocopheryl Acetate, Raspberry Seed Oil/Palm Oil, Aminopropanediol Esters, Sodium Hydroxide, Asiaticoside, Phytosphingosine, Borage Seed Oil Aminopropanediol Amides, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/668bee743fc5c/uriage-baby-1st-p60003.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-012",
+    "brand": "Uriage",
+    "name": "Bariésun Ultra-Light Very High Sun Protection Fluid SPF50+ 30ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Heptyl Undecylenate, Dimethicone, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Polyglyceryl-6 Polyhydroxystearate, Glycerin, Magnesium Stearate, Polyglyceryl-6 Polyricinoleate, Hydroxyacetophenone, Glucose, Benzoic Acid, Glyceryl Behenate, Tocopheryl Acetate, Trehalose, Sodium Hydroxide, Tocopherol, Spirulina Platensis Extract, Haematococcus Pluvialis Extract, Olea Europaea (Olive) Fruit Oil, Ascorbyl Palmitate, Glycine Max (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d6ca7a591c/uriage-bariesun-ultra-p115231.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-013",
+    "brand": "Uriage",
+    "name": "Bariésun Moisturising Dry Mist SPF50+ 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Butane, Aqua (Water/Eau), Dicaprylyl Ether, Octocrylene, Ethylhexyl Methoxycinnamate, Isobutane, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Nylon-12, Propane, PEG-30 Dipolyhydroxystearate, Cyclopentasiloxane, Cyclohexasiloxane, Bis-Ethylhexyloxyphenol, Methoxyphenyl Triazine, Glycerin, Sodium Chloride, Phenoxyethanol, Glucose, Chlorphenesin, Parfum (Fragrance), Tetrasodium Edta, Citric Acid, Hydrogenated Polydecene, Tocopheryl Acetate, Trehalose, Ascorbyl Tetraisopalmitate, BHT, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/6a16e04b6c877/uriage-bariesun-moisturising-p115248.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-013",
+    "brand": "Uriage",
+    "name": "Thermal Micellar Water Combination to Oily Skins 500ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Polysorbate 20, Poloxamer 184, Caprylyl/Capryl Glucoside, Cetrimonium Bromide, Glycerin, Polyaminopropyl Biguanide, Glycerin, Parfum (Fragrance), Pentylene Glycol, Citric Acid, Lens Esculenta (Lentil) Seed Extract, Pyrus Malus (Apple) Fruit Extract, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/646f1925ae6f5/uriage-thermal-micellar-p77384.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-HSE-URI-002",
+    "brand": "Uriage",
+    "name": "AP HAIR Chute & Croissance Intensive Anti-Hair Loss Serum 100 ml",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a461620a3da1/uriage-ap-hair-p118584.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-URI-008",
+    "brand": "Uriage",
+    "name": "Gyn-Phy Intimate Hygiene Cleansing Mist 50ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Decyl Glucoside Glycerin, Lactic Acid, Cetrimonium Bromide, Parfum (Fragrance), Alcohol, Leontopodium Alpinum Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/668e35c36e30b/uriage-gyn-phy-p31526.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-032",
+    "brand": "Uriage",
+    "name": "Pruriced Soothing Comfort Cream 100 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Palmitate, Octyldodecanol, Calamine, Sodium Chloride, Butylene Glycol, Polyglyceryl-6 Polyhydroxystearate, Glycerin, Polyglyceryl-6 Polyricinoleate, Magnesium Stearate, Stearalkonium Bentonite, Magnesium Sulfate, Rubus Idaeus (Raspberry) Seed Oil, Propanediol, Tocopheryl Acetate, Citric Acid, Tocopherol, Ascorbyl Palmitate",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed97784660/uriage-pruriced-soothing-p83482.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-033",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Daily Gel-Cream 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Ether, Glycerin, Diglycerin, Squalane, 1,2-Hexanediol, Inulin, Sodium Polyacryloyldimethyl, Taurate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Xanthan Gum, Sodium Hyaluronate, Sodium Hydroxide, Copper Gluconate, Centella Asiatica Leaf Extract, Zinc Gluconate, Citric Acid, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/674ede355ae19/uriage-bariederm-cica-p51953.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-034",
+    "brand": "Uriage",
+    "name": "Water Cream 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Cetearyl Isononanoate, Dimethicone, Butyrospermum Parkii (Shea) Butter, Squalane, Butylene Glycol, Diglycerin, Propanediol, Xylityl-Glucoside, 1,2-Hexanediol, Cetyl Alcohol, Anhydroxylitol, Polysorbate 60, Glycerin, Trehalose, Urea, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate Crosspolymer-6, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Xylitol, Chlorphenesin, Glucose, o-Cymen-5-Ol, Parfum (Fragrance), Pentylene Glycol, Serine, Sodium Hydroxide, Sorbitan Isostearate, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, T-Butyl Alcohol, Potassium Phosphate",
+    "image": "https://cdn1.costatic.com/img/product/400/668be84930508/uriage-water-cream-p24040.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-014",
+    "brand": "Uriage",
+    "name": "Refreshing Make-Up Removing Jelly 150ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua (Water, Eau), Poloxamer 184, Propanediol, Caprylyl/Capryl Glucoside, 1,2-Hexanediol, Triethyl Citrate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyacetophenone, Parfum (Fragrance), Sodium Hydroxide, Glycerin, Leontopodium Alpinum Flower/Leaf Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed12bca372/uriage-refreshing-make-p77390.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-014",
+    "brand": "Uriage",
+    "name": "Bariésun Dry Oil SPF30 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Dicaprylyl Carbonate, Isohexadecane, Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Hydrogenated Polydecene, Parfum (Fragrance), Tocopheryl Acetate, Tocopherol, Ascorbyl Tetraisopalmitate, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d79bf97117/uriage-bariesun-dry-p74317.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-URI-006",
+    "brand": "Uriage",
+    "name": "DS HAIR Soft Balancing Shampoo 200ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Sodium laureth sulfate, Cocamidopropyl betaine, Sodium cocoyl glutamate, Decyl glucoside, Butylene glycol, Parfum (Fragrance), Coco-glucoside, Glyceryl oleate, Polyquaternium-22, Sodium benzoate, Peg-120 methyl glucose dioleate, Sodium chloride, Citric acid, Glycerin, Piroctone olamine, Coconut acid, Hibiscus sabdariffa flower extract, Phytosphingosine, Alcohol, Leontopodium alpinum flower/Leaf extract, Asiaticoside, Potassium sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/690a1686c4703/uriage-ds-hair-p36083.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-035",
+    "brand": "Uriage",
+    "name": "Eau Thermale Water Jelly 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Butylene Glycol, Diglycerin, Dimethicone, Xylitylglucoside, 1-2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Anhydroxylitol, Glycerin, Trehalose, Urea, Xylitol, Chlorphenesin, Sodium Hyaluronate, PEG-40 Hydrogenated Castor Oil, Polysilicone-11, Sodium Hydroxide, Glucose, O-Cy-Men-5-Ol, Parfum (Fragrance), Pentylene Glycol, Serine, Caprylyl Glycol, Algin, Disodium Phosphate, Glyceryl Polyacrylate, Pullylan, Decyl Glucoside, Potassium Phosphate, Phenoxyethanol, Hexylene Glycol",
+    "image": "https://cdn1.costatic.com/img/product/400/668beb26d47db/uriage-eau-thermale-p38368.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-015",
+    "brand": "Uriage",
+    "name": "Cleansing Milk 250ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua (Water, Eau), Helianthus Annuus (Sunflower) Seed Oil, Octyldodecanol, C12-15 Alkane, Glycerin, 1,2-Hexanediol, Polysorbate 60, Parfum (Fragrance), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Sodium Polyacrylate, Tocopheryl Acetate, Sodium Hydroxide, Leontopodium Alpinum Flower/Leaf Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed0f8304d2/uriage-cleansing-milk-p77388.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-URI-006",
+    "brand": "Uriage",
+    "name": "Hyséac Sérum Peau Neuve Booster Anti-Imperfections 30 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water, Eau), Alcohol Denat., Polyglyceryl-4 Caprate, 1,2-Hexanediol, Diglycerin, Glycolic Acid, Malic Acid, Lactic Acid, Propanediol, Sodium Hydroxide, Xanthan Gum, Butylene Glycol, Parfum (Fragrance), Phytosphingosine, Pentylene Glycol, Zinc Lactate, Asiaticoside, Sclerotium Gum, Algin, Achillea Millefolium Extract, Glycyrrhiza Inflata Root Extract, Rhamnose, Glucose, Glucuronic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/68a2e9ffd059f/uriage-hyseac-serum-p94812.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-015",
+    "brand": "Uriage",
+    "name": "Bariésun Invisible Spray Very High Protection SPF50+ Fragrance-Free 200 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a329348bf073/uriage-bariesun-invisible-p115234.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-URI-036",
+    "brand": "Uriage",
+    "name": "DS Emulsion 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Glycerin, Octyldodecanol, Butylene Glycol, Butylene Glycol, Butyrospermum Parkii Shea Butter, Sodium Polyacrylate, Pentylene Glycol, Polysorbate 60, Piroctone Olamine, Xanthan Gum, 1-2 Hexanediol, Caprylyl Glycol, Dimethicone, Phytosphingosine, Citric Acid, Asiaticoside",
+    "image": "https://cdn1.costatic.com/img/product/400/668be56f367db/uriage-d-s-p16659.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-037",
+    "brand": "Uriage",
+    "name": "Cica-Daily Repairing Cream Concentrate 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Squalane, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-3 Methylglucose Distearate, Glycerin, Glyceryl Stearate, 1,2-Hexanediol, Pentaerythrityl Distearate, Glyceryl Behenate, Hydroxyacetophenone, Inulin, Potassium Cetyl Phosphate, Panthenol, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Xanthan Gum, Safflower Oil/Palm Oil Aminopropanediol Esters, Sodium Hyaluronate, Sodium Hydroxide, Centella Asiatica Leaf Extract, Citric Acid, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/674edba2d8e95/uriage-cica-daily-p90284.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-038",
+    "brand": "Uriage",
+    "name": "Xémose PSO Soothing Concentrate 150ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua (Water, Eau), Octyldodecanol, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-2 Dipolyhydroxystearate, Dicaprylyl Carbonate, Dicaprylyl Ether, Glycerin, Jojoba Esters, Helianthus Annuus Seed Cera (Helianthus Annuus (Sunflower) Seed Wax), 1,2-Hexanediol, Sodium Polyacrylate - Behenyl Alcohol, Brassica Campestris (Rapeseed) Sterols, Glycine, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Xanthan Gum, Acacia Decurrens Flower Cera (Acacia Decurrens Flower Wax), Polyglycerin-3, Safflower Oil/Palm Oil Aminopropanediol Esters, Glucosyl Hesperidin, Tocopherol, Sodium Hydroxide",
+    "image": "https://cdn1.costatic.com/img/product/400/668becb4342d8/uriage-xemose-pso-p72245.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-URI-007",
+    "brand": "Uriage",
+    "name": "Dépiderm Anti-Dark Spot Serum Brightening Booster 30 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water, Eau), Propanediol, Butylene Glycol, Diglycerin, Glycerin, 1,2-Hexanediol, Ascorbyl Glucoside, 3-O-Ethyl Ascorbic Acid, Polysorbate 20, Sodium Citrate, Xanthan Gum, Sodium Hydroxide, Dipotassium Glycyrrhizate, Niacinamide, Maltodextrin, Citric Acid, Sucrose Dilaurate, Sodium Cocoyl Glutamate, Pisum Sativum Extract (Pisum Sativum (Pea) Extract)",
+    "image": "https://cdn1.costatic.com/img/product/400/668bed65b5e29/uriage-depiderm-anti-p85083.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-URI-007",
+    "brand": "Uriage",
+    "name": "Moisturising Lipstick 4g",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "4g",
+    "ingredients": "Paraffinum Liquidum (Mineral Oil), Paraffin, Cera Microcristallina (Microcrystalline Wax), Carnauba (Copernicia Cerifera (Carnauba) Wax), Butyrospermum Parkii ( Shea Butter) Fruit, C12-13 Alkyl Lactate, Cera Alba (Beeswax), Cetyl Alcohol, Borago Officinalis (Borago Officinalis Seed Oil), Tocopheryl Acetate, Stearyl Glycyrrhetinate, Sodium Hyaluronate, Parfum (Fragrance), Tocopherol, Ascorbyl Palmitate, Bht",
+    "image": "https://cdn1.costatic.com/img/product/400/6a200e0c14a98/uriage-moisturising-lipstick-129185.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-URI-007",
+    "brand": "Uriage",
+    "name": "Baby 1st Shampoo 200ml",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Caprylyl/Capryl Glucoside, Sodium Cocoyl Alaninate, Glycerin, Triethyl Citrate, Sodium Cocoamphoacetate, Xanthan Gum, Parfum (Fragrance), Citric Acid, Coco-Glucoside, Glyceryl Oleate, Sodium Benzoate, Xylityl Glucoside, Anhydroxylitol, Xylitol, Hibiscus Sabdariffa Flower Extract, Glucose, Potassium Sorbate, Leontopodium Alpinum Flower/Leaf Extract, Tocopherol, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/60faa97e2cd5b/uriage-baby-1st-p56358.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-013",
+    "brand": "Uriage",
+    "name": "Baby 1st Cleansing Cream 1L",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua (Water, Eau), Coco-Betaine, Hydroxypropyl Starch Phosphate, Lauric Acid, Helianthus Annuus (Sunflower) Seed Oil, Decyl Glucoside, Parfum (Fragrance), Glycerin, Sodium Methyl Cocoyl Taurate, Sodium Cocoyl Isethionate, Butyrospermum Parkii (Shea) Butter, Caprylyl Glycol, Sodium Benzoate, Xanthan Gum, Sodium Hydroxide, Tocopheryl Acetate, Leontopodium Alpinium Flower/Leaf Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/668bee7b301b4/uriage-baby-1st-p56354.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-014",
+    "brand": "Uriage",
+    "name": "Gyn-Phy Intimate Hygiene Refreshing Gel 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (water, eau), Sodium Laureth Sulfate, Sodium Chloride, Sodium Cocoamphoacetate, Sodium Laureth-8 Sulfate, PEG-80 Glyceryl Cocoate, Glycerin, Coco-Glucoside, Lactic Acid, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Sodium Methyl Cocoyl Taurate, Parfum (Fragrance), Magnesium Laureth-8 Sulfate, Glycol Distearate, PEG-120 Methyl Glucose Dioleate, DMDM Hydantoin, Glyceryl Oleate, Magnesium Oleth Sulfate, Piroctone Olamine, Alcohol, Leontopodum Alpinum Flower (Leaf Extract)",
+    "image": "https://cdn1.costatic.com/img/product/400/668e35bac153d/uriage-gyn-phy-p29972.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-016",
+    "brand": "Uriage",
+    "name": "Bariésun Moisturizing Cream Skin Shield Technology SPF50+ Unscented 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (water, Eau), Dicaprylyl Carbonate, Methylene Bis-benzotriazolyl Tetramethylbutylphenol[nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl Pvp, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Coco-glucoside, Benzoic Acid, Tetrasodium Edta, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, O-cymen-5-ol, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d6c5eccc0f/uriage-bariesun-moisturizing-p73374.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-URI-002",
+    "brand": "Uriage",
+    "name": "Hyséac Exfoliating Mask 100ml",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water, Eau), Kaolin, DI-C12-13 Alkyl Malate, Cellulose, Cetearyl Ethylhexanoate, Glycerin, Pentylene Glycol, Steareth-2, Steareth-21, Cetyl Alcohol, Malic Acid, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Sodium Hydroxide, Chlorphenesin, Parfum (Fragrance), Xanthan Gum, Polysorbate 80, O-Cymen-5-Ol, Sorbitan Oleate, CI 19140 (Yellow 5), CI 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/690072d14e3f6/uriage-hyseac-exfoliating-p94804.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-016",
+    "brand": "Uriage",
+    "name": "Dépiderm Brightening Cleansing Foaming Cream 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua (Water, Eau), Sodium Cocoyl Glycinate, Glycerin, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Acrylates Copolymer, Citric Acid, Triethyl Citrate, Parfum (Fragrance), Sodium Chloride, Sodium Benzoate, Coconut Acid, Maltodextrin, Ascorbyl Glucoside, Niacinamide, Sucrose Dilaurate, Sodium Cocoyl Glutamate, Sodium Citrate, Sodium Hydroxide, Pisum Sativum Extract (Pisum Sativum (Pea) Extract)",
+    "image": "https://cdn1.costatic.com/img/product/400/668bed7a3ae9e/uriage-depiderm-brightening-p85086.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-039",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Repair Cream 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Paraffinum Liquidum (Mineral Oil), Sodium Chloride, Zinc Oxide, Cetyl PEG-PPG-10/1 Dimethicone, Propylheptyl Caprylate, Butylene Glycol, Hydrogenated Polydecene, Panthenol, Glycerin, Dimethicone, Disteardimonium Hectorite, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Methylpropanediol, Tocopheryl Acetate, Triacontanyl PVP, Copper Gluconate, Propanediol, Propylene Carbonate, Citric Acid, Glutamylaminoethyl Indole, Polyquaternium-61, Hyaluronic Acid, Silanetriol, Borage Seed Oil Aminopropanediol Amides",
+    "image": "https://cdn1.costatic.com/img/product/400/668bee28d1929/uriage-bariederm-cica-p24728.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-URI-017",
+    "brand": "Uriage",
+    "name": "Waterproof Eye Make-Up Remover 100ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water, Eau), Isohexadecane, 1,2-Hexanediol, Butylene Glycol, Centaurea Cyanus Flower Water, Caprylyl/Capryl Glucoside, Polyaminopropyl Biguanide, Citric Acid, CI 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/668be71e12abc/uriage-waterproof-eye-p48117.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-015",
+    "brand": "Uriage",
+    "name": "Xémose Cleansing Soothing Oil 200ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Glycerin, Hydrogenated Starch Hydrolysate, Sodium Cocoamphoacetate, PEG-7 Glyceryl Cocoate, Sodium Cocoyl Glutamate, Sodium Laureth Sulfate, Sodium Laureth-8 Sulfate, Ceteareth-60, Myristyl Glycol, Polysorbate 20, Citric Acid, Coco-Glucoside, Glyceryl Oleate, Magnesium Laureth Sulfate, Sodium Oleth Sulfate, Polyquaternium-10, Magnesium Laureth-8 Sulfate, PEG-75 Shea Butter Glycerides, Magnesium Oleth Sulfate, Isopropyl Alcohol, Brassica Campestris (Rapeseed) Sterols, Raspberry Seed Oil/Palm Oil, Aminopropanediol Esters, Tocopherol, Hydrogenated Vegetable Glycerides Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0d80eb46448/uriage-xemose-cleansing-p60173.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-URI-017",
+    "brand": "Uriage",
+    "name": "Bariésun Very High Sun Protection Moisturising Cream SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (water, Eau), Dicaprylyl Carbonate, Methylene Bis-benzotriazolyl Tetramethylbutylphenol[nano], Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/dicaprate, Silica, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Triacontanyl Pvp, Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Glucose, Xanthan Gum, Parfum (fragrance), Coco-glucoside, Benzoic Acid, Tetrasodium Edta, Coconut Alcohol, Hydrogenated Polydecene, Tocopheryl Acetate, O-cymen-5-ol, Trehalose, Propylene Glycol, Sodium Hydroxide, Citric Acid, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d3ab486166/uriage-bariesun-very-p115237.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-URI-016",
+    "brand": "Uriage",
+    "name": "Xémose Gentle Cleansing Syndet 500ml",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Aqua (Water, Eau), Sodium Laureth Sulfate, Glycerin, Decyl Glucoside, Cocamidopropyl Betaine, Sodium Chloride, Sodium Methyl Cocoyl Taurate, Glycol Distearate, Polyacrylate Crosspolymer-6, Coco-Glucoside, Caprylyl Glycol, Sodium Benzoate, Glyceryl Oleate, Citric Acid, Glyceryl Stearate, Benzoic Acid, Safflower Oil/Palm Oil Aminopropanediol Esters, Polyglyceryl-10 Stearate, Triethyl Citrate, Polyglyceryl-6 Behenate, Tocopherol, Behenic Acid, Ceramide Np, Cetearyl Alcohol, Cholesterol, Lactic Acid, Hydrogenated Vegetable Glycerides Citrate, Ceramide Ns, Ceramide Eop, Ceramide Ap, Sodium Cetearyl Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/69145f4b70d3d/uriage-xemose-gentle-p72229.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-018",
+    "brand": "Uriage",
+    "name": "Hyséac 3-Regul Global Tinted Skin-Care SPF30 40ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Methoxycinnamate, CI77891 (Titanium Dioxide), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Salicylate, Octocrylene, Dicaprylyl Carbonate, Nylon-2, Steareth-2, Steareth-21, Dimethicone, Cetyl Alcohol, Hydrogenated Vegetable Oil, Butylene Glycol, Potassium Cetyl Phosphate, Tromethamine, Lactic Acid, Parfum (Fragrance), CI 77492 (Iron Oxides), Phenoxyethanol, Hydrogenated Palm Kernel Glycerides, Glyceryl Stearate, Peg-100 Stearate, Ci 77491 (Iron Oxides), Chlorphenesin, Polyacrylate 13, Tetrasodium Edta, Xanthan Gum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyisobutene, Hydrogenated Palm Glycerides, Ci 77499 (Iron Oxides), O-cymen-5-ol, Salicylic Acid, Tocopheryl Acetate, Alumina, Triethoxycaprylsilane, Propanediol, Polysorbate 20, Sorbitan Isostearate, Asiaticoside, Glycyrrhiza Inflata Root Extract, Phytosphingosine, Bht, Tocopherol, Rhamnose, Lens Esculenta (Lentil) Fruit Extract, Glucose, Glucuronic Acid, Ethylhexylglycerin",
+    "image": "https://cdn1.costatic.com/img/product/400/6900743abd2f5/uriage-hyseac-3-p94811.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-URI-006",
+    "brand": "Uriage",
+    "name": "Toléderm Control Soin Yeux Frais Calmant 15 ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua (Water, Eau) , Helianthus Annuus (Sunflower) Seed Oil , Glycerin , Squalane , Microcrystalline Cellulose , Polyglyceryl-6 Distearate , Dicaprylyl Ether , 1,2-Hexanediol , Jojoba Esters , Acrylates/C10-30 Alkyl Acrylate Crosspolymer , Hydroxyacetophenone , Potassium Cetyl Phosphate , Sodium Hydroxide , Cetyl Alcohol , Polyglyceryl-3 Beeswax , Xanthan Gum , Tocopheryl Acetate , Hydrolyzed Algin , Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/67e15dd25b59a/uriage-tolederm-control-p99051.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-URI-004",
+    "brand": "Uriage",
+    "name": "Age Absolu Redensifying Sleeping Mask 50ml",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Diglycerin, Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii (Shea) Butter, Octyldodecanol, 1,2-Hexanediol, Cetyl Alcohol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Shorea Stenoptera Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hyaluronate, Parfum (Fragrance), Caesalpinia Spinosa Fruit Extract, Ethylhexyl Stearate, Ascorbyl Tetraisopalmitate, Tocopheryl Acetate, Sodium Hydroxide, Butylene Glycol, Retinyl Palmitate, Kappaphycus Alvarezii Extract, Adenosine, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Punica Granatum Fruit Extract, Spirulina Platensis Extract, Tetrapeptide-4, Theobroma Cacao (Cocoa) Seed Extract, Tocopherol, Ci 14700 (Red 4)",
+    "image": "https://cdn1.costatic.com/img/product/400/6719ef0e7ac88/uriage-age-absolu-p77370.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-040",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Repairing Cream 100ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water, Eau), Paraffinum Liquidum (Mineral Oil), Sodium Chloride, Zinc Oxide, Cetyl Peg/Ppg-10/1 Dimethicone, Propylheptyl Caprylate, Butylene Glycol, Hydrogenated Polydecene, Panthenol, Glycerin, Dimethicone, Disteardimonium Hectorite, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Methylpropanediol, Tocopheryl Acetate, Triacontanyl Pvp, Copper Gluconate, Propanediol, Tocopheryl Acetate, Triacontanyl Pvp, Copper Gluconate, Propanediol, Propylene Carbonate, Citric Acid, Glutamylamidoethyl Indole, Polyquaternium-61, Hyaluronic Acid, Silanetriol, Borage Seed Oil Aminopropanediol Amides",
+    "image": "https://cdn1.costatic.com/img/product/400/668be898bf1c7/uriage-bariederm-cica-p24730.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-URI-008",
+    "brand": "Uriage",
+    "name": "Roséliane Sérum Lissant Correcteur Anti-Rougeurs 30 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Ether, Diglycerin, Glycerin, Squalane, Propanediol, 1,2-Hexanediol, Glycyrrhetinic Acid, Niacinamide, Microcrystalline Cellulose, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Xanthan Gum, Chondrus Crispus Powder, Cellulose Gum, Citric Acid, Ci 77891 (Titanium Dioxide), Mica, Tocopheryl Acetate, Maltodextrin, Asiaticoside, Phytosphingosine, Panax Ginseng Root Extract, Ascophyllum Nodosum Extract, Glucosyl Hesperidin, Tocopherol, Silica, Ci 19140 (Yellow 5), Ci 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/67e2bda1dafb8/uriage-roseliane-serum-p99042.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-URI-009",
+    "brand": "Uriage",
+    "name": "Baby 1st Drying Repairing Spray 100ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water/Eau), Glycerin, 1,2-Hexanediol, Bentonite, Propanediol, Xanthan Gum, Copper Gluconate, Sodium Dextran Sulfate, Manganese Gluconate, Zinc Gluconate, Phytosphingosine, Asiaticoside, Leontopodium Alpinum Flower/Leaf Extract, Citric Acid, Sodium Hydroxide",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed8dff38a3/uriage-baby-1st-p56366.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-041",
+    "brand": "Uriage",
+    "name": "Silky Body Lotion 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water, Eau), Ethylhexyl Palmitate, Paraffinum Liquidum (Mineral Oil), Glycerin, Dimethicone, Butyrospermum Parkii (Shea) Butter, Polysorbate 80, Butylene Glycol, 1,2-Hexanediol, Glyceryl Stearate, PEG-100 Stearate, Pentaerythrityl Distearate, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum (Fragrance), Chlorphenesin, Tocopheryl Acetate, O-Cymen-5-Ol, Sodium Hydroxide, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Hyaluronate, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/668be7f454363/uriage-silky-body-p80953.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-042",
+    "brand": "Uriage",
+    "name": "Cica-Daily Eco-Recharge Repair Cream Concentrate 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua (Water, Eau), Squalane, Dicaprylyl Ether, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Polyglyceryl-3 Methylglucose Distearate, Glycerin, Glyceryl Stearate, 1,2-Hexanediol, Pentaerythrityl Distearate, Glyceryl Behenate, Hydroxyacetophenone, Inulin, Potassium Cetyl Phosphate, Panthenol, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Xanthan Gum, Safflower Oil/Palm Oil Aminopropanediol Esters, Sodium Hyaluronate, Sodium Hydroxide, Centella Asiatica Leaf Extract, Citric Acid, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/68303b96f27a5/uriage-cica-daily-p90283.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-043",
+    "brand": "Uriage",
+    "name": "Baby 1st Peri-Oral Care 30ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Helianthus Annuus (Sunflower) Seed Oil, Polyglcyeryl-2 Dipolyhydroxystearate, Sodium Chloride, Glycerin, Butylene Glycol, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Simmondsia Chinensis (Jojoba) Seed Oil, Zinc Oxide, Stearalkonium Bentonite, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Brassica Campestris (Rapeseed) Sterols, Propanediol, Cooper Gluconate, Phytosphingosine, Tocopheryl Acetate, Manganese Gluconate, Zinc Gluconate, Asiaticoside, Aloe Barbadensis Leaf Extract, Citric Acid, Tocopherol, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674eddb1bf35d/uriage-baby-1st-p56365.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-019",
+    "brand": "Uriage",
+    "name": "Bariésun Tinted Cream Skin Shield Technology SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (water), Dicaprylyl Carbonate, Methylene Bis-benzotriazolyl Tetramethylbutylphenol[nano], CI 77891 (titanium Dioxide), Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Diisopropyl Sebacate, Propylene Glycol Dicaprylate/dicaprate, Hydrogenated Palm Kernel Glycerides, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Triacontanyl Pvp, CI 77492 (iron Oxides), Glycerin, C20-22 Alkyl Phosphate, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Hydrogenated Palm Glycerides, Glucose, CI 77491 (iron Oxides), Xanthan Gum, Parfum (fragrance), Coco-glucoside, Benzoic Acid, Tetrasodium Edta, Coconut Alcohol, Triethoxycaprylylsilane, Hydrogenated Polydecene, Tocopheryl Acetate, O-cymen-5-ol, CI 77499 (iron Oxides), Trehalose, Propylene Glycol, Citric Acid, Sodium Hydroxide, Ascorbyl Tetraisopalmitate, Tocopherol, Spirulina Platensis Extract, Polyquaternium-51",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d6faca60f5/uriage-bariesun-tinted-p115229.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-URI-020",
+    "brand": "Uriage",
+    "name": "Bariésun Mattifying Fluid SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Nylon-12, C20-22 Alkyl Phosphate, Glycerin, C20-22 Alcohols, Decyl Glucoside, Butylene Glycol, Dimethicone, Xanthan Gum, Chlorphenesin, Parfum (Fragrance), Triacontanyl PVP, Benzoic Acid, Tetrasodium EDTA, O-Cy-Men-5-Ol, Tocopheryl Acetate, Sodium Hydroxide, Propylene Glycol, Citric Acid, Glycyrrhiza Inflata Root Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674ece738c6d4/uriage-bariesun-mattifying-p27342.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-URI-008",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Protective Lip Balm 15ml",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "15ml",
+    "ingredients": "Paraffinum Liquidum (Mineral Oil), Cera Microcristallina (Microcrystalline Wax), Paraffin, Hydrogenated Polydecene, Dimethicone, Tricontanyl PVP, Dipentaerythrityl Tetrahydroxystearate/Tetraisostearate, Glycerin, Squalane, Brassica Campestris (Rapessed) Sterols, Tocopherol Acetate, Synthetic Wax, Ethylene/Propylene Copolymer, Polyethylene, Polyquaternium 61, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/668be8c5b898f/uriage-bariederm-cica-p24724.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-URI-044",
+    "brand": "Uriage",
+    "name": "Baby 1st Moisturising Cream 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water, Eau), Dicaprylyl Carbonate, Squalane, Glycerin, Caprylic/Capric Triglyceride, Hydroxypropyl Starch Phosphate, Polyglyceryl-6 Stearate, Butyrospermum Parkii (Shea) Butter, Cetyl Alcohol, 1,2-Hexanediol, Glyceryl Behenate, Hydroxyacetophenone, Parfum (Fragrance), Xanthan Gum, Polglyceryl-6 Behenate, Succinoglycan, Tocopheryl Acetate, Citric Acid, Tocopherol, Leontopodium Alpinium Flower/Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed8ee0ece5/uriage-baby-1st-p56363.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
