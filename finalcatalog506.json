@@ -18047,5 +18047,2909 @@
     "targetTypes": [
       "بشرة جافة"
     ]
+  },
+  {
+    "id": "TN-LOT-ARV-001",
+    "brand": "ARVEA",
+    "name": "After Sun Spraysun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CITRUS AURANTIUM DULCIS FLOWER, OLIVE OIL GLYCERETH-8 ESTERS, ARGAN OIL GLYCERETH-8 ESTERS, SHEA BUTTER POLYGLYCERYL-4 ESTERS, BETAINE, CALENDULA OFFICINALIS FLOWER EXTRACT, SODIUM BENZOATE, OLEA EUROPAEA LEAF EXTRACT, CITRIC ACID",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e8b14467098774fc7c8e7391bee08e41.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-001",
+    "brand": "ARVEA",
+    "name": "Roll On Agrumes",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SILICA, SILVER CITRATE, TETRASODIUM EDTA, CETEARYL ALCOHOL, PHENOXYETHANOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/99ec2a761077460ed0d2ddef8fa38c70.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-002",
+    "brand": "ARVEA",
+    "name": "Creme Push Up",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, C12-15 ALKYL BENZOATE, GLYCERIN, CETEARYL ALCOHOL, CYCLOPENTASILOXANE, HYDROGENATED POLYISOBUTENE, PEG-100 STEARATE, GLYCERYL STEARATE, PROPYLENE GLYCOL, STEARIC ACID, POLYSORBATE 80, ANEMARRHENA ASPHODELOIDES ROOT EXTRACT, BUTYROSPERMUM PARKII BUTTER, OPUNTIA FICUS-INDICA SEED OIL, ALLANTOIN, GLYCERYL POLYMETHACRYLATE, PALMITOYL OLIGOPEPTIDE, TOCOPHERYL ACETATE, PERSEA GRATISSIMA OIL, PANTHENOL, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ARGANIA SPINOSA KERNEL OIL, VITIS VINIFERA SEED OIL, DIMETHICONE, TETRASODIUM EDTA, RETINYL ACETATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PERFUME",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/250066eb4e70ea4c6609b29ed880d6f7.webp",
+    "marketingClaims": [
+      "شد الجسم",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2850,
+      "max": 2850,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-002",
+    "brand": "ARVEA",
+    "name": "Wellness Multivitamins And Minerals",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "de zinc, Vitamine B5, Vitamine B1, Vitamine B6, Bisglycinate de manganèse, Vitamine",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/3d14a9117938473877ebb4db07dd9df5.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 2200,
+      "max": 2200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SUN-ARV-001",
+    "brand": "ARVEA",
+    "name": "Invisible Sun Fluid Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), ETHYLHEXYL METHOXYCINNAMATE, DIMETHICONE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL SALICYLATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, POTASSIUM CETYL PHOSPHATE, DIBUTYL ADIPATE, ETHYLHEXYL TRIAZONE, STEARYL DIMETHICONE, DIGLYCERIN, CETYL DIMETHICONE, MALEATED SOYBEAN OIL GLYCERYL/OCTYLDODECANOL ESTERS, C12-15 ALKYL BENZOATE, DIISOPROPYL SEBACATE, ALOE BARBADENSIS LEAF JUICE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, OCTADECENE, METHYL METHACRYLATE CROSSPOLYMER, GLYCERYL STEARATE, ORYZA SATIVA BRAN OIL, LYCOPENE, XANTHOPHYLL, HYALURONIC ACID, ARGANIA SPINOSA KERNEL OIL, PANTHENOL, TOCOPHERYL ACETATE, POLYHYDROXYSTEARIC ACID, SODIUM SULFITE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE)",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/a99d4437023f668e642637eb195a9983.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 3100,
+      "max": 3100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-003",
+    "brand": "ARVEA",
+    "name": "Beurre Royal",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/82d4b6166d027703071300fd7e4b369b.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-003",
+    "brand": "ARVEA",
+    "name": "Shea Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, ILLITE, PARFUM, PRUNUS AMYGDALUS DULCIS OIL, BUTYROSPERMUM PARKII BUTTER, SODIUM CHLORIDE, GLYCERIN, PALM KERNEL ACID, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6614b0aa65e5919d91b2c0a7a14c06c3.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SUN-ARV-002",
+    "brand": "ARVEA",
+    "name": "Ecran Solaire Invisible Spf 50 Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, DIBUTYL ADIPATE, C12-15 ALKYL BENZOATE,LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, GLYCERIN, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, QUATERNIUM-18 HECTORITE, PEG-10 DIMETHICONE, ALUMINUM HYDROXIDE, PEG-30 DIPOLYHYDROXYSTEARATE, METHYL METHACRYLATE CROSSPOLYMER, BIS- ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, MICA, HYDROGEN DIMETHICONE, SODIUM CHLORIDE, ALOE BARBADENSIS LEAF JUICE, SILICA, ALCOHOL, PANTHENOL, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e027da05968baf41dc91708586ff41b3.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 3600,
+      "max": 3600,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-004",
+    "brand": "ARVEA",
+    "name": "Roll On Soft Sensation",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b3edbafd0d025393930acd755aa3e346.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-004",
+    "brand": "ARVEA",
+    "name": "Very Dry And Damaged Feet Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, C12-15 ALKYL BENZOATE, CAPRYLIC/CAPRIC TRIGLYCERIDE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/711d7f1495d7ade7eeab627d09550a29.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "TN-LOT-ARV-005",
+    "brand": "ARVEA",
+    "name": "Slimming Gel",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL, GLYCERIN, PROPYLENE GLYCOL, POLYSORBATE 20, CYCLOPENTASILOXANE, ALOEBARBADENSIS LEAF JUICE, MENTHYL LACTATE, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE ,SODIUM DILAURAMIDOGLUTAMIDE LYSINE, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE 85, PARAFFINUMLIQUIDUM, CARBOMER, SODIUM HYDROXIDE, FUCUS VESICULOSUS EXTRACT, CAMELIA SINENSIS LEAF EXTRACT,HEDERA HELIX LEAF EXTRACT, AESCULUS HYPPOCASTANUM SEED EXTRACT, CENTELLA ASIATICA EXTRACT,PANTHENOL, CAFFEINE, LAMINARIA DIGITATA EXTRACT, PHENOXYETHANOL, ETHYLHEYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/fdcf91cfe235acb76eb7a8824e0ac087.webp",
+    "marketingClaims": [
+      "إزالة السيلوليت",
+      "شد الجسم"
+    ],
+    "price": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-ORE-ARV-001",
+    "brand": "ARVEA",
+    "name": "Oil Replacement",
+    "country": "Tunisia",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, CYCLOPENTASILOXANE, BEHENTRIMONIUM METHOSULFATE, GLYCERIN, BUTYROSPERMUM PARKII BUTTER, PRUNUS AMYGDALUS DULCIS OIL, POLYSORBATE-80, AMODIMETHICONE, CETRIMONIUM CHLORIDE, PANTHENOL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROXYPROPYLMETHYL CELLULOSE, CELLULOSE, TRIDECETH-12, ARGANIA SPINOSA KERNEL OIL, POLYQUATERNIUM-37, DICAPRYLYL CARBONATE, LAURYL GLUCOSIDE, CITRIC ACID, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6fc3557b46493d8ef033e08c13841e65.webp",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": {
+      "min": 1400,
+      "max": 1400,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-CLE-ARV-001",
+    "brand": "ARVEA",
+    "name": "Cleansing Foam Hydra Deep Dry And Sensitive Skin",
+    "country": "Tunisia",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, ALOE BARBADENSIS LEAF JUICE, UREA, BETAINE, GLYCERINE, CAPRYLYL/CAPRYL GLUCOSIDE, NIACINAMIDE, SODIUM LAUROYL SARCOSINATE, COCO-BETAINE, PANTHENOL, ARGAN OIL GLYCERETH-8 ESTERS, OLIVE OIL POLYGLYCERYL-4 ESTERS, SHEA BUTTER GLYCERETH-8 ESTERS, TETRASODIUM EDTA, CITRIC ACID, BENZYL ALCOHOL, GLYCERYL CAPRYLATE, GLYCERYL UNDECYLENATE, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/9d6dd6e12a967703b3584d25e93264ef.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
+    ],
+    "price": {
+      "min": 2400,
+      "max": 2400,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TN-SSE-ARV-001",
+    "brand": "ARVEA",
+    "name": "Serum Visage Hydra Deep Tous Types De Peaux",
+    "country": "Tunisia",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, BUTYLENE GLYCOL, SORBITOL, ISOPENTYLDIOL, PROPANEDIOL, HYDROLYZED GLYCOSAMINOGLYCANS,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/153bc028d97d17d201e554ab4395f1a8.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 5400,
+      "max": 5400,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-HMA-ARV-001",
+    "brand": "ARVEA",
+    "name": "Care And Repair Sulfate Free Mask",
+    "country": "Tunisia",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, BEHENTRIMONIUM CHLORIDE, DICAPRYLYL CARBONATE, CETYL ALCOHOL, ALOE BARBADENSIS LEAF JUICE, PANTHENOL, POLYQUATERNIUM-37, GLYCERIN, CETRIMONIUM CHLORIDE, POLYQUATERNIUM-39, ARGANIA SPINOSA KERNEL OIL, PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE, TETRASODIUM EDTA, TRIDECETH-6, HYDROLYZED KERATIN, HYDROLYZED COLLAGEN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, CITRIC ACID, PARFUM, HEXYL CINNAMAL, LIMONENE, LINALOOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/21f37a0cc0e351e48a7c6e6671775a03.webp",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1850,
+      "max": 1850,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-005",
+    "brand": "ARVEA",
+    "name": "Roll On Recharge Vanilla",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, PPG-15 STEARYL ETHER, ALOE BARBADENSIS LEAF JUICE, POTASSIUM ALUM, POLYGLYCERYL-6 STEARATE, POLYGLYCERYL-6 BEHENATE, GLYCERIN, GLYCERYL OLEATE, C18-22 HYDROXYALKYL HYDROXYPROPYL GUAR, HEXYLENE GLYCOL, CAPRYLOYL GLYCINE, XYLITYLGLUCOSIDE, SILICA, SILVER CITRATE, TETRASODIUM EDTA, CETEARYL ALCOHOL, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, CITRIC ACID, PARFUM, COUMARIN, LIMONENE, ANISE ALCOHOL, LINALOOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/bc953439a439cd758d466b680df1a0d9.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-HMA-ARV-002",
+    "brand": "ARVEA",
+    "name": "Masque Sans Sulfate",
+    "country": "Tunisia",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, CITRIC ACID, PARFUM, HEXYL CINNAMAL, LIMONENE, LINALOOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/21f37a0cc0e351e48a7c6e6671775a03.webp",
+    "marketingClaims": [
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1850,
+      "max": 1850,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-006",
+    "brand": "ARVEA",
+    "name": "Aloe Vera Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, ILLITE, PARFUM, ALOE BARBADENSIS LEAF JUICE, SODIUM CHLORIDE, GLYCERIN, PALM KERNEL ACID, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA, COUMARIN, BENZYL BENZOATE, GERANIOL, LINALOOL, CITRONELLOL, EUGENOL, LIMONENE, CINNAMAL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/f6b88eb21fb9022356f824060c74bfa2.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SUN-ARV-003",
+    "brand": "ARVEA",
+    "name": "Invisible Sunscreen Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, DIMETHICONE, CYCLOPENTASILOXANE, TITANIUM DIOXIDE [NANO], ETHYLHEXYL METHOXYCINNAMATE, ETHYLHEXYL SALICYLATE, DIBUTYL ADIPATE, C12-15 ALKYL BENZOATE, LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, GLYCERIN, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, QUATERNIUM-18 HECTORITE, PEG-10 DIMETHICONE, ALUMINUM HYDROXIDE, PEG-30 DIPOLYHYDROXYSTEARATE, METHYL METHACRYLATE CROSSPOLYMER, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, MICA, HYDROGEN DIMETHICONE, SODIUM CHLORIDE, ALOE BARBADENSIS LEAF JUICE, SILICA, ALCOHOL, PANTHENOL, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e027da05968baf41dc91708586ff41b3.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 3600,
+      "max": 3600,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-007",
+    "brand": "ARVEA",
+    "name": "Roll On Miracle",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/3c801f68556e87001984504f95d247c7.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-008",
+    "brand": "ARVEA",
+    "name": "Spirulina",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/239ab82375fb0cc51f0ea90957af79bc.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-HSE-ARV-001",
+    "brand": "ARVEA",
+    "name": "Protective Hair Oil Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "ISODODECANE, ETHYLHEXYL METHOXYCINNAMATE, TRICAPRYLIN, ISOPROPYL MYRISTATE, C12-15 ALKYL BENZOATE, SESAMUM INDICUM SEED OIL, DIISOPROPYL SEBACATE, DIBUTYL ADIPATE, RICINUS COMMUNIS SEED OIL, QUATERNIUM-95, ARGANIA SPINOSA KERNEL OIL, HELIANTHUS ANNUUS SEED OIL, BUTYROSPERMUM PARKII BUTTER, PROPANEDIOL, POLYHYDROXYSTEARIC ACID, ALOE BARBADENSIS POWDER, TOCOPHEROL, BHT, PARFUM, HEXYL CINNAMAL, BENZYL ALCOHOL, LINALOOL, LIMONENE, CINNAMYL ALCOHOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/725504bdc8635617d7d10b2a932bdc2b.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية من الحرارة",
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-001",
+    "brand": "ARVEA",
+    "name": "Anti Dandruff Shampoo",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), SODIUM LAURETH SULFATE, ALOE BARBADENSIS LEAF JUICE, MAGNESIUM LAURETH SULFATE, SODIUM CHLORIDE, PIROCTONE OLAMINE, GLYCERIN, COCAMIDE DEA, PANTHENOL, OLEA EUROPAEA (OLIVE) LEAF EXTRACT, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, ARGININE, SALICYLIC ACID, BABASSU OIL GLYCERETH-8 ESTERS, ARGANIA SPINOSA KERNEL OIL, PROPYLENE GLYCOL, GLYCERYL OLEATE, HYDROGENATED VEGETABLE OIL, COCO-GLUCOSIDE, SODIUM XYLENESULFONATE, MENTHYL LACTATE, XANTHAN GUM, EUCALYPTUS GLOBULUS LEAF OIL, COCAMIDOPROPYL BETAINE, UNDECYLENIC ACID, GLYCOL DISTEARATE, POLYSORBATE 20, BIS-DIISOPROPANOLAMINO-PG-PROPYL DISILOXANE/BIS-VINYL DIMETHICONE COPOLYMER, CARBOMER, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-10, PEG-7 GLYCERYL COCOATE, LAURETH-4, PEG-90M, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), CITRAL, LINALOOL, TERPINEOL, HEXYL CINNAMAL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b3ae188337e57f3e5816c1794b9b586b.webp",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنقية فروة الرأس",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SUN-ARV-004",
+    "brand": "ARVEA",
+    "name": "Fluide Solaire Invisible Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ETHYLHEXYL METHOXYCINNAMATE, DIMETHICONE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL SALICYLATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, POTASSIUM CETYL PHOSPHATE, DIBUTYL ADIPATE, ETHYLHEXYL TRIAZONE, STEARYL DIMETHICONE, DIGLYCERIN, CETYL DIMETHICONE , MALEATED SOYBEAN OIL GLYCERYL/OCTYLDODECANOL ESTERS, C12-15 ALKYL BENZOATE, DIISOPROPYL SEBACATE, ALOE BARBADENSIS LEAF JUICE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, OCTADECENE, METHYL METHACRYLATE CROSSPOLYMER, GLYCERYL STEARATE, ORYZA SATIVA BRAN OIL, LYCOPENE, XANTHOPHYLL, HYALURONIC ACID, ARGANIA SPINOSA KERNEL OIL, PANTHENOL, TOCOPHERYL ACETATE, POLYHYDROXYSTEARIC ACID, SODIUM SULFITE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/a99d4437023f668e642637eb195a9983.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 3100,
+      "max": 3100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SCR-ARV-001",
+    "brand": "ARVEA",
+    "name": "Black Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "POTASSIUM OLIVATE, AQUA, GLYCERIN, PARFUM, OLEA EUROPAEA FRUIT OIL, LIMONENE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/0cf3f140243fc4c8823ddf6c2cea6196.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-009",
+    "brand": "ARVEA",
+    "name": "Roll On Vanille",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/40797f6264d7f814ed837a9b0ed88446.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-010",
+    "brand": "ARVEA",
+    "name": "Roll On Recharge Ocean",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/53ec03d540b8df4c2e60acc8f47c2194.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-011",
+    "brand": "ARVEA",
+    "name": "Argan Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, ARGANIA SPINOSA KERNEL OIL, PARFUM, SODIUM CHLORIDE, GLYCERIN, PALM KERNEL ACID, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/2ad44802977ddf96016f477cac74ca53.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-006",
+    "brand": "ARVEA",
+    "name": "Face Cream Hydra Deep Dry And Sensitive Skin",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AGNESIUM ASCORBYL PHOSPHATE, BIOSACCHARIDE GUM-4, HYDROGENATED RAPESEED OIL, BETAINE, POLYACRYLATE CROSSPOLYMER-6, TOCOPHERYL ACETATE, PYRUS MALUS FRUIT EXTRACT, ROSA GALLICA FLOWER EXTRACT, MANNITOL, HYALURONIC ACID, TETRASODIUM EDTA, HECTORITE, SODIUM ASCORBYL PHOSPHATE, PHOSPHATIDYLCHOLINE, CHOLESTEROL, RETINYL PALMITATE, XANTHAN GUM, SODIUM CHLORIDE, HYDROXYETHYLCELLULOSE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/665ad78e78d38b37308a23d2b6005fb0.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
+    ],
+    "price": {
+      "min": 3450,
+      "max": 3450,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TN-SUN-ARV-005",
+    "brand": "ARVEA",
+    "name": "Invisible Sunscreen Lotion Spf 50 Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, C12-15 ALKYL BENZOATE, GLYCERIN, ETHYLHEXYL METHOXYCINNAMATE, ALOE BARBADENSIS LEAF JUICE, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL SALICYLATE, POTASSIUM CETYL PHOSPHATE, DIBUTYL ADIPATE, CYCLOPENTASILOXANE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL, METHYL METHACRYLATE CROSSPOLYMER, GLYCERYL STEARATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, MONOPROPYLENE GLYCOL, SODIUM POLYACRYLATE, C13-14 ISOPARAFFIN, PANTHENOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, LAURETH-7, PHENOXYETHANOL, TRIETHANOLAMINE, TOCOPHERYL ACETATE, ETHYLHEXYLGLYCERIN, PARFUM, HEXYL CINNAMAL, LINALOOL, BENZYL SALICYLATE, LIMONENE, BENZYL BENZOATE, ALPHA-ISOMETHYL IONONE, CITRONELLOL, COUMARIN, EUGENOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/ea025166649a720c2ec9e10fb2534d8a.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 4150,
+      "max": 4150,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-007",
+    "brand": "ARVEA",
+    "name": "Mens Day Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, C12-15 ALKYL BENZOATE, GLYCERIN, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYLMETHOXYCINNAMATE, BUTHYLENE GLYCOL, CETYL ALCOHOL, OCTOCRYLENE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL GLUCOSIDE, ACRYLATES/ETHYLHEXYL ACRYLATE CROSSPOLYMER, ALOE BARBADENSIS LEAF JUICE, PANTHENOL, GLYCERYL STEARATE, DIMETHICONE, PEG-100 STEARATE, CARBOMER, TOCOPHERYL ACETATE, ARGANIASPINOSA KERNEL OIL, MAYTENUS MACROCARPA BARK EXTRACT, POLYSORBATE 20, ROSA GALLICA FLOWER EXTRACT, HYDROXYETHYLCELLULOSE, PHENOXYETHANOL, PROPYLENE GLYCOL, TETRASODIUM EDTA, ETYLHEXYLGLYCERIN, HECTORITE, PARFUME",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/be5835fff55e55dc36537699ce53d2a9.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": {
+      "min": 1900,
+      "max": 1900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-012",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Soft Sensation",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/8344cd259529ec8e8e0bba02770d644c.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-002",
+    "brand": "ARVEA",
+    "name": "Care And Repair Sulfate Free Shampoo",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM COCOYL ISETHIONATE, DISODIUM LAURETH SULFOSUCCINATE, TEA-COCOYL GLUTAMATE, COCAMIDOPROPYL BETAINE, COCO-BETAINE, SHEA BUTTER POLYGLYCERYL-4 ESTERS, COCOYL METHYL GLUCAMIDE, GLYCERIN, ARGAN OIL POLYGLYCERYL-6 ESTERS, HYDROLYZED WHEAT PROTEIN, HYDROLYZED KERATIN, HYDROLYZED COLLAGEN, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ACRYLAMIDE COPOLYMER, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, TETRASODIUM EDTA, PANTHENOL, ALOE BARBASENSIS LEAF JUICE, SODIUM BENZOATE, SODIUM CITRATE, PEG-120 METHYL GLUCOSE DIOLEATE, CITRIC ACID, PARFUM, HEXYL CINNAMAL, LIMONENE, LINALOOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/97cf217d65547ea311892dd00ec0de7a.webp",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 1790,
+      "max": 1790,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-008",
+    "brand": "ARVEA",
+    "name": "Creme Mains Ocean Bloom",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, TRICAPRYLIN, CETEARYL ALCOHOL, ISOPROPYL MYRISTATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/40512ce0656f5027600f533b7d03cdad.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-009",
+    "brand": "ARVEA",
+    "name": "Body Lotion Crunchy Caramel 150 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, PROPYLENE GLYCOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, TRICAPRYLIN, TRIHEPTANOIN, ALOE BARBADENSIS LEAF JUICE, ARGANIA SPINOSA KERNEL OIL, HYDROXYPROPYL METHYLCELLULOSE STEAROXY ETHER, BUTYLENE GLYCOL, CELLULOSE, CAESALPINIA SPINOSA GUM, SODIUM POLYACRYLATE STARCH, PHENOXYETHANOL, TETRASODIUM EDTA, TRIETHANOLAMINE, ETHYLHEXYLGLYCERIN, PARFUM, BENZYL SALICYLATE, LIMONENE, LINALOOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/322e0bb82dd3bfd641d3f004d1a1d3af.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-HMA-ARV-003",
+    "brand": "ARVEA",
+    "name": "Masque Cheveux",
+    "country": "Tunisia",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), ALOE BARBADENSIS LEAF JUICE, CETRIMONIUM CHLORIDE, CETEARYL ALCOHOL, CETYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, ARGANIA SPINOSA SEED OIL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, GLYCERIN, HYDROLYZED KERATIN, ISOPROPYL MYRISTATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, DICAPRYLYL CARBONATE, CETEARETH-20, POLYQUATERNIUM-37, LAURYL GLUCOSIDE, CITRIC ACID, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, BENZYL SALICYLATE, HEXAMETHYLINDANOPYRAN, BENZYL ALCOHOL, HEXYL CINNAMAL, GERANYL ACETATE, TERPINEOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/514f4163463995c7cc06d9d0c8c80408.webp",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1350,
+      "max": 1350,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-013",
+    "brand": "ARVEA",
+    "name": "Savon Aloe Vera",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "COUMARIN, BENZYL BENZOATE, GERANIOL, LINALOOL, CITRONELLOL, EUGENOL, LIMONENE, CINNAMAL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/f6b88eb21fb9022356f824060c74bfa2.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-014",
+    "brand": "ARVEA",
+    "name": "Roll On Recharge Soft Sensation",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/8344cd259529ec8e8e0bba02770d644c.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-010",
+    "brand": "ARVEA",
+    "name": "Creme Mains Oriental Bloom",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, TRICAPRYLIN, CETEARYL ALCOHOL, ISOPROPYL MYRISTATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/1c51733513ff3b10d5437743391019df.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-015",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Fresh Sensation",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e278e25ceb5f86db2e94590ae3fbfffa.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OIB-ARV-001",
+    "brand": "ARVEA",
+    "name": "Huile Dargan 30 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Très nourrissante, elle contribue à prévenir le dessèchement de la peau, l’apparition des rides, de la cellulite, des vergetures et des pattes d’oie. Elle combat aussi les signes du vieillissement cutané en activant la régénération cellulaire",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c99fa7fdf1540611db8f733d2e7882a7.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "إزالة السيلوليت",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2800,
+      "max": 2800,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-016",
+    "brand": "ARVEA",
+    "name": "Roll On Fresh Sensation",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/15f08740f8cd652c5f802931776ea667.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-HSE-ARV-002",
+    "brand": "ARVEA",
+    "name": "Huile Protectrice Cheveux Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "PROPANEDIOL, POLYHYDROXYSTEARIC ACID, ALOE BARBADENSIS POWDER, TOCOPHEROL, BHT, PARFUM, HEXYL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/725504bdc8635617d7d10b2a932bdc2b.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية من الحرارة"
+    ],
+    "price": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-017",
+    "brand": "ARVEA",
+    "name": "Anti Moustiques",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "CITRONELLOL, LIMONENE, GERANIOL, LINALOOL, CITRAL, EUGENOL, FARNESOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/356007c02dc9af522fc8eb77dbfbcf43.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 800,
+      "max": 800,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-018",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Agrumes",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SILICA, SILVER CITRATE, TETRASODIUM EDTA, CETEARYL ALCOHOL, PHENOXYETHANOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/27df94389d2aeb3c2abf36361531dc2c.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-019",
+    "brand": "ARVEA",
+    "name": "Roll On Citrus With Refill",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "GLYCOL, CAPRYLOYL GLYCINE, XYLITYLGLUCOSIDE, SILICA, SILVER CITRATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/99ec2a761077460ed0d2ddef8fa38c70.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-011",
+    "brand": "ARVEA",
+    "name": "Lait Corps Crunchy Caramel",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "STARCH, PHENOXYETHANOL, TETRASODIUM EDTA, TRIETHANOLAMINE, ETHYLHEXYLGLYCERIN, PARFUM, BENZYL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/322e0bb82dd3bfd641d3f004d1a1d3af.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-012",
+    "brand": "ARVEA",
+    "name": "Creme Apaisante 100 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "AQUA, METHYL SALICYLATE, OCTYLDODECANOL, C12-15 ALKYL BENZOATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, ARGANIA SPINOSA KERNEL OIL, GLYCERIN, PROPYLENE GLYCOL, GLYCERYL STEARATE, CETEARETH-20, STEARIC ACID, TOCOPHERYL ACETATE, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ROSMARINUS OFFICINALIS LEAF OIL, MENTHOL, EUCALYPTUS GLOBULUS LEAF OIL, LAVANDULA ANGUSTIFOLIA OIL, ALOE BARBADENSIS LEAF JUICE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/3f7d946b2357d974e93c52fd63ec44ca.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-013",
+    "brand": "ARVEA",
+    "name": "Lait Corps Sweet Carambola",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "STARCH, PHENOXYETHANOL, TETRASODIUM EDTA, TRIETHANOLAMINE, ETHYLHEXYLGLYCERIN, PARFUM, BENZYL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/d419ac5167f8c5198250ff3d08bae50a.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-003",
+    "brand": "ARVEA",
+    "name": "Shampooing Cheveux Gras",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, DISODIUM PEG-8 PALM GLYCERIDES SULFOSUCCINATE, PROPYLENE GLYCOL, GLYCOL DISTEARATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLYCERIN, POLYQUATERNIUM-10, PANTHENOL, CITRUS LIMON FRUIT EXTRACT, URTICA DIOICA EXTRACT, ARCTIUM LAPPA ROOT EXTRACT, LAVANDULA ANGUSTIFOLIA FLOWER EXTRACT, TARAXACUM OFFICINALE ROOT EXTRACT, PLANTAGO MAJOR LEAF EXTRACT, PAPAVER RHOEAS FLOWER EXTRACT, CYNARA SCOLYMUS LEAF EXTRACT, ROSA CENTIFOLIA FLOWER EXTRACT, ALOE BARBADENSIS LEAF JUICE, BENZYL ALCOHOL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/d14918d4d6b96769bbc1efce0ef4e6f7.webp",
+    "marketingClaims": [
+      "مخصص للشعر الدهني",
+      "توازن الدهون والزيوت"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "TN-LOT-ARV-014",
+    "brand": "ARVEA",
+    "name": "Miracle Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, GLYCERIN, VITIS VINIFERA SEED OIL, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII BUTTER, OCTYLDODECANOL, C12-15 ALKYL BENZOATE, GLYCERYL STEARATE, STEARIC ACID, CYLOPENTASILOXANE, CETEARETH-20, POTASSIUM CETYL PHOSPHATE, POLYSORBATE 20, TOCOPHERYL ACETATE, ACRYLATES/ ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ALLANTOIN, PANTHENOL, CHAMOMILLA RECUTITA FLOWEREXTRACT, ARGANIA SPINOSA KERNEL OIL, CALENDULA OFFICINALIS FLOWER EXTRACT, DIMETHICONE,PHENOXYETHANOL, CARBOMER, TRIETHANOLAMINE, TETRASODIUM EDTA, ETHYLHEXYLGLYCERIN,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6f9e4fb05706a9f0e53b6dd7d7278c05.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 2100,
+      "max": 2100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OIB-ARV-002",
+    "brand": "ARVEA",
+    "name": "Argan Oil 30 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Highly nourishing, it helps prevent skin dryness, wrinkles, cellulite, stretch marks and crow's feet",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c99fa7fdf1540611db8f733d2e7882a7.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "إزالة السيلوليت"
+    ],
+    "price": {
+      "min": 2800,
+      "max": 2800,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-015",
+    "brand": "ARVEA",
+    "name": "Push Up Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, C12-15 ALKYL BENZOATE, GLYCERIN, CETEARYL ALCOHOL,CYCLOPENTASILOXANE, HYDROGENATED POLYISOBUTENE, PEG-100 STEARATE, GLYCERYL STEARATE, PROPYLENEGLYCOL, STEARIC ACID, POLYSORBATE 80, ANEMARRHENA ASPHODELOIDES ROOT EXTRACT, BUTYROSPERMUM PARKIIBUTTER, OPUNTIA FICUS-INDICA SEED OIL, ALLANTOIN, GLYCERYL POLYMETHACRYLATE, PALMITOYL OLIGOPEPTIDE,TOCOPHERYL ACETATE, PERSEA GRATISSIMA OIL, PANTHENOL, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE85, ARGANIA SPINOSA KERNEL OIL, VITIS VINIFERA SEED OIL, DIMETHICONE, TETRASODIUM EDTA, RETINYL ACETATE,PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PERFUME",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/250066eb4e70ea4c6609b29ed880d6f7.webp",
+    "marketingClaims": [
+      "شد الجسم",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2850,
+      "max": 2850,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-020",
+    "brand": "ARVEA",
+    "name": "Roll On Ocean",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6364284e39731d4904018a5f061748b0.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-021",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Vanille",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/bc953439a439cd758d466b680df1a0d9.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-022",
+    "brand": "ARVEA",
+    "name": "Appetit Control",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/48c8a2a09839a36e9a4a959997c04b7a.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 2250,
+      "max": 2250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-016",
+    "brand": "ARVEA",
+    "name": "Anti Dark Spot Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "POLYSORBATE 80, DIMETHICONE, OPUNTIA FICUS-INDICA SEED OIL, NIACINAMIDE, RETINYL ACETATE, PANTHENOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/4016b2299bc5d9cb2a063e81f457a863.webp",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": {
+      "min": 3450,
+      "max": 3450,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-023",
+    "brand": "ARVEA",
+    "name": "Roll On Vanilla",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/40797f6264d7f814ed837a9b0ed88446.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-017",
+    "brand": "ARVEA",
+    "name": "Hand Cream Oriental Bloom",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, TRICAPRYLIN, CETEARYL ALCOHOL, ISOPROPYL MYRISTATE, BUTYROSPERMUM PARKII BUTTER, DICAPRYLYL CARBONATE, SODIUM POLYACRYLATE, ALOE BARBADENSIS LEAF JUICE, BIS-DIGLYCERYL POLYACYLADIPATE-2, VITIS VINIFERA SEED OIL, PRUNUS AMYGDALUS DULCIS OIL, PENTAERYTHRITYL DISTEARATE, DISODIUM CETEARYL SULFOSUCCINATE, PANTHENOL, ARGANIA SPINOSA KERNEL OIL, TOCOPHERYL ACETATE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, HEXYL CINNAMAL, LINALOOL, BENZYL SALICYLATE, COUMARIN, LIMONENE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/1c51733513ff3b10d5437743391019df.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-004",
+    "brand": "ARVEA",
+    "name": "Shampooing Anti Chute",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), MAGNESIUM LAURETH SULFATE, ALOE BARBADENSIS LEAF JUICE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, COCAMIDOPROPYL BETAINE, SODIUM COCOYL ISETHIONATE, BETAINE, NIACINAMIDE, BIOTIN, PANTHENOL, ZINC PCA, COCO-GLUCOSIDE, HYDROLYZED RICE PROTEIN, GLYCERYL OLEATE, HYDROLYZED GLYCOSAMINOGLYCANS, DEXTRAN, ACETYL TETRAPEPTIDE-3, TRIFOLIUM PRATENSE (CLOVER) FLOWER EXTRACT, HYALURONIC ACID, BUTYLENE GLYCOL, CITRIC ACID, XANTHAN GUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, BIS-DIISOPROPANOLAMINO-PG-PROPYL DISILOXANE/BIS-VINYL DIMETHICONE COPOLYMER, ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ACRYLAMIDE COPOLYMER, PPG-2 HYDROXYETHYL COCAMIDE, PEG-90M, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), TERPINEOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/15bdee0c5f9277491257f08e4fc91905.webp",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-018",
+    "brand": "ARVEA",
+    "name": "Hand Cream Ocean Bloom",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, TRICAPRYLIN, CETEARYL ALCOHOL, ISOPROPYL MYRISTATE, BUTYROSPERMUM PARKII BUTTER, DICAPRYLYL CARBONATE, SODIUM POLYACRYLATE, ALOE BARBADENSIS LEAF JUICE, BIS-DIGLYCERYL POLYACYLADIPATE-2, VITIS VINIFERA SEED OIL, PRUNUS AMYGDALUS DULCIS OIL, PENTAERYTHRITYL DISTEARATE, DISODIUM CETEARYL SULFOSUCCINATE, PANTHENOL, ARGANIA SPINOSA KERNEL OIL, TOCOPHERYL ACETATE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, HEXYL CINNAMAL, CITRONELLOL, BENZYL CINNAMATE, EUGENOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/40512ce0656f5027600f533b7d03cdad.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-024",
+    "brand": "ARVEA",
+    "name": "Gel Dentaire",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "ALOE BARBADENSIS LEAF EXTRACT, SORBITOL, AQUA, SILICA, GLYCERIN, SODIUM LAURYL SULFATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/f114cee9766d74cb310f72d4483a8a66.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1250,
+      "max": 1250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-019",
+    "brand": "ARVEA",
+    "name": "Creme De Jour Men",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, C12-15 ALKYL BENZOATE, GLYCERIN, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL METHOXYCINNAMATE, BUTHYLENE GLYCOL, CETYL ALCOHOL, OCTOCRYLENE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL GLUCOSIDE, ACRYLATES/ETHYLHEXYL ACRYLATE CROSSPOLYMER , ALOE BARBADENSIS LEAF JUICE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/be5835fff55e55dc36537699ce53d2a9.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": {
+      "min": 1900,
+      "max": 1900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-020",
+    "brand": "ARVEA",
+    "name": "Pain Relief Cream 200 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "AQUA, METHYL SALICYLATE, OCTYLDODECANOL, C12-15 ALKYL BENZOATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, ARGANIA SPINOSA KERNEL OIL, GLYCERIN, PROPYLENE GLYCOL, GLYCERYL STEARATE, CETEARETH-20, STEARIC ACID, TOCOPHERYL ACETATE, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ROSMARINUS OFFICINALIS LEAF OIL, MENTHOL, EUCALYPTUS GLOBULUS LEAF OIL, LAVANDULA ANGUSTIFOLIA OIL, ALOE BARBADENSIS LEAF JUICE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/ae855016ae8d871b82a9dfc563be6644.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": {
+      "min": 2150,
+      "max": 2150,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-025",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Agrumes Eco",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "GLYCOL, CAPRYLOYL GLYCINE, XYLITYLGLUCOSIDE, SILICA, SILVER CITRATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/27df94389d2aeb3c2abf36361531dc2c.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-021",
+    "brand": "ARVEA",
+    "name": "Night Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, GLYCERIN, CETEARYL ALCOHOL, C12-15 ALKYL BENZOATE, CAPRYLIC-CAPRICTRIGLYCERIDE, VITIS VINIFERA SEED OIL, BUTYROSPERMUM PARKII BUTTER, GLYCERYL STEARATE, PEG-100 STEARATE, PROPYLENE GLYCOL, STEARIC ACID, PERSEA GRATISSIMA OIL, ARGANIA SPINOSA KERNEL OIL, OPUNTIA FICUS INDICASEED OIL, POLYSORBATE 80, ALLANTOIN, TOCOPHERYL ACETATE, PANTHENOL, ACRYLATES/ACRYLAMIDE COPOLYMER,POLYSORBATE 85, DIMETHICONE, CYCLOPENTASILOXANE, TETRASODIUM EDTA, RETINYL ACETATE, EUCALYPTUSGLOBULUS LEAF OIL, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PERFUME",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b872722f1508199a69eb93a0a661d9e0.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": {
+      "min": 2750,
+      "max": 2750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-026",
+    "brand": "ARVEA",
+    "name": "Slimy 3",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Nopal (200 mg), Thé vert (25 mg), Guarana (20 mg), Queue de cerise (20 mg), Cellulose microcristalline (QSP)",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6553710087f2f0d4c1db6e3c303d96cf.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 2750,
+      "max": 2750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-027",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Miracle",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c74baf41ec373aa28259267e08d862a3.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-028",
+    "brand": "ARVEA",
+    "name": "Wellness Sleep And Zen",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b24d32032a38ba92df4952433567decd.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-022",
+    "brand": "ARVEA",
+    "name": "Body Lotion Sweet Carombola 150 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, PROPYLENE GLYCOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, TRICAPRYLIN, TRIHEPTANOIN, ALOE BARBADENSIS LEAF JUICE, ARGANIA SPINOSA KERNEL OIL, HYDROXYPROPYL METHYLCELLULOSE STEAROXY ETHER, BUTYLENE GLYCOL, CELLULOSE, CAESALPINIA SPINOSA GUM, SODIUM POLYACRYLATE STARCH, PHENOXYETHANOL, TETRASODIUM EDTA, TRIETHANOLAMINE, ETHYLHEXYLGLYCERIN, PARFUM, BENZYL SALICYLATE, LINALOOL, HEXYL CINNAMAL, LIMONENE, BENZYL ALCOHOL, ALPHA-ISOMETHYL IONONE, HYDROXYCITRONELLAL, CITRONELLOL, BENZYL BENZOATE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/d419ac5167f8c5198250ff3d08bae50a.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-023",
+    "brand": "ARVEA",
+    "name": "Creme Apaisante 200 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "AQUA, METHYL SALICYLATE, OCTYLDODECANOL, C12-15 ALKYL BENZOATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, ARGANIA SPINOSA KERNEL OIL, GLYCERIN, PROPYLENE GLYCOL, GLYCERYL STEARATE, CETEARETH-20, STEARIC ACID, TOCOPHERYL ACETATE, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ROSMARINUS OFFICINALIS LEAF OIL, MENTHOL, EUCALYPTUS GLOBULUS LEAF OIL, LAVANDULA ANGUSTIFOLIA OIL, ALOE BARBADENSIS LEAF JUICE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/ae855016ae8d871b82a9dfc563be6644.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": {
+      "min": 2150,
+      "max": 2150,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-005",
+    "brand": "ARVEA",
+    "name": "Oily Hair Shampoo",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "This shampoo for oily hair, suitable for frequent use, purifies and removes excess oil from the scalp while maintaining its seborrheic balance. Its formula combines Aloe vera with ivy, burdock, and birch extracts, known for their sebum-regulating properties, to help control excess oil without damaging the hair fiber. Enriched with provitamin B5, it provides softness and hydration to prevent dryness along the lengths. Hair is left instantly clean, light, and supple, with an airy touch",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/d14918d4d6b96769bbc1efce0ef4e6f7.webp",
+    "marketingClaims": [
+      "مخصص للشعر الدهني",
+      "توازن الدهون والزيوت",
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "TN-BWA-ARV-001",
+    "brand": "ARVEA",
+    "name": "Gel Intime",
+    "country": "Tunisia",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "ACID, PELARGONIUM GRAVEOLENS FLOWER OIL, PANTHENOL, TETRASODIUM EDTA, PHENOXYETHANOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/d59499a11fbe32d21278dc9f5ca6ef02.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الحموضة"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-029",
+    "brand": "ARVEA",
+    "name": "Creme Coiffante Men",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL DENAT, ACRYLATES COPOLYMER, PROPYLENE GLYCOL, TRIETHANOLAMINE, VP/VA COPOLYMER, LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG-18/18 DIMETHICONE, PANTHENOL, ALOE BARBADENSIS LEAF JUICE, POLYACRYLATE CROSSPOLYMER-6, ARGANIA SPINOSA KERNEL OIL, STYRENE/ACRYLATES COPOLYMER, GLYCERIN, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/cd9a6c852df3b0d540d8cd7eef0ec610.webp",
+    "marketingClaims": [
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SCR-ARV-002",
+    "brand": "ARVEA",
+    "name": "Savon Noir",
+    "country": "Tunisia",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "POTASSIUM OLIVATE, AQUA, GLYCERIN, PARFUM, OLEA EUROPAEA FRUIT OIL, LIMONENE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/0cf3f140243fc4c8823ddf6c2cea6196.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 1550,
+      "max": 1550,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-030",
+    "brand": "ARVEA",
+    "name": "Soft Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, PARFUM, ROSA DAMASCENA FLOWER OIL, ZINGIBER OFFICINALE ROOT OIL, PUNICA GRANATUM SEED OIL, TRITICUM VULGARE BRAN, SODIUM CHLORIDE, GLYCERIN, PALM KERNEL ACID, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA, BENZYL ALCOHOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b4537a80b292b54a3e6b4b39b3c2a2f9.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 620,
+      "max": 620,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SCR-ARV-003",
+    "brand": "ARVEA",
+    "name": "Savon Miel Et Son De Ble",
+    "country": "Tunisia",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, PARFUM, ILLITE, MEL, ARGANIA SPINOSA KERNEL OIL, TRITICUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/179c54f4723d61c714233b16365a32b1.webp",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 620,
+      "max": 620,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SSE-ARV-002",
+    "brand": "ARVEA",
+    "name": "Face Serum Hydra Deep All Skin Types",
+    "country": "Tunisia",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, BUTYLENE GLYCOL, SORBITOL, ISOPENTYLDIOL, PROPANEDIOL, HYDROLYZED GLYCOSAMINOGLYCANS, GLYCERIN, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, HYALURONIC ACID, SODIUM HYALURONATE CROSSPOLYMER, BIOSACCHARIDE GUM-1, NIACINAMIDE, PANTHENOL, ASCORBYL GLUCOSIDE, HYDROLYZED COLLAGEN, BENZYL ALCOHOL, GLYCERYL CAPRYLATE, GLYCERYL UNDECYLENATE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/153bc028d97d17d201e554ab4395f1a8.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 5400,
+      "max": 5400,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-006",
+    "brand": "ARVEA",
+    "name": "Shampooing Sans Sulfate",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "BARBASENSIS LEAF JUICE, SODIUM BENZOATE, SODIUM CITRATE, PEG-120 METHYL GLUCOSE DIOLEATE, CITRIC ACID,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/97cf217d65547ea311892dd00ec0de7a.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 1790,
+      "max": 1790,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-CLE-ARV-002",
+    "brand": "ARVEA",
+    "name": "Cleansing Gel",
+    "country": "Tunisia",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, SODIUM LAURETH SULFATE, MAGNESIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, GLYCERIN, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, PEG-120 METHYL GLUCOSE DIOLEATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ACRYLAMIDE COPOLYMER, TETRASODIUM EDTA, TOCOPHERYL ACETATE, COCAMIDE DEA, SODIUM XYLENE SULFONATE, MENTHYL LACTATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/518131257c04849aa2f43f84965f50cb.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 1250,
+      "max": 1250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-024",
+    "brand": "ARVEA",
+    "name": "Creme Anti Taches",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "LINALOOL, LIMONENE, GERANIOL, ALPHA-ISOMETHYL IONONE, CITRONELLLOL, VANILLIN, GERANYL ACETATE, PINENE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/4016b2299bc5d9cb2a063e81f457a863.webp",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": {
+      "min": 3450,
+      "max": 3450,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-025",
+    "brand": "ARVEA",
+    "name": "Day Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, C12-15 ALKYL BENZOATE, BUTYROSPERMUM PARKII BUTTER, GLYCERYL STEARATE, CETEARETH-12, CETEARETH-20, DIBUTYL ADIPATE, ETHYLHEXYL METHOXYCINNAMATE, CETEARYL ALCOHOL, TITANIUM DIOXIDE, BUTYLMETHOXYDIBENZOYLMETHANE, CAPRYLIC/CAPRIC TRIGLYCERIDE, OCTOCRYLENE, CYCLOPENTASILOXANE, CETYLPALMITATE, PROPYLENE GLYCOL, ALOE BARBADENSIS LEAF JUICE, GLYCERIN, STEARIC ACID, PHENYLTRIMETHICONE,VITIS VINIFERA SEED OIL, DISTEARDIMONIUM HECTORITE, POTASSIUM CETYL PHOSPHATE, ARGANIA SPINOSA KERNELOIL, ALUMINA, ALLANTOIN, SILICA, PANTHENOL, DIMETHICONE, PHENOXYETHANOL, BUTYLENE GLYCOL, XANTHANGUM, TOCOPHERYL ACETATE, ETHYLHEXYLGLYCERIN, TETRASODIUM EDTA, CITRIC ACID, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/32cc54cd858ae332e9f13df9da9b62bc.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": {
+      "min": 2050,
+      "max": 2050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-031",
+    "brand": "ARVEA",
+    "name": "Mens Hair Styling Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL DENAT, ACRYLATES COPOLYMER, PROPYLENE GLYCOL, TRIETHANOLAMINE, VP/VA COPOLYMER, LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG-18/18 DIMETHICONE, PANTHENOL, ALOE BARBADENSIS LEAF JUICE, POLYACRYLATE CROSSPOLYMER-6, ARGANIA SPINOSA KERNEL OIL, STYRENE/ACRYLATES COPOLYMER, GLYCERIN, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/cd9a6c852df3b0d540d8cd7eef0ec610.webp",
+    "marketingClaims": [
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-026",
+    "brand": "ARVEA",
+    "name": "Creme Visage Hydra Deep Peaux Seches And Sensibles",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "CETEARYL ALCOHOL, GLYCERIN, NIACINAMIDE, PANTHENOL, BUTYROSPERMUM PARKII BUTTER, TRICAPRYLIN,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/665ad78e78d38b37308a23d2b6005fb0.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
+    ],
+    "price": {
+      "min": 3450,
+      "max": 3450,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TN-OTH-ARV-032",
+    "brand": "ARVEA",
+    "name": "Mosquito Repellent",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, PEG-40 HYDROGENATED CASTOR OIL, POLYSORBATE 80, PPG-26-BUTETH-26, TRIDECETH-9, CYMBOPOGON WINTERIANUS LEAF OIL, PELARGONIUM GRAVEOLENS OIL, EUCALYPTUS GLOBULUS LEAF OIL, OCIMUM BASILICUM OIL, CITRUS PARADISI M. PEEL OIL EXPRESSED, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, CITRONELLOL, LIMONENE, GERANIOL, LINALOOL, CITRAL, EUGENOL, FARNESOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/356007c02dc9af522fc8eb77dbfbcf43.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 800,
+      "max": 800,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-027",
+    "brand": "ARVEA",
+    "name": "Creme Apres Rasage",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "OIL, GLYCERIN, PROPYLENE GLYCOL, GLYCERYL STEARATE, CETEARETH-20, STEARIC ACID, TOCOPHERYL ACETATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/481c48548ab4e11008552fa533e11830.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 950,
+      "max": 950,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-028",
+    "brand": "ARVEA",
+    "name": "Pain Relief Cream 100 Ml",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "AQUA, METHYL SALICYLATE, OCTYLDODECANOL, C12-15 ALKYL BENZOATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, ARGANIA SPINOSA KERNEL OIL, GLYCERIN, PROPYLENE GLYCOL, GLYCERYL STEARATE, CETEARETH-20, STEARIC ACID, TOCOPHERYL ACETATE, ACRYLATES/ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ROSMARINUS OFFICINALIS LEAF OIL, MENTHOL, EUCALYPTUS GLOBULUS LEAF OIL, LAVANDULA ANGUSTIFOLIA OIL, ALOE BARBADENSIS LEAF JUICE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/3f7d946b2357d974e93c52fd63ec44ca.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-033",
+    "brand": "ARVEA",
+    "name": "Savon Miracle",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, PARFUM, VERBENA OFFICINALIS EXTRACT (2 %), OLEA EUROPAEA FRUIT OIL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/eb64df24a048ca33fdbca7e3a4bf6046.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-034",
+    "brand": "ARVEA",
+    "name": "Coupe Faim",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/48c8a2a09839a36e9a4a959997c04b7a.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 2250,
+      "max": 2250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-029",
+    "brand": "ARVEA",
+    "name": "Creme Mains Flower Bloom",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, TRICAPRYLIN, CETEARYL ALCOHOL, ISOPROPYL MYRISTATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/a8b9d6fe08081c0a2be4e26b5a180c1e.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-007",
+    "brand": "ARVEA",
+    "name": "Shampooing Anti Pelliculaire",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), SODIUM LAURETH SULFATE, ALOE BARBADENSIS LEAF JUICE, MAGNESIUM LAURETH SULFATE, SODIUM CHLORIDE, PIROCTONE OLAMINE, GLYCERIN, COCAMIDE DEA, PANTHENOL, OLEA EUROPAEA (OLIVE) LEAF EXTRACT, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, ARGININE, SALICYLIC ACID, BABASSU OIL GLYCERETH-8 ESTERS, ARGANIA SPINOSA KERNEL OIL, PROPYLENE GLYCOL, GLYCERYL OLEATE, HYDROGENATED VEGETABLE OIL, COCO-GLUCOSIDE, SODIUM XYLENESULFONATE, MENTHYL LACTATE, XANTHAN GUM, EUCALYPTUS GLOBULUS LEAF OIL, COCAMIDOPROPYL BETAINE, UNDECYLENIC ACID, GLYCOL DISTEARATE, POLYSORBATE 20, BIS-DIISOPROPANOLAMINO-PG-PROPYL DISILOXANE/BIS-VINYL DIMETHICONE COPOLYMER, CARBOMER, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-10, PEG-7 GLYCERYL COCOATE, LAURETH-4, PEG-90M, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), CITRAL, LINALOOL, TERPINEOL, HEXYL CINNAMAL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b3ae188337e57f3e5816c1794b9b586b.webp",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنقية فروة الرأس"
+    ],
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-035",
+    "brand": "ARVEA",
+    "name": "Recharge Roll On Ocean",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/53ec03d540b8df4c2e60acc8f47c2194.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-008",
+    "brand": "ARVEA",
+    "name": "Shampooing Cheveux Secs",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, ALOE BARBADENSIS LEAF JUICE, SODIUM PEG-7 OLIVE OIL CARBOXYLATE, GLYCERIN, OLIVE OIL PEG-7 ESTERS, COCO GLUCOSIDE, ARGAN OIL GLYCERETH-8 ESTERS, BABASSU OIL GLYCERETH-8 ESTERS, SAMBUCUS NIGRA FLOWER EXTRACT, ACHILLEA MILLEFOLIUM FLOWER EXTRACT, PRUNUS AMYGDALUS DULCIS SEED EXTRACT, PANTHENOL, BETAINE, HYDROLYZED WHEAT PROTEIN, HYDROLYZED WHEAT STARCH, HYDROGENATED VEGETABLE OIL, GLYCERYL OLEATE, XANTHAN GUM, SODIUM CHLORIDE, BIS-CETEARYL AMODIMETHICONE, POLYQUATERNIUM-10, CETEARETH-7, CETEARETH-25, POTASSIUM SORBATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), TERPINEOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c3312600c9404ed5fe668c3b1c6105f6.webp",
+    "marketingClaims": [
+      "مخصص للشعر الجاف",
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "TN-OIB-ARV-003",
+    "brand": "ARVEA",
+    "name": "Huile Seche Pailletee Instant Glow",
+    "country": "Tunisia",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": null,
+    "ingredients": "DIOXIDE, TIN OXIDE, IRON OXIDES, PARFUM, ALPHA-ISOMETHYL IONONE, LINALOOL, HEXYL CINNAMAL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/25d8600046d06563dc51af6f205cc44e.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تلميع ولمعان"
+    ],
+    "price": {
+      "min": 3100,
+      "max": 3100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-030",
+    "brand": "ARVEA",
+    "name": "After Shave Cream",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "40 HYDROGENATED CASTOR OIL, GLYCERIN, PROPYLENE GLYCOL, GLYCERYL STEARATE, CETEARETH-20,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/481c48548ab4e11008552fa533e11830.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 950,
+      "max": 950,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-031",
+    "brand": "ARVEA",
+    "name": "Creme Pieds Tres Secs Et Abimes",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, C12-15 ALKYL BENZOATE, CAPRYLIC/CAPRIC TRIGLYCERIDE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/711d7f1495d7ade7eeab627d09550a29.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "TN-OTH-ARV-036",
+    "brand": "ARVEA",
+    "name": "Savon Karite",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, ILLITE, PARFUM, PRUNUS AMYGDALUS DULCIS OIL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6614b0aa65e5919d91b2c0a7a14c06c3.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SCR-ARV-004",
+    "brand": "ARVEA",
+    "name": "Honey And Wheat Bran Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, PARFUM, ILLITE, MEL, ARGANIA SPINOSA KERNEL OIL, TRITICUM VULGARE BRAN, SODIUM CHLORIDE, GLYCERIN, PALM KERNEL ACID, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA, COUMARIN, LINALOOL, HEXYL CINNAMAL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/179c54f4723d61c714233b16365a32b1.webp",
+    "marketingClaims": [
+      "تقشير لطيف"
+    ],
+    "price": {
+      "min": 620,
+      "max": 620,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-HMA-ARV-004",
+    "brand": "ARVEA",
+    "name": "Hair Mask",
+    "country": "Tunisia",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "DICAPRYLYL CARBONATE, CETEARETH-20, POLYQUATERNIUM-37, LAURYL GLUCOSIDE, CITRIC ACID, PHENOXYETHANOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/514f4163463995c7cc06d9d0c8c80408.webp",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 1350,
+      "max": 1350,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-009",
+    "brand": "ARVEA",
+    "name": "Anti Hairfall Shampoo",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), MAGNESIUM LAURETH SULFATE, ALOE BARBADENSIS LEAF JUICE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, COCAMIDOPROPYL BETAINE, SODIUM COCOYL ISETHIONATE, BETAINE, NIACINAMIDE, BIOTIN, PANTHENOL, ZINC PCA, COCO-GLUCOSIDE, HYDROLYZED RICE PROTEIN, GLYCERYL OLEATE, HYDROLYZED GLYCOSAMINOGLYCANS, DEXTRAN, ACETYL TETRAPEPTIDE-3, TRIFOLIUM PRATENSE (CLOVER) FLOWER EXTRACT, HYALURONIC ACID, BUTYLENE GLYCOL, CITRIC ACID, XANTHAN GUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, BIS-DIISOPROPANOLAMINO-PG-PROPYL DISILOXANE/BIS-VINYL DIMETHICONE COPOLYMER, ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ACRYLAMIDE COPOLYMER, PPG-2 HYDROXYETHYL COCAMIDE, PEG-90M, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), TERPINEOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/15bdee0c5f9277491257f08e4fc91905.webp",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-032",
+    "brand": "ARVEA",
+    "name": "Creme De Nuit",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, GLYCERIN, CETEARYL ALCOHOL, C12-15 ALKYL BENZOATE, CAPRYLIC-CAPRICTRIGLYCERIDE, VITIS VINIFERA SEED OIL, BUTYROSPERMUM PARKII BUTTER, GLYCERYL STEARATE, PEG-100 STEARATE, PROPYLENE GLYCOL, STEARIC ACID, PERSEA GRATISSIMA OIL, ARGANIA SPINOSA KERNEL OIL, OPUNTIA FICUS INDICASEED OIL, POLYSORBATE 80, ALLANTOIN, TOCOPHERYL ACETATE, PANTHENOL, ACRYLATES/ACRYLAMIDE COPOLYMER,POLYSORBATE 85, DIMETHICONE, CYCLOPENTASILOXANE, TETRASODIUM EDTA, RETINYL ACETATE, EUCALYPTUSGLOBULUS LEAF OIL, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PERFUME",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b872722f1508199a69eb93a0a661d9e0.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": {
+      "min": 2750,
+      "max": 2750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-033",
+    "brand": "ARVEA",
+    "name": "Gel Aloe Vera",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "ALOE BARADENSIS LEAF JUICE, AQUA, GLYCERIN, CARBOMER, TRIETHANOLAMINE, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, PHENOXYETHANOL, ALLANTOIN, IMIDAZOLIDINYL UREA, ETHYLHEXYLGLYCERIN",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e59d750d99cd6f27ad59e12203334cea.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 1850,
+      "max": 1850,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-037",
+    "brand": "ARVEA",
+    "name": "Savon Argan",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, ARGANIA SPINOSA KERNEL OIL, PARFUM, SODIUM CHLORIDE, GLYCERIN, PALM KERNEL ACID, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/2ad44802977ddf96016f477cac74ca53.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 560,
+      "max": 560,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-034",
+    "brand": "ARVEA",
+    "name": "Gel Amincissant",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL, GLYCERIN, PROPYLENE GLYCOL, POLYSORBATE 20, CYCLOPENTASILOXANE, ALOE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/fdcf91cfe235acb76eb7a8824e0ac087.webp",
+    "marketingClaims": [
+      "إزالة السيلوليت",
+      "شد الجسم"
+    ],
+    "price": {
+      "min": 2500,
+      "max": 2500,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-038",
+    "brand": "ARVEA",
+    "name": "Savon Douceur",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, PARFUM, ROSA DAMASCENA FLOWER OIL, ZINGIBER OFFICINALE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/b4537a80b292b54a3e6b4b39b3c2a2f9.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 620,
+      "max": 620,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-035",
+    "brand": "ARVEA",
+    "name": "Royal Butter",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "BUTYROSPERMUM PARKII BUTTER, PRUNUS AMYGDALUS DULCIS OIL, VITIS VINIFERASEED OIL, CERA MICROCRISTALLINA, ALOE BARBADENSIS LEAF JUICE, ARGANIA SPINOSA KERNELOIL, CERA ALBA, TOCOPHERYL ACETATE",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/82d4b6166d027703071300fd7e4b369b.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SHA-ARV-010",
+    "brand": "ARVEA",
+    "name": "Dry Hair Shampoo",
+    "country": "Tunisia",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, ALOE BARBADENSIS LEAF JUICE, SODIUM PEG-7 OLIVE OIL CARBOXYLATE, GLYCERIN, OLIVE OIL PEG-7 ESTERS, COCO GLUCOSIDE, ARGAN OIL GLYCERETH-8 ESTERS, BABASSU OIL GLYCERETH-8 ESTERS, SAMBUCUS NIGRA FLOWER EXTRACT, ACHILLEA MILLEFOLIUM FLOWER EXTRACT, PRUNUS AMYGDALUS DULCIS SEED EXTRACT, PANTHENOL, BETAINE, HYDROLYZED WHEAT PROTEIN, HYDROLYZED WHEAT STARCH, HYDROGENATED VEGETABLE OIL, GLYCERYL OLEATE, XANTHAN GUM, SODIUM CHLORIDE, BIS-CETEARYL AMODIMETHICONE, POLYQUATERNIUM-10, CETEARETH-7, CETEARETH-25, POTASSIUM SORBATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM (FRAGRANCE), TERPINEOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c3312600c9404ed5fe668c3b1c6105f6.webp",
+    "marketingClaims": [
+      "مخصص للشعر الجاف",
+      "مرطب للشعر"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "TN-CLE-ARV-003",
+    "brand": "ARVEA",
+    "name": "Mousse Nettoyante Visage Hydra Deep Peaux Seches And Sensibles",
+    "country": "Tunisia",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, ALOE BARBADENSIS LEAF JUICE, UREA, BETAINE, GLYCERINE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/9d6dd6e12a967703b3584d25e93264ef.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة"
+    ],
+    "price": {
+      "min": 2400,
+      "max": 2400,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TN-OTH-ARV-039",
+    "brand": "ARVEA",
+    "name": "Wellness Keratin For Hair And Nails",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "Vitamine B5, Biotine, Vitamine B1, Vitamine B6, Vitamine B2, Vitamine B9,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e19591a297e4bf249c2fe10c29072e17.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 3950,
+      "max": 3950,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-CLE-ARV-004",
+    "brand": "ARVEA",
+    "name": "Gel Nettoyant",
+    "country": "Tunisia",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ ACRYLAMIDE COPOLYMER, TETRASODIUM EDTA, TOCOPHERYL ACETATE, COCAMIDE DEA, SODIUM XYLENE SULFONATE, MENTHYL LACTATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/518131257c04849aa2f43f84965f50cb.webp",
+    "marketingClaims": [
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 1250,
+      "max": 1250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SUN-ARV-006",
+    "brand": "ARVEA",
+    "name": "Lait Solaire Invisible Spf 50 Sun Protect",
+    "country": "Tunisia",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "ETHYLHEXYLGLYCERIN, PARFUM, HEXYL CINNAMAL, LINALOOL, BENZYL SALICYLATE, LIMONENE, BENZYL BENZOATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/ea025166649a720c2ec9e10fb2534d8a.webp",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": {
+      "min": 4150,
+      "max": 4150,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SCR-ARV-005",
+    "brand": "ARVEA",
+    "name": "Masque Exfoliant",
+    "country": "Tunisia",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, PEG-7 GLYCEYL COCOATE, ARGANIA SPINOSA KERNEL OIL, PRUNUS ARMENIACA SEED POWDER,CETYL ALCOHOL, GLYCERIN, GLYCERYL STEARATE, PEG-100 STEARATE, CAPRYLIC-CAPRIC TRIGLYCERIDE, PERSEA GRATISSIMA OIL, ACRYLATES / ACRYLAMIDE COPOLYMER, POLYSORBATE 85, VITIS VINIFERA SEED OIL, OPUNTIA FICUS INDICA SEED OIL, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, IMIDAZOLIDINYL UREA, TOCOPHERYL ACETATE, PANTHENOL, MENTHYL LACTATE, LACTIC ACID, CUCUMIS SATIVUS FRUIT EXTRACT, NIGELLA SATIVA SEED OIL, CELLULOSE GUM, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PERFUME",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/7622e03f5b25c9ce537e3341cd7d507e.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية عميقة",
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 2100,
+      "max": 2100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-040",
+    "brand": "ARVEA",
+    "name": "Roll On Recharge Fresh Sensation",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e278e25ceb5f86db2e94590ae3fbfffa.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-036",
+    "brand": "ARVEA",
+    "name": "Aloe Vera Gel",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "ALOE BARADENSIS LEAF JUICE, AQUA, GLYCERIN, CARBOMER, TRIETHANOLAMINE, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, PHENOXYETHANOL, ALLANTOIN, IMIDAZOLIDINYL UREA, ETHYLHEXYLGLYCERIN",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/e59d750d99cd6f27ad59e12203334cea.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 1850,
+      "max": 1850,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-041",
+    "brand": "ARVEA",
+    "name": "Bain De Bouche",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, SORBITOL, POLOXAMER 407, CETYLPYRIDINIUM CHLORIDE, THYMUS VULGARIS OIL, MENTHA PIPERITA OIL, EUGENIA CARYOPHYLLUS BUD OIL, ROSMARINUS OFFICINALIS LEAF OIL, PROPOLIS EXTRACT, SODIUM BENZOTE, SODIUM SACCHARIN, CI 42090, CI 191140",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/fd7d0d936e940bd60d82fff02e8a6dff.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1250,
+      "max": 1250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-042",
+    "brand": "ARVEA",
+    "name": "Roll On Recharge Miracle",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA (WATER), DISILOXANE, DISTARCH PHOSPHATE, TRIETHYL CITRATE, POTASSIUM ALUM, CETEARYL ALCOHOL,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c74baf41ec373aa28259267e08d862a3.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-SCR-ARV-006",
+    "brand": "ARVEA",
+    "name": "Masque Exfoliant",
+    "country": "Tunisia",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, PEG-7 GLYCEYL COCOATE, ARGANIA SPINOSA KERNEL OIL, PRUNUS ARMENIACA SEED POWDER,CETYL ALCOHOL, GLYCERIN, GLYCERYL STEARATE, PEG-100 STEARATE, CAPRYLIC-CAPRIC TRIGLYCERIDE, PERSEA GRATISSIMA OIL, ACRYLATES / ACRYLAMIDE COPOLYMER, POLYSORBATE 85, VITIS VINIFERA SEED OIL, OPUNTIA FICUS INDICA SEED OIL, CAPRYLYL/CAPRYL GLUCOSIDE, POLYGLYCERYL-10 ISOSTEARATE, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, IMIDAZOLIDINYL UREA, TOCOPHERYL ACETATE, PANTHENOL, MENTHYL LACTATE, LACTIC ACID, CUCUMIS SATIVUS FRUIT EXTRACT,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/7622e03f5b25c9ce537e3341cd7d507e.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية عميقة",
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 2100,
+      "max": 2100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-037",
+    "brand": "ARVEA",
+    "name": "Creme De Jour",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, C12-15 ALKYL BENZOATE, BUTYROSPERMUM PARKII BUTTER, GLYCERYL STEARATE, CETEARETH-12, CETEARETH- 20, DIBUTYL ADIPATE, ETHYLHEXYL METHOXYCINNAMATE, CETEARYL ALCOHOL, TITANIUM DIOXIDE, BUTYL METHOXYDIBENZOYLMETHANE, CAPRYLIC/CAPRIC TRIGLYCERIDE, OCTOCRYLENE, CYCLOPENTASILOXANE, CETYL PALMITATE, PROPYLENE GLYCOL, ALOE BARBADENSIS LEAF JUICE, GLYCERIN, STEARIC ACID, PHENYLTRIMETHICONE, VITIS VINIFERA SEED OIL, DISTEARDIMONIUM HECTORITE, POTASSIUM CETYL PHOSPHATE, ARGANIA SPINOSA KERNEL OIL, ALUMINA, ALLANTOIN, SILICA, PANTHENOL, DIMETHICONE, PHENOXYETHANOL, BUTYLENE GLYCOL, XANTHAN GUM, TOCOPHERYL ACETATE, ETHYLHEXYLGLYCERIN, TETRASODIUM EDTA, CITRIC ACID, PARFUM",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/32cc54cd858ae332e9f13df9da9b62bc.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": {
+      "min": 2050,
+      "max": 2050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-CLE-ARV-005",
+    "brand": "ARVEA",
+    "name": "Eau Micellaire Demaquillante",
+    "country": "Tunisia",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "GLYCERIDES, GLYCERIN, DECYL GLUCOSIDE, SACCHARIDE ISOMERATE, XYLITYLGLUCOSIDE, TETRASODIUM EDTA, CITRIC",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/9376b5090ead2073030f30123dcc4366.webp",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 2150,
+      "max": 2150,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-043",
+    "brand": "ARVEA",
+    "name": "Miracle Soap",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, PARFUM, VERBENA OFFICINALIS EXTRACT (2 %), OLEA EUROPAEA FRUIT OIL, ARGANIA SPINOSA KERNEL OIL, SODIUM CHLORIDE, GLYCERIN, TETRASODIUM EDTA, PALM KERNEL ACID, TOCOPHERYL ACETATE, ANTHEMIS NOBILIS FLOWER OIL, AMYL CINNAMAL, BENZYL BENZOATE, BENZYL SALICYLATE, BUTYLPHENYL METHYLPROPIONAL, ALPHA- ISOMETHYL IONONE, CITRONELLOL, COUMARIN, EUGENOL, GERANIOL, HEXYL CINNAMAL, LINALOOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/eb64df24a048ca33fdbca7e3a4bf6046.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": {
+      "min": 1050,
+      "max": 1050,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-038",
+    "brand": "ARVEA",
+    "name": "Hand Cream Flower Bloom",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, TRICAPRYLIN, CETEARYL ALCOHOL, ISOPROPYL MYRISTATE, BUTYROSPERMUM PARKII BUTTER, DICAPRYLYL CARBONATE, SODIUM POLYACRYLATE, ALOE BARBADENSIS LEAF JUICE, BIS-DIGLYCERYL POLYACYLADIPATE-2, VITIS VINIFERA SEED OIL, PRUNUS AMYGDALUS DULCIS OIL, PENTAERYTHRITYL DISTEARATE, DISODIUM CETEARYL SULFOSUCCINATE, PANTHENOL, ARGANIA SPINOSA KERNEL OIL, TOCOPHERYL ACETATE, TETRASODIUM EDTA, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM, BENZYL SALICYLATE, ALPHA-ISOMETHYL IONONE, LINALOOL, CITRONELLOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/a8b9d6fe08081c0a2be4e26b5a180c1e.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-LOT-ARV-039",
+    "brand": "ARVEA",
+    "name": "Creme Miracle",
+    "country": "Tunisia",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, GLYCERIN, VITIS VINIFERA SEED OIL, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII BUTTER, OCTYLDODECANOL, C12-15 ALKYL BENZOATE, GLYCERYL STEARATE, STEARIC ACID, CYLOPENTASILOXANE, CETEARETH-20, POTASSIUM CETYL PHOSPHATE, POLYSORBATE 20, TOCOPHERYL ACETATE, ACRYLATES/ ACRYLAMIDE COPOLYMER, POLYSORBATE 85, ALLANTOIN, PANTHENOL, CHAMOMILLA RECUTITA FLOWEREXTRACT, ARGANIA SPINOSA KERNEL OIL, CALENDULA OFFICINALIS FLOWER EXTRACT, DIMETHICONE,PHENOXYETHANOL, CARBOMER, TRIETHANOLAMINE, TETRASODIUM EDTA, ETHYLHEXYLGLYCERIN,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/6f9e4fb05706a9f0e53b6dd7d7278c05.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": {
+      "min": 2100,
+      "max": 2100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OTH-ARV-044",
+    "brand": "ARVEA",
+    "name": "Toothpaste",
+    "country": "Tunisia",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "ALOE BARBADENSIS LEAF EXTRACT, SORBITOL, AQUA, SILICA, GLYCERIN, SODIUM LAURYL SULFATE,",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/f114cee9766d74cb310f72d4483a8a66.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 1250,
+      "max": 1250,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "TN-OIB-ARV-004",
+    "brand": "ARVEA",
+    "name": "Huile Seche Pailletee Instant Glow",
+    "country": "Tunisia",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": null,
+    "ingredients": "VITIS VINIFERA SEED OIL, ISOPROPYL MYRISTATE, ETHYLHEXYL METHOXYCINNAMATE, ISODODECANE, UNDECANE, SILICA, TRIDECANE, DAUCUS CAROTA SEED OIL, HELIANTHUS ANNUUS SEED OIL, ARGANIA SPINOSA KERNEL OIL, TOCOPHERYL ACETATE, ALOE BARBADENSIS LEAF JUICE POWDER, BHT, CALCIUM SODIUM BOROSILICATE, TITANIUM DIOXIDE, TIN OXIDE, IRON OXIDES, PARFUM, ALPHA-ISOMETHYL IONONE, LINALOOL, HEXYL CINNAMAL, HYDROXYCITRONELLAL, LIMONENE, BENZYL BENZOATE, BENZYL SALICYLATE, CITRONELLOL, EUGENOL, ISOEUGENOL, GERANIOL",
+    "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/25d8600046d06563dc51af6f205cc44e.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تلميع ولمعان"
+    ],
+    "price": {
+      "min": 3100,
+      "max": 3100,
+      "currency": "DZD"
+    },
+    "targetTypes": []
   }
 ]
