@@ -25192,5 +25192,3242 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+    {
+    "id": "FR-OTH-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo+M Patch Bouton Multi-Actions",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "22 Patches",
+    "ingredients": "Hydrogenated Poly(C6-20 Olefin), Cellulose Gum, Hydrogenated Styrene/Butadiene Copolymer, Paraffinum Liquidum / Mineral Oil / Huile Minerale, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate (F.I.L. N70055061/1)",
+    "image": "https://cdn1.costatic.com/img/product/400/685bd7566b4ee/la-roche-posay-p110526.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Lait Urea 10% Hydratant",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water/Eau, Urea, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Brassica Campestris Seed Oil/Rapeseed Seed Oil, Dicaprylyl Carbonate, Isopropyl Palmitate, Pentylene Glycol, Glycine, Cetearyl Alcohol, Silica, Stearic Acid, Allantoin, Sorbitan Oleate, Sorbitan Tristearate, Glyceryl Stearate, Peg-100 Stearate, Peg-20 Methyl Glucose Sesquistearate, Isohexadecane, Sodium Hydroxide, Sodium Lactate, Myristic Acid, Palmitic Acid, Mannose, Hydroxyacetophenone, Hydroxyethylpiperazine Ethane Sulfonic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Chlorhexidine Digluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/695cda7993c83/la-roche-posay-p89884.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Huile Lavante AP+",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua/Water, Glycerin, Sucrose, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Citric Acid, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Vitreoscilla Ferment, Niacinamide, PEG-75 Shea Butter Glycerides, Pentylene Glycol, Polysorbate 20, Sodium Benzoate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/69e604c45d312/la-roche-posay-p91909.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Hydrating Lotion Ultra Resistant SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua/Water/Eau, Isopropyl Palmitate, Alcohol Denat., Dicapylyl Ether, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Diisopropyl sebacate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Triethanolamine, Tocopherol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Oxidized Starch Acetate, Phenylbenzimidazole Sulfonic Acid, Oryza Sativa Cera/Rice Bran Wax, Acrylate Crosspolymer, Acrylates/C10-30 Alkyl Acrylate crosspolymer, Aluminium Hydroxide, Caprylyl Glycol, Drometrizole Trisiloxane, Hydroxyacetophenone, Hydroxyethylcellulose, PEG-20, Stearic Acid, Terephtalididene Dicamphor Sulfonic Acid, Titanium Dioxyde, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64f82979c479c/la-roche-posay-p54334.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Dermallergo Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Isocetyl Stearate, Squalane, Butyrospermum Parkii Butter/Shea Butter, Dimethicone, Glycerin, Zea Mays Starch/Corn Starch, Pentylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Cetyl Alcohol, Salvia Miltiorrhiza Root Extract, Dimethiconol, Sodium Hydroxide, Sphingomonas Ferment extract, Caprylyl Glycol, Citric Acid, Acetyl Dipeptide-1 Cetyl Ester, Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "image": "https://cdn1.costatic.com/img/product/400/64f826bc935b3/la-roche-posay-p59689.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Serum Anti-Wrinkle Concentrate Repairing Replumping",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua/Water, Glycerin, Alcohol Denat., Propylene Glycol, Panthenol, Pentylene Glycol, Dimethicone, PEG-6 Caprylic/Capric Glycerides, PPG-6 Decyltetradeceth-30, Glyceryl Isostearate, Madecassoside, Sodium Hyaluronate, Ammonium Polyacryloyldimethyl Taurate, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Citric Acid, Xanthan Gum, Butylene Glycol, Tocopherol, Phenoxyethanol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/650974a6ed8a2/la-roche-posay-p31756.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Ultra Concentrated Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua/Water/Eau, Alcohol Denat., Propanediol, Glycolic Acid, Niacinamide, Dimethyl Isosorbide, Pentylene Glycol, Salicylic Acid, Sodium Hydroxide, PEG-60 Hydrogenated Castor Oil, Hydroxyethylpiperazine Ethane Sulfonic Acid, Citric Acid, PEG-30 Glyceryl Cocoate, Capryloyl Salicylic Acid, Biosaccharide Gum-1, Maltodextrin, Phytic Acid, Polyquaternium-10, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d750a4db81/la-roche-posay-p48437.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar 48HR Lipid-Replenishing Body Milk",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Butyrospermum Parkii Butter/Shea Butter, Glycerin, Sorbitan Stearate, Paraffinum iquidum/Mineral Oil, Niacinamide, Brassica Campestris Oleiffera Oil/Rapeseed Seed Oil, Aluminium Starch Octenyl Succinate, Dimethicone, Cera Alba/Beeswax, Sorbitan Tristearate, Carbomer, Sodium Hydroxide, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Disodium Edta, Sucrose, Cocoate, Caprylyl Glycol, Citric Acid, T-Butyl Alcohol, Cetyl, Palmitate, BHT, Pentaerythrityl Tetra-Di-T-Butyl, Hydroxyhydrocinnamate, Chlorhexidine Digluconate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6719077a6f519/la-roche-posay-3360.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Syndet AP+",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Glycerin, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Polysorbate 20, Citric Acid, PEG-7 Glyceryl Cocoate, Niacinamide, Disodium EDTA, Mannose, Sodium Hydroxide, Vitreoscilla Ferment, Butyrospermum Parkii Butter/Shea Butter, Glycol Distearate, Acrylates Copolymer, Cocamide Mea, Polyquaternium-11, Sodium Chloride, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/68e389264a6d1/la-roche-posay-p112974.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Baume B5+",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Panthenol, Zea Mays Starch/Corn Starch, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Zinc Gluconate, Alpha-Glucan Oligosaccharide, Silica, Aluminium Hydroxide, Magnesium Sulfate, Mannose, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Acetylated Glycol Stearate, Maltodextrin, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891/Titanium Dioxide",
+    "image": "https://cdn1.costatic.com/img/product/400/68e389264a6d1/la-roche-posay-p112974.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Pure Vitamin C12 Anti-Wrinkle Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua / Water / Eau, Ascorbic Acid, Dimethicone, Glycerin, Alcohol Denat, Potassium Hydroxide, Polysilicone-11, Silica, Pentaerythrityl Tetraethylhexanoate, Peg-20 Methyl Glucose Sesquistearate, Sodium Hyaluronate, Adenosine, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Hydrolyzed Hyaluronic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Laureth-7, Trisodium Ethylenediamine Disuccinate, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Acetyl Dipeptide-1 Cetyl Ester, Xanthan Gum, Pentylene Glycol, Polyacrylamide, C13-14 Isoalkane, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Salicylic Acid, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68146ebe2e52e/la-roche-posay-p108761.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Invisible Fluid SPF50+ Fragrance-Free",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua/Water/Eau, Alcohol Denat.., Triethyl Citrate, Diisopropyl Sebacate, Silica, Ethylhexyl Salicylate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Perlite, Tocopherol, Caprylic/capric Triglyceride, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyethylcellulose, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/68146ebe2e52e/la-roche-posay-p108761.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Surgras Anti-Dryness Cleansing Cream",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, PEG-7 Glyceryl Cocoate, Disodium Cocoamphodiacetate, Coco-Betaine, Sodium Laureth Sulfate, PEG-60 Hydrogenated Castor Oil, Sodium Chloride, PEG-200 Hydrogenated Glyceryl Palmate, Glycol Distearate, Sodium Glycolate, Ceteareth-60 Myristyl Glycol, Citric Acid, Glycerin, Niacinamide, Parfum (Fragrance), PEG-55 Propylene Glycol Oleate, PEG-75 Shea Butter Glycerides, Polyquaternium-7, PPG-5-Ceteth-20, Propylene Glycol, Sodium Benzoate, Sodium Hydroxide",
+    "image": "https://cdn1.costatic.com/img/product/400/64f83052c39e2/la-roche-posay-p35171.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Dermo-Pediatrics Invisible Spray SPF50+ Fragrance-Free",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Alcohol Denat., Ethylhexyl Triazone, Butylmethoxydibenzoylmethane, Isopropyl Palmitate, Diisopropyl Adipate, Dicaprylyl Ether, Glycerin, Isopropyl Myristate, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Tocopherol, Methoxypropylaminocyclohexenylidene Ethoxyethylcyanoacetate, Pentylene Glycol,, Butyrospermum Parkii Butter/Shea Butter, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyacetophenone, Phenylbenzimidazole Sulfonic Acid, Sodium Polyacrylate, Triethanolamine, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/678645bfe0641/la-roche-posay-p89536.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Gel Lavant Apaisant Protecteur",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Peg-200 Hydrogenated Glyceryl Palmitate, Glycerin, Coco-Betaine, Polysorbate 20, Peg-7 Glyceryl Cocoate, Citric Acid, Cocamide Mea, Niacinamide, Parfum (Fragrance), Peg-55 Propylene Glycol Oleate, Peg-60 Hydrogenated Castor Oil, Peg-75 Shea Butter Glycerides, Polyquaternium-11, Ppg-5-Ceteth-20, Propylene Glycol, Prunus Amygdalus Oil/Sweet Almond Oil, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Disodium Edta",
+    "image": "https://cdn1.costatic.com/img/product/400/69f30811b766e/la-roche-posay-128490.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Balm B5+ SPF50",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water, Glycerin, Panthenol, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Isopropyl Myristate, Alcohol Denat., Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Pentylene Glycol, Tromethamine, Potassium Cetyl Phosphate, Silica, Synthetic Wax, Butylene Glycol, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Stearic Acid, Stearyl Alcohol, Zinc Gluconate, Glyceryl Stearate, Madecassoside, Triethanolamine, Terephthalylidene Dicamphor Sulfonic Acid, Manganese Gluconate, Peg-100 Stearate, Alpha-Glucan Oligosaccharide, Myristic Acid, 2-Oleamido-1,3-Octadecanediol, Palmitic Acid, Mannose, Ammonium Polyacryloyldimethyl Taurate, Isopropyl Lauroyl Sarcosinate, Hydroxypropyl Methylcellulose, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Maltodextrin, Xanthan Gum, Tocopherol, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/6745e2d5b0276/la-roche-posay-p89887.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Crème Hydratante SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Diisopropyl Sebacate, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Peg-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Silica, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates Copolymer, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Hydroxyacetophenone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67c846a77d50c/la-roche-posay-p101167.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Post-UV Exposure Lait Après-Soleil",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Alcohol Denat., Butyrospermum Parkii Butter/Shea Butter, Glyceryl Stearate Se, Octyldodecanol, Cetearyl Alcohol, Glyceryl Stearate Citrate, Tocopherol, Hydroxyacetophenone, Sclerotium Gum, Panthenol, Xanthan Gum, Pentylene Glycol, Mentha Piperita Extract/Peppermint Extract, Caprylyl Glycol, Citric Acid, Glycine Soja Oil/Soybean Oil, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67c846a77d50c/la-roche-posay-p101167.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Moisturizing Milk SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua / Water / Eau, Isopropyl Palmitate, Alcohol Denat, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Propanediol, Dicaprylyl Ether, Triethanolamine, Phenylbenzimidazole Sulfonic Acid, Diisopropyl Adipate, Diisopropyl Sebacate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Oxidized Starch Acetate, Copernicia Cerifera Cera / Carnauba Wax / Cire De Carnauba, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Pentylene Glycol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter / Shea Butter, Caprylyl Glycol, Citric Acid, Drometrizole Trisiloxane, Hydroxyethylcellulose, Terephthalylidene Dicamphor Sulfonic Acid, Tocopherol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67e657827be17/la-roche-posay-p108757.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Syndet AP+",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Glycerin, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Polysorbate 20, Citric Acid, PEG-7 Glyceryl Cocoate, Niacinamide, Acrylates Copolymer, Butyrospermum Parkii Butter/Shea Butter, Cocamide MEA, Disodium EDTA, Glycol Distearate, Mannose, Polyquaternium-11, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Vitreoscilla Ferment",
+    "image": "https://cdn1.costatic.com/img/product/400/64f7196b33a7b/la-roche-posay-p24856.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Gel-Cream Oil Control SPF50+ With Fragrance",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Diisopropyl Sebacate, Silica, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, PEG-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene EThoxyethylcyanoacetate, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Bixa Orellana Seed Extract, Caprylyl Glycol, Citric Acid, Hydroxyacetophenone, Maltodextrin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pentylene Glycol, Silica Silyate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Zinc PCA, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/682b6023bffab/la-roche-posay-p23071.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-EYE-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Dermallergo Eyes",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "20ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Butylene Glycol, Propanediol, Squalane, Butyrospermum Parkii Butter/Shea Butter, Pentylene Glycol, Niacinamide, Cellulose, Zea Mays Starch/Corn Starch, Polysorbate 20, Salvia Miltiorrhiza Root Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Sphingomonas Ferment Extract, Ammonium Polyacryloyldimethyl Taurate, Hydroacetophenone, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Esters",
+    "image": "https://cdn1.costatic.com/img/product/400/69bacd122460a/la-roche-posay-p59688.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-007",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar AP+ Lipid-Replenishing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Isopropyl Palmitate, Butyrospermum Parkii Butter/Shea Butter, Propanediol, Cetyl Alcohol, Myristyl Myristate, Zea Mays Starch/Corn Starch, Niacinamide, Ophiopogon Japonicus Root Extract, Carbomer, Sodium Hydroxide, Mannose, Hydroxyacetophenone, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Maltodextrin, Polyglyceryl-3 Methylglucose Distearate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/69e0f6a8ee42f/la-roche-posay-p112963.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-EYE-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Redermic C Pure Vitamin C Eyes",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua, Glycerin, Dimethicone, Butyrospermum Parkii Butter/Shea Butter, Limnanthes Alba Seed Oil/Meadowfoam Seed Oil, Ascorbic Acid, Butylene Glycol, Paraffinum Liquidum/Mineral Oil, Ammonium Polyacryldimethyltauramide/Ammonium Polyacryloyldimethyl Taurate, Cetyl Alcohol, PEG-100 Stearate, Glyceryl Stearate, Polymethylsesquioxane, Potassum Hydroxide, Parffin, Sodium Styrene/MA Copolumer, Cera Microcristallina/Microcrystalline Wac, Madecassoside, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethiconol, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Acetyl Dipeptide-1 Cetyl Ester, Xanthan Gum, Pentaerythrityl Tetra-di-T-Butyl Hydroxyhydroxinnamate, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/64f6fe0814a77/la-roche-posay-p8303.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-007",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Anti-Shining Invisible Fresh Mist SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua/Water/Eau, Homosalate, Dimethicone, Octocrylene, Glycerin, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Nylon-12, Diisopropyl Sebacate, Butyl Methoxybibenzoylmethane, Styrene/Acrylates Copolymer, Caprylyl Glycol, Carnosine, Disodium EDTA, Drometrizole Trisiloxane, Ethylhexyl Triazone, Mel/Honey/Miel, Methyl Methacrylate Crosspolymer, P-Anisic Acid, PEG-32, PEG-8 Laurate, Pentylene Glycol, Phenoxyethanol, Poly C10-30 Alkyl Acrylate, Polyglyceryl-6 Polyricinoleate, Propylene Glycol, Silica Silylate, Sodium Chloride, Sodium Dodecyl Benzenesulfonates, Sodium Saccharin, Tocopherol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/673c49e3691e9/la-roche-posay-p73355.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Sérum Suractivé Concentré Anti-Rides Réparateur Repulpant",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua / Water, Glycerin, Alcohol Denat., Propylene Glycol, Panthenol, Pentylene Glycol, Dimethicone, Peg-6 Caprylic/Capric Glycerides, Alpinia Galanga Leaf Extract, Calcium Chloride, Glyceryl Isostearate, Madecassoside, Ppg-6-Decyltetradeceth-30, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Algin, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Propanediol, Hydrolyzed Hyaluronic Acid, Hydroxyacetophenone, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Glucosamine, Xanthan Gum, Butylene Glycol, 1,2-Hexanediol, Tocopherol, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/69a97cac776e6/la-roche-posay-p110520.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar H Iso-Biome Soothing Moisturising Cleansing Cream",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "390ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Sodium Laureth Sulfate, Peg-200 Hydrogenated Glyceryl Palmate, Coco-betaine, Polysorbate 20, Citric Acid, Peg-7 Glyceryl Cocoate, Niacinamide, Bixa Orellana Seed Extract, Butyrospermum Parkii Butter/Shea Butter, Cocamide Mea, Glycol Distearate, Sodium Chloride, Sodium Hydroxide, Mannose, Disodium Edta, Vitreoscilla Ferment, Maltodextrin, Polyquaternium-11, Acrylates Copolymer, Sodium Benzoate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f829ff82ded/la-roche-posay-p73138.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Surgras Crème Lavante Anti-Dessèchement Éco-Recharge",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua / Water / Eau ,Peg-7 Glyceryl Cocoate ,Disodium Cocoamphodiacetate ,Coco-Betaine ,Sodium Laureth Sulfate ,Peg-60 Hydrogenated Castor Oil ,Peg-200 Hydrogenated Glyceryl Palmate ,Glycol Distearate ,Ppg-5-Ceteth-20 ,Glycerin ,Citric Acid ,Sodium Hydroxide ,Niacinamide ,Ceteareth-60 Myristyl Glycol ,Peg-55 Propylene Glycol Oleate ,Peg-75 Shea Butter Glycerides ,Polyquaternium-7 ,Propylene Glycol ,Sodium Chloride ,Sodium Benzoate ,Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/685e3eabedfd4/la-roche-posay-p110518.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-008",
+    "brand": "La Roche-Posay",
+    "name": "Nutritic Intense Rich",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Glyceryl Stearate, Alcohol Denat., Etylhexyl Palmitate, Dimethicone, Butyrospermum Parkii Butter/Sheabutter, Myristyl Myristate, Niacinamide, Peg-100 Stearate, Glycine Soja Oil, Soybean Oil, Sodium Polyacrylate, Myristyl Malate Phosphonic Acid, Disodium Edta, Caprylyl Glycol, Citric Acid, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f6ffe55fba4/la-roche-posay-p9011.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-009",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Xerand Hands Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Octyldodecanol, Stearic Acid, PEG-100 Stearate, Glyceryl Stearate, Palmitic Acid, Steareth-10, Paraffinum Liquidum/Mineral Oil, Dimethicone, Allantoin, Capryloyl Glycine, Tetrasodium EDTA, Xanthan Gum, Cetyl Alcohol, Sodium Benzoate Phenoxyethanol, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/679b249084f38/la-roche-posay-12215.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-010",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar A.Z. Anti-Imperfection Gel-Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua / Water / Eau, Azelaic Acid, C15-19 Alkane, Glycerin, Triethyl Citrate, Diglycerin, Salicylic Acid, Panthenol, Silica, Ammonium Polyacryloyldimethyl Taurate, Taraxacum Officinale Rhizome/Root Extract - Dandelion Rhizome/Root Extract, Zinc Gluconate, Glyceryl Stearate, Peg-100 Stearate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Phosphate, Disodium Phosphate, Hydroxyethylcellulose, Hydroxypropyl Starch Phosphate, Tetrasodium Glutamate Diacetate, Citric Acid, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Polysorbate 60, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0ada8c3e58b/la-roche-posay-p119332.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-007",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Gel Lavant Gel Douche Apaisant Protecteur Éco-Recharge",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua / Water / Eau ,Sodium Laureth Sulfate ,Peg-200 Hydrogenated Glyceryl Palmate ,Glycerin ,Coco-Betaine ,Polysorbate 20 ,Peg-7 Glyceryl Cocoate ,Ppg-5-Ceteth-20 ,Citric Acid ,Sodium Hydroxide ,Niacinamide ,Prunus Amygdalus Dulcis Oil / Sweet Almond Oil ,Cocamide Mea ,Peg-55 Propylene Glycol Oleate ,Peg-60 Hydrogenated Castor Oil ,Peg-75 Shea Butter Glycerides ,Polyquaternium-11 ,Propylene Glycol ,Sodium Chloride ,Disodium Edta ,Sodium Benzoate ,Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/686bceb3c47d2/la-roche-posay-p110519.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-008",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Superfatty Cleansing Bar",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "150g",
+    "ingredients": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Palm Kernel Acid, PEG-7 Glyceryl Cocoate, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Etidronic Acid, Glycerin, Niacinamide, Butyrospermum Parkii Butter/Shea Butter, Citric Acid, Sodium Chloride, Tetrasodium Etidronate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68ff33194eee1/la-roche-posay-p823.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Kerium Doux Extreme Physiological Shampoo-Gel",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Disodium Cocoamphodiacetate, Polysorbate 20, Glycerin, PEG-7 Glyceryl Cocoate, Citric Acid, Disodium Ricinoleamido Mea-Sulfossucinate, Hexylene Glycol, Polyquaternium-10, Polysorbate 21, Salicylic Acid, Sodium Benzoate, Sodium Hydroxide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/69821544710ed/la-roche-posay-p14068.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Pure Vitamin C12 Anti-Wrinkle Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua / Water / Eau, Ascorbic Acid, Dimethicone, Glycerin, Alcohol Denat, Potassium Hydroxide, Polysilicone-11, Silica, Pentaerythrityl Tetraethylhexanoate, Peg-20 Methyl Glucose Sesquistearate, Sodium Hyaluronate, Adenosine, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Hydrolyzed Hyaluronic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Laureth-7, Trisodium Ethylenediamine Disuccinate, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Acetyl Dipeptide-1 Cetyl Ester, Xanthan Gum, Pentylene Glycol, Polyacrylamide, C13-14 Isoalkane, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Salicylic Acid, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/69f9cab1e3ad4/la-roche-posay-p93274.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-008",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVair Sun Serum SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Alcohol Denat., Diisopropyl Sebacate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Isopropyl Myristate, Glycerin, Silica, Propylene Glycol Dicaprylate/Dicaprate, Potassium Cetyl Phosphate, Copernicia Cerifera Cera / Carnauba Wax / Cire De Carnauba, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Citric Acid, Glyceryl Stearate, Hydroxyacetophenone, Myristic Acid, Niacinamide, Palmitic Acid, Peg-100 Stearate, Pentylene Glycol, Perlite, Silica Silylate, Sodium Hyaluronate, Stearic Acid, Tocopherol, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d783939955/la-roche-posay-p114726.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Ultra Micellar Water Oily Skins",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, PEG-7 Caprylic/Capric Glycerides, Poloxamer 124, Poloxamer 184, PEG-6 Caprylic/Capric Glycerides, Glycerin, Polysorbate 80, Zinc PCA, Sodium Hydroxide, Disodium EDTA, BHT, Myrtrimonium Bromide, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f70218d4885/la-roche-posay-11890.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-011",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Gel B5 Epidermal Repair Accelerator Care",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Glycerin, Dimethicone, Panthenol, Pentylene Glycol, C30-45 Alkyl Dimethicone, Polybutene, Sodium Citrate, Peg/PPG-18/18 Dimethicone, Zinc Gluconate, Madecassoside, Dimethiconol, Manganese Gluconate, Sodium Hyaluronate, Copper Gluconate, Caprylyl Glycol, Citric Acid, Polysorbate 20, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6793a92c541c7/la-roche-posay-p30979.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Purifying Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, PEG-8, Coco-Betaine, Hexylene Glycol, Sodium Chloride, Punica Granatum Pericarp Extract, Zinc PCA, PEG-120 Methyl Glucose Dioleate, Sodium Citrate, Sodium Hydroxide, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Maltodextrun, Pentylene Glycol, Tocopherol, Sodium Benzoate, Phenoxyethanol, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d74ed65610/la-roche-posay-p3363.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-009",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Syndet AP+ Eco-Refill",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Glycerin, Sodium Laureth Sulfate, PEG-200 Hydrogenated Glyceryl Palmate, Coco-Betaine, Polysorbate 20, Citric Acid, PEG-7 Glyceryl Cocoate, Niacinamide, Disodium EDTA, Mannose, Sodium Hydroxide, Vitreoscilla Ferment, Butyrospermum Parkii Butter/Shea Butter, Glycol Distearate, Acrylates Copolymer, Cocamide MEA, Polyquaternium-11, Sodium Chloride, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/69274b47e40c0/la-roche-posay-p112966.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Kerium DS Shampoing Traitant Antipelliculaire Purifiant Intensif",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua / Water / Eau ,Sodium Laureth Sulfate ,Cocamide Mea ,Glycerin ,Capryloyl Glycine ,Coco-Betaine ,Laureth-5 Carboxylic Acid ,Salicylic Acid ,Cocamide Mipa ,Sodium Hydroxide ,Piroctone Olamine ,Isopropyl Myristate ,Capryloyl Salicylic Acid ,Hexylene Glycol ,Niacinamide ,Peg-55 Propylene Glycol Oleate ,Polyquaternium-10 ,Propylene Glycol ,Sodium Benzoate ,Sodium Chloride ,Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0ae9312eaee/la-roche-posay-p101047.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-009",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Gel-Cream Oil Control SPF50+ Fragrance Free",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Diisopropyl Sebacate, Silica, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, PEG-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene EThoxyethylcyanoacetate, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Bixa Orellana Seed Extract, Caprylyl Glycol, Citric Acid, Hydroxyacetophenone, Maltodextrin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Pentylene Glycol, Silica Silyate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Zinc PCA",
+    "image": "https://cdn1.costatic.com/img/product/400/69e5ff8b46e84/la-roche-posay-p9489.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-012",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar AP+ Max Baume Triple-Réparation 72H",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua / Water / Eau, Butyrospermum Parkii Butter / Shea Butter, Glycerin, Dimethicone, Niacinamide, Cetearyl Alcohol, Brassica Campestris Seed Oil / Rapeseed Seed Oil, Glyceryl Stearate, Ammonium Polyacryloyldimethyl Taurate, Peg-100 Stearate, Propanediol, Ophiopogon Japonicus Root Extract, Pisum Sativum Extract / Pea Extract, Sorbitan Tristearate, Dimethiconol, Peg-20 Methyl Glucose Sesquistearate, Sodium Chloride, Cyclodextrin, Mannose, Coco-Betaine, Disodium Edta, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Maltodextrin, Xanthan Gum, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a5ddca2bbe74/la-roche-posay-132115.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-013",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Balm B5+",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua/Water, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Panthenol, Zea Mays Starch/Corn Starch, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Zinc Gluconate, Alpha-Glucan Oligosaccharide, Silica, Aluminium Hydroxide, Magnesium Sulfate, Mannose, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Acetylated Glycol Stearate, Maltodextrin, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891/Titanium Dioxide",
+    "image": "https://cdn1.costatic.com/img/product/400/6a3a46e4ebbef/la-roche-posay-p76323.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-014",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar AP+ Max Baume Triple-Réparation 72H",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua / Water / Eau, Butyrospermum Parkii Butter / Shea Butter, Glycerin, Dimethicone, Niacinamide, Cetearyl Alcohol, Brassica Campestris Seed Oil / Rapeseed Seed Oil, Glyceryl Stearate, Ammonium Polyacryloyldimethyl Taurate, Peg-100 Stearate, Propanediol, Ophiopogon Japonicus Root Extract, Pisum Sativum Extract / Pea Extract, Sorbitan Tristearate, Dimethiconol, Peg-20 Methyl Glucose Sesquistearate, Sodium Chloride, Cyclodextrin, Mannose, Coco-Betaine, Disodium Edta, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Maltodextrin, Xanthan Gum, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+    "image": "https://cdn1.costatic.com/img/product/400/6993d977569b8/la-roche-posay-p112961.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Pain Dermatologique Anti-Imperfections",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "65g",
+    "ingredients": "Sodium Cocoyl Isethionate, Hydrogenated Vegetable Oil, Aqua / Water / Eau, Polyglyceryl-4 Laurate, Glycerin, Simmondsia Chinensis Seed Oil / Jojoba Seed Oil, Niacinamide, Tetrasodium Glutamate Diacetate, Lactic Acid, Tocopheryl Acetate, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6745e3424969b/la-roche-posay-p93273.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-015",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA UV SPF25 Light",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/ Water/Eau, Glycerin, Isopropyl Palmitate, Ethylhexyl Salicylate, Pentylene Glycol, Alcohol Denat., Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Zea Mays Starch/Corn Starch, Ethylhexyl Triazone, Potassium Cetyl Phosphate, Diisopropyl Sebacate, Oryza Sativa Cera/Rice Bran Wax, Stearic Acid, Glyceryl Stearate, Triethanolamine, Peg-100 Stearate, Sodium Hyaluronate, Myristic Acid, Palmitic Acid, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Acrylates/cC0-30 Alkyl Acrylate Crosspolymer, Tocopherol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/651ed66e3f231/la-roche-posay-p83040.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-016",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Superactivated Firming and Plumping Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isohexadecane, Propanediol, Alcohol Denat., Isopropyl Isostearate, Panthenol, Dimethicone, Octyldodecanol, Behenyl Alcohol, Cetyl Alcohol, Alpinia Galanga Leaf Extract, Stearic Acid, Calcium Chloride, Cetearyl Alcohol, Cetearyl Glucoside, Peg-100 Stearate, Sodium Hyaluronate, Sodium Hydroxide, Algin, Silica, Myristic Acid, Cellulose, Palmitic Acid, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Disodium Stearoyl Glutamate, Ectoin, Hydrolyzed Hyaluronic Acid, Hydroxyacetophenone, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Citric Acid, Laureth-7, Trisodium Ethylenediamine Disuccinate, Acetyl Glucosamine, Xanthan Gum, Pentylene Glycol, Phytic Acid, Polyacrylamide, Polyepsilon-Lysine, Butylene Glycol, 1,2-Hexanediol, C13-14 Isoalkane, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68d3a5d133f66/la-roche-posay-p110522.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Vitamin C Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua / Water / Eau ,Sodium Laureth Sulfate ,Coco-Betaine ,Sodium Chloride ,Glycerin ,Ppg-5-Ceteth-20 ,Peg-60 Hydrogenated Castor Oil ,Sodium Hydroxide ,Ascorbyl Glucoside ,Citric Acid ,Trisodium Ethylenediamine Disuccinate ,Panthenol ,Pentylene Glycol ,Polyquaternium-7 ,Tocopheryl Acetate ,Sodium Benzoate ,Salicylic Acid ,Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/684302b9a95c6/la-roche-posay-p101049.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-LAR-002",
+    "brand": "La Roche-Posay",
+    "name": "Micellar Water Sensivite Skin",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, PEG-7 Caprylic/Capric Glycerides, Poloxamer 124, Poloxamer 184, PEG-6 Caprylic/Capric Glycerides, Glycerin, Polysorbate 80, Disodium EDTA, BHT, Myrtrimonium Bromide, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/693fd654953ca/la-roche-posay-p5754.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-017",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Balm B5+",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water, Hydrogenated Polyisobutene, Dimethicone, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Panthenol, Zea Mays Starch/Corn Starch, Propanediol, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Trihydroxystearin, Centella Asiatica Leaf Extract, Polymnia Sonchifolia Root Juice, Zinc Gluconate, Alpha-Glucan Oligosaccharide, Silica, Aluminium Hydroxide, Magnesium Sulfate, Mannose, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Lactobacillus, Acetylated Glycol Stearate, Maltodextrin, Polyglyceryl-4 Isostearate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, CI 77891/Titanium Dioxide",
+    "image": "https://cdn1.costatic.com/img/product/400/6a3a46b8834e0/la-roche-posay-p76322.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Respectissime Waterproof Eye Makeup Remover",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125ml",
+    "ingredients": "Aqua, Isododecane, Isopropyl Palmitate, Potassium Phosphate, Sodium Chloride, Poloxamer 184, Dipotassium Phosphate, Hexylene Glycol, Polyaminopropyl Biguanide, CI 61565",
+    "image": "https://cdn1.costatic.com/img/product/400/6811caa33e63e/la-roche-posay-p108727.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-018",
+    "brand": "La Roche-Posay",
+    "name": "Nutritic Intense",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water, Paraffinum, Liquidum/Mineral Oil, Dimethicone, Glycerin, Bis-PEG-18 Methyl Ether Dimethyl Silane, Synthetic Wax, Ethylexyl Palmitate, Butyrospermum Parkii Butter/Shea Butter, Glyceryl Stearate, Behenyl Alcohol, Aluminium Starch Octenylsuccinate, Hexyldecanol, Hexyldecyl Laurate, Cera Microcristallina, Microcrystalline Wax, Niacinamide, Paraffin, Glyceryl Stearate Citrate, Dimethiconol, Myristyl Malate Phosphonic Acid, Ammonium, Polyacryldimethyltauramide/Ammonium, Polyacryldimethyl Taurate, Disodium EDTA, Disodium Ethylene Dicocamide PEG-15 Disulfate, Caprylyl Glycol, Xanthan Gum, Acrylates Copolymer, Tocopherol, Phenoxyethanol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f70396ee423/la-roche-posay-p9010.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Mela B3 Clarifying Unifying Micro-Peeling Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Coco-Betaine, Propanediol, Sodium Cocoyl Glycinate, Peg-120 Methyl Glucose Dioleate, Sodium Hydroxide, Sodium Chloride, Citric Acid, Gluconolactone, Ceramide Np, Niacinamide, 2-Mercaptonicotinoyl Glycine, Sodium Thiosulfate, Disodium Edta, Capryloyl Glycine, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Acrylates Copolymer, Tocopherol, Tocopheryl Acetate, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6745e603429b8/la-roche-posay-p89541.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "توحيد لون البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-010",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Spray Invisible SPF50+ Avec Parfum",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Alcohol Denat, Homosalate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Octocrylene, Glycerin, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Diisopropyl Adipate, Diisopropyl Sebacate, Dicaprylyl Ether, Triethanolamine, Tocopherol, Phenylbenzimidazole Sulfonic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Drometrizole Trisiloxane, Sodium Polyacrylate, Trisodium Ethylenediamine, Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68187862a7e58/la-roche-posay-p108758.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Astringent Micro-Exfoliating Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Alcohol Denat., Glycerin, Sodium Citrate, Propylene Glycol, Disodium EDTA, Capryloyl Salicylic Acid, Citric Acid, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/64f82fd1b3da2/la-roche-posay-p818.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "قابض للمسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Thermal Spring Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua/Water, Minerals: Bicarbonates, Calcium, Silicates, Magnesium, Selenium, Copper, Zinc",
+    "image": "https://cdn1.costatic.com/img/product/400/698c3a88271d1/la-roche-posay-p769.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-019",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Smoothing Moisturizing and Mattifying Water-Gel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Niacinamide, Alcohol Denat., Isononyl Isononanoate, Sodium Carbomer, Panthenol, Sodium Hyaluronate, Sodium Hydroxide, Silica, Silica Silylate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol, Polyglyceryl-2 Isostearate, Salicylic Acid, Ci 42090 / Blue 1, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68dd228a1a271/la-roche-posay-p110523.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-011",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Fluid Oil Control SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Alcohol Denat., Triethyl Citrate, Diisopropyl Sebacate, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, C12-15 Alkyl Benzoate, Sodium Citrate, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Perlite, Tocopherol, Caprylic/capric Triglyceride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Bixa Orellana Seed Extract, Caprylyl Glycol, Citric Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyacetophenone, Hydroxyethylcellulose, Maltodextrin, Pentylene Glycol, Silica Silylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Zinc Pca, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67bdd2360dc78/la-roche-posay-p80592.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-020",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Dermallergo Night",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Butylene Glycol, Propanediol, Butyrospermum Parkii Butter/Shea Butter, Pentylene Glycol, Squalane, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Pyridoxine HCL, Polysorbate 20, Zea Mays Starch/Corn Starch, Salvia Miltiorrhiza Root Extract, Allantoin, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium Hydroxide, Sphingomonas Ferment Extract, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Ester, Xanthan Gum, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6773d24011ae2/la-roche-posay-p74272.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Micro-Peeling Purifying Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Sodium Laureth Sulfate, Decyl Glucoside, Glycerin, Sodium Chloride, Coco-Betaine, Salicylic Acid, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, Zinc Gluconate, Sodium Hydroxide, Capryloyl Salicylic Acid, Tetrasodium EDTA, Citric Acid, Menthol, Polyquaternium-47, Hexylene Glycol, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/69bd4e6c08a1d/la-roche-posay-p55345.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Retinol B3 Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Dimethicone, Alcohol Denat, Pentylene Glycol, Niacinamide, Glycine Soja Oil / Soybean Oil, PPG-6 Decyltetradeceth-30, Sodium Hyaluronate, Retinol, Adenosine, Ammonium Polyacrylaoymdimethyl Taurate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Polysilicone-11, Retinyl Palmitate, Tocopherol, Phenoxyethanol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68e91d274e7b6/la-roche-posay-p112971.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-007",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Lavant B5 Purifying Soothing Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Panthenol, Peg-200 Hydrogenated Glyceryl Palmate, Glycerin, Coco-Betaine, Sodium Chloride, Polysorbate 20, Peg-7 Glyceryl Cocoate, Citric Acid, Cocamide Mea, Copper Gluconate, Manganese Gluconate, Peg-55 Propylene Glycol Oleate, Peg-60 Hydrogenated Castor Oil, Polyquaternium-11, Ppg-5-Ceteth-20, Propylene Glycol, Prunus Amygdalus Dulcis Oil/Sweet Almond Oil, Sodium Benzoate, Sodium Hydroxide, Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/66e445c7b8f81/la-roche-posay-p25986.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-012",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Moisturising Cream SPF50+ Tinted",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Diisopropyl Sebacate, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Peg-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Silica, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, CI 77891/Titanium Dioxide, Acrylates Copolymer, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, CI 77491/Iron Oxides, CI 77492/Iron Oxides, CI 77499/Iron Oxides, Hydroxyacetophenone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/660d0d56aa2dc/la-roche-posay-p72031.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-021",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo+M",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Silica, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch/Rice Starch, Punica Granatum Pericarp Extract, Potassium Cetyl Phosphate, Sorbitan Oleate, Zinc Pca, Glyceryl Stearate Se, Isohexadecane, Sodium Hydroxide, Myristyl Myristate, 2-Oleamido-1,3-Octadecanediol, Mannose, Poloxamer 338, Propanediol, Hydroxyethoxyphenyl Butanone, Capryloyl Salicylic Acid, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Trisodium Ethylenediamine Disuccinate, Maltodextrin, Xanthan Gum, Pentylene Glycol, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Salicylic Acid, Piroctone Olamine, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d66225aea6/la-roche-posay-p85034.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-013",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Fluide KA Cellular Protection SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Isopropyl Myristate, Alcohol Denat., Diisopropyl Sebacate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Ether, Silica, Glycerin, Propanediol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Panthenol, Niacinamide, Drometrizole Trisiloxane, Diethylhexyl Butamido Triazone, Triethanolamine, Tocopherol, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Phenylbenzimidazole Sulfonic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Disodium Phosphate, Hydroxyethylcellulose, Pentylene Glycol, Polysorbate 60, Sodium Phosphate, Terephthalylidene Dicamphor Sulfonic Acid, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/69739b4ac06ae/la-roche-posay-p114723.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-022",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Anti-Wrinkle Care Repairing Replumping",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Glycerin, Dimethicone, Hydrogenated Polyisobutene, Propylene Glycol, Hydroxypropyl Tetrahydropyrantriol, Alcohol Denat, Propanediol, Panthenol, Synthetic Wax, Nylon-12, PEG-10 Dimethicone, Dimethicone/PEG-10/15 Crosspolymer, Hydroxyethylpiperazine Ethane Sulfonic Acid, Tocopherol, Sodium Polyacrylate, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Citrate, Phenoxyethanol, Adenosine, Chlorphenesin, Propylene Carbonate, Dipropylene Glycol, Disteardimonium Hectorite, Disodium EDTA, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/699f12ffddded/la-roche-posay-p31755.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-023",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Lips Barrier Repairing Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "7.5ml",
+    "ingredients": "Capylic/Capric Triglyceride, Ppg-5 Pentaerythrithyl Ether, Peg-5 Pentaerythrityl Ether, Butyrospermum Parkii Butter/Shea Butter, Cera Alba/Beeswax, Penthenol, Hydrogenated Vegetable Oil, Ethylhexyl Palmitate, Silica Silylate, Polybutene, Glycine Soja/Soybean Sterols, Aqua (Water), Sodium Saccharin, Myristyl Malate Phosphonic Acid, Pentaerythrityl Tetra-di-t-Butyl Hydroxyhydrocinnamate",
+    "image": "https://cdn1.costatic.com/img/product/400/643ec3e35c050/la-roche-posay-p11244.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-024",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Hands Barrier Repairing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol, Cetearyl Alcohol, Niacinamide, Glyceryl Stearate, Butyrospermum Parkii Butter/Shea Butter, Dimethicone, Peg/Ppg-18/18 Dimethicone, Glyceryl Stearate Se, Sodium Polyacrylate, Caprylyl Glycol, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/64f71633851d5/la-roche-posay-p11236.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-EYE-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Eyes Anti-Wrinkle Care Repairing Replumping",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua/Water, Glycerin, Butyrospermum Parkii Butter/Shea Butter, Dimethicone, Prunus Armeniaca Kernel Oil/Apricot Kernel Oil/Apricot Kernel Oil, Pentaerythrityl Tetraethylhexanoate, Panthenol, Silica, Isohexadecane, Zea Mays Starch/Corn Starch, Propylene Glycol Hydroxypropyl Tetrahydropyrantriol, Cera Alba/Beeswax, Stearic Acid, Palmitic Acid, PEG-100 Stearate, Glyceryl Stearate, PEG-20 Stearate, Stearyl Alcohol, Tin Oxide, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sorbitan Oleate, Dimethiconol, Sodium Hyaluronate, Sodium Lauroyl Glutamate, Arginine PCA, Serine, Myristic Acid, Lysine, Aluminia, Aluminium Hydroxide, Magnesium Chloride,Isopropyl Titanium Triisostearate, Hydrolyzed Hyaluronic Acid, Hydrloyzed Linseed Extract, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Ester, Pentylene Glycol, Polysorbate 80, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Benzoate, Phenoxyethanol, CI77491, CI77891/Titanium Dioxide, Mica",
+    "image": "https://cdn1.costatic.com/img/product/400/65af9e989f1df/la-roche-posay-p34333.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-025",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA Riche Cream With Hyaluronic Acid",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isopropyl Palmitate, Butyrospermum Parkii Butter / Shea Butter, Lauroyl Lysine, Cetyl Alcohol, Urea, Peg-100 Stearate, Glyceryl Stearate, Cera Alba / Beeswax / Cire Dabeille, Pentylene Glycol, Stearic Acid, Carbomer, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium Hyaluronate, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Polysorbate 60, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Chlorphenesin, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68f6505d4c0cc/la-roche-posay-p112972.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-014",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Invisible Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Alcohol Denat., Triethyl Citrate, Diisopropyl Sebacate, Silica, Ethylhexyl Salicylate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Perlite, Tocopherol, Caprylic/capric Triglyceride, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyethylcellulose, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68541dd26058a/la-roche-posay-p72027.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-026",
+    "brand": "La Roche-Posay",
+    "name": "Nutritic Lips",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4.7ml",
+    "ingredients": "Polyethylene, Polybutene, Bis-diglyceryl Polyacyladipate-2, Butyrospermum Parkii Butter / Shea Butter, Myristyl Myristate, Hydrogenated Polyisobutene, Cera Alba / Beeswax, Octyldodecanol, Ricinus Communis Seed Oil / Castor Seed Oil, Cetyl Alcohol, Limnanthes Alba Seed Oil / Meadowfoam Seed Oil, Cetyl Palmitate, Ci 77891 / Titanium Dioxide, Ribes Nigrum Seed Oil / Black Currant Seed Oil, Tocopheryl Acetate, Tocopherol, Ascorbyl Palmitate, Hydroxypalmitoyl Sphinganine, Echium Plantagineum Seed Oil, Silica, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Coriandrum Sativum Seed Oil / Coriander Seed Oil, Citric Acid, Prunus Armeniaca Kernel Oil / Apricot Kernel Oil, Aluminum Hydroxide, Glycerin, Glycine Soja Oil / Soybean Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6901f23b3526e/la-roche-posay-p857.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-015",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Invisible Mist Ultra-Light SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Butane, Aqua/Water, Homosalate, Dicaprylyl Ether, Octocrylene, Ethylhexyl Salicylate, Dimethicone, Styrene/Acrylates Copolymer, Butyl Methoxydibenzoylmethane, Drometrizole Trisiloxane, PEG-30 Dipolhydroxystearate, Nylon-12, Dicaprylyl Carbonate, Methyl Methacrylate Crosspolymer, Polymethylsilsesquioxane, P-Anisic Acid, Caprylyl Glycol, Disodium Edta, Disteardimonium Hectorite, Ethylhexyl Triazone, Isododecane, Isostearyl Alcohol, Lauryl PEG/PPG-18/18 Methicone, PEG-8 Laurate, Phenoxyethanol, Poly C10-30 Alkyl Acrylate, Propylene Carbonate, Sodium Chloride, Sodium Dodecylbenzenesulfonate, Tocopherol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67eba79301d3d/la-roche-posay-p32537.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-LAR-007",
+    "brand": "La Roche-Posay",
+    "name": "Mela B3 Sérum Concentré Anti-Taches",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua / Water / Eau, Dimethicone, Niacinamide, Glycerin, Propylene Glycol, Polysilicone-11, Silica, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Cystoseira Tamariscifolia Extract, 2-Mercaptonicotinoyl Glycine, Peg-20 Methyl Glucose Sesquistearate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Thiosulfate, Carnosine, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol, Octyldodecanol, Retinyl Palmitate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ci 17200 / Red 33, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68260c92b211e/la-roche-posay-p108759.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-027",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo+M Tinted Care",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isocetyl Stearate, Isopropyl Isostearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch / Rice Starch, Glyceryl Stearate Se, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Salicylic Acid, Silica Silylate, Poloxamer 338, Maltodextrin, Polysorbate 80, Mannose, Pentylene Glycol, Zinc Pca, Punica Granatum Pericarp Extract, Isohexadecane, 2-Oleamido-1,3-Octadecanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum / Fragrance, Sorbitan Oleate, Potassium Cetyl Phosphate, Vitreoscilla Ferment, Citric Acid. [+/- May Contain: Ci 77891 / Titanium Dioxide, Ci 77491, Ci 77492, Ci 77499 / Iron Oxides, Mica]",
+    "image": "https://cdn1.costatic.com/img/product/400/67dd493ce9ef1/la-roche-posay-p93275.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-EYE-LAR-004",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA Eyes",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua, Glycerin, Glycine Soja, Soybean Protein, Polyacrylamide, C13-14 Isoparaffin, Carbomer, Caffeine, Sodium Hyaluronate, Retinyl Palmitate, Sodium Hydroxide, Disodium EDTA, Laureth-7, Tocopherol, Methylparaben, Chlorphenesin, Sodium Dehydroacetate",
+    "image": "https://cdn1.costatic.com/img/product/400/698c509c27c33/la-roche-posay-p54466.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-008",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar H Iso-Biome Soothing Cleansing Cream",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Sodium Laureth Sulfate, Peg-200 Hydrogenated Glyceryl Palmate, Coco-betaine, Polysorbate 20, Citric Acid, Peg-7 Glyceryl Cocoate, Niacinamide, Bixa Orellana Seed Extract, Butyrospermum Parkii Butter/Shea Butter, Cocamide Mea, Glycol Distearate, Sodium Chloride, Sodium Hydroxide, Mannose, Disodium Edta, Vitreoscilla Ferment, Maltodextrin, Polyquaternium-11, Acrylates Copolymer, Sodium Benzoate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f8298e06fa6/la-roche-posay-p73137.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-028",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Superactivated Firming and Plumping Cream Refill",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isohexadecane, Propanediol, Alcohol Denat., Isopropyl Isostearate, Panthenol, Dimethicone, Octyldodecanol, Behenyl Alcohol, Cetyl Alcohol, Alpinia Galanga Leaf Extract, Stearic Acid, Calcium Chloride, Cetearyl Alcohol, Cetearyl Glucoside, Peg-100 Stearate, Sodium Hyaluronate, Sodium Hydroxide, Algin, Silica, Myristic Acid, Cellulose, Palmitic Acid, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Disodium Stearoyl Glutamate, Ectoin, Hydrolyzed Hyaluronic Acid, Hydroxyacetophenone, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Citric Acid, Laureth-7, Trisodium Ethylenediamine Disuccinate, Acetyl Glucosamine, Xanthan Gum, Pentylene Glycol, Phytic Acid, Polyacrylamide, Polyepsilon-Lysine, Butylene Glycol, 1,2-Hexanediol, C13-14 Isoalkane, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68d3a6013b954/la-roche-posay-p110524.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-016",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Shaka Invisible Fluid SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water, Alcohol Denat. Disopropyl Sebacate, Silica, Isopropyl Myristate, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol, Methoxyphenyl, Triazine, Ethylhexyl Triazone, Glycerin, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Propanediol, Butyl Methoxydibenzoylmethane, Drometrizole Trisiloxane, Perlite, Tocopherol, Caprylic/Capric Triglyceride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Hydroxyethyl Cellulose, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6968c25a90be0/la-roche-posay-p43526.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-029",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo [+] SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Octocrylene, Glycerin, Homosalate, Ethylhexyl Salicylate, Alcohol Denat, Niacinamide, Butyl Methoxydibenzoylmethane, Dimethicone, Sorbitan Stearate, Silica, Isopropyl Lauroyl Sarcosinate, Styrene/Acrylates Copolymer, Propylene Glycol, Potassium Cetyl Phospate, Diisopropyl Sebacate, Peg-20, Peg-8 Laurate, Zinc PCA, Dimethicone/Vinyl Dimethicone Crosspolymer, 2-Oleamido-1n 3-Octadecanediol, Inulin Lauryl Carbamate, Carnosine, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Disodium Edta, Sucrose Cocoate, Capryloyl Saliclic Acid, Xanthan Gum, T-Butyl Alcohol, Bht, Salicylic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d9378aa5ac/la-roche-posay-30944.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-017",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVair Tinted Sun Serum SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Alcohol Denat., Diisopropyl Sebacate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Isopropyl Myristate, Glycerin, Ci 77891 / Titanium Dioxide, Silica, Propylene Glycol Dicaprylate/Dicaprate, Potassium Cetyl Phosphate, Copernicia Cerifera Cera / Carnauba Wax / Cire De Carnauba, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Ci 77491 / Iron Oxides, Ci 77492 / Iron Oxides, Ci 77499 / Iron Oxides, Citric Acid, Glyceryl Stearate, Hydroxyacetophenone, Myristic Acid, Niacinamide, Palmitic Acid, Peg-100 Stearate, Pentylene Glycol, Perlite, Silica Silylate, Sodium Hyaluronate, Stearic Acid, Tocopherol, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/69737739ca9d0/la-roche-posay-p114724.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-030",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Gel Urea 30%",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Urea, Caprylic/Capric Triglyceride, Hydroxyethylpiperazine Ethane Sulfonic Acid, Glycerin, Propanediol, Pentylene Glycol, Niacinamide, Sclerotium Gum, Ammonium Polyacryloyldimethyl Taurate, Triacetin, Sodium Hydroxide, Caprylyl Glycol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67224d0701f40/la-roche-posay-p96495.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-031",
+    "brand": "La Roche-Posay",
+    "name": "Mela B3 Anti-Dark Spot Corrective Care SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water / Eau, C15-19 Alkane, Diisopropyl Sebacate, Niacinamide, Ethylhexyl Triazone, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Silica, Drometrizole Trisiloxane, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Cellulose, Ci 77891 / Titanium Dioxide, Butylene Glycol, Tin Oxide, Potassium Hydroxide, Carbomer, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, 2-Mercaptonicotinoyl Glycine, Sodium Dilauramidoglutamide Lysine, Sodium Thiosulfate, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Hydroxyacetophenone, Capryloyl Salicylic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol, Poly C10-30 Alkyl Acrylate, Polyglyceryl-2 Laurate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Mica, Ci 14700 / Red 4, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68260cfa0a0de/la-roche-posay-p89542.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-009",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Purifying Micro-Peeling Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Sodium Laureth Sulfate, Decyl Glucoside, Glycerin, Sodium Chloride, Coco-Betaine, Salicylic Acid, PEG-150 Pentaerythrityl Tetrastearate, PEG-6 Caprylic/Capric Glycerides, Zinc Gluconate, Sodium Hydroxide, Capryloyl Salicylic Acid, Tetrasodium EDTA, Citric Acid, Menthol, Polyquaternium-47, Hexylene Glycol, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/68ad5ba0b6d9d/la-roche-posay-p110517.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-032",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar AP+ Max Baume Triple-Réparation 72H",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua / Water / Eau, Butyrospermum Parkii Butter / Shea Butter, Glycerin, Dimethicone, Niacinamide, Cetearyl Alcohol, Brassica Campestris Seed Oil / Rapeseed Seed Oil, Glyceryl Stearate, Ammonium Polyacryloyldimethyl Taurate, Peg-100 Stearate, Propanediol, Ophiopogon Japonicus Root Extract, Pisum Sativum Extract / Pea Extract, Sorbitan Tristearate, Dimethiconol, Peg-20 Methyl Glucose Sesquistearate, Sodium Chloride, Cyclodextrin, Mannose, Coco-Betaine, Disodium Edta, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Maltodextrin, Xanthan Gum, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate",
+    "image": "https://cdn1.costatic.com/img/product/400/6967b65e15781/la-roche-posay-p112960.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Eau Micellaire",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Glycerin, Peg-7 Caprylic/Capric Glycerides, Poloxamer 124, Poloxamer 184, Peg-6 Caprylic/Capric Glycerides, Polysorbate 80, Disodium Edta, BHT, Myrtrimonium Bromide",
+    "image": "https://cdn1.costatic.com/img/product/400/680b9882510b0/la-roche-posay-p108726.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-033",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Rosaliac AR Concentrate",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Isostearyl Neopentanoate, Butylene Glycol, Boron Nitride, Butyrospermum Parkii Butter/Shea Butter, Ci 77891/Titanium Dioxide, Pentylene Glycol, Hydrogenated Coco-Glycerides, Polysorbate 20, Zea Mays Starch/Corn Starch, Schisandra Sphenanthera Fruit Extract, Tin Oxide, Sorbitan Oleate, Glyceryl Acrylate/Acrylic Acid Copolymer, Glyceryl Stearate Citrate, Isohexadecane, Sphingomonas Ferment Extract, Silica, Aluminum Hydroxide, Mannitol, Ammonium Polyacryloyldimethyl Taurate, Hydrogenated Lecithin, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Ester, Maltodextrin, Polysorbate 80, Acrylamide/sodium Acryloyldimethyltaurate Copolymer, Mica, Ci 77288/Chromium Oxide Greens, Ci 77491/Iron Oxides, Ci 77492/Iron Oxides,Ci 77499/Iron Oxides",
+    "image": "https://cdn1.costatic.com/img/product/400/680b582dd50e3/la-roche-posay-p83038.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-034",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA Light",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Lauroyl Lysine, C15-19 Alkane, Myristyl Myristate, Ammonium Polyacryloyldimethyl Taurate, Stearic Acid, Potassium Cetyl Phosphate, Glyceryl Stearate SE, Sodium Hyaluronate, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Hydrolyzed Hyaluronic Acid, Capryloyl Glycine, Caprylyl Glycol, Xanthan Gum, Pentaerylthrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f828000c967/la-roche-posay-p53427.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-010",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Gel Lavant B5+",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua / Water / Eau ,Sucrose ,Glycerin ,Sodium Laureth Sulfate ,Panthenol ,Coco-Betaine ,Sodium Chloride ,Peg-200 Glyceryl Stearate ,Copper Gluconate ,Manganese Gluconate ,Sodium Hydroxide ,Trisodium Ethylenediamine Disuccinate ,Zinc Gluconate ,Citric Acid ,Isopropyl Myristate ,Cocamide Mea ,Peg-55 Propylene Glycol Oleate ,Peg-7 Glyceryl Cocoate ,Pentylene Glycol ,Polysorbate 20 ,Propylene Glycol ,Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/68371c0458927/la-roche-posay-p108723.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-035",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Sensitive Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Glycerin, Squalane, Dimethicone, Zea Mays Starch/Corn Starch, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Myristyl Myristate, Stearic Acid, Ceramide NP, Potassium Cetyl Phosphate, Glyceryl Stearate SE, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Capryloyl Glycine, Caprylyl Glycol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6791faf915795/la-roche-posay-p38177.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-018",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVsport Stick Pro-Resistance SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "10ml",
+    "ingredients": "Ricinus Communis Seed Oil / Castor Seed Oil, Isopropyl Palmitate, Polyethylene, Isohexadecane, Behenyl Behenate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Theobroma Cacao Seed Butter / Cocoa Seed Butter, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Butyrospermum Parkii Butter / Shea Butter, Paraffin, Cera Microcristallina / Microcrystalline Wax / Cire Microcristalline, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Silica Silylate, Drometrizole Trisiloxane, Citric Acid, Glycine Soja Oil / Soybean Oil, Synthetic Wax, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4f564c252e3/la-roche-posay-p114728.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-011",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Purifying Foaming Gel Refill",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water/Eau, Sodium Laureth Sulfate, Peg-8, Coco-Betaine, Hexylene Glycol, Sodium Chloride, Punica Granatum Pericarp Extract, Zinc Pca, Peg-120 Methyl Glucose Dioleate, Sodium Citrate, Sodium Hydroxide, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Maltodextrin, Pentylene Glycol, Tocopherol, Sodium Benzoate, Phenoxyethanol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6915d81f66968/la-roche-posay-p113643.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-036",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Xerand Hands Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Glycerin, Octyldodecanol, Stearic Acid, PEG-100 Stearate, Glyceryl Stearate, Palmitic Acid, Steareth-10, Paraffinum Liquidum/Mineral Oil, Dimethicone, Allantoin, Capryloyl Glycine, Tetrasodium EDTA, Xanthan Gum, Cetyl Alcohol, Sodium Benzoate Phenoxyethanol, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/66deebfd70320/la-roche-posay-12216.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-019",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Age Correct Daily Care SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, C12-15 Alkyl Benzoate, Glycerin, Octocrylene, Niacinamide, Butyl Methoxydibenzoylmethane, Dimethicone, Ethylhexyl Triazone, Silica, Aluminium Starch Octenylsuccinate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Terephthalylidene Dicamphor Sulfonic Acid, Potassium Cetyl Phosphate, Drometrizole Trisiloxane, PEG-100 Stearate, Stearyl Alcohol, Glyceryl Stearate, Ammonium Polyacryloyldimethyl Taurate, Benzyl Alcohol, Benzyl Benzoate, Capryloyl Salicylic Acid, Caprylyl Glycol, Hydrolyzed Hyaluronic Acid, Phenoxyethanol, Phenylethyl Resorcinol, Poloxamer 338, Tocopherol, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f8286d68882/la-roche-posay-p50552.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-037",
+    "brand": "La Roche-Posay",
+    "name": "Medical Device Lipikar Eczema MED Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Glycerin, Vaselinum Album, Cera Cetomacrogolis Emulsificans, Paraffinum Liquidum, Arginine HCL, Sodium Chloride, Tromethamine, Endobioma™, Calcium Chloride",
+    "image": "https://cdn1.costatic.com/img/product/400/69bacdfe4f811/la-roche-posay-p74284.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-038",
+    "brand": "La Roche-Posay",
+    "name": "Redermic C Pure Vitamin C Light",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Dimethicone, Isocetyl Stearate, Glycerin, Mannose, Ascorbic Acid, Caprylic/Capric Triglyceride, Butylene Glycol, Sucrose Tristearate, Potassium Hydroxide, Sodium Styrene/MA Copolymer, Polymethylsesquioxane, Steareth-10, Madecassoside, Sodium Stearoyl Glutamate, Hydrogenated Lecithin, Hydrolized Hyaluronic Acid, Caprylyl Glycol, Tetrasodium EDTA, Acetyl Dipeptide-1 Cetyl Ester, Xanthan Gum, Acrylates Copolymer, Acrylates/C10-30 Akyl Acrylate Crosspolymer, Phenoxyethanol, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/64f7121c77032/la-roche-posay-p8306.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-LAR-008",
+    "brand": "La Roche-Posay",
+    "name": "Mela B3 Anti-Dark Spot Serum Concentrate",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua / Water / Eau, Dimethicone, Niacinamide, Glycerin, Propylene Glycol, Polysilicone-11, Silica, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Cystoseira Tamariscifolia Extract, 2-Mercaptonicotinoyl Glycine, Peg-20 Methyl Glucose Sesquistearate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Thiosulfate, Carnosine, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol, Octyldodecanol, Retinyl Palmitate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ci 17200 / Red 33, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d753951057/la-roche-posay-p89540.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-LAR-010",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Gel Lavant Apaisant Protecteur",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Peg-200 Hydrogenated Glyceryl Palmitate, Glycerin, Coco-Betaine, Polysorbate 20, Peg-7 Glyceryl Cocoate, Citric Acid, Cocamide Mea, Niacinamide, Parfum (Fragrance), Peg-55 Propylene Glycol Oleate, Peg-60 Hydrogenated Castor Oil, Peg-75 Shea Butter Glycerides, Polyquaternium-11, Ppg-5-Ceteth-20, Propylene Glycol, Prunus Amygdalus Oil/Sweet Almond Oil, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Disodium Edta",
+    "image": "https://cdn1.costatic.com/img/product/400/69e6004cd598c/la-roche-posay-p91910.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-039",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar K (+)",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Octyldodecanol, Dimethicone, Glyceryl Stearate, PEG-100 Stearate, Gylcerin, Salicylic Acid, Ammonium Polyacryldimethyl Taurate, Perlite, Cetylalcohol, Sorbitan Oleate, Zinc PCA, Sarcosine, Sarcosine, Isohexadecane, Sodium Hydroxide, Silica, Silica Silylate, Kaolin, Carnosine, Disodium EDTA, Capryloyl Salicylic Acid, Xanthan Gum, Pentylene Glycol, Polysorbate 80, Acrylamide / Sodium, Acryloyldimethyltaurate Copolymer, Butylene Glycol, Tocopherol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/66741bdad45ea/la-roche-posay-p34232.jpg",
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء",
+      "تقشير لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-020",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Anti-Spot Fluid SPF 50+ Fragrance-free",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau ,Alcohol Denat. ,Silica ,Diisopropyl Adipate ,Diisopropyl Sebacate ,Ethylhexyl Triazone ,Butyl Methoxydibenzoylmethane ,Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine ,Dicaprylyl Carbonate ,Glycerin ,Propanediol ,C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer ,Diethylamino Hydroxybenzoyl Hexyl Benzoate ,C12-15 Alkyl Benzoate ,Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate ,Perlite ,Drometrizole Trisiloxane ,Acrylates/C10-30 Alkyl Acrylate Crosspolymer ,Citric Acid ,Disodium Phosphate ,Hydroxyacetophenone ,Hydroxyethylcellulose ,2-Mercaptonicotinoyl Glycine ,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate ,Pentylene Glycol ,Polysorbate 60 ,Sodium Phosphate ,Sodium Thiosulfate ,Terephthalylidene Dicamphor Sulfonic Acid ,Tocopherol ,Triethanolamine ,Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/67a62e2b95807/la-roche-posay-p101166.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-021",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Dermo-Pediatrics Baby Milk SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Isopropyl Palmitate, Alcohol Denat,Dicaprylyl Ether, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Diisopropyl Sebacate, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Tocopherol, Oxidized Starch Acetate, Phenylbenzimidazole Sulfonic Acid, Oryza Sativa Cera / Rice Bran Wax, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter / Shea Butter, Caprylyl Glycol, Citric Acid, Drometrizole Trisiloxane, Hydroxyacetophenone, Hydroxyethylcellulose, Terephthalylidene, Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Tromethamine, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67cb063940efd/la-roche-posay-p91401.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-012",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Foaming Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Glycerin, Coco-Betaine, Propanediol, Sodium Cocoyl Glycinate, Peg-120 Methyl Glucose Dioleate, Sodium Chloride, Sodium Hydroxide, Citric Acid, Ceramide Np, Niacinamide, Disodium Edta, Capryloyl Glycine, Caprylyl Glycol, Acrylates Copolymer",
+    "image": "https://cdn1.costatic.com/img/product/400/67b309048f498/la-roche-posay-p86315.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-009",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Anti-Wrinkle Repair Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Hydroxyethylpiperazine Ethane Sulfonic Acid, Niacinamide, Pentylene Glycol, Panthenol, Sodium Hyaluronate, Caffeine, Ascorbyl Glucoside, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/65aa5cb712e99/la-roche-posay-p78227.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-040",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Crème Suractivée Anti-Rides Réparatrice Protectrice SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Phenylbenzimidazole Sulfonic Acid, Alcohol Denat., Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triethanolamine, Panthenol, Dimethicone, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Octyldodecanol, Cetyl Alcohol, Behenyl Alcohol, Zea Mays Starch / Corn Starch, Alpinia Galanga Leaf Extract, Stearic Acid, Sorbitan Isostearate, Cetearyl Alcohol, Cetearyl Glucoside, Peg-100 Stearate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Myristic Acid, Palmitic Acid, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Ectoin, Hydroxyacetophenone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Glucosamine, Xanthan Gum, Pentylene Glycol, Phytic Acid, Poly C10-30 Alkyl Acrylate, Polyepsilon-Lysine, Polysorbate 60, Butylene Glycol, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6992f3d70a189/la-roche-posay-p110521.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-042",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA Riche Hyaluronic Acid Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isopropyl Palmitate, Butyrospermum Parkii Butter / Shea Butter, Lauroyl Lysine, Cetyl Alcohol, Urea, Peg-100 Stearate, Glyceryl Stearate, Cera Alba / Beeswax / Cire Dabeille, Pentylene Glycol, Stearic Acid, Carbomer, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium Hyaluronate, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Hydrolyzed Hyaluronic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Polysorbate 60, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Chlorphenesin, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68b962b715a8f/la-roche-posay-p110527.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-043",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Barrier Repairing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol, Cetearyl alcohol, Niacinamide, Glyceryl stearate, Butyrospermum parkii butter/Shea butter, Dimethicone, Peg/Ppg-18/18 Dimethicone, Glyceryl stearate se, Sodium polyacrylate, Caprylyl glycol, Citric acid, Tocopherol, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/64f829cdc0d68/la-roche-posay-p49405.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-022",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Moisturising Cream SPF50+ Fragrance Free",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Diisopropyl Sebacate, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Peg-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Silica, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates Copolymer, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Hydroxyacetophenone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/682d9da873fb6/la-roche-posay-p72032.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-044",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Rosaliac AR SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Drometrizole Trisiloxane, Alcohol Denat., Isopropyl Myristate, Ethylhexyl Triazone, Isononyl Isononanoate, Propylene Glycol Dicaprylate/Dicaprate, Glycerin, Propanediol, Isopropyl Lauroyl Sarcosinate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Sebacate, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Zea Mays Starch/Corn Starch, Silica, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Caprylyl Glycol, Carbomer, Cetearyl Glucoside, Hydroxyacetophenone, Inulin Lauryl Carbamate, Peg-10 Dimethicone, Peg-20, Potassium Hydroxide, Sodium Stearoyl Glutamate, Sphingomonas Ferment Extract, T-Butyl Alcohol, Tocopherol, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/651ed48208d73/la-roche-posay-p83037.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-014",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Dermo Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Ethylhexyl Palmitate, Glycerin, Dipropylene Glycol, Carbomer, Sodium Hydroxide, Capryl Glycol/Caprylyl Glycol, Ethylhexylglycerin",
+    "image": "https://cdn1.costatic.com/img/product/400/643ebaf3ae9d3/la-roche-posay-p789.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-MSK-LAR-001",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Unclogging Purifying Sebo-Controlling Mask Anti-Shine",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water), Kaolin , Argilla, Magnésium Aluminium Slicate, Propanediol, Panthenol, Glycerin, Caprylic/Capric Triglyceride, CI77891/Titanium Dioxide, Cetearyl Alcohol, Zea Mays Corn Starch, Cellulose, Ceteareth-20, Lecithin, Caprylyl Glycol, Citric Acid, Xanthan Gum, Tocopherol, Phenoxyethanol, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/64f715a24a2cf/la-roche-posay-30955.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "توازن الدهون والزيوت",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-045",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Aquagel SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Octocrylene, Homosalate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Alcohol, Denat., Dimethicone, Pentylene Glycol, Drometrizole Trisiloxane, Dibutyl Lauroyl, Glutamide, Ethylhexyl Triazone, Ammonium Acryloyldimethyltaurate VP/Copolymer, Caprylyl Glycol, CI 42090/Blue 1, Dextrin Palmitate, Dimethicone/Vinyl Dimethicone Crosspolymer, Panthenol, Phenoxyethanol, Poly C10-30 Alkyl Acrylate, Sodium Hyaluronate, T-Butyl Alcohol, Tocopherol, Xanthan Gum, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/69cd16460bf93/la-roche-posay-p51689.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-LAR-005",
+    "brand": "La Roche-Posay",
+    "name": "Pigmentclar Eyes Dark Circle Skin-Evening Corrector",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua, Glycerin, Butylene Glycol, Dimethicone, Niacinamide, Isopropyl Palmitate, Cetearyl Alcohol, Ammonium Polyacryldimethyltauramide/Ammonium Polyacryloyldimethyl Taurate, Butyrospermum Parkii Shea Butter, Peg-100 Stearate, Peg/PPG/Polybutylene Glycol-8/5/3 Glycerin, Stearic Acid, Glyceryl Stearate, Dimethicone/Vinyldimethicone Crosspolymer, Dimethiconol, Caffeine, Sodium Hydroxide, Silica, Ginkgo Biloba Extract, Palmitic Acid, Alumina, Phenylethyl Resorcinol, Ascorbyl Glucoside, Poloxamer 338, Disodium Edta, Isopropyl Titanium Triisostearate, Hydrolyzed Rice Protein, Caprylyl Glycol, Xanthan Gum, Ferulic Acid, Phenoxyethanol, CI 77491, CI 77492, CI 77499/Iron Oxides, CI 77891/Titanium Dioxide, Mica",
+    "image": "https://cdn1.costatic.com/img/product/400/64f71817c39c9/la-roche-posay-p13826.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-023",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Moisturising Cream SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Diisopropyl Sebacate, Alcohol Denat., Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Diisopropyl Adipate, Peg-8, Dipropylene Glycol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Glycerin, Drometrizole Trisiloxane, Aluminum Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Silica, Tocopherol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Acrylates Copolymer, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Hydroxyacetophenone, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Sodium Polyacrylate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/664c4be60ed12/la-roche-posay-p72030.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-024",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Invisible Fluid SPF50+ Fragrance Free",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Alcohol Denat., Triethyl Citrate, Diisopropyl Sebacate, Silica, Ethylhexyl Salicylate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Perlite, Tocopherol, Caprylic/capric Triglyceride, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyethylcellulose, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d65d6d4913/la-roche-posay-p72028.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-025",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Family Spray SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "300ml",
+    "ingredients": "Aqua/Water, Alcohol Denat., Homosalate, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Octocrylene, Glycerin, Propanediol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Drometrizole Trisiloxane, Diisopropyl Adipate, Diisopropyl Sebacate, Dicaprylyl Ether, Triethanolamine, Tocopherol, Phenylbenzimidazole Sulfonic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Sodium Polyacrylate, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67ea40c755ea6/la-roche-posay-p72033.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-046",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar A.I. Targeted Imperfection Corrector",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua, Cyclohexasiloxane, Isononyl Isononanoate, Propylene Glycol, Isohexadecane, Niacinamide, PEG-100 Stearate, Glyceryl Stearate, Cetyl Alcohol, Ammonium Polyacryloyldimethyl Taurate, Stearyl Alcohol, Isobutane, Sodium Hydroxide, Myristyl Alcohol, Capryloyl Glycine, Capryloyl Salicylic Acid, Citric Acid, Xanthan Gum, T-Butyl-Alcohol, Acrylonitrile/Methyl/Methacrylate/Vinylidene Chloride Copolymer, Salicylic Acid, Chlorhexidine Digluconate, Piroctone Olamine, Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/64f728e3dae3f/la-roche-posay-p38171.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-047",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Sensitive Rich",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Isocetyl Stearate, Coco-Caprylate/Caprate, Squalane, Butyrospermum Parkii Butter/Shea Butter, Glycerin, Propanediol, Cetyl Alcohol, Aluminium Starch Octenylsuccinate, Glyceryl Stearate, Pentylene Glycol, Peg-100 Stearate, Niacinamide, Cetearyl Alcohol, Sodium Hydroxide, Caprylyl Glycol, Citric Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+    "image": "https://cdn1.costatic.com/img/product/400/6791fbc4c0aad/la-roche-posay-p38176.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-LAR-011",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Cleansing Oil AP+",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Glycerin, Sucrose, Sodium Laureth Sulfate, Coco-Betaine, Sodium Chloride, Citric Acid, Niacinamide, Perfume/Fragrance, PEG-75 Shea Butter Glycerides, Fragrance, PEG-75 Shea Butter Glycerides, Polysorbate 20, PPG-5 -Ceteth-20, Sodium Benzoate, Sodium Hydroxide, Vitreoscilla Ferment",
+    "image": "https://cdn1.costatic.com/img/product/400/68f0b2020e5a8/la-roche-posay-p37879.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-006",
+    "brand": "La Roche-Posay",
+    "name": "Micellar Water Ultra Reactive Skin",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Glycerin, Peg-7 Caprylic/Capric Glycerides, Poloxamer 124, Poloxamer 184, Peg-6 Caprylic/Capric Glycerides, Polysorbate 80, Disodium Edta, BHT, Myrtrimonium Bromide",
+    "image": "https://cdn1.costatic.com/img/product/400/67dd2ca02d66c/la-roche-posay-p26335.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-010",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Sérum Suractivé Concentré Anti-Rides Réparateur Repulpant",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Alcohol Denat., Propylene Glycol, Panthenol, Pentylene Glycol, Dimethicone, Peg-6 Caprylic/Capric Glycerides, Alpinia Galanga Leaf Extract, Calcium Chloride, Glyceryl Isostearate, Madecassoside, Ppg-6-Decyltetradeceth-30, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Algin, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Propanediol, Hydrolyzed Hyaluronic Acid, Hydroxyacetophenone, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Glucosamine, Xanthan Gum, Butylene Glycol, 1,2-Hexanediol, Tocopherol, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/69939c748260c/la-roche-posay-p115931.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-026",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Moisturising Lotion Ultra Protection SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua/Water/Eau, Isopropyl Palmitate, Alcohol Denat, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Propanediol, Dicaprylyl Ether, Triethanolamine, Phenylbenzimidazole Sulfonic Acid, Tocopherol, Oxidized Starch Acetate, Copernicia Cerifera Cera/Carnauba Wax/Cire De Carnauba, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Pentylene Glycol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Drometrizole Trisiloxane, Hydroxyethylcellulose, Terephthalylidene Dicamphor Sulfonic Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/651ed6ef5dd27/la-roche-posay-p80593.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-LAR-011",
+    "brand": "La Roche-Posay",
+    "name": "Mela B3 Sérum Concentré Anti-Taches",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Dimethicone, Niacinamide, Glycerin, Propylene Glycol, Polysilicone-11, Silica, Bis-Peg/Ppg-16/16 Peg/Ppg-16/16 Dimethicone, Cystoseira Tamariscifolia Extract, 2-Mercaptonicotinoyl Glycine, Peg-20 Methyl Glucose Sesquistearate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Thiosulfate, Carnosine, Poloxamer 338, Ammonium Polyacryloyldimethyl Taurate, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol, Octyldodecanol, Retinyl Palmitate, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Ci 17200 / Red 33, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68ef9edca2268/la-roche-posay-p112965.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-LAR-012",
+    "brand": "La Roche-Posay",
+    "name": "Retinol B3 Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua/Water, Glycerin, Cyclohexasiloxane, Alcohol Denat., Pentylene Glycol, Niacinamide, Dimethicone, Glycine Soja Oil/Soybean Oil, PPG-6-Decyltetradeceth-30, Sodium Hyaluronate, Retinol, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Polysilicone-11, Retinyl Palmitate, Tocopherol, Phenoxyethanol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/65097ed6a0e10/la-roche-posay-p55501.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-048",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Sebo-Controlling Moisturiser",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Alochol Denat., Silica [Nano]/Silica, Dimethicone/Vinyl Dimethicone Crosspolymer, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Butylene Glycol, Cocamide MEA, Sorbitan Oleate, Sarcosine, Glycderyl Stearate, PEG-100 Stearate, Isohexadecane, Sodium Hydroxide, Silica Silylate, Perlite, Hydroxyacetophenone, Cparyloyl Salicylic Acid, Citrc Acid, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Pentylene Glycol, Polysorbate 80, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopherol, Salicylic Acid, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68d5508c0eabd/la-roche-posay-p7225.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-049",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Lait Urea 10% Hydratant",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water/Eau,Urea,Glycerin,Butyrospermum Parkii Butter/Shea Butter,Brassica Campestris Seed Oil/Rapeseed Seed Oil,Dicaprylyl Carbonate,Isopropyl Palmitate,Pentylene Glycol,Glycine,Cetearyl Alcohol,Silica,Stearic Acid,Allantoin,Sorbitan Oleate,Sorbitan Tristearate,Glyceryl Stearate,Peg-100 Stearate,Peg-20 Methyl Glucose Sesquistearate,Isohexadecane,Sodium Hydroxide,Sodium Lactate,Myristic Acid,Palmitic Acid,Mannose,Hydroxyacetophenone,Hydroxyethylpiperazine Ethane Sulfonic Acid,Caprylyl Glycol,Citric Acid,Trisodium Ethylenediamine Disuccinate,Xanthan Gum,Polysorbate 80,Acrylamide/Sodium Acryloyldimethyltaurate Copolymer,Acrylates/C10-30 Alkyl Acrylate Crosspolymer,Tocopherol,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,Chlorhexidine Digluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/6745e44f0bb32/la-roche-posay-p89885.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-050",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Kerium DS Concentré",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Isononyl Isononanoate, Glycerin, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Myristyl Myristate, Stearic Acid, Potassium Cetyl Phosphate, Zinc Pca, Glyceryl Stearate Se, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Disodium Edta, Capryloyl Glycine, Vitreoscilla Ferment, Citric Acid, Xanthan Gum, Sodium Benzoate, Phenoxyethanol, Piroctone Olamine, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6784ccc97c596/la-roche-posay-p91908.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-LAR-015",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Mousse D'Eau Micellaire Nettoyante Démaquillante",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua / Water / Eau, Dipropylene Glycol, Sodium Laureth Sulfate, Glycerin, Peg-200 Hydrogenated Glyceryl Palmate, Disodium Cocoamphodiacetate, Peg-30 Glyceryl Cocoate, Potassium Chloride, Peg-7 Glyceryl Cocoate, Sodium Chloride, Coco-Betaine, Disodium Edta, Citric Acid, Trisodium Ethylenediamine Disuccinate, Pentylene Glycol, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68b9645a772d6/la-roche-posay-p110516.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-051",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Sensitive Fluid",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water, Caprylic/Capric Triglyceride, Glycerin, Propanediol, Pentylene Glycol, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Citric Acid, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66227941495be/la-roche-posay-p91907.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-007",
+    "brand": "La Roche-Posay",
+    "name": "Physiological Soothing Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, PEG-8, Glycerin, PEG-60 Hydrogenated Castor Oil, Poloxamer 124, Citric Acid, Chlorhexidine Digluconate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/64f6ed36b4fdb/la-roche-posay-p863.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-052",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Post-UV Exposure After-Sun Milk",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Alcohol Denat., Butyrospermum Parkii Butter/Shea Butter, Glyceryl Stearate Se, Octyldodecanol, Cetearyl Alcohol, Glyceryl Stearate Citrate, Tocopherol, Hydroxyacetophenone, Sclerotium Gum, Panthenol, Xanthan Gum, Pentylene Glycol, Mentha Piperita Extract/Peppermint Extract, Caprylyl Glycol, Citric Acid, Glycine Soja Oil/Soybean Oil, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6745e79483e9e/la-roche-posay-p89535.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-LAR-027",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVmune 400 Tinted Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua/Water/Eau, Alcohol Denat., Triethyl Citrate, Diisopropyl Sebacate, Silica, Ethylhexyl Salicylate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Glycerin, Propanediol, C12-22 Alkyl Acrylate/hydroxyethylacrylate Copolymer, CI 77891/ Titanium Dioxide, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Perlite, Tocopherol, Caprylic/Capric Triglyceride, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, CI 77491/Iron Oxides, CI 77492/Iron Oxides, CI 77499/Iron Oxides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Drometrizole Trisiloxane, Hydroxyethylcellulose, Sodium Stearoyl Glutamate, Terephthalylidene Dicamphor Sulfonic Acid, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/683eb6a4e1539/la-roche-posay-p72029.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-053",
+    "brand": "La Roche-Posay",
+    "name": "Lipikar AP+ Lipid-Replenishing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Isopropyl Palmitate, Butyrospermum Parkii Butter/Shea Butter, Propanediol, Cetyl Alcohol, Myristyl Myristate, Zea Mays Starch/Corn Starch, Niacinamide, Ophiopogon Japonicus Root Extract, Carbomer, Sodium Hydroxide, Mannose, Hydroxyacetophenone, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Maltodextrin, Polyglyceryl-3 Methylglucose Distearate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/696e5100a7054/la-roche-posay-p112964.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-054",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar H Iso-Biome Ultra Soothing Hydrating Care Anti-Imperfections",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Squalane, Dimethicone, Panthenol, Zea Mays Starch/Corn Starch, Niacinamide, Ammonium Polyacryloyldimethyl Taurate, Myristyl Myristate, Bixa Orellana Seed Extract, Stearic Acid, Potassium Cetyl Phosphate, Glyceryl Stearate Se, Sodium Hydroxide, Myristic Acid, 2-Oleamido-1,3-Octadecanediol, Palmitic Acid, Hydroxyacetophenone, Capryloyl Glycine, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Maltodextrin, Xanthan Gum, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/673343a0b3fe2/la-roche-posay-p73139.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد لحب الشباب",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-028",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVair Stick Solaire Vitaminé SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "10ml",
+    "ingredients": "Octyldodecanol, Isoamyl Laurate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Triheptanoin, Dibutyl Lauroyl Glutamide, Dibutyl Ethylhexanoyl Glutamide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Diethylhexyl Butamido Triazone, Parfum / Fragrance, Caprylic/Capric Triglyceride, Haematococcus Pluvialis Extract, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/69774055167c9/la-roche-posay-p114729.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-LAR-016",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Dermo Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Ethylhexyl Palmitate, Glycerin, Dipropylene Glycol, Carbomer, Sodium Hydroxide, Capryl Glycol/Caprylyl Glycol, Ethylhexylglycerin",
+    "image": "https://cdn1.costatic.com/img/product/400/69e6053fba43e/la-roche-posay-p790.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-029",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Invisible Spray SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Alcohol Denat., Homosalate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazine, Octocrylene, Glyceryl, Propanediol, C12-22 Alkyl Acrylate/Hydroxyproxyethyl Acrylate, Copolymer, Disopropyl Adipate, Disopropyl Sebacate, Dicaprylyl Ether, Triethanolamine, Tocopherol, Phenyl Benzimidazole Sulfonic Acid, Acrylates/C10-30 Alkyl Crosspolymer, Caprylyl Glycol, Drometrizole Trisiloxane, Sodium Polyacrylate, Trisodium Ethylenediamine Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67ee40fba1541/la-roche-posay-p43528.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-LAR-008",
+    "brand": "La Roche-Posay",
+    "name": "Respectissime Waterproof Eye Makeup Remover",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125ml",
+    "ingredients": "Aqua, Isododecane, Isopropyl Palmitate, Sodium Chloride, Poloxamer 184, Polyaminopropyl Biguanide, Dipotassium Phosphate, Potassium Phosphate, Hexylene Glycol, CI 61565",
+    "image": "https://cdn1.costatic.com/img/product/400/680b6d7946146/la-roche-posay-p798.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-055",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA Light Cream With Hyaluronic Acid",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Caprylic/Capric Triglyceride, Lauroyl Lysine, C15-19 Alkane, Myristyl Myristate, Ammonium Polyacryloyldimethyl Taurate, Stearic Acid, Potassium Cetyl Phosphate, Glyceryl Stearate Se, Sodium Hyaluronate, Sodium Hydroxide, Myristic Acid, Palmitic Acid, Hydrolyzed Hyaluronic Acid, Capryloyl Glycine, Caprylyl Glycol, Xanthan Gum, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68b963668e5ab/la-roche-posay-p110528.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-030",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios UVMune Dermo-Pediatrics Milk SPF50+ Children",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua/Water/Eau, Isopropyl Palmitate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, Propanediol, Dicaprylyl Ether, Triethanolamine, Phenylbenzimidazole Sulfonic Acid, Diisopropyl Adipate, Diisopropyl Sebacate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Oxidized Starch Acetate, Copernicia Cerifera Cera/Carnauba Wax/Cire De Carnauba, Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, Pentylene Glycol, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii Butter/Shea Butter, Caprylyl Glycol, Citric Acid, Drometrizole Trisiloxane, Hydroxyethylcellulose, Terephthalylidene Dicamphor Sulfonic Acid, Tocopherol, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6745e72c620eb/la-roche-posay-p89538.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-056",
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase HA UV SPF25 Rich",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Ethylhexyl Salicylate, Dimethicone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triethanolamine, Butyl Methoxydibenzoylmethane, Octyldodecanol, Isopropyl Isostearate, Cetyl Alcohol, Cetearyl Alcohol, Behenyl Alcohol, Stearic Acid, Titanium Dioxide, Cetearyl Glucoside, Peg-100 Stearate, Sodium Hyaluronate, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Silica, Myristic Acid, Palmitic Acid, Adenosine, Ascorbyl Glucoside, Hydrolyzed Hyaluronic Acid, Hydroxyacetophenone, Capryloyl Salicylic Acid, Caprylyl Glycol, Trisodium Ethylenediamine Disuccinate, Poly C10-30 Alkyl Acrylate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/651ed5d482e1a/la-roche-posay-p83039.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-LAR-031",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Invisible Spray SPF50+ With Fragrance",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua/Water, Alcohol Denat., Homosalate, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Octocrylene, Glycerin, Propanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-22 Alkyl Acrylate/Hydroxyethylacrylate Copolymer, Diisopropyl Adipate, Diisopropyl Sebacate, Dicaprylyl Ether, Triethanolamine, Tocopherol, Phenylbenzimidazole Sulfonic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Drometrizole Trisiloxane, Sodium Polyacrylate, Trisodium Ethylenediamine, Disuccinate, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6863cf64e1279/la-roche-posay-p43539.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-LAR-057",
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo (+) Unifiant",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Methyl Methacrylate Crosspolymer, T-Butyl Alcohol, Sodium Hydroxide, Oleic Acid, Salicylic Acid, Silica Silylate, Poloxamer 338, Nylon-12, Polysorbate 80, Zinc PCA, Linoleic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Isohexadecane, 2-Oleamido-1, 3-Octanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum/Fragrance, Sorbitan Oleate, Disodium Edta, Potassium Cetyl Phosphate, Bht, Glyceryl Stearate SE, [+/- May contain CI77891/TItanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides, Mica]",
+    "image": "https://cdn1.costatic.com/img/product/400/69fb477a99280/la-roche-posay-p24722.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SSE-LAR-013",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast B5 Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua/Water/Eau, Panthenol, Glycerin, Alcohol Denat., Dimethicone, Hydroxyethylpiperazine Ethane Sulfonic Acid, PEG-20 Methyl Glucose Sesquistearate, Sodium Hyaluronate, Ammonium Polyacryloyldimethyl Taurate, Caprylyl Glycol, Vitreoscilla Ferment, Citric Acid, Xanthan Gum, Octyldodecanol, Tocopherol, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/651ed56d0b178/la-roche-posay-p80590.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-058",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Crème Suractivée Anti-Rides Réparatrice Protectrice SPF30 Recharge",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua / Water / Eau, Glycerin, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Phenylbenzimidazole Sulfonic Acid, Alcohol Denat., Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triethanolamine, Panthenol, Dimethicone, Ethylhexyl Triazone, Butyl Methoxydibenzoylmethane, Octyldodecanol, Cetyl Alcohol, Behenyl Alcohol, Zea Mays Starch / Corn Starch, Alpinia Galanga Leaf Extract, Stearic Acid, Sorbitan Isostearate, Cetearyl Alcohol, Cetearyl Glucoside, Peg-100 Stearate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Polyacrylate Starch, Sodium Stearoyl Glutamate, Myristic Acid, Palmitic Acid, Adenosine, Ammonium Polyacryloyldimethyl Taurate, Ectoin, Hydroxyacetophenone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride, Capryloyl Salicylic Acid, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Glucosamine, Xanthan Gum, Pentylene Glycol, Phytic Acid, Poly C10-30 Alkyl Acrylate, Polyepsilon-Lysine, Polysorbate 60, Butylene Glycol, Phenoxyethanol, Parfum / Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6993a8554ffe0/la-roche-posay-p110525.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-LAR-009",
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast B5 Soothing Repairing Concentrated Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Propanediol, Panthenol, Pentylene Glycol, Sodium Citrate, Mannose, Madecassoside, Manganese Gluconate, Sodium Chloride, Coco-Betaine, Copper Gluconate, Caprylyl Glycol, Citric Acid, Trisodium Ethylendiamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/64f8289ad7235/la-roche-posay-p53428.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-010",
+    "brand": "La Roche-Posay",
+    "name": "Serozinc",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Sodium Chloride, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/64f82fc1c21fd/la-roche-posay-p838.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-TON-LAR-011",
+    "brand": "La Roche-Posay",
+    "name": "Ultra Oil Infused Micellar Water Sensitive Skins",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua/Water, Isohexadecane, Dipropylene Glycol, Pentylene Glycol, Sodium Chloride, Sodium Hydroxide, Poloxamer 182, Hydroxyacetophenone, Citric Acid, , CI61565/Green 6",
+    "image": "https://cdn1.costatic.com/img/product/400/64f827dd5f74c/la-roche-posay-p49027.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-LAR-059",
+    "brand": "La Roche-Posay",
+    "name": "Tolériane Dermallergo Fluid",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua/Water/Eau, Glycerin, Butylene Glycol, Propanediol, Butyrospermum Parkii/Shea Butter, Pentylene Glycol, Squalane, Polysorbate 20, Zea Mays Starch/Corn Starch, Salvia Miltiorrhiza Root Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Sphingomonas Ferment Extract, Ammonium Polyacryloyldimethyl Taurate, Hydroxyacetophenone, Caprylyl Glycol, Citric Acid, Trisodium Ethylenediamine Disuccinate, Acetyl Dipeptide-1 Cetyl Ester",
+    "image": "https://cdn1.costatic.com/img/product/400/643eadc94c0ae/la-roche-posay-p59687.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-LAR-003",
+    "brand": "La Roche-Posay",
+    "name": "Kerium Gel-Shampoo Anti-Dandruff",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide Mipa, Glycerin, Sodium Chloride, Capryloyl Glycine, Capryloyl Salicylic Acid, Citric Acid, Glyceryl Laurate, Hexylene Glycol, Iodopropynyl Butylcarbamate, Isopropyl Alcohol, PEG-4, PEG-4 Dilaurate, PEG-4 Laurate, Piroctone Olamine, Polyquaternium-10, Salicylic Acid, Sodium Acetate, Sodium Benzoate, Sodium Hydroxide, Zinc PCA, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/690a18688d3ed/la-roche-posay-p803.jpg",
+    "marketingClaims": [
+      "مضاد لقشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
   }
 ]
