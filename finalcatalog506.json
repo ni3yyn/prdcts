@@ -22964,5 +22964,2233 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+    {
+    "id": "FR-TON-SVR-001",
+    "brand": "SVR",
+    "name": "[B3] Essence Hydra 150ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Propylene glycol, Glycerin, Diglycerin, Isopentyldiol, Niacinamide, Saccaride isomerate, sodium hyaluronate, 1,2- Hexanediol, Caprylyl glycol, Citric acid, Pentylene glycol, Sodium citrate, Sodium lactate, Xanthan gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67473c9e7feae/svr-b3-essence-p43807.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-001",
+    "brand": "SVR",
+    "name": "Sun Secure Écran Minéral Teinté SPF50+ Dry to Very Dry Skins 60g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "60g",
+    "ingredients": "Aqua (Purified Water), Zinc Oxide [Nano], Titanium Dioxide [Nano], Cyclopentasiloxane, Hexyldecyl Stearate, CI77891, Dimethicone, Propanediol, Sodium Chloride, Caprylyl Dimethicone Ethoxy Glucoside, Polyglyceryl-4 Isostearate, Silica Alumina, Cetyl Dimethicone, Niacinamide, Tridecyl Salicylate, Beta-Carotene, Caprylhydroxamic Acid, Daucus Carota Sativa (Carrot) Root Extract, Glycine Soka Oil, Hydrogenated Phosphatidylcholine, Lecithin, Lepidium Sativum Sprout Extract, Phenethyl Alcohol, Polyhydroxystearic Acid, Glycerin, Titanium Dioxide, Tocopherol, Tocopheryl Acetate, 1-2-Hexanediol, Alcohol, Caprylyl Glycol, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethiconol, Disodium Edta, Lysolecithin, Magnesium Sulfate, Quaternium-90 Bentonite, Stearic Acid, Triethoxycaprylylsilane, Phenoxyethanol, CI77491, CI77492, CI77499",
+    "image": "https://cdn1.costatic.com/img/product/400/631b548b2bbe0/svr-sun-secure-p76860.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-002",
+    "brand": "SVR",
+    "name": "Clairial Anti-Spot Cream SPF50+ 40 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Adipate, Undecane, Isoamyl Laurate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Silica, Beheneth-25, Niacinamide, Tridecane, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Diethylhexyl Butamido Triazone, Glyceryl Stearate Citrate, Butylene Glycol, Hydrogenated Vegetable Oil, Solanum Lycopersicum (Tomato) Fruit Extract, Alkanna Tinctoria Root Extract, Arginine, Disodium Lauryl Sulfosuccinate, Lecithin, Lepidium Sativum Sprout Extract, Plankton Extract, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Hydroxyethyl Acrylate/sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Polysorbate 60, Sorbitan Isostearate, Xanthan Gum, Coco-Glucoside, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67473d10bc89c/svr-clairial-anti-p80649.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-001",
+    "brand": "SVR",
+    "name": "Topialyse Cleansing Oil 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Glycerin, Sodium C14-16 Olefin Sulfonate, Sodium Lauroamphoacetate, Coco-Betaine, Niacinamide, Citric Acid, Sodium Olivamphoacetate, Alpha-Glucan Oligosaccharide, Parfum (Fragrance), Saccharide Isomerate, Caprylyl/Capryl Glucoside, Sodium Benzoate, Potassium Sorbate, Polyglyceryl-3 Cocoate, Polyglyceryl-10 Laurate, Gossypium Herbaceum (Cotton) Seed Oil, Sodium Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/67483d2dd564c/svr-topialyse-cleansing-p54942.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-001",
+    "brand": "SVR",
+    "name": "Hydraliane Intense Moisture Rich Cream 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Sorbitol, Behenyl Alcohol, C10-18 Triglycerides, Olea Europaea (Olive) Fruit Oil, Cetearyl Alcohol, Pentylene Glycol, Polyglyceryl-3 Distearate, Glycerin, Glyceryl Caprylate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sclerotium Gum, Sodium Stearoyl Glutamate, Sodium Hyaluronate, Tocopherol, Cetearyl Glucoside, Citric Acid, Glyceryl Stearate Citrate, Hydrogenated Vegetable Oil, Xanthan Gum, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67473dd1cd946/svr-hydraliane-intense-p83272.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-SVR-002",
+    "brand": "SVR",
+    "name": "Sebiaclear Micro-Peel 150ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Alcohol Denat., Niacinamide, Lactobionic Acid, Zinc Gluconate, Salicylic Acid, Sodium Hydroxide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483d3831e81/svr-sebiaclear-micro-p71771.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-002",
+    "brand": "SVR",
+    "name": "Xérial 10 Body Lotion 400ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), Urea, Cocos Nucifera (Coconut) Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Canola Oil, Borago Officinalis Seed Oil, Silica, Panthenol, Pentylene Glycol, Glyceryl Glucoside, Sodium Citrate, Triacetin, Serine, Parfum (Fragrance), Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Stearoyl, Glutamate, 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Sodium Lactate, Histidine, Propylene Glycol, Polysorbate 60, Sorbitan Isostearate, Bacillus Ferment, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e4578d8e/svr-xerial-10-p73022.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-003",
+    "brand": "SVR",
+    "name": "Sun Secure Blur Cream Optical Blurring Foaming Cream SPF50+ Fragrance Free 50 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Silica, Isododecane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Carbonate, Isopropyl Lauroyl Sarcosinate, Ethylhexyl Triazone, Beheneth-25, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Coco-Caprylate/Caprate, Dimethicone/Bis-isobutyl PPG-20 Crosspolymer, Pentylene Glycol, Cetearyl Alcohol, 1-2-Hexanediol, Niacinamide, CI 15850 (Red 6), Glycine Soja (Soybean) Oil, Lecithin, Lepidium Sativum Sprout Extract, Glycerin, Tocopherol, Caprylyl Glycol, Ethylhexylglycerin, Sodium Polyacrylate Starch, Triethoxycaprylylsilane, Coco-Glucoside, CI 77492 (Iron Oxides)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483ee1917d6/svr-sun-secure-p80650.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-003",
+    "brand": "SVR",
+    "name": "Topialyse Protect+ Balm 400ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Orbignya Oleifera Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetearyl Alcohol, Hydrogenated Castor Oil, Glyceryl Stearate Se, Pentylene Glycol, Cetearyl Glucoside, Sodium Stearoyl Glutamate, Ophiopogon Japonicus Root Extract, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Maltodextrin, pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Glycosphingolipids, Citric Acid, Glycolipids",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e1b82daf/svr-topialyse-protect-p65693.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-004",
+    "brand": "SVR",
+    "name": "Topialyse Nutri-Repair Cream Hands 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Purified Water), Ethylhexyl Stearate, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Caprylic/Capric Triglyceride, Glycerin, Peg-100 Stearate, Ammonium Acryloyldimethyl Taurate VP Copolymer, Camellina Sativa Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Tocopheryl Acetate, 1-2 Hexanediol, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Citric Acid, 0-Cymen-5-Ol, Sodium Benzoate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/648c14ae43459/svr-topialyse-nutri-p73620.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-004",
+    "brand": "SVR",
+    "name": "Cicavit+ Crème SPF50+ 40ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Purified Water), Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Silica, Cetearyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ceteareth-20, Ethylhexyl Triazone, Dimethicone, Niacinamide, Polymethyl Methacrylate, Pentylene Glycol, Polyester-7, Aminomethyl Propanol, Beta-Carotene, Beta-Sitosterol, Cetearyl Dimethicone Crosspolymer, Daucus Carota Sativa (Carrot) Root Extract, Glycine Soja (Soybean) Oil, Hydrogenated Phosphatidylcholine, Lecithin, Lepidium Sativum Sprout Extract, Squalene, Alpha-Glucan Oligosaccharide, Caffeyl Glucoside, Disodium Acetyl Glucosamine Phosphate, Glucose, Glycerin, Phytic Acid, Rhamnose, Tocopherol, Tocopheryl Acetate, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Glucuronic Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Lysolecithin, Neopentyl Glycol Diheptanoate, Polysorbate 60, Propanediol, Sodium Laureth Sulfate, Sorbitan Isostearate, Xanthan Gum, Potassium Sorbate, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/67473b8a1c51f/svr-cicavit-creme-p39445.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-MSK-SVR-001",
+    "brand": "SVR",
+    "name": "Xérial Peel Exfoliating Foot Mask",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua (Purified Water), Alcohol, Lactic Acid, Isopentyldiol, Isopropyl Alcohol, Peg-60 Hydrogenated Castor Oil, Urea, Butylene Glycol, Glycolic Acid, Ammonium Acryloyldimethyl Taurate/VP Copolymer, Potassium Hydroxide, Squalane, Glycerin, Hydrogenated Lecithin, Camellia Sinensis Leaf Extract, Clematis Vitalba Leaf Extract, Equisetum Arvense Extract, Fucus Vesiculosus Extract, Hedera Helix (Ivy) Extract, Spiraea Ulmaria Flower Extract, Hydroxypropyl Methylcellulose Stearoxy Ether, Sodium Methyl Stearoyl Taurate",
+    "image": "https://cdn1.costatic.com/img/product/400/674874c5a1edb/svr-xerial-peel-p77938.jpg",
+    "marketingClaims": [
+      "تقشير"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-SVR-001",
+    "brand": "SVR",
+    "name": "Cicavit+ Lip Balm 10g",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "10g",
+    "ingredients": "Ricinus Communis (Castor) Seed Oil, Prunus Amydgalus Dulcis (Sweet Almond) Oil, Cocos Nucifera (Coconut) Oil, Butyrospermum Parkii (Shea) Butter, Hydrogenated Castor Oil, Oleic/Linoleic/Linolenic Polyglycerides, Glycerin, Cera Alba/Beeswax/Cire d'abeille, Helianthus Annuus (Sunflower) Seed Oil, Aqua, Hydrogenated Vegetable Oil, Alpha-Glucan Oligosaccharide, Propanediol, Tocopheryl Acetate, Disodium Acetyl, Glucosamine Phosphate, Caffeyl Glucoside, Rhamnose, Glucose, Glucuronic Acid, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/684be40992a98/svr-cicavit-lip-p48897.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-SVR-001",
+    "brand": "SVR",
+    "name": "Biotic [C] Eye Soin Yeux Lissant Illuminateur 15 ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Ascorbyl Tetraisopalmitate, Mica, Sodium Polyacrylate, Ci 77891 (titanium Dioxide), Acetyl Hexapeptide-8, Carbomer, Gentiana Lutea Root Extract, Lactobacillus Ferment, Maltodextrin, Sodium Acetylated Hyaluronate, Sodium Stearoyl Glutamate, Helianthus Annuus (sunflower) Seed Oil, Tin Oxide, Tocopherol, 1,2-hexanediol, Caprylyl Glycol, Citric Acid, Pentylene Glycol, Propanediol, Sodium Hydroxide, Parfum/fragrance, Ci 77491 (iron Oxides)",
+    "image": "https://cdn1.costatic.com/img/product/400/67d962df27c75/svr-biotic-c-p101113.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-002",
+    "brand": "SVR",
+    "name": "Sebiaclear Micelar Water Eco-Refill 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), Poloxamer 184, PEG-7 Glyceryl Cocoate, Pentylene Glycol, Propanediol, Gluconolactone, 1,2-Hexanediol, Citric Acid, Sodium Hydroxide, Cetrimonium Bromide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e0742fac/svr-sebiaclear-micelar-p77405.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-OTH-SVR-002",
+    "brand": "SVR",
+    "name": "Topialyse Lips 4g",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "4g",
+    "ingredients": "Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, Ricinus Communis (Castor) Seed Oil, Oleic/Linoleic/Linolenic Polyglycerides, Helianthus Annuus (Sunflower) Seed Wax, Butyrospermum Parkii (Shea) Butter, Hydrogenated Vegetable Oil, Hydrogenated Castor Oil, Cera Carnauba/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, Ascorbyl Palmitate, Bisabolol, Camelina Sativa Seed Oil, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/695bcfd337d7b/svr-topialyse-lips-p112319.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-005",
+    "brand": "SVR",
+    "name": "Densitium Night Balm 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69f9dc046da7c/svr-densitium-night-p115143.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-005",
+    "brand": "SVR",
+    "name": "Sun Secure Glow Shimmering Solar Water SPF50+ 100 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c0ff3e17860/svr-sun-secure-p115155.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-006",
+    "brand": "SVR",
+    "name": "Sun Secure Moisturising Sun Water SPF30 200 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Dicaprylyl Carbonate, Undecane, Isoamyl Laurate, Diisopropyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Tridecane, Ethylhexyl Triazone, Hexylene Glycol, Niacinamide, Sodium Chloride, Bixa Orellana Seed Extract, Glycine Soja (Soybean) Oil, Lepidium Sativum Sprout Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Caprylic/Capric Triglyceride, Citric Acid, Coco-Betaine, Potassium Sorbate, Sodium Benzoate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e8ac2b52/svr-sun-secure-p80963.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-003",
+    "brand": "SVR",
+    "name": "Physiopure Foaming Jelly Purity Cleanser 200 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Disodium Cocoyl Glutamate, Decyl Glucoside, Xanthan Gum, Coco-Betaine, Magnesium Pca, Citric Acid, Potassium Sorbate, Sodium Benzoate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/674840a69bd4f/svr-physiopure-foaming-p86467.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-SVR-002",
+    "brand": "SVR",
+    "name": "Natural Biocellulose Intensive Hydra Mask 1 Bag",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "1 Bag",
+    "ingredients": "Aqua, Glycerin, Pentylene Glycol, Aloe Barbadensis Leaf Juice Powder, Fructose Glycine, Inositol, Sodium PCA, Tetrasodium Glutamate Diacetate, Niacinamide, Sodium Hyaluronate, Urea, Citric Acid, Polysorbate 20, Sodium Lactate, Xanthan Gum, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/67473dff2b7ca/svr-natural-biocellulose-p43805.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-004",
+    "brand": "SVR",
+    "name": "Sebiaclear Micellar Water 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c0fe3bd0cec/svr-sebiaclear-micellar-p115162.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-007",
+    "brand": "SVR",
+    "name": "Sun Secure Blur Mousse Cream Optical Blur SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Silica, Isododecane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Carbonate, Isopropyl Lauroyl Sarcosinate, Ethylhexyl Triazone, Beheneth-25, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Coco-Caprylate/Caprate, Dimethicone/Bis-isobutyl PPG-20 Crosspolymer, Pentylene Glycol, Cetearyl Alcohol, 1-2-Hexanediol, Niacinamide, CI 15850 (Red 6), Glycine Soja (Soybean) Oil, Lecithin, Lepidium Sativum Sprout Extract, Glycerin, Tocopherol, Caprylyl Glycol, Ethylhexylglycerin, Sodium Polyacrylate Starch, Triethoxycaprylylsilane, Coco-Glucoside, Parfum (Fragrance), CI 77492 (Iron Oxides)",
+    "image": "https://cdn1.costatic.com/img/product/400/67bdd35c56a3d/svr-sun-secure-p72102.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-006",
+    "brand": "SVR",
+    "name": "Palpebral Anti-Irritation Balm Face and Eyes 30ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Glycerin, Hexyldecyl Stearate, Caprylic/Capric Triglyceride, Behenyl Alcohol, Sodium Acrylates Copolymer, Borago Officinalis Seed Oil, Cetearyl Alcohol, Cetearyl Glucoside, Glyceryl Stearate Se, Glycolipids, Glycosphingolipids, Lecithin, Maltodextrin, Ophiopogon Japonicus Root Extract, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Stearoyl Glutamate, Sodium Hyaluronate, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Pentylene Glycol",
+    "image": "https://cdn1.costatic.com/img/product/400/6977772594d25/svr-palpebral-anti-p89377.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد للالتهابات",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-005",
+    "brand": "SVR",
+    "name": "Topialyse Cleansing Gel 1L",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua (Purified Water), Sodium Laureth Sulfate, Glycerin, Disodium Laureth Sulfosuccinate Coco-Betaine, Peg-60 Hydrogenated Castor Oil, Peg-7 Glyceryl Cocoate, Calcium Gluconate, Camellina Sativa Seed Oil, Gluconolactone, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Citric Acid, Disodium Edta, Glyceryl Oleate, Hydrogenated Palm Glycerides, Citrate, Lactic Acid, Peg-120 Methyl Glucose Dioleate, Polyquaternium-7, Sodium Chloride, Sodium Hydroxide, Sodium Benzoate, Coco-Glucoside, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/69bacd34cc396/svr-topialyse-cleansing-p54939.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-006",
+    "brand": "SVR",
+    "name": "Sensifine Cleansing Balm 100g",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "Isopropyl Palmitate, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, C10-18 Triglycerides, PEG-7 Glyceryl Cocoate, Helianthus Annuus (Sunflower) Seed Wax, Hydrogenated Vegetable Oil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/66261871ead80/svr-sensifine-cleansing-p43811.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-008",
+    "brand": "SVR",
+    "name": "Sun Secure Pocket Spray SPF50+ 20ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "20ml",
+    "ingredients": "Aqua, Dicaprylyl Ether, Disopropyl Adipate, Dethylamino Hydroxybenzoyl Hexyl Benzoate Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Bis-Ethylhaxyloxyphenol Methoxyphenyl Triazine Diethylhexyl Butamido Triazone Silica Beheneth-25 Propanediol, Pentylene Glycol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Hydrogenated Vegetable Oil, Niacinamide, Cetearyl Alcohol, Polyester-7, Coco-Glucoside, Microcrystalline, Cellulose, Neopentyl Glycol Diheptanoate, Parfum (fragrance), 1,2-Hexanediol, Caprylyl Glycol, Glycerin, Arginine, Citric Acid, Tocopherol, Cellulose Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Disodium Lauryl, Sulfoccinate Glycine Soja (soybean) Oil, Lecithin, Polysorbate 60, Sorbitan Isostearate, Lepidum Satimum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/66261bea22ef6/svr-sun-secure-p72100.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-SVR-003",
+    "brand": "SVR",
+    "name": "Physiopure Toner Pure and Mild 200ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Purified Water), Propanediol, Magnesium PCA, 1-2 Hexanediol, Citric Acid, Polysorbate 20, Chlorphenesin, Sodium Benzoate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483c0c40b31/svr-physiopure-toner-p82981.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-007",
+    "brand": "SVR",
+    "name": "Sensifine AR Micellar Water 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), Propanediol, Peg-6 Caprylic/Capric Glycerides, Peg-7 Glyceryl Cocoate, Pentylene Glycol, Polysorbate 20, Niacinamide, 1-2 Hexanediol, Citric Acid, Sodium Hydroxide, Cetrimonium Bromide",
+    "image": "https://cdn1.costatic.com/img/product/400/67483c7e30aec/svr-sensifine-ar-p75470.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-008",
+    "brand": "SVR",
+    "name": "Physiopure Foaming Gel Pure Cleansing Care 400 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c0fa4f90738/svr-physiopure-foaming-p86522.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-009",
+    "brand": "SVR",
+    "name": "Sun Secure Glow Tinted Drops 15 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Glycerin, Mauritia Flexuosa Fruit Oil, Helianthus Annuus (sunflower) Seed Oil, Mica, Pentylene Glycol, Ci 77491 (iron Oxides), Sodium Carboxymethyl Starch, Boron Nitride, Corn Starch Modified, 1,2-hexanediol, Caprylyl Glycol, Ci 77499 (iron Oxides), Sodium Stearoyl Glutamate, Sclerotium Gum, Tocopherol, Xanthan Gum, Citric Acid, Algin, Polyglutamic Acid, Cyamopsis Tetragonoloba (guar) Gum, Fructooligosaccharides, Phytic Acid, Bioflavonoids, Glycoproteins",
+    "image": "https://cdn1.costatic.com/img/product/400/6978b2e058c45/svr-sun-secure-p115154.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-009",
+    "brand": "SVR",
+    "name": "Topialyse Cleansing Oil 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c1012383d2c/svr-topialyse-cleansing-p115163.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SSE-SVR-001",
+    "brand": "SVR",
+    "name": "[Day] Refresh Ampoule 15ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua, Glycerin, Propylene glycol, Caffeine, Isononyl isononanoate, propanediol, Pentylene glycol, 1-2-Hexanediol, Sodium polyacrylate starch, Caprylyl glycol, Acrylates/c10-30 alkyl acrylate crosspolymer, Fucus vesiculosus extract, Citric acid, Sodium hyaluronate, Hexylene glycol, Xanthan gum, Dipeptide diaminobutyroyl benzylamide diacetate",
+    "image": "https://cdn1.costatic.com/img/product/400/67473bc93430d/svr-day-refresh-p50913.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-SVR-003",
+    "brand": "SVR",
+    "name": "Sun Secure Self-Tanning Mousse 150ml",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "150ml",
+    "ingredients": "Aqua, Glycerin, Dihydroxyacetone, Propanediol, Glyceryl Glucoside, Caprylyl/Capryl Glucoside, Caramel, Lecithin, Lepidium Sativum Sprout Extract, Polyglyceryl-10 Laurate, Polyglyceryl-3 Cocoate, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Pentylene Glycol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/66261b71304a9/svr-sun-secure-p89531.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-007",
+    "brand": "SVR",
+    "name": "Sensifine AR Tinted Cream Unifying Anti-Redness Care 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Squalane, Caprylic/Capric Triglyceride, Propanediol, CI 77891 (Titanium Dioxide), Glyceryl Stearate Se, Silica, Boron Nitride, C14-22 Alcohols, Potassium Cetyl Phosphate, Pentylene Glycol, CI 77492 (Iron Oxides), Dipotassium Glycyrrhizate, Glycerin, C12-20 Alkyl Glucoside, 1,2-Hexanediol, Caprylyl Glycol, Ci 77491 (Iron Oxides), Xanthan Gum, Hydroxyethyl Acrylate/sodium Acryloyldimethyl Taurate Copolymer, Methyl Diisopropyl Propionamide, Citric Acid, Aluminum Hydroxide, CI 77499 (Iron Oxides), Algin, Rosmarinyl Glucoside, Caffeyl Glucoside, Gallyl Glucoside, Polysorbate 60, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/67483dae29a4a/svr-sensifine-ar-p71999.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "توحيد لون البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-008",
+    "brand": "SVR",
+    "name": "Cicavit+ Hands Cream 75g",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75g",
+    "ingredients": "Aqua, Glycerin, Cocos Nucifera (Coconut) Oil, Diglycerin, Vegetable Oil, C12-16 Alcohols, Glycol Palmitate, Cetyl Palmitate, Glyceryl Stearate Citrate, Helianthus Annuus (Sunflower) Seed Wax, Silica, Pentylene Glycol, 1,2-Hexanediol, Sodium Polyacrylate, Hydrogenated Lecithin, Palmitic Acid, Alpha-Glucan Oligosaccharide, Propanediol, Caprylyl Glycol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium Acetyl Glucosamine Phosphate, Rhamnose, Caffeyl Glucoside, Glucose, Glucuronic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/67473c46ee77d/svr-cicavit-hands-p54935.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-010",
+    "brand": "SVR",
+    "name": "Sebiaclear Eco-Refill Anti-Imperfection Foaming Gel 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Glycerin, Gluconolactone, Decyl Glucoside, Disodium Cocoyl Glutamate, Coco-Betaine, Salicylic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67483d9457499/svr-sebiaclear-eco-p85850.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-010",
+    "brand": "SVR",
+    "name": "Sun Secure Moisturising Sun Water SPF50+ 100 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Dicaprylyl Carbonate, Coco-Caprylate/Caprate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Ether, Diisopropyl Adipate, Ethylhexyl Triazone, Niacinamide, Sodium Chloride, Bixa Orellana Seed Extract, Glycine Soja (Soybean) Oil, Hexylene Glycol, Lepidium Sativum Sprout Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Caprylic/Capric Triglyceride, Citric Acid, Coco-Betaine, Potassium Sorbate, Sodium Benzoate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/6983278e403ce/svr-sun-secure-p89530.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-011",
+    "brand": "SVR",
+    "name": "Sun Secure Solar Protective Biodegradable Water SPF50+ 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Dicaprylyl Carbonate, Coco-Caprylate/Caprate, Dimethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Ether, Diisopropyl Adipate, Ethylhexyl Triazone, Niacinamide, Sodium Chloride, Bixa Orellana Seed Extract, Glycine Soja (Soybean) Oil, Hexylene Glycol, Lepidium Sativum Sprout Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Caprylic/Capric Triglyceride, Citric Acid, Coco-Betaine, Potassium Sorbate, Sodium Benzoate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/698326ecbe6c1/svr-sun-secure-p56227.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-009",
+    "brand": "SVR",
+    "name": "Topialyse Repair Barrier Cream 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Purified Water), Hydrogenated Polydecene, Glycerin, Ethylhexyl Stearate, Cetearyl Alcohol, Crambe Abyssinica Seed Oil Phytosterols Esters, Dimethicone, Poylester-7, Glyceryl Stearate, Xylitylglucoside, Neopentyl Glycol Diheptanoate, 1,2 Hexanediol, Behenyl Alcohol, C10-18 Triglycerides, Phenoxyethanol, Anhydroxylitol, Cetyl Alcohol, Ceteareth-33, Ammonium Acryloyldimethyltaurate/VP Copolymer, Camelina Sativa Seed Oil/Palm Oil Aminopropanediol Esters, Tocopheryl Acetate, Xylitol, Peg-75 Stearate, Chlorphenesin, Sodium Hyaluronate, Ceteth-20, Steareth-20, Dipotassium Glycyrrhizate, Disodium Edta, Triethanolamine, Hydrolyzed Rice Protein",
+    "image": "https://cdn1.costatic.com/img/product/400/63862b7f72d73/svr-topialyse-repair-p76859.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-010",
+    "brand": "SVR",
+    "name": "Biotic Hyalu Smoothing Plumping Gelée 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Butylene Glycol, Glycerin, Propylene Glycol, Caprylic/Capric Triglyceride, Ascorbyl Tetraisopalmitate, 1,2-Hexonadiol, C10-18 Triglycerides, Carbomer, Maltodextrin, Sodium Hyaluronate, Sodium Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Parfum (Fragrance), Sodium Hydroxide, Lecithin, Lactobacillus Ferment, Pentaerithrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn1.costatic.com/img/product/400/67d985614b2a1/svr-biotic-hyalu-p98890.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-011",
+    "brand": "SVR",
+    "name": "Densitium Rose Éclat Revitalising Cream Anti-Gravity 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, PEG-8 Beeswax, Glycerin, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Cetearyl Isononanoate, Dicaprylyl Carbonate, Behenyl Alcohol, Alumina Calcium PCA, Caprylyl Methicone, Cetearyl, Alcohol, Albizia Julibrissin Bark Extract, Parfum (Fragrance), CI 77891 (Titanium Dioxide), Pentylene Glycol, Leontopodium Alpinum Callus Culture Extract, Polyacrylamide, MCA, Xanthan Gum, 1,2-Hexanediol, Caprylyl Glycol, Ceteareth-20, C13-14 Isoparaffin, CI 77491 (Iron Oxides), Hyaluronic Acid, Hydroxyethylcellulose, Laureth-7, Silica, CI 77492 (Iron Oxides), Tin Oxide, Citric Acid, Sodium Benzoate, Algin, Tocopherol, Aluminium Hydroxide",
+    "image": "https://cdn1.costatic.com/img/product/400/6a168f4236365/svr-densitium-rose-p65696.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-012",
+    "brand": "SVR",
+    "name": "Sun Secure SPF30 Spray 200 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Dicaprylyl Ether, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Silica, Beheneth-25, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Propanediol, Pentylene Glycol, Hydrogenated Vegetable Oil, 1,2-Hexanediol, Niacinamide, Glycine Soja (Soybean) Oil, Lecithin, Lepidium Sativum Sprout Extract, Glycerin, Tocopherol, Caprylyl Glycol, Cellulose Gum, Cetearyl Alcohol, Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Microcrystalline Cellulose, Neopentyl Glycol Diheptanoate, Polyester-7, Polysorbate 60, Sorbitan Isostearate, Coco-Glucoside, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/550d4ae3c4d35/svr-sun-secure-p80965.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-012",
+    "brand": "SVR",
+    "name": "Sensifine AR Hydra-Crème Soothing Moisturizing Care 40 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Purified water quenches the skin. Grape seed oil and sunflower seed oil, protective vegetable oils. 5% Panthenol, a benchmark active ingredient, soothes and hydrates intensely. Hexyldecyl stearate, an emollient, provides hydration and comfort. Sodium Polyacrylate, an emulsifier, provides a soft and moisturizing texture. Caprylyl glycol, a humectant, provides softness and suppleness. 1,2 Hexanediol, a humectant, promotes skin comfort. Tocopherol, an antioxidant, helps protect the skin. Citric acid balances pH and protects the",
+    "image": "https://cdn1.costatic.com/img/product/400/69c0fd948e516/svr-sensifine-ar-p115157.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-013",
+    "brand": "SVR",
+    "name": "Sun Secure After Sun Milk 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Glycerin, Propanediol, Vegetable Oil, Cocos Nucifera (Coconut) Oil, Dicaprylyl Carbonate, Cetearyl, Alcohol, Glyceryl Stearate SE, Niacinamide, Cera Alba/Beeswax/Cire d'Abeille, Pentylene Glycol, Sodium Stearoyl Glutamate, Cetearyl Glucoside, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Glycine Soja (Soybean) Oil, Bacillus Ferment, Lecithin, Lepidium Sativum Sprout Extract, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/698328884e310/svr-sun-secure-p72101.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-013",
+    "brand": "SVR",
+    "name": "Sun Secure Aqua Fluide SPF50+ 50 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c0fcffafaeb/svr-sun-secure-p115156.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-SVR-002",
+    "brand": "SVR",
+    "name": "Densitium Bi-Serum 2 x 15ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "2 x 15ml",
+    "ingredients": "Aqua/Purified Water, Dicaprylyl Carbonate, Isononyl Isononanoate, Hexyldecyl Stearate, Oleic/Linoleic/Linolenic Polyglycerides, Squalane, Propanediol, Helianthus Annuus (Sunflower) Seed Oil, Glyceryl Behenate/Eicosadioate, Hydroxypropyl Starch Phosphate, Argania Spinosa Kernel Oil, Bixa Orellana Seed Extract, Borago Officinalis Seed Oil, Glycine Soja (Soybean) Oil, Glycolipids, Glycosphingolipids, Lavandula Stoechas Extract, Leontopodium Alpinium Callus Culture Extract, Lupinus Alpis Seed Extract, Oenothera Biennis (Evening Primrose) Oil, Sesanum Indicum (Sesame) Oil Unsaponifiables, Artemisia Abrotanum Extract, Calcium PCA, Glycerin, Hyaluronic Acid, Saccharide Isomerate, Tocopherol, 1-2-Hexanediol, Acacia Senegal Gum, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Pentylene Glycol, Sodium Citrate, Xanthan Gum, Alpha Isomethyl Ionone, Citronellol, D-Limonene, Linalool, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/6a5f72994e832/svr-densitium-bi-p115141.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-014",
+    "brand": "SVR",
+    "name": "Sun Secure Tinted Mousse Cream Optical Blur SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Silica, Isododecane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Carbonate, Isopropyl Lauroyl Sarcosinate, Ethylhexyl Triazone, Beheneth-25, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Coco-Caprylate/Caprate, CI 77891 (Titanium Dioxide), Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Pentylene Glycol, Cetearyl Alcohol, 1-2-Hexanediol, Niacinamide, Coco-Glucoside, Sodium Polyacryalte Starch, Ethylhexylglycerin, CI 77492 (Iron Oxides), Caprylyl Glycol, Glycerin, Parfum (Fragrance), Tocopherol, Triethoxycaprylysilane, CI 77499 (Iron Oxides), Glycine Soja (Soybean) Oil, Lecithin, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6983261f51664/svr-sun-secure-p80651.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-014",
+    "brand": "SVR",
+    "name": "Biotic Hyalu Plumping Smoothing Gel Refill 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua/ water/ eau, butylene glycol, glycerin, propylene glycol, caprylic/ capric triglyceride, ascorbyl tetraisopalmitate, 1,2-hexonadiol, C10-18 triglycerides, carbomer, maltodextrin, sodium hyaluronate, sodium acrylates copolymer, acrylates/ C10-30 alkyl acrylate crosspolymer, caprylyl glycol, parfum (fragrance), sodium hydroxide, lecithin, Lactobacillus ferment, pentaerithrityl tetra-di-t-butyl hydroxyhydrocinnamate, sodium acetylated hyaluronate",
+    "image": "https://cdn1.costatic.com/img/product/400/67d98252dabc7/svr-biotic-hyalu-p98888.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-015",
+    "brand": "SVR",
+    "name": "Sebiaclear Cream SPF50+ 40ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Adipate, Ethylhexyl Triazone, Beheneth-25, Isononyl Isononanoate, Niacinamide, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Glycerin, C12-15 Alkyl Benzoate, C15-19 Alkane, Diethylhexyl Butamido Triazone, Glyceryl Stearate Citrate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Pentylene Glycol, Butylene Glycol, Salicylic Acid, 1,2-Hexanediol, Caprylyl Glycol, Parfum (Fragrance), Arginine, Coco-Glucoside, Xanthan Gum, Tocopherol, Sodium Hydroxide, Disodium Lauryl Sulfosuccinate, Glycine Soja (Soybean) Oil, Lecithin, Sarcosine, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/67483da06dac0/svr-sebiaclear-cream-p73020.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-011",
+    "brand": "SVR",
+    "name": "Sensifine Dermo-Nettoyant Make-up Removing Cleanser 200ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Purified Water), Hexyldecyl Stearate, Propanediol, Niacinamide, 1-2 Hexanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Caprylyl Glycol, Pentylene Glycol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67483c0fd2a15/svr-sensifine-dermo-p52284.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-SVR-003",
+    "brand": "SVR",
+    "name": "Densitium Bi-Serum Refill 2 x 15 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "2 x 15 ml",
+    "ingredients": "Bio-calcium, which restructures the epidermis and strengthens supporting tissues. Ultra-fragmented hyaluronic acid, which fades wrinkles and redensifies the skin. A duo of anti-gravity active ingredients that restores volume and bounce to the skin",
+    "image": "https://cdn1.costatic.com/img/product/400/6a266e891377f/svr-densitium-bi-p115153.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-012",
+    "brand": "SVR",
+    "name": "Sensifine AR Micellar Water Eco-Refill 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), Propanediol, Peg-6 Caprylic/Capric Glycerides, Peg-7 Glyceryl Cocoate, Pentylene Glycol, Polysorbate 20, Niacinamide, 1-2 Hexanediol, Citric Acid, Sodium Hydroxide, Cetrimonium Bromide",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e9a1ff73/svr-sensifine-ar-p81637.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-016",
+    "brand": "SVR",
+    "name": "Sun Secure Mist SPF50 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Dicaprylyl Carbonate, Butane, Alcohol Denat., Propane, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl, Hexyl Benzoate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polyester-7, Neopentyl Glycol Diheptanoate, Tocopheryl Acetate, Parfum (Fragrance), Caprylic/Capric Triglyceride, Tocopherol, Glycine Soja (Soybean) Oil, Aqua, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674874b301c46/svr-sun-secure-p50887.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-015",
+    "brand": "SVR",
+    "name": "Biotic Collagen Firming Rebound Cream Refill 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "LAB21.01/C.27 - INGREDIENTS : Aqua, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, SQUALANE, GLYCERIN, BUTYROSPERMUM PARKII (SHEA) BUTTER, CAESALPINIA SPINOSA GUM, COLLAGEN AMINO ACIDS, LACTOBACILLUS FERMENT, MALTODEXTRIN, SODIUM ACETYLATED HYALURONATE, ASCORBYL TETRAISOPALMITATE, 1,2-HEXANEDIOL, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CAPRYLYL GLYCOL, CITRIC ACID, PENTYLENE GLYCOL, SODIUM HYDROXIDE, PARFUM (FRAGRANCE)",
+    "image": "https://cdn1.costatic.com/img/product/400/681df872b866a/svr-biotic-collagen-p94823.jpg",
+    "marketingClaims": [
+      "تحفيز الكولاجين",
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-017",
+    "brand": "SVR",
+    "name": "Sun Secure Photo-Aging Fluid SPF50+ 40 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Carbonate, Sarcosinate, Diethylamino Hydroxybenzoyl Hexyl Benzoate Silica, Isopropyl, Propanelio Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine Coco-Caprylate/Caprate, Beheneth 25, Ethylhexyl Triazone, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Stearate Citrate, Diethylhexyl Butamido Triazone Niacinamide Alkanna Tinctoria Root Extract, Arginine Cucumis Melo (Melon) Fruit Extract, Disodium Lauryl Sulfosuccinate, Hydroxypropyltrimonium Maltodextrin Crosspolymer, Lecithin, Lepidium Sativum Sprout Extract, Maltodextrin, Sodium Acetylated Hyaluronate Glycerin, Helianthus Annuus (Sunflower) Seed Oil. Tocopherol. 1,2-Hexanediol, Caprylyl Glycol Citric Acid Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Pentylene Glycol, Polysorbate 60, Sorbitan Isostearate Xanthan Gum Coco-Glucoside",
+    "image": "https://cdn1.costatic.com/img/product/400/67d2a56f3a4dd/svr-sun-secure-p98885.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-018",
+    "brand": "SVR",
+    "name": "Densitium Global Correction Cream SPF30 Refill 50 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d688ac81ba/svr-densitium-global-p115150.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-019",
+    "brand": "SVR",
+    "name": "Sun Secure Spray SPF50+ 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Dicaprylyl Ether, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, C12-15 Alkyl benzoate, Bis-Ethylhexylophenol Methoxyphenyl Triazine, Diethylhexyl Butamino Triazone, Silica, Beheneth-25, Propanediol, Pentylene Glycol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Hydrogenated Vegetable Oil, Niacinamide, Cetearyl Alcohol, Polyester-7, Coco-Glucoside, Microcrystalline Cellulose, Neopentyl Glycol, Diheptanoate, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Glycerin, Arginine, Citric Acid, Tocopherol, Cellulose Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Disodium Lauryl Sulfosuccinate, Glycine Soja (Soybean) Oil, Lecithin, Polysorbate 60, Sorbitan Isostearate, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/66261bd18b04e/svr-sun-secure-p50890.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-SVR-002",
+    "brand": "SVR",
+    "name": "Densitium Eye Contour Cream Global Correction 15ml",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua (Purified Water), C15-19 Alkane, Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate, Vegetable Oil, Beheneth-25, Sodium Polyacrylate, Microcrystalline Cellulose, C10-18 Triglycerides, Lauroyl Lysine, Calcium PCA, Hydroxyacetophenone, Maltodextrin, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Cellulose Gum, Sodium Hydroxide, Hyaluronic Acid, Lactobacillus Ferment, Pentaerythrityl Tetra-Di-T-Butyl Hydroxihydrocinnamate, Pentylene Glycol, Lycium Barbarum Fruit Extract, Lactic Acid, Sodium Benzoate, Potassium Sorbate, Rosmarinus Officinalis (Rosemary) Leaf Extract, Palmitoyl Tetrapeptide-7, Chrysin",
+    "image": "https://cdn1.costatic.com/img/product/400/66261bfc19c05/svr-densitium-eye-p65697.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-016",
+    "brand": "SVR",
+    "name": "Xérial DM Psoriasis 200 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Urea, Butyrospermum Parkii (Shea) Butter, Orbignya Oleifera Seed Oil, Caprylic/Capric Triglyceride, Dimethicone, Glycerin, Propanediol, Glycol Palmitate, Glyceryl Stearate, Peg-100 Stearate, Myristyl Alcohol, Camelina Sativa Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cera Alba/Beeswax/Cire D'abeille, Sodium Citrate, Triacetin, Myristyl Glucoside, Pentylene Glycol, Polyacrylate Crosspolymer-6, Dimethicone Crosspolymer, Citric Acid, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Parfum (Fragrance), Calcium Pca, Sodium Lactate, Glycine Soja (Soybean) Oil, Stearyl Stearate, Stearyl Palmitate, Hydrolyzed Hyaluronic Acid, Paraffin, Polysorbate 60, Sorbitan Isostearate, Cetyl Palmitate, Cetyl Stearate, Saccharide Isomerate, Behenic Acid, Stearic Acid, Cera Microcristallina/Microcrystalline Wax/Cire Microcristalline, Arachidic Acid, Palmitic Acid, Helianthus Annuus (Sunflower) Seed Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/67483f61d6e6d/svr-xerial-dm-p91438.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-020",
+    "brand": "SVR",
+    "name": "Sun Secure Extreme Multi-Resistant Ultra-Matt Gel SPF50+ 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "INCI : Isododecane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Homosalate, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Beta-Carotene, Caprylhydroxamic Acid, Daucus Carota Sativa (Carrot) Root Extract, Glycine Soja (Soybean) Oil, Hydrogenated Phosphatidylcholine, Lecithin, Lepidium Sativum Sprout Extract, Phenethyl Alcohol, Tocopherol, Tocopheryl Acetate, Aqua (Purified Water), Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium EDTA, Lysolecithin, Silica Dimethyl Silylate, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/6983266fa8e0e/svr-sun-secure-p72103.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-021",
+    "brand": "SVR",
+    "name": "Sensifine AR Cream SPF50+ 40ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Ether, Ethylhexyl Triazone, Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Alcohol, C12-15 Alkyl Benzoate, Diethylhexyl Butamido Triazone, Ceteareth-20, Hydrogenated Vegetable Oil, Glycerin, Pentylene Glycol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, 1,2-Hexanediol, Niacinamide, Polyester-7, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dipotassium Glycyrrhizate, Neopentyl Glycol Diheptanoate, Caprylyl Glycol, Arginine, Xanthan Gum, Coco-Glucoside, Tocopherol, Citric Acid, Glycine Soja (Soybean) Oil, Disodium Lauryl Sulfosuccinate, Polysorbate 60, Sorbitan Isostearate, Lecithin, Rosmarinyl Glucoside, Caffeyl Glucoside, Gallyl Glucoside, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6748409583113/svr-sensifine-ar-p73874.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-SVR-004",
+    "brand": "SVR",
+    "name": "[A] Ampoule Lift Retinol Anti-Wrinkle Smoothing Serum 30 ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "LAB23.10/G.08. - INGREDIENTS : Aqua, CAPRYLIC/CAPRIC TRIGLYCERIDE, PROPANEDIOL, NIACINAMIDE, BORON NITRIDE, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, GLYCERYL CAPRYLATE/CAPRATE, GLYCERYL GLUCOSIDE, GLYCOLIPIDS, GLYCOSPHINGOLIPIDS, LAURYL GLUCOSIDE, LECITHIN, PISTACIA LENTISCUS (MASTIC) GUM, POLYGLYCERYL-6 LAURATE, PULLULAN, RETINOL, SCLEROTIUM GUM, TETRASODIUM GLUTAMATE DIACETATE, GLYCERIN, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, TOCOPHEROL, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, CELLULOSE GUM, CITRIC ACID, LYSOLECITHIN, MICROCRYSTALLINE CELLULOSE, MYRISTYL GLUCOSIDE, PENTYLENE GLYCOL, POLYSORBATE 20, SILICA, SODIUM CITRATE, XANTHAN GUM",
+    "image": "https://cdn1.costatic.com/img/product/400/681a021f0f848/svr-a-ampoule-p95912.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-013",
+    "brand": "SVR",
+    "name": "Topialyse Cleansing Balm 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), Glycerin, Sodium C14-16 Olefin Sulfonate, Coco-Betaine, Coco-Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Niacinamide, Alpha Glucan Oligosaccharide, Saccharide Isomerate, Tocopherol, Tocopheryl Acetate, 1-2 Hexanediol, Caprylyl Glycol, Citric Acid, Cocos Nucifera (Coco) Oil, Glyceryl Oleate, Gossypium Herbaceum (Cotton) Seed Oil, Hydrogenated Palm Glycerides Citrate, Pentylene Glycol, Sodium Citrate, Sodium Hydroxide, Styrene/Acrylates Copolymer",
+    "image": "https://cdn1.costatic.com/img/product/400/67483bf35cec8/svr-topialyse-cleansing-p29496.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-022",
+    "brand": "SVR",
+    "name": "Clairial Day Anti-Brown Spot Unifying Corrector SPF30 30ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Diethylamino Hydroxybenzoyl Benzoate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, CI 77891 (Titanium Dioxide), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Caprylic/Capric Triglyceride, Isopropyl Lauroyl Sarcosinate, Silica, Boron Nitride, Ceteareth-20 Glyceryl Stearate, PEG-100 Stearate, Dicaprylyl Carbonate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Xanthan Gum, CI 77491 (Iron Oxides), Coco-Glucoside, Sodium Citrate, Stearalkonium Hectorite, Propylene Glycol Stearate, Sodium Hyaluronate, Undecylenoyl Phenylalanine, Bentonite, Butylene Glycol, Magnesium Stearate, Aluminum Hydroxide, Propylene Carbonate, Disodium Lauryl Sulfosuccinate, CI 77499 (Iron Oxides), Algin, Sclerotium Gum, Lecithin, Pullulan, Tin Oxide, Yeast Ferment Extract, Ethylhexyl Ferulate, Tocopherol, Plankton Extract, Diacetyl Boldine",
+    "image": "https://cdn1.costatic.com/img/product/400/66261b985b98e/svr-clairial-day-p53093.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-017",
+    "brand": "SVR",
+    "name": "Densitium Rich Cream Global Correction 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Butyrospermum Parkii Butter (Shea Butter), Caprylic/Capric Triglyceride, Cetearyl Isononanoate, Dicaprylyl Carbonate, Behenyl Alcohol, Glycerin, Calcium PCA, Dimethicone, Arachidyl Alcohol, 1,2-Hexanediol, PEG-100 Stearate, Glyceryl Stearate, Dipalmitoyl Hydroxyprolyne, Hyaluronic Acid, Tocopherol, Arachidyl Glucoside, Triethanolamine, Xanthan Gum, Mica, Hydroxyethylcellulose, Citric Acid, Chlorophenesin, Phenoxyethanol, Parfum, Citronellol, Linalool, Limonene, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Alpha Isomethyl Ionone, CI 77891",
+    "image": "https://cdn1.costatic.com/img/product/400/6a16a1f99978b/svr-densitium-rich-p66751.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-018",
+    "brand": "SVR",
+    "name": "Topialyse Cream Nourishing Soothing 48H 400ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Butyrospermum Parkii (shea) Butter, Orbignya Oleifera Seed Oil, Glycerin, C10-18 Triglycerides, Cocos Nucifera (Coconut) Oil, Pentylene Glycol, Glyceryl Stearate Citrate, Glyceryl Stearate Se, Borago Officinalis Seed Oil, Glyceryl Glucoside, Glycine Soja (Soybean) Oil, Sodium Stearoyl Glutamate, Alpha-glucan Oligosaccharide, Tocopherol, 1,2- Hexanediol, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acid, Sodium Hydroxide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483f74bb1ce/svr-topialyse-cream-p79626.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-019",
+    "brand": "SVR",
+    "name": "Densitium Global Correction Cream 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Octyldodecanol, Vegetable Oil, Orbignya Oleifera Seed Oil, Glyceryl Stearate, Glycerin, Beheneth-25, Behenyl Alcohol, Cetyl Palmitate, Cetearyl Alcohol, 1,2-Hexanediol, Arginine PCA, Calcium PCA, Sodium Polyacryloyldimethyl Taurate, Butylene Glycol, Hydroxyacetophenone, Sodium Stearoyl Lactylate, Maltodextrin, Parfum (Fragrance), Xanthan Gum, Hyaluronic Acid, Lactobacillus Ferment, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Carbomer, Sodium Lactate, Polysorbate 20, Sodium Hydroxide, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7",
+    "image": "https://cdn1.costatic.com/img/product/400/6a676b1485261/svr-densitium-global-p115146.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-023",
+    "brand": "SVR",
+    "name": "Sun Secure Stick Rechargeable SPF50+ 10 g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "10 g",
+    "ingredients": "Propylheptyl Caprylate, Octyldodecanol, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Triethyl Citrate, Tributyl Citrate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Lauroyl Glutamide, Diethylhexyl Butamido Triazone, Dibutyl Ethylhexanoyl Glutamide, Lepidium Sativum Sprout Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Caprylic/Capric Triglyceride",
+    "image": "https://cdn1.costatic.com/img/product/400/67977fdd15d47/svr-sun-secure-p98884.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-014",
+    "brand": "SVR",
+    "name": "Sebiaclear Foaming Gel Anti-Imperfections 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c0fe4c9d0f0/svr-sebiaclear-foaming-p115159.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-015",
+    "brand": "SVR",
+    "name": "Physiopure Micellar Water Cleansing Makeup Remover Purity Softness 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c1017eb070a/svr-physiopure-micellar-p115160.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-020",
+    "brand": "SVR",
+    "name": "Biotic Pepti Smoothing Retexturizing Gel-Mat Refill 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Lab19.15/C.11 – Ingredients (Contains) : Aqua, Glycerin, Squalane, Ascorbyl Tetraisopalmitate, Lauroyl Lysine, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Silica, Sodium Polyacrylate, Peg-7 Glyceryl Cocoate, Pentylene Glycol, Maltodextrin, 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Parfum (Fragrance), Sodium Hydroxide, Citric Acid, Lactobacillus Ferment, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Acetylated Hyaluronate, Dipeptide Diaminobutyroyl Benzylamide Diacetate",
+    "image": "https://cdn1.costatic.com/img/product/400/67d98163e0dc4/svr-biotic-pepti-p98887.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-021",
+    "brand": "SVR",
+    "name": "Densitium Global Correction Cream Refill 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d51f51d506/svr-densitium-global-p115147.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-024",
+    "brand": "SVR",
+    "name": "Sun Secure Dry Oil SPF50 200ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl, Hexyl Benzoate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol, Methoxyphenyl Triazine, Isoamyl Laurate, Isononyl Isononanoate, Diethylhexyl Butamido Triazone, Polyester-7, Neopentyl Glycol Diheptanoate, Parfum (Fragrance), Caprylic/Capric Triglyceride, Tocopherol, Glycine Soja (Soybean) Oil, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674874af07686/svr-sun-secure-p50891.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-022",
+    "brand": "SVR",
+    "name": "Biotic [C20] Smoothing Cream 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Ascorbyl Tetraisopalmitate, Hydrogenated Ethylhexyl Olivate, Myristyl Alcohol, Glyceryl Stearate, Lauroyl Lysine, Peg-100 Sterate, Butyrospermum Parkii/Shea/Butter, Sodium Citrate, Silica, Myristyl Glucoside, Microcrystalline Cellulose, Hydroxyethyl Acrylatesodium Acryloyldimethyl Taurate Copolymer, Tocopheryl Acetate, Pentylene Glycol, Mannitol, 1-Hexanediol, Allantoin, Carylyl Glycol, Parfum/Fragrance, Citric Acid, Hydrogenated Olive Oil Unsaponifiables, Cellulose Gum, Polysorbate 60, Sorbitan isostearate, Sodium Acetylated Hyaluronate, Maltodextrin, Hydroxypropyl Methylcellulose, CI77492 Iron Oxides, Lactobacillus Ferment, Agin",
+    "image": "https://cdn1.costatic.com/img/product/400/6a57686006775/svr-biotic-c20-p98889.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-023",
+    "brand": "SVR",
+    "name": "Topialyse Balm Protect+ 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Orbignya Oleifera Seed Oil, Ricinus Communis (Castor) Seed Oil, Cetearyl Alcohol, Hydrogenated Castor Oil, Glyceryl Stearate Se, Pentylene Glycol, Cetearyl Glucoside, Sodium Stearoyl Glutamate, Ophiopogon Japonicus Root Extract, 1,2-Hexanediol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Maltodextrin, pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Glycosphingolipids, Citric Acid, Glycolipids",
+    "image": "https://cdn1.costatic.com/img/product/400/67484090ad2e5/svr-topialyse-balm-p65692.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-SVR-004",
+    "brand": "SVR",
+    "name": "Sebiaclear Smoothing Anti-Imperfection Body Spray 150 ml",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Alcohol Denat., Niacinamide, Lactobionic Acid, Zinc Gluconate, Salicylic Acid, Sodium Hydroxide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/68cbd811de177/svr-sebiaclear-smoothing-p94821.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-SVR-025",
+    "brand": "SVR",
+    "name": "Sun Secure SPF50+ Fluid 50ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua, Silica, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Beheneth-25, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, C15-19 Alkane, Diethylhexyl Butamido Triazone, Glyceryl Stearate Citrate, Isononyl Isononanoate, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Polyester-7, Niacinamide, Pentylene Glycol, Neopentyl Glycol, Diheptanoate Tocopheryl Acetate, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Caprylic/Capric Triglyceride, Arginine, Coco-Glucoside, Tocopherol, Xanthan Gum, Citric Acid, Glycine Soja (Soybean) Oil, Disodium Lauryl Sulfosuccinate, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/674874ad1732c/svr-sun-secure-p50892.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-024",
+    "brand": "SVR",
+    "name": "Xérial 30 Gel-Cream 75ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua, Urea, Cocos Nucifera (Coconut) Oil, Glycerin, Octyldodecanol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Panthenol, Silica, Pentylene Glycol, Glyceryl Glucoside, Octyldodecyl Xyloside, Peg-30 Dipolyhydroxystearate, Triacetin, Serine, 1,2-Hexanediol, Caprylyl Glycol, Sodium Lactate, Propylene Glycol, Disodium Edta, Polysorbate 60, Sorbitan Isostearate, Histidine, Bacillus Ferment, Citric Acid, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/67483d78c6bc3/svr-xerial-30-p73024.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-016",
+    "brand": "SVR",
+    "name": "Physiopure Micellar Water Eco-Refill 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), PEG-6 Caprylic Capric Glycerides, PEG-7 Glyceryl Cocoate, Pentylene Glycol, Propanediol, Magnesium PCA, 1-2-Hexanediol, Citric Acid, Cetrimonium Bromide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/63fc6b90a4f15/svr-physiopure-micellar-p81636.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-SVR-017",
+    "brand": "SVR",
+    "name": "Sensifine AR Micellar Water 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c10136946c8/svr-sensifine-ar-p115161.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-025",
+    "brand": "SVR",
+    "name": "Xérial 10 Body Lotion 200ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Purified Water), Urea, Cocos Nucifera (Coconut) Oil, Glycerin, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Canola Oil, Borago Officinalis Seed Oil, Silica, Panthenol, Pentylene Glycol, Glyceryl Glucoside, Sodium Citrate, Triacetin, Serine, Parfum (Fragrance), Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Stearoyl, Glutamate, 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Sodium Lactate, Histidine, Propylene Glycol, Polysorbate 60, Sorbitan Isostearate, Bacillus Ferment, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e64d263f/svr-xerial-10-p73021.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-026",
+    "brand": "SVR",
+    "name": "Sensifine AR Rich Cream Anti-Redness Moisturising Soothing Intensive Care 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Purified Water), Propanediol, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Isohexadecane, Glycerin, Glyceryl Stearate, C15-19 Alkane, Dimethicone, Silica, Squalane, Cetyl Alcohol, Peg-75 Stearate, Myristyl Alcohol, Pentylene Glycol, Polyacrylate Crosspolymer-6, Dipotassium Glycyrrhizate, Saccharide Isomerate, Ceteth-20, Steareth-20, 1-2 Hexanediol, Caprylyl Glycol, Xanthan Gum, Myristyl Glucoside, Methyl Diisopropyl Propionamide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Rosmarinyl, Glucoside, Cafeyl Glucoside, Gallyl Glucosiden, Citric Acid, Sodium Citrate, CI-10020, Sodium Sulfate, Polysorbate 60, Sorbitan Isostearate, CI 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/674840623e0c7/svr-sensifine-ar-p31458.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-027",
+    "brand": "SVR",
+    "name": "Sebiaclear Active Gel 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Purified Water), Gluconolactone, Cyclopentasiloxane, Propanediol, Methyl Methacrylate Crosspolymer, Niacinamide, Sodium Hydroxide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Salicylic Acid, Saccharide Isomerate, Citric Acid Dimethiconol, Glyceryl Stearate, Peg-100 Stearate, Polysorbate 60, Sodium Citrate, Sorbitan Isostearate, Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/6748409f75972/svr-sebiaclear-active-p54934.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-018",
+    "brand": "SVR",
+    "name": "Sensifine Dermo-Nettoyant 2 x 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "2 x 400ml",
+    "ingredients": "Aqua (Purified Water), Hexyldecyl Stearate, Propanediol, Niacinamide, 1-2 Hexanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Caprylyl Glycol, Pentylene Glycol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/651a773a86e9e/svr-sensifine-dermo-p81160.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-019",
+    "brand": "SVR",
+    "name": "Topialyse Eco-Refill Cleansing Gel 1L",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua, Sodium C14-16 Olefin Sulfonate, Coco-Glucoside, Coco-Betaine, Glycerin, Parfum (Fragrance), Citric Acid, Sodium Benzoate, Potassium Sorbate, Sodium Phytate",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e2b9fc3d/svr-topialyse-eco-p54943.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-028",
+    "brand": "SVR",
+    "name": "Cicavit+ HPPI Cream 100 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Orbignya Oleifera Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Butyrospermum Parkii (Shea) Butter, Zea Mays (Corn) Oil, Propanediol, Glyceryl Stearate, Glycerin, Behenyl Alcohol, Niacinamide, Butylene Glycol, Cetearyl Alcohol, Corn Starch Modified, Curcuma Longa (Turmeric) Root Extract, Glycolipids, Glycosphingolipids, Hydrolyzed Yeast Extract, Lecithin, Sodium Stearoyl Glutamate, Sodium Stearoyl Lactylate, Alpha-Glucan Oligosaccharide, Glucose, Hydrolyzed Hyaluronic Acid, Rhamnose, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Glucuronic Acid, Pentylene Glycol, Sodium Hydroxide, Sodium Polyacrylate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/686e8ed25b561/svr-cicavit-hppi-p98895.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-020",
+    "brand": "SVR",
+    "name": "Sensifine AR Micellar Water 400 ml + Eco-Refill Micellar Water 400 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a5dd2305eeea/svr-sensifine-ar-p81642.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-021",
+    "brand": "SVR",
+    "name": "Cleansing Balm Sensitive Hands 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Sodium C14-16 Olefin Sulfonate, Coco-Glucoside, Glycerin, Coco-Betaine, Styrene/Acrylates Copolymer, Citric Acid, Parfum (Fragrance), Sodium Benzoate, Potassium Sorbate, Sodium Phytate",
+    "image": "https://cdn1.costatic.com/img/product/400/67473cf3c62a7/svr-cleansing-balm-p53489.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-MSK-SVR-003",
+    "brand": "SVR",
+    "name": "Sensifine Mask SOS 75ml",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua (Purified Water), Caprylic/Capric Triglyceride, Gossypium Herbaceum (Cotton) Seed Oil, Butyrospermum Parkii (Shea) Butter, Niacinamide, Caesalpina Spinosa Gum, Pentaerythrityl Tetra Di-T-Butyl Hydroxyhydrocinnamate, 1-2 Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crisspolymer, Caprylyl Glycol, Citric Acid, Pentylene Glycol, Sodium Hydroxide",
+    "image": "https://cdn1.costatic.com/img/product/400/67483e85b4ea5/svr-sensifine-mask-p90926.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-022",
+    "brand": "SVR",
+    "name": "Topialyse Gel Lavant 100 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c1020baff3d/svr-topialyse-gel-p115164.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-029",
+    "brand": "SVR",
+    "name": "Biotic [C20] Energizing Smoothing Fluid 30 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Ascorbyl Tetraisopalmitate, Propanediol, Tridecane, Silica, Arachidyl Alcohol, Sodium Polyacryloyldimethyl Taurate, Glyceryl Glucoside, Lactobacillus Ferment, Lauryl Glucoside, Maltodextrin, Polyglyceryl-6 Laurate, Sodium Acetylated Hyaluronate, Tetrasodium Glutamate Diacetate, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, 1,2-Hexanediol, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Citric Acid, Myristyl Glucoside, Pentylene Glycol, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/68f75aa84af76/svr-biotic-c20-p112318.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-026",
+    "brand": "SVR",
+    "name": "Sun Secure Lait Fragrance-Free SPF50+ 250 ml",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Diisopropyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dicaprylyl Ether, Silica, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Hydrogenated Vegetable Oil, Diethylhexyl Butamido Triazone, Beheneth-25, Propanediol, Pentylene Glycol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Niacinamide, HydroxyethylAcrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cetearyl Alcohol, Polyester-7, Coco-Glucoside, Microcrystalline Cellulose, Neopentyl Glycol, Diheptanoate, 1,2-Hexanediol, Caprylyl Glycol, Glycerin, Arginine, Citric Acid, Tocopherol, Cellulose Gum, Polysorbate 60, Sorbitan Isostearate, Disodium Lauryl Sulfosuccinate, Glycine Soja (Soybean) Oil, Lecithin, Lepidium Sativum Sprout Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/69832834b3167/svr-sun-secure-p80964.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-023",
+    "brand": "SVR",
+    "name": "Topialyse Cleansing Oil 1L",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "1L",
+    "ingredients": "Aqua, Glycerin, Sodium C14-16 Olefin Sulfonate, Sodium Lauroamphoacetate, Coco-Betaine, Niacinamide, Citric Acid, Sodium Olivamphoacetate, Alpha-Glucan Oligosaccharide, Parfum (Fragrance), Saccharide Isomerate, Caprylyl/Capryl Glucoside, Sodium Benzoate, Potassium Sorbate, Polyglyceryl-3 Cocoate, Polyglyceryl-10 Laurate, Gossypium Herbaceum (Cotton) Seed Oil, Sodium Citrate",
+    "image": "https://cdn1.costatic.com/img/product/400/69bad0c8e6b73/svr-topialyse-cleansing-p54944.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-024",
+    "brand": "SVR",
+    "name": "Physiopure Cleansing Oil 150 ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Lab21.42/A.39 - Ingredients : Helianthus Annuus (Sunflower) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Coco-Caprylate/Caprate, Vitis Vinifera (Grape) Seed Oil, Polyglyceryl-4 Oleate, Isoamyl Laurate, Bixa Orellana Seed Extract, Glycine Soja (Soybean) Oil, Prunus Domestica Seed Oil, Pyrus Malus (Apple) Seed Oil, Tocopherol, Caprylic/Capric Triglyceride, Parfum/Fragrance",
+    "image": "https://cdn1.costatic.com/img/product/400/67483da918b25/svr-physiopure-cleansing-p91434.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-027",
+    "brand": "SVR",
+    "name": "Sun Secure Tinted Mineral Sunscreen SPF50+ Normal to Combination Skin 60g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "60g",
+    "ingredients": "Aqua (Purified Water), Zinc Oxide [Nano], Cyclopentasiloxane, Titanium Dioxide [Nano], Hexydecyl Stearate, Glycerin, CI 77891, Caprylyl Dimethicone Ethoxy Glucoside, Sodium Chloride, Polyglyceryl-4 Isostearate, Alumina, Cetyl Dimethicone, Niacinamide, 1,2-Hexanediol, CI 77492 (Iron Oxides), Stearic Acid, Polyhydroxystearic Acid, Magnesium Sulfate, Tocopheryl Acetate, Triethoxycaprylylsilane, Quaternium-90, Bentonite, CI 77491 (Iron Oxides), Lecithin, Hydrogenated Phosphatidycholine, Lysolecithin, CI 77499 (Iron Oxides), Alcohol, Dimethiconol, Glycine Soja (Soybean)) Oil, Sodium Benzoate, Phenoxyethanol, Citric Acid, Beta-Sitosterol, Phytic Acid, Potassium Sorbate, Squalene, Tocopherol, Lepidium Sativum Sprout Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6787dd896aa7a/svr-sun-secure-p31457.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-030",
+    "brand": "SVR",
+    "name": "Sensifine Extreme Soothing Repair 30 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Octyldodecanol, Simmondsia Chinensis (Jojoba) Seed Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Mineral Salts, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/683722ae1f97f/svr-sensifine-extreme-p98883.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-031",
+    "brand": "SVR",
+    "name": "Sebiaclear Active Tinted 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Dimethicone, CI77891 (Titanium Dioxide), Caprylyl Methicone, Niacinamide, PEG-10 Dimethicone, Diphenyl Dimethicone, Propylene Glycol, PEG/PPG-18/18 Dimethicone, Neopentyl Glycol Diheptanoate, CI77492 (Iron Oxides), Boron Nitride, Lauroyl Lysine, Cetearyl Dimethicone Crosspolymer, Disteardimonium Hectorite, Propylene Carbonate, Saccharide Isomerate, Salicylic Acid, Citric Acid, Sodium Hydroxide, Triethoxycaprylylsilane, Fragrance, CI77491 (Iron Oxides), CI77499 (Iron Oxides)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483cc22b5a6/svr-sebiaclear-active-p41286.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-SVR-032",
+    "brand": "SVR",
+    "name": "Densitium Rose Éclat Redensifying Unifying Cream Refill 50 ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69cb7f23805c0/svr-densitium-rose-p115148.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-033",
+    "brand": "SVR",
+    "name": "Xérial 50 Extreme Anti-Callus Feet Cream 50ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Urea, Aqua, Glycerin, Butyrospermum Parkii Butter, Triethanolamine, Isohexadecane, Salicylic Acid, Octydodecanol, Polyacrylate-13, Bacillus Ferment, Serine, Histidine, Octyldodecyl Xyloside, PEG-30 Dipolyhydroxystearate, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Propylene Glycol, Disodium EDTA, Citric Acid, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/6748405d4f69b/svr-xerial-50-p20492.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-SVR-028",
+    "brand": "SVR",
+    "name": "Sun Secure Stick Recharge SPF50+ 10 g",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "10 g",
+    "ingredients": "Propylheptyl Caprylate, Octyldodecanol, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Triethyl Citrate, Tributyl Citrate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Lauroyl Glutamide, Diethylhexyl Butamido Triazone, Dibutyl Ethylhexanoyl Glutamide, Lepidium Sativum Sprout Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Caprylic/Capric Triglyceride",
+    "image": "https://cdn1.costatic.com/img/product/400/67e3d48235b86/svr-sun-secure-p98892.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-SVR-034",
+    "brand": "SVR",
+    "name": "Sebiaclear Mat+Pores 40ml",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Purified Water), Silica, Propanediol, Gluconolactone, Niacinamide, Undecane, Orbignya Oleifera Seed Oil, Glyceryl Stearate, Tridecane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Salicylic Acid, Butylene Glycol, Saccharide Isomerate, Sodium Stearoyl Lactylate, 1,2-Hexanediol, Caprylyl Glycol, Parfum (Fragrance), Polysorbate 60, Sorbitan Isostearate, Xanthan Gum, Citric Acid, Sarcosine, Sodium Citrate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/67483d7f1e9b8/svr-sebiaclear-mat-p77404.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "قابض للمسام",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-CLE-SVR-025",
+    "brand": "SVR",
+    "name": "Physiopure Cleansing Micellar Water Pure and Mild 400ml",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Purified Water), PEG-6 Caprylic Capric Glycerides, PEG-7 Glyceryl Cocoate, Pentylene Glycol, Propanediol, Magnesium PCA, 1-2-Hexanediol, Citric Acid, Cetrimonium Bromide, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67483c2a14a15/svr-physiopure-cleansing-p78385.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-SVR-005",
+    "brand": "SVR",
+    "name": "Clairial Serum Complete Corrector Anti-Brown Spot Radiance 30ml",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Caprylic/Capric Triglyceride, Dimethicone, Ascorbyl Tetraisopalmitate, Silica, Dicaprylyl Carbonate, Butylene Glycol, Boron Nitride, Cetearyl Alcohol, Propanediol, Bentonite, Ethylhexyl Ferulate, Plankton Extract, Diacetyl Boldine, Glycerin, Sodium Hyaluronate, Tocopherol, Tocopheryl Acetate, Undecylenoyl Phenylalanine, 1-2 Hexanediol Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Citric Acide, Pentylene Glycol, Xanthan Gum, Coco-Glucoside, Parfum (Fragrance)",
+    "image": "https://cdn1.costatic.com/img/product/400/67473e055a6f9/svr-clairial-serum-p24015.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
