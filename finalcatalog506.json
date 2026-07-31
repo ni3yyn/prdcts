@@ -36741,5 +36741,2640 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+  
+  {
+    "id": "FR-LOT-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Baume À Lèvres Cerise",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/715a4a2d-ecaa-488b-859e-3acbf7a9a634/products/aroma-zone-baume-a-levres-cerise/aroma-zone-baume-a-levres-cerise_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Hyaluronic Acid",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Salix Nigra Bark Extract, Sodium Hyaluronate, Glycerin, Levulinic Acid, Sodium Levulinate",
+    "image": "https://incidecoder-content.storage.googleapis.com/30aa84ca-74cd-46ba-ad2d-3c959b810f1d/products/aroma-zone-hyaluronic-acid/aroma-zone-hyaluronic-acid_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Gentle Organic Donkey Milk Soap",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/da93509e-d0b2-471e-9027-35f75b36ce8c/products/aroma-zone-gentle-organic-donkey-milk-soap/aroma-zone-gentle-organic-donkey-milk-soap_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Siero Concentrato Di Retinale Ottimizzato",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Salix Nigra Bark Extract, Sodium Levulinate, Sodium Hyaluronate, Retinal, Pistacia Lentiscus Gum, Arginine, Astragalus Gummifer Gum, Levulinic Acid, Sodium Anisate, Caprylic/Capric Glycerides, Pentylene Glycol, Phytic Acid, Lecithin, Glyceryl Caprylate",
+    "image": "https://incidecoder-content.storage.googleapis.com/fc725f14-897d-41a7-a52d-192562aa8df7/products/aroma-zone-siero-concentrato-di-retinale-ottimizzato/aroma-zone-siero-concentrato-di-retinale-ottimizzato_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Acide Azelaique 10%",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Azelaic Acid, Pentylene Glycol, Propanediol, Salix Nigra Bark Extract, Silica, Sodium Hyaluronate, Astragalus Gummifer Gum, Xanthan Gum, Phytic Acid, Sodium Hydroxide",
+    "image": "https://incidecoder-content.storage.googleapis.com/f3d34c73-7398-4283-8b06-59a4f6ed12ad/products/aroma-zone-acide-azelaique-10/aroma-zone-acide-azelaique-10_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-OIB-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Huile Visage Précieuse Bio",
+    "country": "France",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/c10e2f8a-f4ae-4fff-92ba-098669bf9f88/products/aroma-zone-huile-visage-precieuse-bio/aroma-zone-huile-visage-precieuse-bio_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Organic Purifying And Hydrating Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Salix Nigra Bark Extract, Glycerin, Simmondsia Chinensis Seed Oil, Coco-Caprylate, Cetearyl Glucoside, Silica, Sorbitan Olivate, Zinc Hydrolyzed Hyaluronate, Zinc Sulfate, Hydrolyzed Algin, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Cetearyl Alcohol, Cetyl Palmitate, Sorbitan Palmitate, Tocopherol, Sodium Gluconate, Sodium Levulinate, Citric Acid, Sodium Anisate, Levulinic Acid, Helianthus Annuus Seed Oil",
+    "image": "https://incidecoder-content.storage.googleapis.com/3f99b09b-11dc-433b-aeec-f7fe062537e7/products/aroma-zone-organic-purifying-and-hydrating-lotion/aroma-zone-organic-purifying-and-hydrating-lotion_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Sérum Concentré Peptides De Cuivre & Pro-élastine",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Pentylene Glycol, Sodium Hyaluronate, Copper Tripeptide-1, SH-Oligopeptide-50, Caprylyl Glycol, Levulinic Acid, Sodium Levulinate, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Hydroxide",
+    "image": "https://incidecoder-content.storage.googleapis.com/4729c5ca-f3c8-40e5-bcd9-5a4a30ce345b/products/aroma-zone-serum-concentre-peptides-de-cuivre-pro-elastine/aroma-zone-serum-concentre-peptides-de-cuivre-pro-elastine_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Gentle Soap-free Cleansing Bar Organic Kaolin & Oats",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua",
+    "image": "https://incidecoder-content.storage.googleapis.com/cd0e5d6e-a5dd-4ce8-8d1c-ecf86b1f3926/products/aroma-zone-gentle-soap-free-cleansing-bar-organic-kaolin-oats/aroma-zone-gentle-soap-free-cleansing-bar-organic-kaolin-oats_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Crème Visage Et Corps Désaltérante",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Mentha Piperita Leaf Water, Prunus Armeniaca Kernel Oil, Glycerin, Helianthus Annuus Seed Oil, Salix Nigra Bark Extract, Dicaprylyl Carbonate, Glyceryl Stearate, Cetearyl Olivate, Sodium Levulinate, Sorbitan Olivate, Silica, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Aloe Barbadensis Leaf Extract, Sodium Anisate, Citric Acid, Levulinic Acid, Tocopherol",
+    "image": "https://incidecoder-content.storage.googleapis.com/0895acca-e0c9-42a5-8649-fd83aa3c71ce/products/aroma-zone-creme-visage-et-corps-desalterante/aroma-zone-creme-visage-et-corps-desalterante_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-005",
+    "brand": "Aroma-Zone",
+    "name": "Bakuchiol Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/8156265a-b321-4c23-b3f3-134f8d32dc65/products/aroma-zone-bakuchiol-serum/aroma-zone-bakuchiol-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-HMA-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Masque Capillaire",
+    "country": "France",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Lecithin, Glycerin, Sodium Cetearyl Sulfate, Olus Oil, Ricinus Communis Seed Oil, Simmondsia Chinensis Seed Oil, Inulin, Glyceryl Caprylate, Butyrospermum Parkii Butter, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Tocopherol, Helianthus Annuus Seed Oil, Lactic Acid, Dehydroacetic Acid, Benzyl Alcohol",
+    "image": "https://incidecoder-content.storage.googleapis.com/fc954c20-7236-4ac7-87b6-2eca3da9476a/products/aroma-zone-masque-capillaire/aroma-zone-masque-capillaire_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-006",
+    "brand": "Aroma-Zone",
+    "name": "Sérum Concentré Rétinal Optimisé",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Salix Nigra Bark Extract, Retinal, Pistacia Lentiscus Gum, Sodium Hyaluronate, Astragalus Gummifer Gum, Arginine, Levulinic Acid, Caprylic/Capric Glycerides, Phytic Acid, Lecithin, Glyceryl Caprylate, Pentylene Glycol",
+    "image": "https://incidecoder-content.storage.googleapis.com/288d88d4-6c14-433d-81ef-764641528ed4/products/aroma-zone-serum-concentre-retinal-optimise/aroma-zone-serum-concentre-retinal-optimise_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Elixir Floral De Rose De Damas Bio",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/91d54088-8f82-4000-8496-7a0e568c8cfd/products/aroma-zone-elixir-floral-de-rose-de-damas-bio/aroma-zone-elixir-floral-de-rose-de-damas-bio_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Creme Riche Collagene & Spilanthes",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Camellia Oleifera Seed Oil, Glycerin, Decyl Cocoate, C10-18 Triglycerides, Salix Nigra Bark Extract, Cetearyl Alcohol, Jojoba Esters, Pentylene Glycol, Glyceryl Stearate, Collagen Amino Acids, Glyceryl Behenate, Spilanthes Acmella Flower/Leaf/Stem Extract, Sodium Hyaluronate, Ubiquinone, Astragalus Membranaceus Root Extract, Aloe Barbadensis Leaf Juice Powder, Carthamus Tinctorius Seed Oil, Tocopherol, Helianthus Annuus Seed Cera, Helianthus Annuus Seed Wax, Acacia Decurrens Flower Cera, Sclerotium Gum, Xanthan Gum, Sodium Stearoyl Glutamate, Sodium Levulinate, Sodium Anisate, Citric Acid, Levulinic Acid, Polyglycerin-3, Phytic Acid, Helianthus Annuus Seed Oil",
+    "image": "https://incidecoder-content.storage.googleapis.com/85f55c48-2706-4c0d-a27f-bf8260bd2537/products/aroma-zone-creme-riche-collagene-spilanthes/aroma-zone-creme-riche-collagene-spilanthes_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-005",
+    "brand": "Aroma-Zone",
+    "name": "Lipid-replenishing Balm With Oats & Ceramide Np",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Oryza Sativa Bran Oil, Caprylic/Capric Triglyceride, Decyl Cocoate, Polyglyceryl-3 Polyricinoleate, Cocos Nucifera Oil, Ricinus Communis Seed Oil, Glycerin, Pentylene Glycol, Avena Sativa Kernel Oil, Magnesium Sulfate, Ceramide NP, Aloe Barbadensis Leaf Juice Powder, Arginine, Tocopherol, Hydrogenated Rapeseed Oil, Glyceryl Caprate, Polyglyceryl-3 Ricinoleate, Zinc Stearate, Cetearyl Alcohol, Helianthus Annuus Seed Oil, Phytic Acid, Sodium Anisate",
+    "image": "https://incidecoder-content.storage.googleapis.com/09b8f1f8-c4ff-40f6-97aa-e7ce7452048c/products/aroma-zone-lipid-replenishing-balm-with-oats-ceramide-np/aroma-zone-lipid-replenishing-balm-with-oats-ceramide-np_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-007",
+    "brand": "Aroma-Zone",
+    "name": "Concentrated Serum Niacinamide 10% Copper & Zinc",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Niacinamide, Salix Nigra Bark Extract, Zinc Pca, Sodium Hyaluronate, Copper Pca, Biosaccharide Gum-1, Glycerin, Levulinic Acid, Sodium Levulinate, Glyceryl Caprylate, Sodium Anisate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate",
+    "image": "https://incidecoder-content.storage.googleapis.com/7f37bb9d-a7b4-4996-92f3-3826c48624c4/products/aroma-zone-concentrated-serum-niacinamide-10-copper-zinc/aroma-zone-concentrated-serum-niacinamide-10-copper-zinc_front_photo_original.jpeg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-008",
+    "brand": "Aroma-Zone",
+    "name": "Niacinamide Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Niacinamide, Salix Nigra Bark Extract, Zinc Pca, Sodium Hyaluronate, Levulinic Acid, Copper Pca, Sodium Levulinate, Glycerin, Biosaccharide Gum-1, Glyceryl Caprylate, Sodium Anisate",
+    "image": "https://incidecoder-content.storage.googleapis.com/8fff499a-3855-4e57-8cfd-f5e3f36faf15/products/aroma-zone-niacinamide-serum/aroma-zone-niacinamide-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-009",
+    "brand": "Aroma-Zone",
+    "name": "Concentrated 10% Azelaic Acid Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Azelaic Acid, Pentylene Glycol, Propanediol, Salix Nigra Bark Extract, Silica, Sodium Hyaluronate, Astragalus Gummifer Gum, Xanthan Gum, Phytic Acid, Sodium Hydroxide",
+    "image": "https://incidecoder-content.storage.googleapis.com/4bf08c95-3b7d-4827-ae98-86c2152d2a21/products/aroma-zone-concentrated-10-azelaic-acid-serum/aroma-zone-concentrated-10-azelaic-acid-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-006",
+    "brand": "Aroma-Zone",
+    "name": "Baume À  Lèvres Bio Vegan Rose",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/6dd46a41-42a5-4cf9-9e73-9a5200bdee6a/products/aroma-zone-baume-a-levres-bio-vegan-rose/aroma-zone-baume-a-levres-bio-vegan-rose_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-010",
+    "brand": "Aroma-Zone",
+    "name": "Siero Concentrato Niacinamide 10%, Rame E Zinco",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Niacinamide, Salix Nigra Bark Extract, Zinc Pca, Sodium Hyaluronate, Levulinic Acid, Copper Pca, Sodium Levulinate, Glycerin, Biosaccharide Gum-1, Glyceryl Caprylate, Sodium Anisate, Tetrasodium Glutamate Diacetate",
+    "image": "https://incidecoder-content.storage.googleapis.com/f1179233-2e6f-4441-a602-eed6b68c1392/products/aroma-zone-siero-concentrato-niacinamide-10-rame-e-zinco/aroma-zone-siero-concentrato-niacinamide-10-rame-e-zinco_front_photo_original.jpeg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SHA-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Base Shampoing Neutre Sans Palme",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Tilia Vulgaris Flower Water, Sodium Cocoamphoacetate, Erythritol, Lauryl Glucoside, Lactic Acid, Disodium Cocoyl Glutamate, Glycerin, Inulin, Glyceryl Caprylate, Sodium Chloride, Arginine, PCA Glyceryl Oleate, Levulinic Acid, Sodium Anisate, Sodium Levulinate",
+    "image": "https://incidecoder-content.storage.googleapis.com/6a27336b-c160-42cc-b152-8f6bc68077e4/products/aromazone-base-shampoing-neutre-sans-palme/aromazone-base-shampoing-neutre-sans-palme_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-EYE-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Sérum Concentré Contour Des Yeux 5% Caféine & Hélichryse",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Caffeine, Niacinamide, Glycerin, Pentylene Glycol, Sodium Hyaluronate, Propanediol, Butylene Glycol, Helichrysum Angustifolium Flower Extract, Zerumbone, Sodium Gluconate, Citric Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/fbbab361-2d4b-4864-8789-89559151f0a4/products/aroma-zone-serum-concentre-contour-des-yeux-5-cafeine-helichryse/aroma-zone-serum-concentre-contour-des-yeux-5-cafeine-helichryse_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-007",
+    "brand": "Aroma-Zone",
+    "name": "Youth Face And Body Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Prunus Amygdalus Dulcis Oil, Glycerin, Rosa Damascena Flower Water, Butyrospermum Parkii Butter, Helianthus Annuus Seed Oil, Rosa Rubiginosa Seed Oil, Oryza Sativa Bran Oil, Salix Nigra Bark Extract, Glyceryl Stearate, Dicaprylyl Carbonate, Tilia Platyphyllos Flower Water, Arachidyl Alcohol, Aloe Barbadensis Leaf Juice Powder, Sodium Levulinate, Behenyl Alcohol, Cetyl Palmitate, Chondrus Crispus Powder, Sodium Anisate, Citric Acid, Sorbitan Palmitate, Arachidyl Glucoside, Sorbitan Olivate, Xanthan Gum, Levulinic Acid, Tocopherol, Sodium Hyaluronate, Glycine Soja Oil",
+    "image": "https://incidecoder-content.storage.googleapis.com/18c61a75-afba-41b6-98d5-392fc1b794f0/products/aroma-zone-youth-face-and-body-cream/aroma-zone-youth-face-and-body-cream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-BWA-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Base Lavante Neutre Sans Palme",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Lauryl Glucoside, Sodium Cocoamphoacetate, Lippia Citriodora Flower Water, Decyl Glucoside, Glycerin, Disodium Cocoyl Glutamate, Lactic Acid, Glyceryl Caprylate, Aloe Barbadensis Leaf Juice Powder, PCA Glyceryl Oleate, Sodium Chloride, Levulinic Acid, Sodium Anisate, Sodium Levulinate",
+    "image": "https://incidecoder-content.storage.googleapis.com/e26054fe-42ec-4c5c-8fa9-29cc714c3c86/products/aromazone-base-lavante-neutre-sans-palme/aromazone-base-lavante-neutre-sans-palme_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-011",
+    "brand": "Aroma-Zone",
+    "name": "Vitamin C 10% & Astaxanthine Concentrated Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Ascorbyl Glucoside, Glycerin, Salix Nigra Bark Extract, Sodium Hydroxide, Sodium Levulinate, Haematococcus Pluvialis Extract, Sodium Hyaluronate, Simmondsia Chinensis Seed Oil, Astragalus Gummifer Gum, Levulinic Acid, Sodium Anisate, Phytic Acid, Polyepsilon-Lysine, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://incidecoder-content.storage.googleapis.com/a6a4b7d2-34f7-419b-a2a8-a328a480fbe8/products/aroma-zone-vitamin-c-10-astaxanthine-concentrated-serum/aroma-zone-vitamin-c-10-astaxanthine-concentrated-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Gel Nettoyant Doux Prébiotique, Zinc & Concombre",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Pentylene Glycol, Erythritol, Inulin, Disodium Cocoyl Glutamate, Cucumis Sativus Fruit Extract, Zinc PCA, Aloe Barbadensis Leaf Juice Powder, Leuconostoc/Radish Root Ferment Filtrate, Decyl Glucoside, Xanthan Gum, Sodium Gluconate, Levulinic Acid, Citric Acid, Sodium Levulinate, Sodium Chloride",
+    "image": "https://incidecoder-content.storage.googleapis.com/d79ce33b-b71c-4b36-ae6c-edb18f88dca6/products/aroma-zone-gel-nettoyant-doux-prebiotique-zinc-concombre/aroma-zone-gel-nettoyant-doux-prebiotique-zinc-concombre_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-008",
+    "brand": "Aroma-Zone",
+    "name": "Organic Vegan Rose Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/140a81f0-f0f6-4e8f-b638-caa770eb0067/products/aroma-zone-baume-a-levres-bio-vegan-rose-2/aroma-zone-baume-a-levres-bio-vegan-rose-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-012",
+    "brand": "Aroma-Zone",
+    "name": "Sérum Visage Concentré Acide Glycolique 10% & AHA",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycolic Acid, Sodium Hydroxide, Salix Nigra Bark Extract, Glycerin, Vaccinium Myrtillus Fruit Extract, Sodium Hyaluronate, Levulinic Acid, Saccharum Officinarum Extract, Sodium Levulinate, Citrus Aurantium Dulcis Fruit Extract, Citrus Limon Fruit Extract, Acer Saccharum Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/fe4b2871-c107-4420-9cbc-b6c22924fa9e/products/aroma-zone-serum-visage-concentre-acide-glycolique-10-aha/aroma-zone-serum-visage-concentre-acide-glycolique-10-aha_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Huile Démaquillante Prune & Avoine",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://incidecoder-content.storage.googleapis.com/068fe8ef-b3b1-4bc1-9070-58cd0275cda0/products/aroma-zone-huile-demaquillante-prune-avoine/aroma-zone-huile-demaquillante-prune-avoine_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-HSE-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Anti-Hair Loss & Growth Serum",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Pentylene Glycol, Salix Nigra Bark Extract, Butylene Glycol, Isomalt, Glycerin, Pisum Sativum Sprout Extract, Panthenol, Acetyl Tetrapeptide-3, Trifolium Pratense Flower Extract, Biotinoyl Tripeptide-1, Sodium Hyaluronate, Levulinic Acid, Sodium Levulinate, Sodium Hydroxide, Phytic Acid, Dextran",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Visuel-FT_MS_Serum-C-ifL72LBQ.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-CLE-AROM-005",
+    "brand": "Aroma-Zone",
+    "name": "Purity Soap-Free Cleansing Bar",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Lauroyl Glutamate, Disodium Cocoyl Glutamate, Brassica Glycerides, Sodium Myristoyl Glutamate, Aqua, Shorea Robusta Seed Oil, Decyl Glucoside, Azadirachta indica leaf extract, Nigella sativa seed oil, Montmorillonite, Parfum, Illite, Melaleuca alternifolia leaf oil, Mentha spicata herb oil, Tocopherol, Helianthus Annuus Seed Oil, Citral, Citronellol, Limonene, Linalool",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Pain-Lavan-bTwvzQ7F.png",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-TON-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Organic Bourbon Geranium Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/01114-HY_geranium_Bo-IqH1mqAM.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "قابض للمسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-013",
+    "brand": "Aroma-Zone",
+    "name": "Azelaic Acid 10% Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Azelaic Acid, Pentylene Glycol, Propanediol, Salix Nigra Bark Extract, Silica, Sodium Hyaluronate, Astragalus Gummifer Gum, Xanthan Gum, Phytic Acid, Sodium Hydroxide",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Serum-Conc-z2LezKkK.png",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "مضاد لحب الشباب",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-009",
+    "brand": "Aroma-Zone",
+    "name": "Vitamin C & Astaxanthin Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Decyl Cocoate, Glycerin, Pentylene Glycol, Butyrospermum Parkii Butter, Polyglyceryl-3 Rice Branate, Ascorbyl Glucoside, Glyceryl Stearate Citrate, Cetearyl Alcohol, Haematococcus Pluvialis Extract, Punica Granatum Seed Extract, Sodium Hyaluronate, Ilex Paraguariensis Leaf Extract, Simmondsia Chinensis Seed Oil, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Rosmarinus Officinalis Leaf Extract, Sucrose Stearate, Citric Acid, Sodium Hydroxide, Sodium Anisate, Xanthan Gum, Sodium Citrate, Carrageenan, Sodium Gluconate, Helianthus Annuus Seed Oil, Sodium Levulinate, Caprylyl Glycol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/120_0002_STELLE_2500-aqvphtom.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-006",
+    "brand": "Aroma-Zone",
+    "name": "Organic Gentle Donkey Milk Soap - Cold-Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Olivate, Sodium Shea Butterate, Sodium Cocoate, Donkey Milk, Glycerin, Butyrospermum Parkii Butter, Persea Gratissima oil, Helianthus Annuus Seed Oil, Calendula Officinalis Flower Extract",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04022-savon-douceur--PLkR5mJw.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Palm Oil-Free Neutral Shampoo Base",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Tilia Vulgaris Flower Water, Sodium Cocoamphoacetate, Erythritol, Lauryl Glucoside, Latic acid, Disodium Cocoyl Glutamate, Glycerin, Inulin, Glyceryl Caprylate, Sodium Chloride, Arginine, PCA Glyceryl Oleate, Levulinic Acid, Sodium Anisate, Sodium Levulinate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/029-pack-aromazone-0-DXBPDHuE.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Moroccan Rhassoul (Ghassoul)",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00776RhassoulduMaFnF-jorF-vrw.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-014",
+    "brand": "Aroma-Zone",
+    "name": "Radiance Perfector Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Ascorbyl Glucoside, Glycerine, Salix Nigra Bark Extract, Sodium Hydroxide, Sodium Levulinate, Haematococcus Pluvialis Extract, Sodium Hyaluronate, Simmondsia Chinensis Seed Oil, Astragalus Gummifer Gum, Levulinic Acid, Sodium Anisate, Phytic Acid, Polyepsilon-Lysine, Tocopherol, Helianthus Annuus Seed Oil, Lecithin",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/DuoeCC81clatpaysagex-k0EI1MWm.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OIB-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Organic Jojoba Oil",
+    "country": "France",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00564-HV-jojoba-BIO--5uG08L1u.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-015",
+    "brand": "Aroma-Zone",
+    "name": "Hyaluronic Acid 3.5% Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Salix Nigra Bark Extract, Sodium Hyaluronate, Glycerin, Levulinic Acid, Sodium Levulinate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Serum-a-4_UAildg.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-007",
+    "brand": "Aroma-Zone",
+    "name": "Papaya & Vitamin C Enzyme Cleansing Powder",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "50 g",
+    "ingredients": "Oryza Sativa Starch, Disodium Cocoyl Glutamate, Maltodextrin, Sodium Lauroyl Glutamate, Xanthan Gum, Ascorbic Acid, Lauroyl Lysine, Papain, Lipase, Protease, Erythritol, Aqua",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Poudre-Net-d9NrFyMX.png",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Organic Tea Tree Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/01120-HY_tea_tree_BI-6v6JnZu6.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-TON-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Niacinamide 5%, Zinc & Hyaluronic Acid Toner",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Niacinamide, Glycerin, Salix Nigra Bark Extract, Pentylene Glycol, Inulin, Zinc PCA, Sodium Hyaluronate, Cucumis Sativus Fruit Extract, Aloe Barbadensis Leaf Juice Powder, Sodium Gluconate, Levulinic Acid, Sodium Levulinate, Leuconostoc/Radish Root Ferment Filtrate, Citric Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/CarrouselFTLotionYx0-sqpZurTn.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لحب الشباب",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Organic Marine Algae Peel-Off Mask",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Solum Diatomeae, Calcium Sulfate Hydrate, Oryza Sativa Powder, Algin, Tetrasodium Pyrophosphate, Xanthan Gum, Magnesium Oxide",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_masque--KzcTZdP9.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-008",
+    "brand": "Aroma-Zone",
+    "name": "Solid Make-Up Remover",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Cetearyl Alcohol, Cetearyl Olivate, Potassium Cocoyl Rice Amino Acids, Simmondsia Chinensis Seed Oil, Sorbitan Olivate, Aqua, Coco-Caprylate, Ricinus Communis Seed Oil, Butyrospermum Parkii Butter, Calendula Officinalis Flower Extract, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Demaquilla-JXqTyr3e.png",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-005",
+    "brand": "Aroma-Zone",
+    "name": "Wild Patchouli Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/HYPatchouli20sauvage-qetAhF-7.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Brewer's Yeast Supplements",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "",
+    "ingredients": "Saccharomyces Cerevisiae, Hydroxypropylmethylcellulose, Selenium-Enriched Brewer’s Yeast, Nicotinamide, Calcium D-Pantothenate, Pyridoxine Hydrochloride, Riboflavin, Thiamine Hydrochloride, Folic Acid, Biotin, Cyanocobalamin",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Trio-po-z1E-HxA4.jpg",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "مضاد لتساقط الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-016",
+    "brand": "Aroma-Zone",
+    "name": "Zero Blemish Perfector Niacinamide Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Niacinamide, Salix Nigra Bark Extract, Zinc PCA, Sodium Hyaluronate, Copper PCA, Biosaccharide Gum-1, Glycerin, Levulinic Acid, Sodium Levulinate, Glyceryl Caprylate, Sodium Anisate, Sodium Hydroxide, Tetrasodium Glutamate Diacetate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Duozerodefautpays5kp-zwF5iO61.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-AROM-009",
+    "brand": "Aroma-Zone",
+    "name": "Regenerative Soap",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Cinnamomum Camphora Linalooliferum Wood Oil, Oenothera Biennis Oil, Rosa Rubiginosa Seed Oil, Butyrospermum Parkii Butter, Cymbopogon Martini Oil, Rosa Damascena Flower Oil, Sodium Chloride, Citric Acid, CI 77491, Tetrasodium Glutamate Diacetate, Geraniol, Citral, Farnesol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/492-savon_regenerant-L11dKNz2.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-010",
+    "brand": "Aroma-Zone",
+    "name": "Hyaluronic Acid & Polyglutamic Acid Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Squalane, Coco-Caprylate, Salix Nigra Bark Extract, Cetearyl Olivate, Sorbitan Olivate, Propanediol, Cetearyl Alcohol, Hyaluronic Acid, Sodium Hyaluronate, Sodium Polyglutamate, Potassium Hydrolyzed Polygamma-Glutamate, Aloe Barbadensis Leaf Juice Powder, Cetyl Palmitate, Sorbitan Palmitate, Xanthan Gum, Sclerotium Gum, Sorbitan Oleate, Tocopherol, Phytic Acid, Sodium Levulinate, Sodium Anisate, Levulinic Acid, Citric Acid, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_05067_c-SHOejBzu.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AROM-010",
+    "brand": "Aroma-Zone",
+    "name": "Prebiotic, Zinc & Cucumber Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/CarrouselFTGelNetm7x-0trnzhWy.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SHA-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Organic Plant-Based Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04115-shampooing-veg-0Nb3WGuY.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-011",
+    "brand": "Aroma-Zone",
+    "name": "Plum & Oat Make-Up Remover Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Carthamus Tinctorius Seed Oil, Caprylic/Capric Triglyceride, Polyglyceryl-4 Oleate, Decyl Cocoate, Avena Sativa Kernel Oil, Prunus Domestica Seed Oil, Ricinus Communis Seed Oil, Simmondsia Chinensis Seed Oil, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/048-pack-aromazone-0-zK0q7ShM.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-006",
+    "brand": "Aroma-Zone",
+    "name": "Organic Rosemary Verbenone Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/042-pack-aromazone-0-3h3WEoce.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-017",
+    "brand": "Aroma-Zone",
+    "name": "Niacinamide 10%, Copper & Zinc Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Niacinamide, Salix Nigra Bark Extract, Zinc PCA, Sodium Hyaluronate, Levulinic Acid, Copper PCA, Sodium Levulinate, Glycerin, Biosaccharide Gum-1, Glyceryl Caprylate, Sodium Anisate, Tetrasodium Glutamate Diacetate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Serum_N-gp0zgAoX.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Superfine Montmorillonite Green Clay (Smectite)",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00485-argile_verte_m-_2rX36sz.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-018",
+    "brand": "Aroma-Zone",
+    "name": "Ceramides & Phytosterols Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Packsho-zopGbXYQ.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AROM-012",
+    "brand": "Aroma-Zone",
+    "name": "Purifying Soap",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Glycerin, Butyrospermum Parkii Butter, Citrus Medica Limonum Peel Oil, Melaleuca Alternifolia Oil, Lavandula Hybrida Oil, Lavandula Angustifolia Oil, Thymus Vulgaris Oil, Sodium Chloride, Citric Acid, Tetrasodium Glutamate Diacetate, Limonene, Linalool, Citral",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00490-savon_purifian-AT-FbPXI.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Superfine Purple Clay",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02203-v6V3Wou_.png",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-019",
+    "brand": "Aroma-Zone",
+    "name": "Spilanthes & Hyaluronic Acid Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Brassica Napus Extract, Simmondsia Chinensis Seed Oil, Squalane, Carthamus Tinctorius Seed Oil, Argania Spinosa Kernel Oil, Rosa Rubiginosa Seed Oil, Caryodendron Orinocense Nut Oil, Spilanthes Acmella Flower/Leaf/Stem Extract, Sodium Hyaluronate, Lavandula Stoechas Extract, Astragalus Membranaceus Root Extract, Opuntia Ficus-Indica Seed Oil, Ubiquinone, Ricinus Communis Seed Oil, Tocopherol, Caprylic/Capric Triglyceride, Helianthus Annuus Seed Oil, Sorbitan Olivate, Caproic Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/001-pack-aromazone-0-0KoLimaM.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-011",
+    "brand": "Aroma-Zone",
+    "name": "All-In-One Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Shorea Robusta Seed Butter, Glycerin, Carthamus Tinctorius Seed Oil, Simmondsia Chinensis Seed Oil, Theobroma Cacao Seed Butter, C10-18 Triglycerides, Helianthus Annuus Seed Oil, Dicaprylyl Carbonate, Glyceryl Stearate Citrate, Polyglyceryl-3 Stearate, Glyceryl Stearate, Aloe Barbadensis Leaf Juice Powder, Calendula Officinalis Flower Extract, Bisabolol, Silica, Tocopherol, Sodium Levulinate, Hydrogenated Lecithin, Glyceryl Undecylenate, Xanthan Gum, Levulinic Acid, Sodium Anisate, Phytic Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Creme-a-fuoHyJO8.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-AROM-005",
+    "brand": "Aroma-Zone",
+    "name": "Superfine White Kaolin Clay",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02305-argile-blanche-6LJ5EL6D.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-020",
+    "brand": "Aroma-Zone",
+    "name": "Glow and tan boosting serum, Carrot & Inositol",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Serum-b-PCI0Pb7e.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Nourishing & Restorative Shampoo Bar",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Lauroyl Glutamate, Sodium Myristoyl Glutamate, Disodium Cocoyl Glutamate, Arachidyl/Behenyl Alcohol, Aqua, Decyl Glucoside, Fragrance, Arachidyl/Behenyl Betainate Esylate, Zea Mays Starch, Brassica Glycerides, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Cocos Nucifera Oil, Cocos Nucifera Milk Powder, Persea Gratissima Oil, PCA Glyceryl Oleate, Butyrospermum Parkii Butter, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/CatalogueShampooingW-iYN80SCm.png",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-TON-AROM-007",
+    "brand": "Aroma-Zone",
+    "name": "Organic Cucumber & Hyaluronic Acid Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Pentylene Glycol, Glycerin, Maltooligosyl Glucoside, Cucumis Sativus Fruit Extract, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Proline, Arginine, Hydrogenated Starch Hydrolysate, Polyglyceryl-6 Caprylate, Levulinic Acid, Sodium Levulinate, Leuconostoc/Radish Root Ferment Filtrate, Phytic Acid, Citric Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/084-heros13-aromazon-ZAdDJk29.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-008",
+    "brand": "Aroma-Zone",
+    "name": "Organic Fine Lavender Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00765-HY_lavande_fin-zhR5z4MO.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-012",
+    "brand": "Aroma-Zone",
+    "name": "Neutral Moisturising Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Mentha Piperita Leaf Water, Prunus Armeniaca Kernel Oil, Glycerin, Helianthus Annuus Seed Oil, Salix Nigra Bark Extract, Dicaprylyl Carbonate, Glyceryl Stearate, Cetearyl Olivate, Sodium Levulinate, Sorbitan Olivate, Silica, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Aloe Barbadensis Leaf Extract, Sodium Anisate, Citric Acid, Levulinic Acid, Tocopherol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/CatalogueCremeNeutjx-bhjp7WnB.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-021",
+    "brand": "Aroma-Zone",
+    "name": "Copper Peptides 1% & Pro-Elastin Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Pentylene Glycol, Sodium Hyaluronate, Copper Tripeptide-1, Sh-Oligopeptide-50, Caprylyl Glycol, Levulinic Acid, Sodium Levulinate, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Hydroxide",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_04906_s-hy24YUiF.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-013",
+    "brand": "Aroma-Zone",
+    "name": "Handmade Soap Vetiver & Mint - Plant-Based & Cold Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/020-pack-aromazone-0-6aS2Z16m.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-014",
+    "brand": "Aroma-Zone",
+    "name": "Traditional Aleppo Soap - Plant-Based & Cold Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Olea Europaea Fruit Oil, Laurus Nobilis Fruit Oil, Aqua, Sodium Hydroxide",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04232-savon_Traditio-PqgZJVx6.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-022",
+    "brand": "Aroma-Zone",
+    "name": "Bakuchiol Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Squalane, Isosorbide Dicaprylate, Bakuchiol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04470Zj87SKe3j22r9dO-wB3aWuhK.png",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-009",
+    "brand": "Aroma-Zone",
+    "name": "Organic Provençal Spike Lavender Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04043HYlavandeasp7QZ-gcTbT_3V.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AROM-013",
+    "brand": "Aroma-Zone",
+    "name": "Youth-Enhancing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Prunus Amygdalus Dulcis Oil, Glycerin, Oryza Sativa Bran Oil, Butyrospermum Parkii Butter, Rosa Rubiginosa Seed Oil, Salix Nigra Bark Extract, Glyceryl Stearate, Dicaprylyl Carbonate, Arachidyl Alcohol, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Sodium Levulinate, Behenyl Alcohol, Cetyl Palmitate, Arachidyl Glucoside, Carrageenan, Sorbitan Olivate, Sorbitan Palmitate, Sodium Anisate, Citric Acid, Xanthan Gum, Levulinic Acid, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Creme-Neut-nAy0phvm.png",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-015",
+    "brand": "Aroma-Zone",
+    "name": "Handmade Soap Healthy Glow - Plant-Based & Cold Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02251-savon_Bonne_Mi-I7Rz68wa.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-HSE-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Strengthening & Densifying Hair Serum",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Pentylene Glycol, Salix Nigra Bark Extract, Butylene Glycol, Isomalt, Glycerin, Pisum Sativum Sprout Extract, Panthenol, Acetyl Tetrapeptide-3, Trifolium Pratense Flower Extract, Biotinoyl Tripeptide-1, Sodium Hyaluronate, Levulinic Acid, Sodium Levulinate, Sodium Hydroxide, Phytic Acid, Dextran",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_CA_serum_c-o8Acbumj.png",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "مضاد لتساقط الشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-023",
+    "brand": "Aroma-Zone",
+    "name": "AA Collagen 1.5% Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Pentylene Glycol, Glycerin, Sodium Hyaluronate, Collagen Amino Acids, Sh-Polypeptide-123, Arginine, Leuconostoc/Radish Root Ferment Filtrate, Levulinic Acid, Sodium Levulinate, Phytic Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/089-stele04-aromazon-twa8WLUE.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-010",
+    "brand": "Aroma-Zone",
+    "name": "Organic German Chamomile Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00886-HY_camomille_a-f97Z0eV7.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-006",
+    "brand": "Aroma-Zone",
+    "name": "Superfine Yellow Clay",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02306l12lJcye-xqIpU4TA.png",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-011",
+    "brand": "Aroma-Zone",
+    "name": "Jasminum Sambac Aromatic Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/01115-HY_jasmin_samb-wzIyXYML.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-012",
+    "brand": "Aroma-Zone",
+    "name": "Palmarosa Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04075-nUA4J8Uc-2mbe-uM1.png",
+    "marketingClaims": [
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-024",
+    "brand": "Aroma-Zone",
+    "name": "Vitamin B12 & Prebiotics Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Avena Sativa Kernel Oil, Hordeum Vulgare Seed Extract, Dipotassium Glycyrrhizate, Inulin, Sodium Levulinate, Myristyl Alcohol, Sodium Hyaluronate, Cyanocobalamin, Alpha-Glucan Oligosaccharide, Ceramide Np, Propanediol, Arachidyl Alcohol, Caprylyl Glycol, Levulinic Acid, Cetearyl Alcohol, Myristyl Glucoside, Behenyl Alcohol, Sodium Anisate, Sodium Gluconate, Xanthan Gum, Sclerotium Gum, Arachidyl Glucoside",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/088-stele03-aromazon-796Obe0U.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-EYE-AROM-002",
+    "brand": "Aroma-Zone",
+    "name": "Theine & Hyaluronic Acid Eye Contour Cream",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_creme-c-glW5im6v.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-014",
+    "brand": "Aroma-Zone",
+    "name": "Zinc Hyaluronate & Botanical Salicylic Acid Fluid Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Salix Nigra Bark Extract, Glycerin, Simmondsia Chinensis Seed Oil, Coco-Caprylate, Cetearyl Glucoside, Silica, Sorbitan Olivate, Zinc Hydrolyzed Hyaluronate, Zinc Sulfate, Hydrolyzed Algin, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Cetearyl Alcohol, Cetyl Palmitate, Sorbitan Palmitate, Tocopherol, Sodium Gluconate, Sodium Levulinate, Citric Acid, Sodium Anisate, Levulinic Acid, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/079-heros08-aromazon-ZslJbjOS.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-025",
+    "brand": "Aroma-Zone",
+    "name": "Optimised Retinal Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Salix Nigra Bark Extract, Sodium Levulinate, Sodium Hyaluronate, Retinal, Pistacia Lentiscus Gum, Arginine, Astragalus Gummifer Gum, Levulinic Acid, Sodium Anisate, Caprylic/Capric Glycerides, Pentylene Glycol, Phytic Acid, Lecithin, Glyceryl Caprylate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/003-pack-aromazone-0-lvFCG_ni.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-HSE-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Castor Oil Eyelash Serum",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Ricinus Communis Seed Oil, Pentylene Glycol, Propanediol, Panthenol, Isomalt, Glycerin, Astragalus Gummifer Gum, Biotinoyl Tripeptide-1, Pisum Sativum Sprout Extract, Sodium Hyaluronate, Arginine, Tocopherol, Phytic Acid, Citric Acid, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/CarrouselFTSoinCieee-VfZEgtPr.jpg",
+    "marketingClaims": [
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-026",
+    "brand": "Aroma-Zone",
+    "name": "Salicylic Acid 2% & Zinc Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Serum-A-U0OM3TG6.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-AROM-016",
+    "brand": "Aroma-Zone",
+    "name": "Handmade Soap Gentle Almond - Plant-Based & Cold Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02252-savon_Douceur_-Bt8Ogxd7.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-AROM-003",
+    "brand": "Aroma-Zone",
+    "name": "Hyaluronic Acid - 60 Capsules",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Hyaluronate, Hydroxypropyl Methylcellulose",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/015-pack-aromazone-0-V_04bTAl.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SCR-AROM-001",
+    "brand": "Aroma-Zone",
+    "name": "Pomegranate Enzyme & Rice Pearls Face Scrub",
+    "country": "France",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "50 g",
+    "ingredients": "Oryza Sativa Starch, Disodium Cocoyl Glutamate, Maltodextrin, Sodium Lauroyl Glutamate, Xanthan Gum, Ascorbic Acid, Lauroyl Lysine, Papain, Lipase, Protease, Erythritol, Aqua",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Packsho-DL1FHuK_.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-AROM-007",
+    "brand": "Aroma-Zone",
+    "name": "Superfine Red Clay",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02308AlNB3aKd-Ff6u76uk.png",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-017",
+    "brand": "Aroma-Zone",
+    "name": "Handmade Soap Charcoal Detox - Plant-Based & Cold Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04179-savon-charbon--gbKXpl7M.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-008",
+    "brand": "Aroma-Zone",
+    "name": "Superfine Pink Clay",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/025-pack-aromazone-0-S9ZBGPFz.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-AROM-013",
+    "brand": "Aroma-Zone",
+    "name": "Organic Damask Rose Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/044-pack-aromazone-0-m7EYfJR8.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-HSE-AROM-004",
+    "brand": "Aroma-Zone",
+    "name": "Keratin AA, Peptides & Hyaluronic Acid Hair Serum",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Pentylene Glycol, Aspergillus Ferment, Salix Nigra Bark Extract, Glycerine, Arginine, Keratin Amino Acids, Sodium Hyaluronate, sh-Oligopeptide-78, Sodium Hydroxide",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/080-heros09-aromazon-ZS6ZqI6g.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-027",
+    "brand": "Aroma-Zone",
+    "name": "Glycolic Acid 10% & AHA Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycolic Acid, Sodium Hydroxide, Salix Nigra Bark Extract, Glycerin, Vaccinium Myrtillus Fruit Extract, Sodium Hyaluronate, Levulinic Acid, Saccharum Officinarum Extract, Sodium Levulinate, Citrus Aurantium Dulcis Fruit Extract, Citrus Limon Fruit Extract, Acer Saccharum Extract",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/005-pack-aromazone-0-ykjprf0g.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AROM-014",
+    "brand": "Aroma-Zone",
+    "name": "Organic Rose de Mai Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/043-pack-aromazone-0-WFD9lszC.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-AROM-005",
+    "brand": "Aroma-Zone",
+    "name": "Purifying & Balancing Shampoo Bar",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Lauroyl Glutamate, Sodium Myristoyl Glutamate, Disodium Cocoyl Glutamate, Brassica Glycerides, Aqua, Decyl Glucoside, Arachidyl/Behenyl Alcohol, Urtica Dioica Leaf Extract, Zea Mays Starch, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Arachidyl/Behenyl Betainate Esylate, PCA Glyceryl Oleate, Laurus Nobilis Fruit Oil, Fragrance, Rosmarinus Officinalis Leaf Oil, Citrus Paradisi Peel Oil, Mentha Spicata Herb Oil, Montmorillonite, Illite, Tocopherol, Helianthus Annuus Seed Oil, Citral, Citronellol, Limonene, Linalool",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Shampooing-Me3oQ7h0.png",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-028",
+    "brand": "Aroma-Zone",
+    "name": "Postbiotics & Manuka Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Packsho-q_CPXqL0.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-TON-AROM-015",
+    "brand": "Aroma-Zone",
+    "name": "Organic Atlas Cedarwood Hydrosol",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02645-HY_cedre_de_l%27-0B5Al0MW.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لقشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-MSK-AROM-009",
+    "brand": "Aroma-Zone",
+    "name": "Superfine Green Illite Clay",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00483-argile-illite--5NLnLb8Z.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-AROM-029",
+    "brand": "Aroma-Zone",
+    "name": "Hyaluronic Acid & Vitamin C Highlighting Drops",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "10 ml",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/CarrouselFTPackshodr-3imemClJ.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-030",
+    "brand": "Aroma-Zone",
+    "name": "Vitamin C 10% & Astaxanthin Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Ascorbyl Glucoside, Glycerin, Salix Nigra Bark Extract, Sodium Hydroxide, Sodium Levulinate, Haematococcus Pluvialis Extract, Sodium Hyaluronate, Simmondsia Chinensis Seed Oil, Astragalus Gummifer Gum, Levulinic Acid, Sodium Anisate, Phytic Acid, Polypepsilon-Lysine, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/VITAMINE_C_001_2500x-uTDT8dDq.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-018",
+    "brand": "Aroma-Zone",
+    "name": "Brightening Soap",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Citrus Sinensis Peel Oil Expressed, Glycerin, Olea Europaea Fruit Oil, Butyrospermum Parkii Butter, Cinnamomum Tamala Leaf Oil, Helianthus Annuus Seed Oil, Bixa Orellana Seed Powder, Daucus Carota Sativa Root Extract, Sodium Chloride, Tetrasodium Glutamate Diacetate, Citric Acid, Linalool, Coumarin",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/00493-savon-illumina-VGdjv2Ai.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AROM-015",
+    "brand": "Aroma-Zone",
+    "name": "Vegan Collagen & Spilanthes Rich Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Camellia Oleifera Seed Oil, Glycerin, Decyl Cocoate, C10-18 Triglycerides, Salix Nigra Bark Extract, Cetearyl Alcohol, Jojoba Esters, Pentylene Glycol, Glyceryl Stearate, Collagen Amino Acids, Glyceryl Behenate, Spilanthes Acmella Flower/Leaf/Stem Extract, Sodium Hyaluronate, Ubiquinone, Astragalus Membranaceus Root Extract, Aloe Barbadensis Leaf Juice Powder, Carthamus Tinctorius Seed Oil, Tocopherol, Helianthus Annuus Seed Cera, Helianthus Annuus Seed Wax, Acacia Decurrens Flower Cera, Sclerotium Gum, Xanthan Gum, Sodium Stearoyl Glutamate, Sodium Levulinate, Sodium Anisate, Citric Acid, Levulinic Acid, Polyglycerin-3, Phytic Acid, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/092-stele07-aromazon-2O9bG1PX.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AROM-031",
+    "brand": "Aroma-Zone",
+    "name": "Hordatine & Liquorice Extract Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Nicotinamide, Salix Nigra Bark Extract, Pentylene Glycol, Glycerine, Dipotassium Glycyrrhizate, Sodium Hyaluronate, Hordeum Vulgare Extract, Cystoseira Tamariscifolia Extract, Levulinic Acid, Sodium Levulinate, Citric Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Packsho-81warWqT.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AROM-019",
+    "brand": "Aroma-Zone",
+    "name": "Handmade Soap Ayurvedic - Plant-Based & Cold Process",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/02250-savon_Ayurvedi-UGPozpVR.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+    {
+    "id": "FR-LOT-ARO-051",
+    "brand": "Aroma-Zone",
+    "name": "Organic Neroli Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Butyrospermum parkii butter, Cocos nucifera oil, Prunus armeniaca kernel oil, Simmondsia chinensis seed oil, Citrus nobilis peel oil, limonene, Citrus aurantium amara leaf oil, Citrus aurantium amara flower oil, Mauritia flexuosa fruit oil, linalool, geraniol, farnesol, citral",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Baume-F-5lwAnCwf.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-ARO-052",
+    "brand": "Aroma-Zone",
+    "name": "Monoï & Shea Butter Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "90 ml",
+    "ingredients": "Cocos Nucifera Oil, Butyrospermum Parkii Butter, Sesamum Indicum Seed Oil, C10-18 Triglycerides, Glyceryl Stearate, Glyceryl Behenate, Hydrogenated Rapeseed Oil, Caprylic/Capric Triglyceride, Tyrosine, Gardenia Taitensis Flower, Calophyllum Inophyllum Seed Oil, Isochrysis Galbana Extract, Citrus Aurantium Peel Oil, Vanillin, Juniperus Virginiana Oil, Lavandula Oil/Extract, Pelargonium Graveolens Flower Oil, Cananga Odorata Oil/Extract, Parfum, Tocopherol, Helianthus Annuus Seed Oil, Linalool, Linalyl Acetate, Limonene, Benzyl Salicylate, Methyl Salicylate, Eugenol, Geranyl Acetate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_baume-f-Y98pBdTO.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-ARO-054",
+    "brand": "Aroma-Zone",
+    "name": "Neutral Plant-Based Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Cocos nucifera oil, Carthamus tinctorius seed oil, Dicaprylyl carbonate, Glyceryl stearate citrate, Polyglyceryl-3 stearate, Glyceryl stearate, Theobroma cacao seed butter, Butyrospermum parkii butter, Aloe barbadensis leaf juice powder, Tocopherol, Sodium levulinate, Hydrogenated lecithin, Glyceryl Undecylenate, Levulinic acid, Xanthan gum, Sodium anisate, C10-18 Triglycerides, Helianthus annuus seed oil, Phytic acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/04019laitvegetalnCKZ-nS2EvHq1.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OIB-ARO-055",
+    "brand": "Aroma-Zone",
+    "name": "Satin Gold - Dry Oil",
+    "country": "France",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "",
+    "ingredients": "Caprylic/Capric Triglyceride, Coco Nucifera Oil, Dodecane, Mica, Trihydroxystearin, Gardenia Taitensis Flower, CI 77891, Parfum, CI 77491, Tocopherol, Helianthus Annuus Seed Oil, Linalool, Limonene, Benzyl Salicylate, Eugenol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrouselfthuiles4ha-pMeqUizu.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OIB-ARO-056",
+    "brand": "Aroma-Zone",
+    "name": "Karanja & Raspberry Protective Hair Oil",
+    "country": "France",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Carthamus Tinctorius Seed Oil, Dodecane, Caprylic/Capric Triglyceride, Coco-Caprylate, Pongamia Glabra Seed Oil, Crambe Abyssinica Seed Oil Phytosterol Esters, Rubus Idaeus Seed Oil, Pongamol, Tocopherol, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/047-pack-aromazone-0-1LgAUj6b.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-ARO-057",
+    "brand": "Aroma-Zone",
+    "name": "Organic Coconut Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Butyrospermum parkii butter, Cocos nucifera oil, Parfume, benzyl benzoate, limonene, linalool",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Baume-F-pD-mzY6n.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-HSE-ARO-058",
+    "brand": "Aroma-Zone",
+    "name": "Curl Care Cream - Keratin AA & Flaxseed Gel",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Erythritol, Pullulan, Linum Usitatissimum Seed Extract, Sorbitol, Xanthan Gum, Salvia Hispanica Seed Extract, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Acacia Senegal Gum, Trehalose, Xylitol, Glycerin, Caprylic Acid, Levulinic Acid, Sodium Levulinate, Phytic Acid, Dehydroacetic Acid, Benzyl Alcohol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Creme-d-nNJ_OfIo.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تلميع ولمعان",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "FR-LOT-ARO-063",
+    "brand": "Aroma-Zone",
+    "name": "Body care concentrate Light legs",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Cupressus sempervirens oil, Alcohol denat, Parfum, Xanthan gum, Mentha piperita oil, Coco-caprylate, Prunus amygdalus dulcis oil, Pistacia lentiscus leaf oil, Amyris balsamifera bark oil, Sucrose laurate, Aloe barbadensis leaf juice powder, Citrus aurantium dulcis fruit water, Vetiveria zizanoides root oil, Lavandula angustifolia oil, Dehydroacetic acid, Benzyl alcohol, Phytic acid, CI 77288, Tocopherol, Benzyl benzoate, Geraniol, Limonene, Linalool",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_soin-co-gb4WCJZu.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-ARO-065",
+    "brand": "Aroma-Zone",
+    "name": "Organic Vanilla Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Butyrospermum Parkii Butter, Sesamum Indicum Seed Oil, Parfum, Vanilla Planifolia Fruit Extract, Styrax Tonkinensis Resin Extract, Alcohol, Benzyl Benzoate, Benzyl Cinnamate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Baume-F--Yzwq6rv.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-ARO-072",
+    "brand": "Aroma-Zone",
+    "name": "Organic Self-Tanning Drops",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Dihydroxyacetone, Glycerin, Pentylene Glycol, Erythrulose, Caramel, Hydrolyzed Algin, Magnesium Sulfate, Manganese Sulfate, Cucumis Sativus Fruit Extract, Leuconostoc/Radish Root Ferment Filtrate, Citric Acid, Sodium Hydroxide",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_gouttes-GmufOSqI.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-HMA-ARO-075",
+    "brand": "Aroma-Zone",
+    "name": "Neutral Hair Mask",
+    "country": "France",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Lecithin, Glycerin, Sodium Cetearyl Sulfate, Olus Oil, Ricinus Communis Seed Oil, Simmondsia Chinensis Seed Oil, Inulin, Glyceryl Caprylate, Butyrospermum Parkii Butter, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Tocopherol, Helianthus Annuus Seed Oil, Lactic Acid, Dehydroacetic Acid, Benzyl Alcohol",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/019-pack-aromazone-0-P_uXC3JT.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "تلميع ولمعان",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-LOT-ARO-076",
+    "brand": "Aroma-Zone",
+    "name": "Organic Rockrose Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Butyrospermum parkii butter, Cocos nucifera oil, Helianthus annuus seed oil, Pelargonium graveolens oil, Daucus carota sativa root extract, Cistus ladaniferus oil, Cupressus sempervirens leaf/nut/stem oil, Bellis perennis flower extract, Daucus carota sativa seed oil, CI 77288, Citral, Citronellol, Geraniol, Limonene, Linalool",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Baume-F-nYR_0PY9.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-ARO-078",
+    "brand": "Aroma-Zone",
+    "name": "Coconut & Shea Butter Cleansing Cream",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Sodium Cocoamphoacetate, Cetearyl Glucoside, Lauryl Glucoside, Decyl Glucoside, Disodium Cocoyl Glutamate, Sorbitan Olivate, Citric Acid, Glyceryl Caprylate, Butyrospermum Parkii Butter, Cocos Nucifera Oil, Aloe Barbadensis Leaf Juice Powder, Cetearyl Alcohol, Sodium Levulinate, Sodium Chloride, Xanthan Gum, Sodium Anisate, Phytic Acid",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Carrousel-FT_Creme-L-XeFKjk_W.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-ARO-079",
+    "brand": "Aroma-Zone",
+    "name": "Organic Native Aloe Vera Gel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aloe barbadensis leaf juice, Leuconostoc/radish root ferment filtrate, Aqua, Xanthan gum, Arginine",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/Catalogue_Gel-Natif--sAnuN252.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-ARO-080",
+    "brand": "Aroma-Zone",
+    "name": "Mineral Sun Lotion SPF 30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Zinc Oxide, Caprylic/Capric Triglyceride, Sesamum Indicum Seed Oil, Isoamyl Laurate, Dodecane, Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate, Polyhydroxystearic Acid, Hydrogenated Castor Oil/Sebacic Acid Copolymer, Parfum, Passiflora Edulis Seed Oil, Pongamol, Tocopherol, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Helianthus Annuus Seed Oil",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrouselftlaitsoIsi-0MRdN5Iu.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-ARO-081",
+    "brand": "Aroma-Zone",
+    "name": "Body Care concentrate post-workout",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Alcohol denat, Glycerin, Xanthan gum, Rosmarinus officinalis leaf oil, Lavandula hybrida oil, Coco-caprylate, Menthol, Prunus amygdalus dulcis oil, Origanum majorana oil, Sucrose laurate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_soin-co-5at1nTBt.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-ARO-083",
+    "brand": "Aroma-Zone",
+    "name": "Body care concentrate Firming & smoothing",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Citrus paradisi peel oil, Citrus aurantium bergamia peel oil, Caffeine, Xanthan gum, Coco-caprylate, Prunus amygdalus dulcis oil, Crithmum maritimum oil, Aloe barbadensis leaf juice powder, Sucrose laurate",
+    "image": "https://cdn.aroma-zone.com/image/upload/f_auto,q_auto,w_1280,c_fit/v1/ctcdn/e5f608cf-85e6-4db5-8d00-81b1960857bb/carrousel-ft_soin-co-sLEC0w92.jpg",
+    "marketingClaims": [
+      "شد الجسم"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
