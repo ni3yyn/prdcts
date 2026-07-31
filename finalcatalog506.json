@@ -31326,5 +31326,2020 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-DUC-001",
+    "brand": "Ducray",
+    "name": "Dexyane Ultra-Rich Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Ceteareth-60, Myristyl Glycol, Coco-Glucoside, Zinc Coceth Sulfate, Sodium Cocamphoacetate, Polysorbate 20, Glycerin, Citric Acid, Ascorbyl Palmitate, Disodium Laureth Sulfosuccinate, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Isoleucine, Laureth-3, Lecithin, Maleic Acid, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/65003c8fb2c63/ducray-dexyane-ultra-p30986.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-001",
+    "brand": "Ducray",
+    "name": "Dexyane Anti-Scratching Emollient Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Water), Glycerin, Mineral Oil, Glyceryl Stearate, Peg-12 Butyrospermum Parkii (Shea) Butter), Microcrystalline Wax (Cera Microcristallina), Cyclopentasiloxane, Palmitic Acid, Stearic Acid, Propylene Glycol, 10-Hydroxydecenoic Acid, BHT, Chlorphenesin, Cyclopentasiloxane, Disodium Edta, O-Cymen-5-Ol, Paraffin, Phenoxyethanol, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/62c40f9ee4746/ducray-dexyane-anti-p77664.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-OTH-DUC-001",
+    "brand": "Ducray",
+    "name": "Anacaps Expert Chronic Hair Loss",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "30 Capsules",
+    "ingredients": "Extract of Venus hair (Adiantum capillus-veneris L.), L-cystine, DL-methionine, Capsule shell: Hydroxypropylmethylcellulose, Maltodextrin, Dry extract of bilberry (Vaccinium myrtillus L.), Zinc sulfate monohydrate, Milk thistle extract (Silybum marianum (L.) Gaertn.), Bulking agent: Microcrystalline cellulose, Dried ferrous sulfate, Anticaking agent: Magnesium stearate, D-calcium pantothenate, Pyridoxine hydrochloride, D-biotin",
+    "image": "https://cdn1.costatic.com/img/product/400/6a483fbff2db4/ducray-anacaps-expert-131116.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-002",
+    "brand": "Ducray",
+    "name": "Ictyane Extra Rich Dermatological Bar",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "Disodium Lauryl Sulfosuccinate, Sodium Coco-Sulfate, Cetearyl Alcohol, Triticum Vulgare (Wheat) Starch (Triticum Vulgare Starch), Paraffin, Water (Aqua), Butyrospermum Parkii Butter (Butyrospermum Parkii Butter), Glycerin, Titanium Dioxide (CI177891), Alpha-Isomethyl Ionone, Benzyl Salicylate, BHT, Caffeine, Carboxylic Acid, Citronellol, Crambe Abyssinic Seed Oil, Fragrance (Parfum), Geraniol, Hydroxycitronellal, Linalool, Microcrystalline Wax (Cera Microcristalline), Mineral Oil (Paraffinum Liquidum)",
+    "image": "https://cdn1.costatic.com/img/product/400/68ff2c14ebc4b/ducray-ictyane-extra-p42811.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-002",
+    "brand": "Ducray",
+    "name": "Dexyane Med Cream Eczema Treatment",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Beeswax, Peg-100 Stearate, 10-Hydroxydecenoic Acid, Caprylyl Glycol, Cetyl Alcohol, Citric Acid, Glycyrrhetinic Acid, Guanidine Carbonate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/6932f4a7b2123/ducray-dexyane-med-p114671.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-001",
+    "brand": "Ducray",
+    "name": "Sabal Sebo-Regulating Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Coco-Betaine, Carvone, Citric Acid, Fragrance (Parfum), Green 3 (Ci 42053), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Magnesium Laureth Sulfate, Magnesium Laureth-8 Sulfate, Magnesium Oleth Sulfate, Mentha Viridis (Spearmint) Leaf Oil (Mentha Viridis Leaf Oil), Menthol, Oleth-10, Peg-18 Glyceryl Oleate/Cocoate, Piroctone Olamine, Polyquaternium-22, Salicylic Acid, Serenoa Serrulata Fruit Extract, Sodium Chloride, Sodium Hydroxide, Sodium Laureth-8 Sulfate, Sodium Oleth Sulfate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6914b615d1305/ducray-sabal-sebo-p102395.jpg",
+    "marketingClaims": [
+      "مخصص للشعر الدهني",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "FR-TON-DUC-001",
+    "brand": "Ducray",
+    "name": "Sensinol SOS Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/673d9d8a7b8a4/ducray-sensinol-sos-p97004.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-003",
+    "brand": "Ducray",
+    "name": "Keracnyl Glycolic+ Unclogging Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Glycolic Acid, Behenyl Alcohol, Cetearyl Alcohol, Arachidyl Alcohol, Glyceryl Stearate, Sodium Hydroxide, Arachidyl Glucoside Bisabolol, Cetearyl Glucoside, Fragrance (Parfum), Glyceryl Laurate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus (Sunflower) Seed Oil, (Helianthus Annuus Seed Oil), Myrtus Communis Leaf extract, Pentylene Glycol, Sodium Benzoate, Sodium Chloride, Stearyl Glycyrretinate, Tocopherol, Triperygium Wilfordii Callus Extract, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6500426915e76/ducray-keracnyl-glycolic-p55401.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تقشير لطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-002",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Shampoo Regulating Oily Pelicles",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Bisabolol, Caprylyl Glycol, Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67920485df6ce/ducray-kelual-squanorm-p97006.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-DUC-001",
+    "brand": "Ducray",
+    "name": "Melascreen Invisible Anti-Spot Protective Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "Water (Aqua), C12-15 Alkyl, Benzoate, Diethylamino ,Hydroxybenzoyl Hexyl Benzoate. Ethylhexyl Triazone. Oryza Sativa (Rice) Starch (Oryza Sativa Starch). Phenylene Bis-Diphenyltriazine. Glycerin. Bis-Ethylhexyloxy- Phenol Methoxyphenyl Triazine. Potassium Cetyl Phosphate. Glyceryl Stearate. Stearyl Alcohol. Tapioca Starch. Vp/Eicosene Copolymer. Azelaic Acid. Benzoic Acid. Caprylyl Glycol. Glyceryl Behenate. Gly- Ceryl Dibehenate. Ppg-1-Peg-9 Lauryl Glycol Ether. Red 33 (Ci 17200). Sodium Hydroxide. Tribehenin. Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6853ed30cf04b/ducray-melascreen-invisible-p102331.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-DUC-003",
+    "brand": "Ducray",
+    "name": "Anaphase Anti-Hair Loss and Growth Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Lauryl Glucoside, Sodium Cocoyl Alaninate, Coco-Betaine, Coco-Glucoside, Glycol Distearate, 1,2-Hexanediol, Adenosine, Benzoic Acid, Butylene Glycol, Cellulose, Cellulose Gum, Citric Acid, Fragrance (Parfum), Glycerin, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Manganese Pca, Sodium Benzoate, Sodium Dilauramidoglutamide Lysine",
+    "image": "https://cdn1.costatic.com/img/product/400/698305cdb48f5/ducray-anaphase-anti-p102327.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-003",
+    "brand": "Ducray",
+    "name": "Keracnyl Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Zinc Coceth Sulfate, Ceteareth-60 Myristyl Glycol, Glycerin, Lauryl Betaine, Decyl Glucoside, Polysorbate 20, Trideceth-9, Blue 1 (CI 42090), Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Myrtus Communis Leaf Extract, Peg-40 Hydrogenated Castor Oil, Peg-5 Ethylhexanoate, PPG-26-Buteth-26, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d4ccc6be2d/ducray-keracnyl-foaming-p55400.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-004",
+    "brand": "Ducray",
+    "name": "Ictyane Hydra UV Light Cream SPF30 Face",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Water (Aqua), Triethylhexanoin, Glycerin, Coco Caprylate/Caprate, Tribehenin, Peg-20 Esters, Diethylhexyl Butamido Triazone, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Crambe Abyssinica Seed Oil, Dimethicone, Glycol Palmitate, Polymethylmethacrylate, Methyl Gluceth-20, Methylene Bis-Benzotriazoyl Tetramethylbutylphenol [Nano], Cetyl Alcohol, Hydrogenated Starch Hydrolysate, Caffeine, Carboxylic Acid, 1-2 Hexanediol, Behenic Acid, Caprylyl Glycol, Decyl Glucoside, Disodium Edta, Fragrance (Parfum), Helianthus Annus (Sunflower) Seed Oil, Polysorbate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Tropolone, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/65003fa84f7db/ducray-ictyane-hydra-p32406.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-005",
+    "brand": "Ducray",
+    "name": "Ictyane Lip Stick",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "3g",
+    "ingredients": "Ricinus Communis Seed Oil, Petrolatum, Isopropyl Palmitate, Hydrogenated Lanolin, Hydrogenated Castor Oil, Caprylic/Capric Triglyceride, Ozokerite, Nylon-12, Bis-Diglyceryl Polyacyladipate-2, Cetyl Esters, Cera Alba, Butyrospermum Parkii Butter, Hydrogenated Polyisobutene, Cetearyl Ethylhexanoate, Glycerin, Tocopheryl Acetate, BHT, Copernicia Cerifera Wax, Parfum (Fragrance), Isopropyl Myristate, Panthenol, PPG-12/SMDI Copolymer, Propylene Glycol, Propylparaben, Retinyl Palmitate, Sorbitol, Trehalose, Aqua",
+    "image": "https://cdn1.costatic.com/img/product/400/650046e2c3bb8/ducray-ictyane-lip-p3591.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-004",
+    "brand": "Ducray",
+    "name": "Sabal Argeal Sebo-Absorbent Daily Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Kaolin, Methylpropanediol, Glycol Palmitate, Cetearyl Alcohol, Hectorite, Benzyl Alcohol, Caprylyl Glycol, Carvone, Citric Acid, Coco-Glucoside, Disodium Phosphate, Fragrance (Parfum), Glycerin, Glycol Distearate, Mentha Viridis (Spearmint) Leaf Oil (Mentha Viridis Leaf Oil), Menthol, Phenylpropanol, Potassium Phosphate, Serenoa Serrulata Fruit Extract, Sodium Cetearyl Sulfate, Sodium Lauryl Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/691aebc6cfca3/ducray-sabal-argeal-p114238.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-006",
+    "brand": "Ducray",
+    "name": "Dexyane Anti-Scratching Emollient Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Water), Carthamus Tinctorius Seed Oil, Isododecyl Neopentanoate, Mineral Oil, Cetearyl Ethlyhexanoate, Cocos Nucifera (Coconut) Oil, Glycerin, 10-Hydroxydecenoic Acid, Batyl Alcohol, Bht, Cetearyl Alcohol, Cetyl Alcohol, Disodium Edta, Disodium Phosphate, Glycyrrhetinic Acid, Isopropyl Myristate, Phenoxyethanol, Polyacrylate-13, Polyisobutene, Polysorbate 20, Potassium Phosphate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Sorbic Acid, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/650044aa9a130/ducray-dexyane-anti-p41102.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-005",
+    "brand": "Ducray",
+    "name": "Sensinol Shampoo Treatment",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Sodium Cocoyl Glutamate, Laureth-9, Algin, Carrageenan, Citric Acid, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/670e41fe032b4/ducray-sensinol-shampoo-p97003.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-007",
+    "brand": "Ducray",
+    "name": "Dexyane Anti-Scratching Emollient Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water), Glycerin, Mineral Oil, Glyceryl Stearate, Peg-12 Butyrospermum Parkii (Shea) Butter), Microcrystalline Wax (Cera Microcristallina), Cyclopentasiloxane, Palmitic Acid, Stearic Acid, Propylene Glycol, 10-Hydroxydecenoic Acid, Bht, Chlorphenesin, Cyclopentasiloxane, Disodium Edta, O-Cymen-5-Ol, Paraffin, Phenoxyethanol, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/6500441bd9270/ducray-dexyane-anti-p41107.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-008",
+    "brand": "Ducray",
+    "name": "Dexyane Anti-Scratching Emollient Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglycéride, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorus Seed Oil), Mineral Oil (Paraffinum Liquidum), Glycerin, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, 10-Hydroxydecenoic Acid, Beeswax (Cera Alba), Benzoic Acid, Caprylyl Glycol Cetearyl Glucoside, Glyceryl Stearate, Glycyrrhetinic Acid, Isoleucine, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/6500447a2d11d/ducray-dexyane-anti-p41108.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-009",
+    "brand": "Ducray",
+    "name": "Ictyane Hydra Light Hydrating Soothing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a2031adb8157/ducray-ictyane-hydra-p115121.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-010",
+    "brand": "Ducray",
+    "name": "Ictyane Nutri Rich Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Water (Aqua), Triethylhexanoin, Glycerin, Isodecyl Neopentanoate, Tribehenin PEG-20 Esters, Crambe Abyssinica Seed Oil, Dicaprylyl Carbonate, Cetyl Alcohol, Dimethicone, Glycol Palmitate, Methyl Gluceth-20, Hydrogenated Starch Hydrolysate, Caffeine Carboxylic Acid, 1-2-Hexanediol, Behenic Acid, Caprylyl Glycol, Disodium Edta, Fragrance (Parfum), Hydroxyethyl Acrylates/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polymethyl Methacrylate, Polysorbate 60, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Tribehenin, Tropolone, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/65003bc267b4e/ducray-ictyane-nutri-p38580.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-006",
+    "brand": "Ducray",
+    "name": "Anaphase+ Anti-Hair Loss Complement Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Betaine, Glycerin, Sodium Cocamphoacetate, Acrylates Copolymer, Ceteareth-60, Myristyl Glycol, Peg-40 Hydrogenated Castor Oil, Alcohol Biotin, Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Glycol Distearate, Hydrolyzed Wheat Protein, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-7, Pyridoxine HCL, Ruscus Aculeatus Root Extract, Salicylic Acid, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopheryl Nicotinate",
+    "image": "https://cdn1.costatic.com/img/product/400/69830588ce303/ducray-anaphase-anti-p77658.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-011",
+    "brand": "Ducray",
+    "name": "Keracnyl Spot Care Drying Gel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "10ml",
+    "ingredients": "Water (Aqua), Alcohol, Hamamelis Virginiana (Witch Hazel) Leaf Water (Hamamelis Virginiana Leaf Water), Glycolic Acid, Propylene Glycol, Salicylic Acid, Sodium Hydroxide, Hydroxyethylcellulose, Ammonium Glycyrrhizate, Lactamide MEA, Aluminium Starch Octenylsuccinate, C13-14 Isoparaffin, Diethyl Phthalate, Disodium EDTA, Laureth-7, Methylparaben, Phenoxyethanol, Polyacrylamide, Sodium Chloride",
+    "image": "https://cdn1.costatic.com/img/product/400/612f91be82c5c/ducray-keracnyl-spot-p53859.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-007",
+    "brand": "Ducray",
+    "name": "Kelual DS Treatment Shampoo Severe Dandruff Conditions",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "100ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Decyl Glucoside, Undecylenamidopropyl Betaine, Ciclopirox Olamine, Lactamide Mea, Lauryl Betaine, Ceteareth-60 Myristyl Glycol, Citric Acid, Fragrance (Parfum), Glycyrrhetinic Acid, Piroctone Olamine, Polyquaternium-10, Sodium Chloride, Trisodium Ethylenediamine, Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/69d6101d27673/ducray-kelual-ds-p49374.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-DUC-002",
+    "brand": "Ducray",
+    "name": "Melascreen Tinted Protective Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/685d3d5e84dca/ducray-melascreen-tinted-p102332.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-DUC-002",
+    "brand": "Ducray",
+    "name": "Anacaps Expert Chronic Hair Loss",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "90 Capsules",
+    "ingredients": "Venus hair extract (Adiantum capillus-veneris L.), L-cystine, DL-methionine, Capsule shell: Hydroxypropyl methylcellulose, Maltodextrin, Blueberry dry extract (Vaccinium myrtillus L.), Zinc sulphate monohydrate, Thistle extract marie (Silybum marianum (L.) Gaertn.), Bulking agent: Microcrystalline cellulose, Dried ferrous sulfate, Anti-caking agent: Magnesium stearate, D-calcium pantothenate, Pyridoxine hydrochloride, D-biotin",
+    "image": "https://cdn1.costatic.com/img/product/400/6a046bd4512a8/ducray-anacaps-expert-p77527.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-008",
+    "brand": "Ducray",
+    "name": "Elution Kelual Anti-Dandruff Daily Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "100ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Glycine, Glycerin, Coco-Betaine, Acrylates Copolymer, Methyl Gluceth-20, PEG-7 Glyceryl Cocoate, Amyl Salicylate, Citric Acid, Fragrance (Parfum), Glycol Palmitate, Glycol Stearate, Hexamethylindanopyran, Hydroxypropyl Guar Hydroxypropyl Trimonium Chloride, Panthenol, Pantolactone, Phenoxyethanol, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Zinc Glycinate",
+    "image": "https://cdn1.costatic.com/img/product/400/691daf8d7dab1/ducray-elution-kelual-p92623.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-004",
+    "brand": "Ducray",
+    "name": "Kertyol P.S.O. Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Ceteareth-60 Myristyl Glycol, Coco-Glucoside, Lactamide Mea, Zinc Coceth Sulfate, Sodium Cocoamphoacetate, Polysorbate 20, 1,2-Hexanediol, Caprylyl Glycol, Cichorium Intybus (Chicory) Root Extract (Cichorium Intybus Root Extract), Citric Acid, Disodium Laureth Sulfosuccinate, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Laureth-3, Maleic Acid, PEG-120 Methyl Glucose Dioleate, Pentylene Glycol, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol, Tripterygium Wilfordii Callus Extract, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/62c5442571b6d/ducray-kertyol-p-p58721.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-012",
+    "brand": "Ducray",
+    "name": "Kertyol P.S.O. Daily Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Cathamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Laureth-9, 1,2-Hexanediol, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Cichorium Intybus (Chicory) Root Extract, Fragrance (Parfum), Glyceryl Stearate, PEG-100 Stearate, Pentylene Glycol, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tripterygium Wilfordii Callus Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6500434cee579/ducray-kertyol-p-p58723.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SSE-DUC-001",
+    "brand": "Ducray",
+    "name": "Melascreen Anti-Brown Spots Concentrate",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Water (Aqua), Azelaic Acid, Caprylic/Capric Triglyceride, Squalane, Propanediol, Glycerin, Glycolic Acid, Glyceryl Stearate, Sodium Hydroxide, Cetearyl Alcohol, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Benzoic Acid, Cetearyl Glucoside, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hesperidin Methyl Chalcone, Sclerotium Gum, Sodium Chloride, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/650045bbdc7e7/ducray-melascreen-anti-p82167.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-DUC-013",
+    "brand": "Ducray",
+    "name": "Ictyane Hand Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Water (Aqua), Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Glycerin, Propylene Glycol, Glyceryl Stearate, Mineral Oil (Paraffinum Liquidum), Hexylene Glycol, Dimethicone, Cetearyl Alcohol, Panthenol, Palmitic Acid, Stearic Acid, Tocopheryl Acetate, Trehalose, Alpha-Isomethylionone, Benzyl Salicylate, Caprylyl Glycol, Cetearyl Glucoside, Citronellol, Dimeticonol, Parfum (Fragrance), Geraniol, Hydrogenated Starch Hydrolyzate, Hydroxycitronellal, Limonene, Linalool, Sodium Benzoate, Sodium Hydroxide, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/68b059be311c1/ducray-ictyane-hand-p41252.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-014",
+    "brand": "Ducray",
+    "name": "Keracnyl Repair Compensatory Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/65fd3ab36ee99/ducray-keracnyl-repair-p85709.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-009",
+    "brand": "Ducray",
+    "name": "Extra Mild Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Sodium Benzoate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/650042f7d4ad3/ducray-extra-mild-p55431.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-010",
+    "brand": "Ducray",
+    "name": "Elution Gentle Balancing Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Glycine, Glycerin, Lauryl Betaine, Acrylates Copolymer, Methyl Gluceth-20, PEG-7 Glyceryl Cocoate, Citric Acid, Fragrance (Parfum), Glycol Palmitate, Glycol Stearate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Panthenol, Pantolactone, Phenoxyethanol, Piroctone Olamine, Silica, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylediamine Disuccinate, Zinc, Glycinate",
+    "image": "https://cdn1.costatic.com/img/product/400/69c2a3d0d66bf/ducray-elution-gentle-p88375.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-OTH-DUC-003",
+    "brand": "Ducray",
+    "name": "Anacaps Reactiv Reactive Hair Loss",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "90 Capsules",
+    "ingredients": "L-cystine, DL-methionine, Capsule shell: Hydroxypropyl methylcellulose, Bulking agent: Microcrystalline cellulose, Dry extract of horsetail (Equisetum arvense L.), Dry extract of blueberry (Vaccinium myrtillus L.), Dried ferrous sulphate, Nicotinamide, Anti-caking agent: Magnesium stearate, Pyridoxine hydrochloride, Sodium selenite, D-biotin",
+    "image": "https://cdn1.costatic.com/img/product/400/6a046dded8256/ducray-anacaps-reactiv-p82172.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-SUN-DUC-003",
+    "brand": "Ducray",
+    "name": "Melascreen Protective Anti-Spots Cream SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Water (Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Phenylene Bis-Diphenyltriazine, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Potassium Cetyl Phosphate, Stearyl Alcohol, VP/Eicosene Copolymer Azelaic Acid, Benzoic Acid, Caprylyl Glycol, Glyceryl Behenate, Glyceryl Dibehenate, PPG-1-PEG-9 Lauryl Glycol Ether, Red 33 (CI 17200), Sodium Hydroxide, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/69e72578e8271/ducray-melascreen-protective-p82170.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-DUC-002",
+    "brand": "Ducray",
+    "name": "Keracnyl Purifying Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Hamamelis Virginiana (Witch Hazel) Leaf Water (Hamamelis Virginiana Leaf Water), Glycolic Acid, Sodium Hydroxide, PPG-1-PEG-9 Lauryl Glycol Ether, Bisabolol, Cetrimonium Bromide, Parfum (Fragrance), Lactic Acid, Methylparaben, Phenoxyethanol, Propylene Glycol, Salicylic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/65e96e2eeebeb/ducray-keracnyl-purifying-p2555.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تقشير لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-DUC-004",
+    "brand": "Ducray",
+    "name": "Melascreen Protective Anti-Spots Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Water (Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Phenylene Bis-Diphenyltriazine, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Glyceryl Stearate, Stearyl Alcohol, Tapioca Starch, VP/Eicosene Copolymer, Azelaic Acid, Benzoic Acid, Caprylyl Glycol, Glyceryl Behenate, Glyceryl Dibehenate, PPG-1-PEG-9 Lauryl Glycol Ether, Red 33 (CI 17200), Sodium Hydroxide, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/650045cc24443/ducray-melascreen-protective-p82169.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-DUC-015",
+    "brand": "Ducray",
+    "name": "Dexyane Insulating Barrier Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Water (Aqua), Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycol, Hydrogenated Vegetable Oil, PEG-30 Dipolyhydroxystearate, Isododecane, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Zea Mays (Corn) Starch (Zea Mays Starch), PEG-22/Dodecyl Glycol Copolymer, Beeswax (Cera Alba), 10-Hydroxydecenoic Acid, Benzoid Acid, Caprylyl Glycol, Cetyl Alcohol, Glyceryl Stearate, Isoleucine Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66e7df369af3e/ducray-dexyane-insulating-p49365.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-011",
+    "brand": "Ducray",
+    "name": "Extra-Gentle Shampoo Pump Bottle",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Sodium Benzoate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/69821482e32b2/ducray-extra-gentle-p55430.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-012",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Anti-Dandruff Moisturizing Shampoo Refill",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Caprylyl Glycol, Fragrance (Parfum), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/693bf4cb909bd/ducray-kelual-squanorm-p114047.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "FR-EYE-DUC-001",
+    "brand": "Ducray",
+    "name": "Dexyane MeD Palpebral",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Propylene Glycol, Beeswax (Cera Alba), Glyceryl Stearate PEG-100 Stearate, 10-Hydroxydecenoic Acid, Caprylyl Glycol, Cetyl Alcohol, Disodium EDTA, Glycyrrhetinic Acid, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sorbitan Isostearate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/67077a50bcbc0/ducray-dexyane-med-p95118.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-016",
+    "brand": "Ducray",
+    "name": "Dexyane Med Cream Eczema Treatment",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Polysorbate 60, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Cera Alba, Peg-100 Stearate, 10-Hydroxydecenoic Acid, Caprylyl Glycol, Cetyl Alcohol, Citric Acid, Glycyrrhetinic Acid, Guanidine Carbonate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/667ad7079f802/ducray-dexyane-med-p94405.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-BWA-DUC-001",
+    "brand": "Ducray",
+    "name": "Ictyane Cleansing Shower Cream Dry Skins",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Sodium Trideceth Sulfate, Prunus Amygdallus Dulcis (Sweet Almond) Oil (Prunus Amygdalus Dulcis Oil), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Glycerin, Sodium Lauroamphoacetate, Sodium Chloride, Mineral Oil (Paraffinum Liquidum), Cocamide Mipa, Alpha-Isomethyl Ionone, Benzyl Salicylate, BHT, Caffeine Carboxylic Acid, Caprylyl Glycol, Citric Acid, Citronellol, Crambe Abyssinica Seed Oil, Fragrance (Parfum), Geraniol, Hydroxycitronellal, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Linalool, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/6500452a75074/ducray-ictyane-cleansing-p77662.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-DUC-003",
+    "brand": "Ducray",
+    "name": "Keracnyl Drying Anti-Blemish Body Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a577affc5784/ducray-keracnyl-drying-p117215.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-017",
+    "brand": "Ducray",
+    "name": "Keracnyl Mat",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Water (Aqua), Glycerin, Magnesium Aluminium Silicate, Pentylene Glycol, Isopropyl Myristate, Silica, Arachidyl Alcohol, Cetearyl Alcohol, Lactamide MEA, 1,2-Hexanediol, Algin, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Carbomer, Ceteareth-33, Fragrance (Parfum), Glyceryl Laurate, Papain, Tocopheryl Acetate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/65004544531f3/ducray-keracnyl-mat-p45681.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-018",
+    "brand": "Ducray",
+    "name": "Ictyane Emollient Nutritive Cream Face and Body",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Glyceryl Stearate PEG-12, Isohexadecane, Microcrystalline Wax (Cera Microcrystallinna), Palmitic Acid, Stearic Acid, Crambe Abyssinica Seed Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate BHT, Caffeine Carboxylic Acid, Caprylyl Glycol, Citronellol, Dimethicone, Ethylhexylglycerin, Fragrance (Parfum), Geraniol, Hydroxycitronellal, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Limonene, Linalool, Paraffin, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/6500441530261/ducray-ictyane-emollient-p49175.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-013",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Regulating Shampoo for Oily Dandruff",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Bisabolol, Caprylyl Glycol, Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6792042e8f6ac/ducray-kelual-squanorm-p97007.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-014",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Refreshing Anti-Dandruff Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Peg-40 Hydrogenated Castor Oil, Succinic Acid, 1,2-Hexanediol, Bisabolol, Blue 1 (Ci 42090), Caprylyl Glycol, Carvone, Eucalyptus Globulus Leaf/Twig Oil (Eucalyptus Globulus Oil), Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Mentha Viridis (Spearmint) Leaf Oil (Mentha Viridis Leaf Oil), Menthol, Menthyl Lactate, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6932c3afc3230/ducray-kelual-squanorm-p114050.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-019",
+    "brand": "Ducray",
+    "name": "Ictyane Emollient Nutritive Cream Face and Body",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin Mineral Oil, Paraffinum Liquidum, Glyceryl, Stearate PEG-12, Isohexadecane, Microcrystalline Wax (Cera Microcrystallinna), Palmitic Acid, Stearic Acid, Crambe Abyssinica Seed Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate BHT, Caffeine Carboxylic Acid, Caprylyl Glycol, Citronellol, Dimethicone, Ethylhexylglycerin, Fragrance (Parfum), Geraniol, Hydroxycitronellal, Hydroxyethyl, Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Limonene, Linalool, Paraffin, Polysorbate 60, Sorbitan Isostearate, Tocopherol, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/650044234505d/ducray-ictyane-emollient-p41101.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-015",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Moisturizing Treatment Shampoo Dry Dandruff",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Caprylyl Glycol, Fragrance (Parfum), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/679204e1a46c8/ducray-kelual-squanorm-p97009.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-016",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Moisturizing Treatment Shampoo Dry Dandruff",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Caprylyl Glycol, Fragrance (Parfum), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/675940505d8f9/ducray-kelual-squanorm-p97008.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-017",
+    "brand": "Ducray",
+    "name": "Anaphase Anti-Hair Loss and Growth Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Lauryl Glucoside, Sodium Cocoyl Alaninate, Coco-Betaine, Coco-Glucoside, Glycol Distearate, 1,2-Hexanediol, Adenosine, Benzoic Acid, Butylene Glycol, Cellulose, Cellulose Gum, Citric Acid, Fragrance (Parfum), Glycerin, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Manganese Pca, Sodium Benzoate, Sodium Dilauramidoglutamide Lysine",
+    "image": "https://cdn1.costatic.com/img/product/400/698305d7eaf04/ducray-anaphase-anti-p102328.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-005",
+    "brand": "Ducray",
+    "name": "Sensinol Soothing Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Disodium Cocoamphodiacetate, Coco-Glucoside, Sodium Lauryl Methyl Isethionate, Glycerin, Zinc Coceth Sulfate, Ceteareth-60 Myristyl Glycol, Peg-40 Hydrogenated Castor Oil, Coco-Glucoside, Glyceryl Oleate, Sodium Chloride, Laureth-9, Ascorbyl Palmitate, Citric Acid, Fragrance, Hydrogenated Palm Glycerides Citrate, Lauric Acid, Lecithin Sodium Benzoate, Sodium Hydroxide, Sodium Methyl Isethionate, Tocopherol, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/65f00fd7656f9/ducray-sensinol-soothing-p21222.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-DUC-002",
+    "brand": "Ducray",
+    "name": "Melascreen Radiance Anti-Spot Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "40ml",
+    "ingredients": "Water (Aqua), Caprylic/Capric Triglyceride, Ascorbyl Glucoside, Niacinamide, Glycerin, Hydroxypropyl Starch Phosphate, Propanediol, C14-22 Alcohols, 1,2-Hexanediol, C12-20 Alkyl Glucoside, Caprylyl Glycol, Citric Acid, Diutan Gum, Fragrance (Parfum), Microcrystalline Cellulose, Sodium Citrate, Sodium Hydroxide, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/694113046b9f3/ducray-melascreen-radiance-p82173.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SHA-DUC-018",
+    "brand": "Ducray",
+    "name": "Sensinol Shampoo Treatment",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Sodium Cocoyl Glutamate, Laureth-9, Algin, Carrageenan, Citric Acid, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/670e41b69db41/ducray-sensinol-shampoo-p97002.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-020",
+    "brand": "Ducray",
+    "name": "Keracnyl PP+ Anti-Blemish Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Water (Aqua), Caprylic/Capric Triglyceride, Cetearyl Alcohol, Isohexadecane, Niacinamide Pentylene Glycol, Butylene Glycol, Glycerin, Octyldodecanol, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Polymethyl Methacryalte, Benzoic Acid, Butyrospermum parkii (Shea) Butter (Butyriosmermum Parkii Butter), Cetearyl Glucoside, Dicaprylyl Carbonate, Disodium Phosphate, Glyceryl Laurate, Myrtus Communis Leaf Extarct, Polyacrylate-13, Polyisobutene, Polysorbate 20, Potassium Phosphate, Sodium Cetearyl Sulfate, Sodium hydroxide, Sorbitant Isostearate, Stearyl Glycyrrhetinate, Tocopherol, Tripterygium, Wilfordi Callus Extract, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/65004208c6192/ducray-keracnyl-pp-p55398.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-021",
+    "brand": "Ducray",
+    "name": "Kertyol P.S.O. Daily Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Laureth-9, 1,2-Hexanediol, Benzoic Acid, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Cichorium Intybus (Chicory) Root Extract, Fragrance (Parfum), Glyceryl Stearate, PEG-100 Stearate, Pentylene Glycol, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Tripterygum Wilfordii Callus Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6500432d3fbcc/ducray-kertyol-p-p58722.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-019",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Refreshing Anti-Dandruff Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Peg-40 Hydrogenated Castor Oil, Succinic Acid, 1,2-Hexanediol, Bisabolol, Blue 1 (Ci 42090), Caprylyl Glycol, Carvone, Eucalyptus Globulus Leaf/Twig Oil (Eucalyptus Globulus Oil), Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Limonene, Mentha Viridis (Spearmint) Leaf Oil (Mentha Viridis Leaf Oil), Menthol, Menthyl Lactate, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6932c31d2f859/ducray-kelual-squanorm-p114049.jpg",
+    "marketingClaims": [
+      "مضاد لقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-020",
+    "brand": "Ducray",
+    "name": "Kertyol P.S.O. Treatment Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Cocos Nucifera (Coconut) Oil (Cocos Nucifera Oil), Sodium Trideceth Sulfate, Sodium Lauroamphoacetate, Cocamide Mipa, Glycerin, Sodium Chloride, Salicylic Acid, 1,2-Hexanediol, Caprylyl Glycol, Cichorium Intybus (Chicory) Root Extract, Fragrance (Parfum), Ictasol, Pentylene Glycol, Tripterygium Wilfordii Callus Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6909ff18dd1cb/ducray-kertyol-p-p58724.jpg",
+    "marketingClaims": [
+      "مضاد لقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-EYE-DUC-002",
+    "brand": "Ducray",
+    "name": "Melascreen Contour des Yeux Antitaches",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Water (aqua), Caprylic/capric Triglyceride, Glycerin, C14-22 Alcohols, Behenyl Alcohol, Glyceryl Stearate, Hydrogenated Vegetable Oil, Sodium Stearoyl Glutamate, 1,2-hexanediol, Ascorbyl Glucoside, C12-20 Alkyl Glucoside, Caprylyl Glycol, Citric Acid, Hesperidin Methyl Chalcone, Sclerotium Gum, Sodium Citrate, Sodium Dextran Sulfate, Sodium Hydroxide, Tropolone, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/69ce16f79dfa1/ducray-melascreen-contour-p82168.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-DUC-004",
+    "brand": "Ducray",
+    "name": "Anacaps Expert Chronic Hair Loss",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "30 Capsules",
+    "ingredients": "Extract of Venus hair (Adiantum capillus-veneris L.), L-cystine, DL-methionine, Capsule shell: Hydroxypropylmethylcellulose, Maltodextrin, Dry extract of bilberry (Vaccinium myrtillus L.), Zinc sulfate monohydrate, Milk thistle extract (Silybum marianum (L.) Gaertn.), Bulking agent: Microcrystalline cellulose, Dried ferrous sulfate, Anticaking agent: Magnesium stearate, D-calcium pantothenate, Pyridoxine hydrochloride, D-biotin",
+    "image": "https://cdn1.costatic.com/img/product/400/6500457f944f3/ducray-anacaps-expert-p77526.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-HSE-DUC-001",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Anti-Dandruff Refreshing Lotion",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "190ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a1d3a353f8bf/ducray-kelual-squanorm-p114430.jpg",
+    "marketingClaims": [
+      "مضاد لقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-021",
+    "brand": "Ducray",
+    "name": "Elution Gentle Balancing Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6992d9f688d9c/ducray-elution-gentle-p83160.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-006",
+    "brand": "Ducray",
+    "name": "Dexyane Protective Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Disodium Cocoyl Glutamate Oleth-10, Sodium Cocoamphoacetate Ceteareth-60, Myristil Glycol PEG-120 Methyl Glucose Doleate Coco- Glucoside, Butyrospermum Parkii (Shea) Butter Butyrospermum Parkii Butter, Caprylyl Glycol Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorus Seed Oil), Citric Acid Coco-Glucoside Cocos Nucifera (Coconut) Oil (Cocos Nucifera Oil), Glycerin Oleate, Glycyrrhetinic Acid, Hydrogenated Palm Glycerides Citrate, Isoleucine Lactic Acid, Propylene Glycol, Sodium Benzoate, Sodium Chloride, Tocopherol, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/65004457258f2/ducray-dexyane-protective-p41106.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-007",
+    "brand": "Ducray",
+    "name": "Keracnyl Foaming Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Zinc Coceth Sulfate, Ceteareth-60 Myristyl Glycol, Coco-Betaine, Glycerin, Decyl Glucoside, Polysorbate 20, Trideceth-9, Blue 1 (CI 42090), Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Myrtus Communis Leaf Extract, PPG-26-Buteth-26, Sodium Benzoate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/694ea975c3863/ducray-keracnyl-foaming-p55399.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-022",
+    "brand": "Ducray",
+    "name": "Ictyane Hydrating Body Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Cocos Nucifera (Coconut) Oil (Cocos Nucifera Oil), Mineral Oil (Paraffinum Liquidum), Triethylhexanoin C9-12, Alkane, Sorbitan Stearate, Hydrogenated Starch Hydropolysate, Trehalose, 1-2 Hexanediol, Acrylates C10-30 Alkyl Acrylate Crosspolymer, Alpha Isomethyl Ionone, Benzyl Salicylate, Caffeine, Carboxylic Acid, Caprylyl Glycol, Cetearyl Alcohol, Citronellol, Coco-Caprylate/Caprate, Limonene, Linalool, Potassium Phosphate, Sodium Cetearyl, Sulfate, Sodium Hydroxide, Sucrose Cocoate, Tropolone, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a22a0413b547/ducray-ictyane-hydrating-p41182.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SSE-DUC-003",
+    "brand": "Ducray",
+    "name": "Keracnyl Anti-Imperfection Regulating Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Water (Aqua). Azelaic Acid. Caprylic/Capric Triglyceride. Dicaprylyl Ether. Glycerin, Glycolic Acid. Microcrystalline Cellulose. Lauryl Glucoside. Polyglyceryl-2 Dipolyhydroxystearate, Sodium Hydroxide. Citric Acid. Fragrance (Parfum), Glyceryl Laurate. Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Myrtus Communis Leaf Extract. Pentylene Glycol Potassium Cetyl Phosphate Tocopherol Tripterygium Wilfordi Callus Extract Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/685e90751d50c/ducray-keracnyl-anti-p102330.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-023",
+    "brand": "Ducray",
+    "name": "Ictyane Emollient Nutritive Cream Face and Body",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin Mineral Oil (Paraffinum Liquidum), Glyceryl, Stearate PEG-12, Isohexadecane, Microcrystalline Waw (Cera Microcrystallinna), Palmitic Acid, Stearic Acid, Crambe Abyssinica Seed Oil, Alpha-Isomethyl Ionone, Benzyl Salicylate BTH, Caffeine, Carboxylic Acid, Caprylyl Glycol, Citronellol, Dimethicone, Ethylhexylglycerin, Fragrance, Geraniol, Hydroxycitronellal, Hydroxyethyl, Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Limonene, Linalool, Paraffin, Polysorbate 60, Isostearate, Tocopherol, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/62c40f4dafda0/ducray-ictyane-emollient-p41188.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-024",
+    "brand": "Ducray",
+    "name": "Ictyane Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15ml",
+    "ingredients": "Ricinus Communis (Castor) Seed Oil (Ricinus Communis Seed Oil), Bis-Diglyceryl Polyacryladipate-2, Mineral Oil (Paraffinum Liquidum), Glycerin, Isopropyl Palmitate, Hydrogenated Vegetable Oil, Cetearyl Ethylhexanoate, Hydrogenated Polyisobutene, Polyethylene, VP/Hexadecene Copolymer, Beeswax (Cera Alba), Hydrogenated Castor Oil, Nylon-12, 10-Hydroxydecenoic Acid, Disteardimonium Hectorite, Glyceryl Linoleate, Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glyceryl Stearate, Glycine Soja (Soybean) Oil (Glycine Soja Oil), Isopropyl Myristate, Tocopherol, Tocopheryl Acetate, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/65003b66dd763/ducray-ictyane-lip-p30047.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-HSE-DUC-002",
+    "brand": "Ducray",
+    "name": "Kelual DS Intensive Soothing Anti-Dandruff Spray",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "100ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a59fe36ed018/ducray-kelual-ds-p115122.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-HSE-DUC-003",
+    "brand": "Ducray",
+    "name": "Stimulating Gel",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "30ml",
+    "ingredients": "SD-Alcohol 39-C (Alcohol Denat.), Aqua, Turpentine, PEG-15 Cocamine, PEG-40 Hydrogenated Castor Oil, Parfum (Fragrance), Carbomer, Acetic Acid, Cedrus Atlantica Wood Oil, Citral, Eugenol, Limonene, Linalool, Methyl Nicotinate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a22a0a491012/ducray-stimulating-gel-p5762.jpg",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "مضاد لتساقط الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-025",
+    "brand": "Ducray",
+    "name": "Sensinol Soothing Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Laureth-9, 1-2 Hexanediol, 4-Butylcyclohexanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Carbomer, Glyceryl Stearate, Peg-100 Stearate, Pentylene Glycol, Sodium Hydroxide, Sorbitan Stearate, Tropolone",
+    "image": "https://cdn1.costatic.com/img/product/400/65003ad8b7f29/ducray-sensinol-soothing-p21242.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-022",
+    "brand": "Ducray",
+    "name": "Kelual Squanorm Anti-Dandruff Regulating Shampoo Refill",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Decyl Glucoside, Disodium Cocoyl Glutamate, Succinic Acid, 1,2-Hexanediol, Bisabolol, Caprylyl Glycol, Fragrance (Parfum), Glyceryl Laurate, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Piroctone Olamine, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/693be4a017c6b/ducray-kelual-squanorm-p114048.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-026",
+    "brand": "Ducray",
+    "name": "Kelual DS Soothing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Water (Aqua), Caprylic/Capric Triglyceride, Glycerin, Lactamide Mea, Cetearyl Alcohol, Glyceryl Stearate, Sodium Stearoyl Glutamate, 1,2-Hexanediol, Caprylyl Glycol, Cetearyl Glucoside, Ciclopirox Olamine, Citric Acid, Disodium Phosphate, Glycyrrhetinic Acid, Hydroxyethylcellulose, Piroctone Olamine, Serenoa Serrulata Fruit Extract, Sodium Phosphate, Sodium Phytate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66210aa301cdf/ducray-kelual-ds-p91112.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-008",
+    "brand": "Ducray",
+    "name": "Sensinol Soothing Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Disodium Cocoamphodiacetate, Coco-Glucoside, Sodium Lauryl Methyl Isethionate, Glycerin, Zinc Coceth Sulfate, Ceteareth-60 Myristyl Glycol, Peg-40 Hydrogenated Castor Oil, Coco-Glucoside, Glyceryl Oleate, Sodium Chloride, Laureth-9, Ascorbyl Palmitate, Citric Acid, Fragrance, Hydrogenated Palm Glycerides Citrate, Lauric Acid, Lecithin Sodium Benzoate, Sodium Hydroxide, Sodium Methyl Isethionate, Tocopherol, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/65003a200f1a3/ducray-sensinol-soothing-p32920.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-023",
+    "brand": "Ducray",
+    "name": "Kelual DS Intensive Anti-Dandruff Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "100ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Undecylenamidopropyl Betaine, Decyl Glucoside, Ciclopirox Olamine, Laureth-9, Lactamide Mea, Coco-Betaine, Ceteareth-60 Myristyl Glycol, Citric Acid, Fragrance (Parfum), Glycyrrhetinic Acid, Mentha Piperita (Peppermint) Flower/Leaf/Stem Extract (Mentha Piperita Flower/Leaf/Stem Extract), Pentylene Glycol, Piroctone Olamine, Polyquaternium-10, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/68d3e7a8a69dd/ducray-kelual-ds-p112003.jpg",
+    "marketingClaims": [
+      "مضاد لقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-027",
+    "brand": "Ducray",
+    "name": "Keracnyl Repair Baume Compensateur",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/66fa7db418f8b/ducray-keracnyl-repair-p97005.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-009",
+    "brand": "Ducray",
+    "name": "Dexyane Ultra-Rich Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Ceteareth-60, Myristyl Glycol, Coco-Glucoside, Zinc Coceth Sulfate, Sodium Cocamphoacetate, Polysorbate 20, Glycerin, Citric Acid, Ascorbyl Palmitate, Disodium Laureth Sulfosuccinate, Glyceryl Oleate, Hydrogenated Palm Glycerides Citrate, Isoleucine, Laureth-3, Lecithin, Maleic Acid, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/671211bc89ab9/ducray-dexyane-ultra-p24892.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-HSE-DUC-004",
+    "brand": "Ducray",
+    "name": "Neoptide Expert Anti-Hair Loss and Growth Serum",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "50ml",
+    "ingredients": "Water (Aqua), Alcohol Denat., Isopropyl Alcohol, PEG-6, Hexylene Glycol, Pentylene Glycol, Butylene Glycol, Citric Acid, Lespedeza Capitata Flower/Leaf/Stem Extract, Manganese PCA, Polyacrylate-13, Polyisobutene, Polysorbate 20, Silybum Marianum Fruit Extract, Sodium Dilauramidoglutamide Lysine, Sodium Phytate, Sorbitan Isostearate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a046eabd3399/ducray-neoptide-expert-p77525.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-HSE-DUC-005",
+    "brand": "Ducray",
+    "name": "Creastim Reactiv Hair Loss Anti-Hair Loss Lotion",
+    "country": "France",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "60ml",
+    "ingredients": "Water (Aqua), Alcohol, Hexylene Glycol, Pentylene Glycol, Polyglyceryl-4 Caprate, Acetyl Tetrapeptide-2, Biotin, Caramel, Creatine, Dextran, Fragrance (Parfum), Panthenol, Pantolactone, Pyridoxine HCL, Tetramethyl Acetyloctahydronaphtalanes, Tocopheryl Nicotinate, Trimethylbenzenepropanol",
+    "image": "https://cdn1.costatic.com/img/product/400/69fae724904b4/ducray-creastim-reactiv-p79572.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-028",
+    "brand": "Ducray",
+    "name": "Kelual Keratoreducing Emulsion Infant Cradle Cap Scaly Skin Infants Babies",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Water (Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), PEG-12 Dimethicone, Lactamide MEA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, Carbomer, Ethylhexylglycerin, Sodium Hydroxide, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6a438c5c6905a/ducray-kelual-infant-p35238.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DUC-010",
+    "brand": "Ducray",
+    "name": "Kelual DS Anti-Dandruff Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Disodium Laureth Sulfosuccinate, Ceteareth-60 Myristyl Glycol, Lauryl Betaine, Decyl Glucoside, Glyceryl Laurate, 1,2-Hexanediol, Caprylyl Glycol, Ciclopirox Olamine, Citric Acid, Glycyrrhetinic Acid, Piroctone Olamine, Sodium Chloride, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/667aafed109c4/ducray-kelual-ds-p91113.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مضاد للقشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-029",
+    "brand": "Ducray",
+    "name": "Kertyol P.S.O. Concentrate Body and Scalp",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Water (Aqua), Ethylhexyl Palmitate, Glycerin, Cetearyl Alcohol, Lactamide Mea, Dimethicone, Glycolic Acid, Glyceryl Stearate, Ceteareth-33, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Laureth-9, 1,2-Hexanediol, Caprylyl Glycol, Cichorium Intybus (Chicory) Root Extract, Ethanolamine, Fragrance (Parfum), Hydrogenated Polyisobutene, PEG-7 Trimethylolpropane Coconut Ether, Pentylene Glycol, Sodium Chloride, Sodium Hydroxide, Sodium Shale Oil, Sulfonate Sorbitan, Isostearate, Tripterygium Wilfordi Callus Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/61765681ea23b/ducray-kertyol-p-p58725.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DUC-030",
+    "brand": "Ducray",
+    "name": "Melascreen Night Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Water (Aqua), Dicaprylyl Carbonate, Isopropyl Palmitate, Isododecyl Neopentanoate, Glycol Palmitate, Ascorbyl Glucoside, Niacinamide, Glycerin, Arachidyl Alcohol, Dimethicone, Glyceryl Stearate, Peg-100 Stearate, Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Benzoic Acid, Butylene Glycol, Caprylyl Glycol, Citric Acid, Disodium Edta, Fragrance (Parfum), Glycine Soja Oil, Hydrogenated Lecithin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Oligopeptide-68, Polysorbate 60, Sodium Citrate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Oleate, Sorbitan Isostearate, Squalane, Tocopherol, Tocopheryl Acetate, Viburnum Prunifolium Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/65003a6bf02bd/ducray-melascreen-night-p23233.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-DUC-031",
+    "brand": "Ducray",
+    "name": "Sensinol Soothing Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Water (Aqua), Glycerin, Caprylic/Capric Triglyceride, Laureth-9, 1-2 Hexanediol, 4-Butylcyclohexanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylyl Glycol, Carbomer, Glyceryl Stearate, Peg-100 Stearate, Pentylene Glycol, Sodium Hydroxide, Sorbitan Stearate, Tropolone",
+    "image": "https://cdn1.costatic.com/img/product/400/65003ab2dec13/ducray-sensinol-soothing-p64338.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-DUC-005",
+    "brand": "Ducray",
+    "name": "Keracnyl UV Anti-Imperfection Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/685183f149e8f/ducray-keracnyl-uv-p74910.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CON-DUC-001",
+    "brand": "Ducray",
+    "name": "Anaphase Fortifying Anti-Breakage Conditioner",
+    "country": "France",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua). Cetyl Alcohol. Ethylhexyl Palmitate. Behenamidopropyl Dimethylamine. Dicaprylyl Carbonate. Cetearyl Alcohol. 1,2-Hexanediol. Fragrance (Parfum). Benzoic Acid. Cetearyl Glucoside. Glycine Soja (Soybean) Oil (Glycine Soja Oil). Hydrolyzed Vegetable Protein. Lactic Acid. Panthenol. Pantolactone. Sclerotium Gum. Sodium Benzoate. Tocopherol. Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/6855727d831c4/ducray-anaphase-fortifying-p102329.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-024",
+    "brand": "Ducray",
+    "name": "Extra-Gentle Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Sodium Laureth, Inulin, Cocamidopropyl Betaine, Coco Glucoside, Sodium Chloride, Ascorbyl Palmitate, Citric Acid, Fragrance, Glyceryl Oleate, Green 3 (CI 42053), Hydrogenated Palm Glycerides Citrate, Lecithin, Limonene, Sodium Benzoate, Tocopherol, Yellow 5 (CI 19140)",
+    "image": "https://cdn1.costatic.com/img/product/400/686e1153d7e6e/ducray-extra-gentle-p55429.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-025",
+    "brand": "Ducray",
+    "name": "Extra-Gentle Dermo-Protective Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Sodium Benzoate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/65bb50023c145/ducray-extra-gentle-p55432.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "FR-SHA-DUC-026",
+    "brand": "Ducray",
+    "name": "Anaphase+ Anti-Hair Loss Complement Shampoo",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "200ml",
+    "ingredients": "Water (Aqua), Sodium Laureth Sulfate, Betaine, Glycerin, Sodium Cocamphoacetate, Acrylates Copolymer, Ceteareth-60, Myristyl Glycol, Peg-40 Hydrogenated Castor Oil, Alcohol Biotin, Citric Acid, Fragrance (Parfum), Glyceryl Laurate, Glycol Distearate, Hydrolyzed Wheat Protein, Panthenol, Pantolactone, Phenoxyethanol, Polyquaternium-7, Pyridoxine HCL, Ruscus Aculeatus Root Extract, Salicylic Acid, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Tocopheryl Nicotinate",
+    "image": "https://cdn1.costatic.com/img/product/400/6985eddb14fa5/ducray-anaphase-anti-p29645.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
   }
 ]
