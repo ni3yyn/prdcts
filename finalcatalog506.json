@@ -33341,5 +33341,3405 @@
     "targetTypes": [
       "شعر تالف"
     ]
+  },
+  {
+    "id": "FR-LOT-AVE-001",
+    "brand": "Avène",
+    "name": "Hydrance BB-Light Tinted Hydrating Emulsion SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Methyl Gluceth-20, silica, Titanium Dioxide (CI77891), Butyl Methoxydibenzoylmethane, Zea Mays (Corn) Starch (Zea Mays Starch), Mica, Isocetyl Stearoyl Stearate, Triethylhexanoin, Glyceryl Stearate, PEG-100 Stearate, Potassium Cetyl Phosphate, Benzoic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Decyl Glucoside, Disodium Edta, Fragrance (Parfum)), Glyceryl Behenate, Glyceryl Dibehenate, Hydrogenated Starch Hydrolysate, Iron Oxides (CI77492), (CI77491), CI77499), Phytosterols, Polyacrylate-13, Polyisobutene, Polysorbate 20, Propylene Glycol, Sodium Hydroxide, Sorbitan Isostearate, Stearyl Alcohol, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a5f7213059c1/avene-hydrance-bb-p39635.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توحيد لون البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-001",
+    "brand": "Avène",
+    "name": "Solaire Fluide Tinted Anti Pigmentation SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Water (Aqua). C12-15 Alkyl Benzoate. Diethylamino Hydroxybenzoyl Hexyl Benzoate. Ethylhexyl Triazone. Oryza Sativa (Rice) Starch (Oryza Sativa Starch). Phenylene Bis-Diphenyltriazine. Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine. Potassium Cetyl Phosphate. Lauryl Glucoside. Polyglyceryl-2 Dipolyhydroxystearate. Avene Thermal Spring Water (Avene Aqua). Glycerin. Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer. Alumina. Azelaic Acid. Benzoic Acid. Caprylic/Capric Triglyceride. Caprylyl Glycol. Citric Acid. Ethylhexylglycerin. Iron Oxides (Ci 77492,Ci 77491,Ci 77499). Isononyl Isononanoate. Isopropyl Myristate. Isopropyl Titanium Triisostearate. Polyhydroxystearic Acid. Ppg-1-Peg-9 Lauryl Glycol Ether. Propylene Carbonate. Sodium Phytate. Stearalkonium Hectorite. Titanium Dioxide (Ci 77891). Tocopherol. Tocopheryl Glucoside. Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67a3728e7948d/avene-solaire-fluide-p100855.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-002",
+    "brand": "Avène",
+    "name": "Men After-Shave Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a423ff665d78/avene-men-after-p117207.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-003",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Moisturizing Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Polyglyceryl-2 Dipolyhydroxystearate, Niacinamide, Pentaerythrityl Tetracaprylate/Tetracaprate, Behenyl Alcohol, Benzoic Acid, Caprylyl Glycol, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxyethylcellulose, Lauryl Glucoside, Silybum Marianum Seed Oil, Sodium Citrate, Sodium Lauryl Glucose Carboxylate, Sodium Stearoyl Glutamate, Sorbic Acid, Tocopherol, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/55df5522b25dd/avene-xeracalm-nutrition-p91123.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SCR-AVE-001",
+    "brand": "Avène",
+    "name": "Gentle Exfoliating Gel",
+    "country": "France",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/68fb2e8b9e782/avene-gentle-exfoliating-p114039.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-004",
+    "brand": "Avène",
+    "name": "Cicalfate+ Repairing Protective Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Mineral Oil (Paraffinum Liquidum), Glycerin, Hydrogenated Vegetable Oil, Zinc Oxide, Propylene Glycol, Polyglyceryl-2 Sesquisostearate, PEG-22/Dodecyl (Glycol) Copolymer, Aluminium Stearate, PEG-22/Dodecyl Glycol, Copolymer Aluminium Stearate, Aquaphilus Dolomiae, Ferment Filtrate, Arginine, Beeswax (Cera Alba), Copper Sulfate, Magnesium Stearate, Magnesium Sulfate, Microcrystalline Wax (Cera Microcristallina) Tromethamine, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/69c4e2e8dad54/avene-cicalfate-repairing-p41316.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-005",
+    "brand": "Avène",
+    "name": "Cream with Cold Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Paraffinum Liquidum, Avene Aqua, Cera Alba, Glyceryl Stearate, Cetyl Alcohol, C20-40 Pareth-10, Cetyl Phosphate, Fragrance, Methylparaben, Sodium Hydroxide, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/6419c36c91c46/avene-cream-with-p2724.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-002",
+    "brand": "Avène",
+    "name": "Solaire Spray Famille SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Diisopropyl Adipate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyl Methoxydibenzoylmethane, Decyl Glucoside, Benzoic Acid, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium Edta, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxycapric Acid, Lauryl Glucoside, Oxothiazolidine, Propylene Glycol, Sodium Benzoate, Sodium Citrate, Sodium Lauryl Glucose Carboxylate, Sorbic Acid, Tocopherol, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67da885bcaf52/avene-solaire-spray-p100849.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-001",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "750ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Water (Aqua), Hydrogenated Starch Hydrolysate, Disodium Cocoamphodiacetate, Decyl Glucoside, Polysorbate 20, Sodium Chloride, Ceteareth-60 Myristyl Glycol, Aquaphilus Dolomiae Extract, Arginine, Citric Acid, Coco-Glucoside, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glyceryl Oleate, Glycine, Hydrogenated Vegetable Glycerides Citrate, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Sodium Benzoate, Tocopherol, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/654a374db5c34/avene-xeracalm-ad-p85716.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-006",
+    "brand": "Avène",
+    "name": "Hydrance Aqua Moisturizing Gel-Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua). Glycerin. Caprylic/Capric Triglyceride. Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer. Isocetyl Stearoyl Stearate. Triethylhexanoin. Betaine. Polyglyceryl-10 Myristate. 1,2-Hexanediol. Aloe Barbadensis Leaf Juice Powder. Behenyl Alcohol. Caprylyl Glycol. Citric Acid. Ethylhexylglycerin. Fragrance (Parfum). Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil). Lecithin. Polysorbate 60. Propanediol. Sodium Hyaluronate. Sodium Phytate. Sorbitan Isostearate. Squalane. Tocopherol. Tocopheryl Glucoside. Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/68c40d68e75d7/avene-hydrance-aqua-p111925.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AVE-001",
+    "brand": "Avène",
+    "name": "Essentials Make-Up Removing Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Pentylene Glycol, Citric Acid, Coco-Glucoside, Ethyl Lauroyl Arginate Hcl, Fragrance (Parfum), Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Trehalose, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/66c2ef3da3a85/avene-essentials-make-p80913.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-003",
+    "brand": "Avène",
+    "name": "Invisible Sun Spray SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6863854b8704c/avene-invisible-sun-p100845.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-007",
+    "brand": "Avène",
+    "name": "Hydrating Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4g",
+    "ingredients": "Ricinus Communis (Castor) Seed Oil (Ricinus Communis Seed Oil), Caprylic/Capric Triglyceride, Beeswax (Cera Alba), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Butyrospermum Parkii (Shea) Oil (Butyrospermum Parkii Oil), Squalane, Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera), Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Avene Thermal Spring Water (Avene Aqua), Citric Acid, Fragrance (Parfum), Glycerin, Leontopodium Alpinium Flower/Leaf Extract, Potassium Sorbate, Ribes Bubbum (Currant) Fruit Extract (Ribes Rubbum Fruit Extract), Rubus Idaeus (Raspberry) Fruit Extract (Rubus Idaeus Fruit Extract), Sodium Benzoate, Vaccinum (Myrtillus Fruit Extract, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3afe8c0cf/avene-hydrating-lip-p71864.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-008",
+    "brand": "Avène",
+    "name": "Cicalfate+ Repairing Protective Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c4e33f1a3b6/avene-cicalfate-repairing-p41154.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-009",
+    "brand": "Avène",
+    "name": "XeraCalm AD Soothing Concentrate",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Aquaphilus Dolomiae Extract, Arginine, Cetearyl Glucoside, Cetyl Alcohol, Citric Acid, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glyceryl Stearate, Glycine, Oenothera Biennis (Evening Primrose) Oil (Oenothera Biennis Oil), Peg-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Tocopherol, Tocopheryl Acetate, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/687763839b51c/avene-xeracalm-ad-p102326.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-010",
+    "brand": "Avène",
+    "name": "Hydrance UV Light Hydrating Emulsion SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Diisopropyl Adipate, Glycerin, Methylene, Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminium Starch Octenylsuccinate, Butyl Methoxydibenzoylmethane, Methyl Gluceth-20, Polymethyl Methacrylate, Isocetyl Stearoyl Stearate, Triethylhexanoin, Hydrogenated Starch Hydrolysate, Glyceryl Stearate, PEG-100 Stearate, Potassium Cetyl Phosphate, Benzoic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Decyl Glucoside, Disodium Edta, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Phytosterols, Polyacrylate-13, Polyisobutene, Polysorbate-20, Propylene Glycol, Sorbitan Isostearate, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b32f1732893/avene-hydrance-uv-p39654.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AVE-001",
+    "brand": "Avène",
+    "name": "Hydrance Boost Concentrated Hydrating Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Propanediol, Glycerin, Pentylene Glycol, Diglycerin, 1,2-Hexanediol, Niacinamide, Sodium Hyaluronate, Betaine, Citric Acid, Fragrance (Parfum), Pca, Polyglyceryl-4 Caprate, Sclerotium Gum, Sodium Citrate, Sodium Hydroxide, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/66b32f264e233/avene-hydrance-boost-p79578.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AVE-002",
+    "brand": "Avène",
+    "name": "Thermal Water Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Nitrogen",
+    "image": "https://cdn1.costatic.com/img/product/400/66b32f22dd475/avene-thermal-water-p33557.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-002",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Decyl Glucoside, Water (Aqua), Sodium Cocoyl Glutamate, Algin, Carrageenan, Citric Acid, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Niacinamide, Silybum Marianum Seed Oil, Sodium Benzoate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/692dc0158d05e/avene-xeracalm-nutrition-p82159.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SCR-AVE-002",
+    "brand": "Avène",
+    "name": "Body Gentle Scrub",
+    "country": "France",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Sodium Laureth Sulfate, Water (Aqua), Glycerin, Cellulose, Oleth-10, Microcrystalline Cellulose, Decyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii (Shea) Oil (Butyrospermum Parkii Oil), Camelina Sativa Seed Oil, Caprylyl Glycol, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Citric Acid, Coco-Glucoside, Fragrance (Parfum), Glyceryl Oleate, Hydrogenated Vegetable Glycerides Citrate, Jojoba Esters, Lauryl Betaine, PEG-30 Dipolyhydroxystearate, Red 30 (CI 73360), Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Talc, Tocoperol, Trideceth-6",
+    "image": "https://cdn1.costatic.com/img/product/400/63761f093e06e/avene-body-gentle-p80307.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-004",
+    "brand": "Avène",
+    "name": "Sun Care SPF30 Cream",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Aqua, Octocrylene, Cyclomethicone, Cetearyl Isononanoate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Aqua, Dicaprylyl Ether, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, C 12-15 Alkyl Benzoate, Diisopropyl Adipate, Potassium Cetyl Phosphate, Stearyl Alcohol, Titanium Dioxide, PVP/Eicosene Copolymer, Caprylic Capric Triglyceride, Caprylyl Glycol, Decyl Glucoside, Dimethicone, Disodium EDTA, Parfum (Fragrance), Glyceryl Behenate, Glyceryl Dibehenate, Propylene Glycol, Silica, Sorbic Acid, Tocopheryl Glucoside, Tribehenin, Xanthan Gum, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/66b619c2285d7/avene-sun-care-p7350.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-003",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), Glycerin, Water (aqua), Hydrogenated Starch Hydrolysate, Disodium Cocoamphodiacetate, Decyl Glucoside, Polysorbate 20, Sodium Chloride, Ceteareth-60 Myristyl Glycol, Aquaphilus Dolomiae Extract, Arginine, Citric Acid, Coco-glucoside, Evening Primrose Oil/palm Oil Aminopropanediol Esters, Glyceryl Oleate, Glycine, Hydrogenated Vegetable Glycerides Citrate, Simmondsia Chinensis (jojoba) Seed Oil (simmondsia Chinensis Seed Oil), Sodium Benzoate, Tocopherol, Trisodium Ethylenediamine Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/69e88b6c3ef56/avene-xeracalm-ad-p89599.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-011",
+    "brand": "Avène",
+    "name": "Hydrance BB-Rich Tinted Hydrating Cream SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Glycerin, Pentaerythrityl Tetracaprylate/Tetracaprate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Diethylhexyl Butamido Triazone, Diisopropyl Adipate, Methyl Gluceth-20, Silica, Titanium Dioxide (CI77891), Butyl Methoxydibenzoylmethane, Mica, Isocetyl Stearoyl Stearate, Triethylhexanoin, Glyceryl Stearate, PEG-100 Stearate, Potassium Cetyl Phosphate, Benzoic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Decyl Glusocide, Disodium Edta, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Hydrogenated Starch Hydrolysate, Iron Oxides (CI77492), (CI77491), (CI77499), Phytosterols, Polyacrylate-13, Polyisobutene, Isostearate, Stearyl Alcohol, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b32f335a37f/avene-hydrance-bb-p39643.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توحيد لون البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-003",
+    "brand": "Avène",
+    "name": "Soothing Toner",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Pentylene Glycol, Citric Acid, Coco-Glucoside, Fragrance (Parfum), Pca, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Sodium Benzoate, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/6932c190425ed/avene-soothing-toner-p99063.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-012",
+    "brand": "Avène",
+    "name": "Cold Cream Nourishing Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4g",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69284d62a3d62/avene-cold-cream-p71866.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-004",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Water (Aqua), Hydrogenated Starch Hydrolysate, Disodium Cocoamphodiacetate, Decyl Glucoside, Polysorbate 20, Sodium Chloride, Ceteareth-60 Myristyl Glycol, Aquaphilus Dolomiae Extract, Arginine, Citric Acid, Cocoglucoside, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glyceryl Oleate,, Glycine, Hydrogenated Vegetable Glycerides Citrate, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Sodium Benzoate Tocopherol, Trisodium Ethylenediamine, Disuccinate",
+    "image": "https://cdn1.costatic.com/img/product/400/66a25f1e97268/avene-xeracalm-ad-p88582.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-013",
+    "brand": "Avène",
+    "name": "Tolérance Hydra-10 Moisturizing Fluid",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Myristyl Alcohol, Citrus Limon (Lemon) Peel Powder (Citrus Limon Peel Powder), Diutan Gum, Myristyl Glucoside, Sclerotium Gum, Sodium Hyaluronate",
+    "image": "https://cdn1.costatic.com/img/product/400/635154347d7f5/avene-tolerance-hydra-p76209.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AVE-002",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Concentrated Plumping Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Niacinamide, Glycerin, Pentylene Glycol, Sodium Hyaluronate, Adenosine, Citric Acid, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/6a046e915b7f5/avene-hyaluron-activ-p79573.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-014",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Moisturising Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/654a34316233a/avene-xeracalm-nutrition-p82165.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-EYE-AVE-001",
+    "brand": "Avène",
+    "name": "Hyaluron Activ Retinal Procedure Micro-Lift Cream Eyes & Lips",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Squalane, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Pentaerythrityl Tetracaprylate/Tetracaprate, Cetearyl Alcohol, Behenyl Alcohol, Niacinamide, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia Senegal Gum, Cetearyl Glucoside, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Retinal, Sodium Benzoate, Sodium Hyaluronate, Sodium Hydroxide, Tocopherol, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/691b05e821817/avene-hyaluron-activ-p112005.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-005",
+    "brand": "Avène",
+    "name": "Sunscreen Ultra Fluid Invisible SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Water (Aqua), Diisopropyl Adipate, Ethylhexyl Triazone, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Phenylene Bis-Diphenyltriazine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, C9-12 Alkane, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Tapioca Starch, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Benzoic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Coco-Caprylate/Caprate, Glyceryl Laurate, Glycine Soja (Soybean) Oil (Glycine Soja Oil), Lens Esculenta (Lentil) Seed Extract (Lens Esculenta Seed Extract), Pentylene Glycol, Ppg-1-Peg-9 Lauryl Glycol Ether, Red 33 (Ci 17200), Sodium Benzoate, Sodium Phytate, Tocopherol, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/551900c79880f/avene-sunscreen-ultra-p91124.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-005",
+    "brand": "Avène",
+    "name": "XeraCalm AD Ultra-Rich Cleansing Bar",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "Disodium Lauryl Sulfossucinate, Maltodextrin, Sodium Cocoyl Isethionate, Water (Aqua), Palmitic Acid, Stearic Acid, Cetearyl Alcohol, Paraffin, Oenothera Biennis (Evening Primrose) Oil (Oenothera Biennis Oil), Ceteaeth-6, Avene Thermal Spring Water (Avene Aqua), Aquaphillus Dolomiae Extract, Arginine, Citric Acid, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Microcrystalline Wax (Cera Microcristallina) Titanium Dioxide (Ci 77891), Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/68be900cb6383/avene-xeracalm-ad-p100858.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-015",
+    "brand": "Avène",
+    "name": "Cicalfate+ Scar Gel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a423f85271eb/avene-cicalfate-scar-p117208.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-016",
+    "brand": "Avène",
+    "name": "Cleanance Comedomed+ Soin Intensif Anti-Imperfections",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Isopropyl Alcohol, Peg-6, Glycerin, Niacinamide, Silybum Marianum Fruit Extract, Silica, Polyacrylate-13, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/68aec429294ba/avene-cleanance-comedomed-p111991.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-006",
+    "brand": "Avène",
+    "name": "Sun Care Anti-Aging Fluid SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/679ce3da36308/avene-sun-care-p100847.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-006",
+    "brand": "Avène",
+    "name": "Cleanance Gel Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Zinc Coceth Sulfate, Lauryl Betaine, Decyl Glucoside, Ceteareth-60 Myristyl Glycol, PEG-7 Glyceryl Cocoate, Polysorbate 20, Citric Acid, Fragrance (Parfum), Green 5 (CI 61570), Isopropyl Alcohol, PEG-40 Hydrogenated Castor Oil, PEG-6, PPG-26-Buteth-26, Silybum Marianum Fruit Extract, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Yellow 5 (CI 19140), Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/69f83f6533d33/avene-cleanance-gel-p93821.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-017",
+    "brand": "Avène",
+    "name": "Cicalfate + Protective Repair Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "15ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Mineral Oil (Paraffinum Liquidum), Glycerin, Hydrogenated Vegetable Oil, Zinc Oxide, Propylene Glycol, Polyglyceryl-2 Sesquisos-Tearate, Peg22/Dodecyl Glycol Copolymer, Aluminium Stearate, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Beeswax (Cera Alba), Copper Sulfate, Magnesium Stearate, Magnesium Sulfate, Microcrystal-line Wax (Cera Microcristallina), Tromethamine, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/69859819aaa4b/avene-cicalfate-protective-p56760.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-007",
+    "brand": "Avène",
+    "name": "Cleanance SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Oryza Sativa (rice) Starch (oryza Sativa Starch), Phenylene Bis-diphenyltriazine, Water (aqua), Glycerin, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Glyceryl Laurate, Glyceryl Stearate, Stearyl Alcohol, Tapioca Starch, Vp/eicosene Copolymer, Benzoic Acid, Caprylic/capric Triglyceride, Caprylyl Glycol, Fragrance (parfum), Glyceryl Behenate, Glyceryl Dibehenate, Ppg-1-peg-9 Lauryl Glycol Ether, Red 33 (ci 17200), Tocopheryl Glucoside. Tribehenin, Xanthan Gum, Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3b6bb65ae/avene-cleanance-spf50-p72959.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-008",
+    "brand": "Avène",
+    "name": "Sun Care SPF50+ Spray",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Ag Soylamino Hydroxybenzoylhexyl Benzoate Disopropyl, Sebacate. Coco-Caprylate/Caprate. Dicaprylyl Carbone Diethylhexyl Butamido Triazone. Glycerin, Bisethyle Lotyphenol Methoxyphenyl Triazine. Glyceryl Stearate Citrate Oryza Sativa (Rice) Starch (Oryza Sativa Starch Pentylene Glycol. C12-15 Alkyl Benzoate. Vp/Bicose Copolymer. Benzoic Acid. Caprylic/Capric Triglyceride Ragrance (Parfum). Glycine Soja (Soybean Oil (Glycine Anthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Nokocrystalline Cellulose. Sodium Hydroxide. Tocopherol, Glucoside",
+    "image": "https://cdn1.costatic.com/img/product/400/686383486190b/avene-sun-care-p100850.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-007",
+    "brand": "Avène",
+    "name": "3in1 Make-up Remover Fluid",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Disodium Edta, Fragrance (Parfum), Phenoxyethanol, Sorbic Acid, Triethanolamine",
+    "image": "https://cdn1.costatic.com/img/product/400/6a67024671166/avene-3in1-make-p53852.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-004",
+    "brand": "Avène",
+    "name": "Cleanance Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua), Gylcerin, Pentylene Glycol, Coco-Glucoside, Ethyl Lauroyl Arginate HCL, Fragrance (Parfum), Glutamic Acid, Plyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Sodium Hydroxide, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/69c4e3ff9acb8/avene-cleanance-micellar-p85711.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-018",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Moisturizing Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Pentaerythrityl Tetracaprylate/Tetracaprate, Polyglyceryl-2 Dipolyhydroxystearate, Isopropyl Palmitate, Niacinamide, Behenyl Alcohol, Benzoic Acid, Caprylyl Glycol, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxyethylcellulose, Lauryl Glucoside, Silybum Marianum Seed Oil, Sodium Citrate, Sodium Lauryl Glucose Carboxylate, Sodium Stearoyl Glutamate, Sorbic Acid, Tocopherol, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/68e631195a5bf/avene-xeracalm-nutrition-p100843.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-009",
+    "brand": "Avène",
+    "name": "Fragrance-Free Cream SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glycerin, Oryza Sativa (rice) Starch (oryza Sativa Starch), Phenylene Bis-diphenyltriazine, Water (aqua), Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Potassium Cetyl Phosphate, Stearyl Alcohol, Vp/eicosene Copolymer, Benzoic Acid, Caprylic/capric Triglyceride, Caprylyl Glycol, Glyceryl Behenate, Glyceryl Dibehenate, PPG-1-peg-9 Lauryl Glycol Ether, Red 33 (ci 17200), Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/69c4e3dda3abe/avene-fragrance-free-p72957.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-010",
+    "brand": "Avène",
+    "name": "Solaire Ultra Fluid Perfector SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/68088559504a1/avene-solaire-ultra-p92810.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-AVE-002",
+    "brand": "Avène",
+    "name": "DermAbsolu Soin Regard Combleur",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Isohexadecane, Glyceryl Stearate, Peg-100 Stearate, Glycerin, Dimethicone, Methyl Gluceth-20, Propylene Glycol Alginate, Bakuchiol, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Dimethicone Crosspolymer, Disodium Edta, Glyceryl Linoleate, Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glycine Soja (Soybean) Oil (Glycine Soja Oil), Peg-30 Dipolyhydroxystearate, Propylene Glycol, Sodium Dextran Sulfate, Sodium Hydroxide, Sorbitol, Tocopherol, Tocopheryl Glucoside, Vanilla Tahitensis Fruit Extract, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/670d12d08302b/avene-dermabsolu-soin-p97040.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-AVE-003",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Soin Regard Triple Correction",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua). Caprylic/Capric Triglyceride. Glycerin. Niacinamide. Glyceryl Stearate, Citrate, Pentylene Glycol, Behenyl, Alcohol, Sodium Dextran Sulfate, Sodium Hyaluronate, Adenosine, Citric Acid, Glyceryl Caprylate, Sdoium Benzoate, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67c83e8f17e46/avene-hyaluron-activ-p100646.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح تحت العين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-011",
+    "brand": "Avène",
+    "name": "Solaire Lait Enfant SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "250ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Diisopropyl Adipate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyl Methoxydibenzoylmethane, Silica, Decyl Glucoside, Benzoic Acid, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium Edta, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxycapric Acid, Lauryl Glucoside, Oxothiazolidine, Propylene Glycol, Sodium Benzoate, Sodium Citrate, Sodium Lauryl Glucose Carboxylate, Sodium Polyacrylate, Sodium Stearoyl Glutamate, Sorbic Acid, Tocopherol, Tocopheryl Glucoside, Xanthan Gum,",
+    "image": "https://cdn1.costatic.com/img/product/400/68d6556853d84/avene-solaire-lait-p100853.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-019",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Cetearyl Alcohol, Oenothera Biennis (Evening Primrose) Oil, Caprylic/Capric Triglyceride, Cetearyl Glucoside, Aquaphilus Dolomiae Extract, Arginine, Carbomer, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glycine, Sodium Hydroxide, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/69df3d0b910e8/avene-xeracalm-ad-p115109.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-020",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Aqua Cellular Regeneration Gel-Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Niacinamide, Squalane, Diglycerin, Persea Gratissima (Avocado) Oil (Persea Gratissima Oil), Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyglyceryl-10 Myristate, Sodium Hyaluronate, Adenosine, 1,2-Hexanediol, Behenyl Alcohol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Caramel, Citric Acid, Fragrance (Parfum), Polysorbate 60, Sodium Citrate, Sorbitan Isostearate, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/696de97bcb331/avene-hyaluron-activ-p114043.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-021",
+    "brand": "Avène",
+    "name": "Cicalfate Hydra-10 Hydrating Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Cetearyl Alcohol, Cetearyl Glucoside, Citrus Limon (Lemon) Peel Powder (Citrus Limon Peel Powder), Diutan Gum, Sclerotium Gum, Sodium Hyaluronate",
+    "image": "https://cdn1.costatic.com/img/product/400/6351541834051/avene-cicalfate-hydra-p76210.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-012",
+    "brand": "Avène",
+    "name": "Ultra Invisible Solar Stick SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "20g",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69f848ae09235/avene-ultra-invisible-p115118.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-AVE-005",
+    "brand": "Avène",
+    "name": "Thermal Spring Water Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "300ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Nitrogen",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0d81d876e7e/avene-thermal-spring-p77016.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-013",
+    "brand": "Avène",
+    "name": "Cleanance Comedomed+ Intensive Anti-Blemish Fluid SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a5a0324b6a05/avene-cleanance-comedomed-p117209.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-008",
+    "brand": "Avène",
+    "name": "XeraCalm AD Pain Surgras",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/68fb44169ce25/avene-xeracalm-ad-p114239.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-014",
+    "brand": "Avène",
+    "name": "Tinted Mineral Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Zinc Oxide [Nano], Avene Thermal Spring Water (Avene Aqua), Titanium Dioxide [Nano], Coco-Caprylate/Caprate, Isopropyl Palmitate, Isocetyl Stearoyl Stearate, Isodecyl Neopentanoate Isododecane, Isohexadecane, Triethylhexanoin, Dicaprylyl Ether, PEG-30 Dipolyhydroxystearate, Iron Oxides (CI 77492) (CI 77491) (CI 77499), Mica, Alumina, Stearic Acid, Caprylyl Glycol, PEG-45/Dodecyl Glycol Copolymer, Silica, Benzoic Acid, Caprylic/Capric Triglyceride, Disodium EDTA, Disteardimonium Hectorite, Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Polyamide-3, Sodium Chloride, Titanium Dioxide (CI 77891), Tocopherol, Tocopheryl Glucoside, Tribehenin, Triethoxycaprylylsilane, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/66b6189a7b8bc/avene-tinted-mineral-p82166.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-015",
+    "brand": "Avène",
+    "name": "Mineral Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Zinc Oxide [Nano], Avene Thermal Spring Water (Avene Aqua), Titanium Dioxide [Nano], Coco-Caprylate/Caprate, Isocetyl Stearoyl Stearate, Isopropyl Palmitate, Isodecyl Neopentanoate, Isododecane, Isohexadecane, Triethylexanoin, Dicaprylyl Ether, Peg-30 Dipolyhydroxystearate, Aluminia Stearic Acid, Caprylyl Glycol, PEG-45/Dodecyl Glycol, Copolymer, Silica, Benzoic Acid, Caprylic/Capric Triglyceride, Disodium EDTA, Disteardimonium Hectorite, Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Pentaerythrityl Tetra Di-T-Butyl Hydroxyhydrocinnamate, Polyamide-3, Sodium Chloride, Tocopherol, Tocopheryl Glucoside, Tribehenin, Triethoxycaprylylsilane, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/65a011b5cfba9/avene-mineral-fluid-p82155.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-009",
+    "brand": "Avène",
+    "name": "Cicalfate + Purifying Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Glycerin, Disodium Coco-Glucoside Citrate, Decyl Glucoside, Sodium Cocoamphoacetate, Pentylene Glycol, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Citric Acid, Copper Sulfate, Sodium Chloride, Trisodium Ethylenediamine Disuccinate, Tromethamine, Xanthan Gum, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/62da6358cfd51/avene-cicalfate-purifying-p76208.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-016",
+    "brand": "Avène",
+    "name": "Sun Care SPF50+ Mineral Cream for Face",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/66b6190661d69/avene-sun-care-p5952.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-006",
+    "brand": "Avène",
+    "name": "Cicalfate + Repair Dryer Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Zinc Oxide, Hydrogenated Starch Hydrolysate, Water (Aqua), 1,2-Hexanediol, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Caprylyl Glycol, Copper Sulfate, Hectorite, Sclerotium Gum, Tromethamine, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/67b4a80a9072a/avene-cicalfate-repair-p49554.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-022",
+    "brand": "Avène",
+    "name": "Les Essentiels Revitalizing Nourishing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avène Thermal Spring Water (Avène Aqua)*, Glycerin, Octyldodecanol, Mineral Oil (Paraffinum Liquidum), Cetearyl Alcohol, Dimethicone, Isododecane, Methyl Gluceth-20, Pentylene Glycol, Water (Aqua), Silica, Cetearyl Glucoside, Glyceryl Stearate, Peg-100 Stearate, Benzoic Acid, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Fragrance (Parfum), Hydrogenated Starch Hydrolysate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Ribes Rubrum (Currant) Fruit Extract (Ribes Rubrum Fruit Extract)*, Rubus Idaeus (Raspberry) Fruit Extract (Rubus Idaeus Fruit Extract)*, Sodium Benzoate, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, Tocopheryl Glucoside, Vaccinum Myrtillus Fruit Extract*, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6969e636eb1c9/avene-les-essentiels-p39632.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-017",
+    "brand": "Avène",
+    "name": "Sun Care SPF50+ Mineral Milk",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Titanium Dioxide [Nano], Isodecyl Neopentanoate, Triethylhexanoin, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Polyglyceryl-4 Isostearate, Alumina, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Stearic Acid, Cyclohexasiloxane, C30-45 Olefin, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium EDTA, Iron Oxides (CI 77492), (CI 77491), Octyldodecanol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Dimethyl Silylate, Silk Amino Acids, Sodium Chloride, Sorbic Acid, Talc, Titanium Dioxide (CI 77891), Tocopheryl Glucoside Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/69c4e3c119dd5/avene-sun-care-p5958.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-010",
+    "brand": "Avène",
+    "name": "Les Essentiels Milk Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Aqua, Paraffinum Liquidum, Propylene Glycol, PEG-6 Stearate, PEG-32 Stearate, Butylparaben, Carbomer, Parfum (Fragrance), Phenoxyethanol, Propylene Glycol Stearate SE, Sodium Hyaluronate, Stearic Acid, Triethanolamine, Trisodium EDTA",
+    "image": "https://cdn1.costatic.com/img/product/400/63d3ba90b2074/avene-les-essentiels-p80915.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-007",
+    "brand": "Avène",
+    "name": "Cleanance Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua), Glycerin, Pentylene Glycol, Coco-Glucoside, Ethyl Lauroyl Arginate HCL, Fragrance (Parfum), Glutamic Acid, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Sodium Hydroxide, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/690088267645b/avene-cleanance-micellar-p85712.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-011",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Cleansing Oil",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "1L",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69f0cb941c16e/avene-xeracalm-ad-p115114.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-018",
+    "brand": "Avène",
+    "name": "SunsiStick KA Very High Protection SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "20g",
+    "ingredients": "Octyldodecanol, Polyethylene, Butylene Glycol Cocoate, Hydrogenated Microcristalline Wax, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diethylhexyl Butamido Triazone, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Beeswax (Cera Alba), Hydrogenated Castor Oil, Water (Aqua), 1,2-Hexanediol, Aluminium Hydroxide, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Cichorium Intybus (Chicory) Root Extract, Disodium Stearoyl Glutamate, Methyl Methacrylate Crosspolymer, Oxothiazolidine, Saccharin, Sodium Benzoate, Titanium Dioxide (CI 77891), Tocopheryl Glucoside",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3c13e1041/avene-sunsistick-ka-p51736.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AVE-003",
+    "brand": "Avène",
+    "name": "Cicalfate + Intensive Skin Recovery Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Pentylene Glycol, Propanediol, 1,2-Hexanediol, Panthenol, 4-T-Butylcyclohexanol, Octyldodecanol, Pantolactone, Betaine, Citric Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Sodium Citrate, Sorbitan Isostearate, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/680b287604195/avene-cicalfate-intensive-p85717.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-012",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "750ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Decyl Glucoside, Water (Aqua), Sodium Cocoyl Glutamate, Algin, Carrageenan, Citric Acid, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Niacinamide, Silybum Marianum Seed Oil, Sodium Benzoate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/654a35a43a44e/avene-xeracalm-nutrition-p82160.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-023",
+    "brand": "Avène",
+    "name": "Hydrance Light Hydrating Emulsion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Propylene Glycol, Dicaprylate/Dicaprate, C14-22 Alcohols, Dimethicone, Isocetyl Stearoyl Stearate, Triethylhexanoin, 1,2-Hexanediol, Polymethyl Methacrylate, Potassium Cetyl Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, C12-20 Alkyl Glucoside, Fragrance, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phytosterols, Polysorbate 60, Sclerotium Gum, Sodium Hydroxide, Sorbitan Isostearate, Squalane, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/68cbb115d67ca/avene-hydrance-light-p111634.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-019",
+    "brand": "Avène",
+    "name": "Ultra Hydrating Cellular Protection Serum SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c1483d16b21/avene-ultra-hydrating-p115115.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-024",
+    "brand": "Avène",
+    "name": "Cleanance Hydra Soothing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Carthamus Tinctorius (Safflower) Seed oil (Carthamus Tinctorius Seed oil), Caprylic/Capric Triglyceride, Dimethicone, Peg-12, Butylene Glycol, Glycerin, 1,2-Hexanediol, Glyceryl Stearate, PEG-100 Stearate, Cetyl Alcohol, Glyceryl Linoleate, Acrylates/C10-30 Alkyl Acrylate Crospolymer, Benzoic Acid, Fragrance (Parfum), Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glycine Soja (Soybean) Oil, Sodium Dextran Sulfate, Sodium Hydroxide, Tocopherol, Tocopheryl Acetate, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/69007b13b9ebe/avene-cleanance-hydra-p29959.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-008",
+    "brand": "Avène",
+    "name": "Les Essentiels Makeup Removing Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/682ee727f3f3e/avene-les-essentiels-p80917.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-025",
+    "brand": "Avène",
+    "name": "Les Essentiels Rich Revitalizing Nourishing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avène Thermal Spring Water (Avène Aqua)*, Butyrospermum Parkii Shea Butter (Butyrospermum Parkii Butter), Glycerin, Octyldodecanol, Mineral Oil (Paraffinum Liquidum), Cetearyl Alcohol, Dimethicone, Isododecane, Methyl Gluceth-20, Pentylene Glycol, Water (Aqua), Silica, Cetyl Esters, Cetearyl Glucoside, Glyceryl Stearate, Peg-100 Stearate, Benzoic Acid, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Fragrance (Parfum), Hydrogenated Starch Hydrolysate, Polyacrylate-13, Polyisobutene, Polysorbate 20, Ribes Nubrum (Currant) Fruit Extract (Ribes Nugrum Fruit Extract)*, Rubus Idaeus (Raspberry) Fruit Extract (Rubus Idaeus Fruit Extract)*, Sodium Benzoate, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, Tocopheryl Glucoside, Vaccinum Myrtillus Fruit Extract*, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3d4af0bcc/avene-les-essentiels-p39630.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-009",
+    "brand": "Avène",
+    "name": "Gentle Eye Make-Up Remover",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125ml",
+    "ingredients": "Avene Aqua, Triethanolamine, Sodium Chloride, Poloxamer 188, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenethyl Alcohol, Sorbitol, Aqua",
+    "image": "https://cdn1.costatic.com/img/product/400/62c418e9bb259/avene-gentle-eye-p2709.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-026",
+    "brand": "Avène",
+    "name": "Men Anti-Aging Hydrating Care",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua) Caprylic/Capric Triglyceride, Isohexadecane, Squalane, Propylene Glycol, Glycerin, Polyacrylate-13, Methyl Gluceth-20,1-2 Hexanediol, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Disodium EDTA, Fragrance (Parfum), Glyceryl Stearate, Oleoyl Dipeptide-15, Oleoyl Tetrapeptide-31, Peg-100 Stearate, Polyisobutene, Polysorbate 20, Sodium Hyaluronate, Sorbitan Isostearate, Tocopheryl Glucoside, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/67eb84ea73d61/avene-men-anti-p19787.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-013",
+    "brand": "Avène",
+    "name": "Cold Cream Ultra-Rich Cleansing Bar",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "Sodium Cocoyl Isethionate, Stearic Acid, Sodium Laurate, Sodium Stearate, Paraffin, Sodium Myristate, Aqua, Parfum (Fragrance), PEG-45 Palm Kernel Glycerides, Avene Aqua, Cera Alba, Cetyl Alcohol, Glyceryl Stearate, Paraffinum Liquidum, Titanium Dioxide (CI77891), Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/6925c24827c0b/avene-cold-cream-p33561.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-014",
+    "brand": "Avène",
+    "name": "Men Shaving Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua), Palmitic Acid, Triethanolamine, Oleth-20, Glycerin, Isopentane, Glycereth-26, Hydrogenated Polyisobutene, Stearic Acid, Isobutane, BHT, Bisabolol Blue 1 (CI 42090), Fragrance (Parfum), Glycine Soja (Soybean) Oil (Glycine Soja Oil), Hydroxycapric Acid, Hydroxyethylcellulose, Hydroxypropylcellulose, Linoleic Acid, PEG-14M, Silica, Sodium Acetate, Sodium Polynaphthalenesulfonate, Tocopherol, Water (Aqua), Zinc Pyrithione, Nitrogen",
+    "image": "https://cdn1.costatic.com/img/product/400/6a3e7d6584208/avene-men-shaving-p72950.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-027",
+    "brand": "Avène",
+    "name": "DermAbsolu Crème Nuit Intensive",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Pentylene Glycol, Coco-Caprylate/Caprate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Niacinamide, Zea Mays (Corn) Starch (Zea Mays Starch), Glyceryl Linoleate, Ascorbyl Glucoside, Bakuchiol, Beta-Caryophyllene, Caprylic/Capric Triglyceride, Caramel, Citric Acid, Dimethyl Phenethyl Acetate, Fragrance (Parfum), Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glyceryl Stearate, Glycine Soja (Soybean) Oil (Glycine Soja Oil), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Lauryl Glucoside, Linalool, Polyglyceryl-2 Dipolyhydroxystearate, Polysorbate 60, Sorbitan Isostearate, Terpineol, Tocopherol, Tocopheryl Glucoside, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/69247c249aac4/avene-dermabsolu-coffret-p114654.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-028",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Aqua Cellular Regeneration Gel-Cream Eco-Refill",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Niacinamide, Squalane, Diglycerin, Persea Gratissima (Avocado) Oil (Persea Gratissima Oil), Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyglyceryl-10 Myristate, Sodium Hyaluronate, Adenosine, 1,2-Hexanediol, Behenyl Alcohol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Caramel, Citric Acid, Fragrance (Parfum), Polysorbate 60, Sodium Citrate, Sorbitan Isostearate, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/696deb9f69bae/avene-hyaluron-activ-p114044.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-029",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Cellular Regeneration Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Niacinamide, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Glycol Palmitate, Arachidyl Alcohol, Cetearyl Alcohol, Cellulose, Glyceryl Stearate, Sodium Hyaluronate, Adenosine, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Cetearyl Glucoside, Citric Acid, Dimethyl Phenethyl Acetate, Fragrance (Parfum), Geranyl Acetate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Sodium Benzoate, Tocopherol, Tocopheryl Glucoside, Trimethylcyclopentenyl Methylisopentenol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a046c8e3b8e1/avene-hyaluron-activ-p114041.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-AVE-004",
+    "brand": "Avène",
+    "name": "DermAbsolu Sérum Concentré Resculptant",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Methyl Gluceth-20, Coco-Caprylate/Caprate, Dimethicone, Bakuchiol, Glyceryl Linoleate, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Sorbitol, 1,2-Hexanediol, Calcium Chloride, Caprylyl Glycol, Ceteareth-20, Cetearyl Alcohol, Cetyl Alcohol, Fragrance (Parfum), Glyceryl Linolenate, Glyceryl Oleate, Glyceryl Palmitate, Glyceryl Stearate, Glycine Soja (Soybean) Oil (Glycine Soja Oil), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydrogenated Polyisobutene, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Lactic Acid, Mica, Palmitic Acid, Peg-7 Trimethylolpropane Coconut Ether, Propylene Glycol, Sodium Stearate, Sodium Stearoyl Glutamate, Sorbitan Isostearate, Stearic Acid, Titanium Dioxide (CI 77891), Tocopherol, Tocopheryl Glucoside, Tropolone, Vanilla Tahitensis Fruit Extract, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/670d12ac8b703/avene-dermabsolu-serum-p97036.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-030",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Multi-Intensive Night Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Squalane, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Pentaerythrityl Tetracaprylate/Tetracaprate, Cetearyl Alcohol, Behenyl Alcohol, Niacinamide, C20-22 Alkyl Phosphate, C20-22 Alcohols, Retinal, Sodium Hyaluronate, Terminalia Chebula Fruit Extract, Adenosine, Acacia Senegal Gum, Cetearyl Glucoside, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Red 33 (Ci 17200), Sodium Benzoate, Sodium Hydroxide, Tocopherol, Tocopheryl Glucoside, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b32f47a2ebe/avene-hyaluron-activ-p79576.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-031",
+    "brand": "Avène",
+    "name": "Hydrating Self-Tanning Gel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), Peg-4, Coco-caprylate/caprate, Dihydroxyacetone, Hydroxyethyl Acrylate/sodium Acryloyldimethyl Taurate Copolymer, Erythrulose, Glycerin, Benzoic Acid, Blue 1 (ci 42090), Caprylic/capric Triglyceride, Caprylyl Glycol, Disodium Edta, Fragrance (parfum), Helianthus Annuus (sunflower) Seed Oil (helianthus Annuus Seed Oil), Isohexadecane, Polysorbate 60, Red 4 (ci 14700), Sodium Chloride, Sodium Sulfate, Sorbitan Isostearate, Tocopherol, Tocopheryl Glucoside, Water (aqua), Yellow 6 (ci 15985)",
+    "image": "https://cdn1.costatic.com/img/product/400/697898a0aad2f/avene-hydrating-self-p114427.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-032",
+    "brand": "Avène",
+    "name": "Hydrance UV Rich Hydrating Cream SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Diisopropyl Adipate, Glycerin, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polymethyl Methacrylate, Butyl Methoxydibenzoylmethane, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Methyl Gluceth-20, Isocetyl Stearoyl Stearate, Triethylhexanoin, Hydrogenated Starch Hydrolysate, C10-18 Triglycerides, Glyceryl Stearate, PEG-10 Stearate, Potassium Cetyl Phosphate, Benzoic Acid, Caprylic/Capric Triglycerides, Caprylyl Glycol, Decyl Glucoside, Disodium Edta, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Phytosterols, Polyacrylate-13, Polyisobutene, Polysorbate-20, Propylene Glycol, Sorbitan Isostearate, Stearyl Alcohol, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66e7e1ab1971c/avene-hydrance-uv-p39629.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-033",
+    "brand": "Avène",
+    "name": "Lip Butter 24H Intense Hydration",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "10ml",
+    "ingredients": "Ricinus Communis (Castor) Seed Oil (Ricinus Communis Seed Oil), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Beeswax (Cera Alba), Glycerin, Cetyl Alcohol, Polyglyceryl-2 Dipolhydroxystearate, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Avene Thermal Spring Water (Avene Aqua), Disteardimonium Hectorite, Citric Acid, Copernicia Cerifera (Carnauba) Wax (Copernicia Cerifera Cera), Fragrance (Parfum), Leontopodium Alpinum Flower/Leaf Extract, Potassium Sorbate, Ribes Rubrum (Currant) Fruit Extract (Ribes Rubrum Fruit Extract), Rubus Idaeus (Raspberry) Fruit Extract (Rubus Idaeus Fruit Extract, Sodium Benzoate, Vaccinum Myrtillus Fruit Extract, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/69a68b9b75205/avene-lip-butter-p71865.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-034",
+    "brand": "Avène",
+    "name": "Cold Cream Nourishing Lip Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4g",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/691ec3fc5095e/avene-cold-cream-p71862.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-015",
+    "brand": "Avène",
+    "name": "Cleanance Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Zinc Coceth Sulfate, Lauryl Betaine, Decyl Glucoside, Ceteareth-60 Myristyl Glycol, PEG-7 Glyceryl Cocoate, Polysorbate 20, PEG-40 Hydrogenated Castor Oil, PEG-6, PPG-26-Buteth-26, Silybum Marianum Fruit Extract, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Yellow 5 (CI 19140), Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/6969e5bce3197/avene-cleanance-cleansing-p49316.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-020",
+    "brand": "Avène",
+    "name": "Ultra Cellular Protection Plumping Serum SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c147f4ccdcf/avene-ultra-cellular-p115116.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-016",
+    "brand": "Avène",
+    "name": "Cleanance Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Zinc Coceth Sulfate, Lauryl Betaine, Decyl Glucoside, Ceteareth-60 Myristyl Glycol, PEG-7 Glyceryl Cocoate, Polysorbate 20, Citric Acid, Fragrance (Parfum), Green 5 (CI 61570), Isopropyl Alcohol, PEG-40 Hydrogenated Castor Oil, PEG-6, PPG-26-Buteth-26, Silybum Marianum Fruit Extract, Sodium Benzoate, Sodium Chloride, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Yellow 5 (CI 19140), Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/69007c6c50cd9/avene-cleanance-cleansing-p48510.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-017",
+    "brand": "Avène",
+    "name": "Men Shaving Foam",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Triethanolamine, Palmitic Acid, Stearic Acid, Butane, Polysorbate 20, Water (Aqua), Coco-Glucoside, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Citrus Medica Vulgaris Fruit Extract, Fragrance (Parfum), Glycerin, Glyceryl Oleate, Glycine Soja (Soybean) Oil (Glycine Soja Oil), Hydrogenated Vegetable Glycerides Citrate, Isobutane, Laureth-23, Maltodextrin, Niacinamide, Panax Ginseng Root Extract, Propane, Propylene Glycol, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6a3e7db978640/avene-men-shaving-p72952.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-AVE-001",
+    "brand": "Avène",
+    "name": "Body Gentle Shower Gel",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Avène Thermal Spring Water (Avène Aqua), Water (Aqua), Sodium Laureth Sulfate, Sodium Laureth Sulfate, Coco-Glucoside, Glycerin, Peg-7 Glyceryl Cocoate, Polysorbate 20, Inulin, Lauryl Betaine, Glyceryl Oleate, Ceteareth-60 Myristyl Glycol, Ascorbyl Palmitate, Butyrospermum Parkii (Shea) Oil, Camellina Sativa Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Citric Acid, Fragrance (Parfum), Hydrogenated Palm Glycerides Citrate, Lecithin, Propanediol, Salicylic Acid, Sodium Benzoate, Sodium Chloride, Sodium Myristoyl Glutamate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb39a112b77/avene-body-gentle-p31193.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-018",
+    "brand": "Avène",
+    "name": "Cold Cream Ultra-Rich Soap Bar",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "Sodium Cocoyl Isethionate, Stearic Acid, Sodium Laurate, Sodium Stearate, Paraffin, Sodium Myristate, Aqua, Parfum (Fragrance), PEG-45 Palm Kernel Glycerides, Avene Aqua, Cera Alba, Cetyl Alcohol, Cetyl Phosphate, Glyceryl Stearate, Paraffinum Liquidum, Titanium Dioxide, Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/66b32f6fdb7d5/avene-cold-cream-p2722.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-035",
+    "brand": "Avène",
+    "name": "DermAbsolu Intensive Resculpting Night Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/670d1303bf661/avene-dermabsolu-intensive-p97039.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-036",
+    "brand": "Avène",
+    "name": "Hydrance 48H Moisturizing Cream SPF30",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6894bd285b1f9/avene-hydrance-48h-p111633.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-019",
+    "brand": "Avène",
+    "name": "Tolérance Extremely Gentle Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Cetearyl Alcohol, Aquaphilus Dolomiae Extract Filtrate, Arginine, Caprylyl Glycol, Coco-Glucoside, Disodium Phosphate, Hydroxycapric Acid, Magnesium Oxide, Potassium Phosphate, Sodium Benzoate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Tromethamine, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/6920694e51c1d/avene-tolerance-extremely-p51130.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-021",
+    "brand": "Avène",
+    "name": "Antiredness Rosamed SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Octyldodecanol, Ethylhexyl Triazone, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Water (Aqua), Phenylene Bis-Diphenyltriazine, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Silybum Marianum Fruit Extract, Glyceryl Stearate, Pentylene Glycol, Stearyl Alcohol, Vp/Eicosene Copolymer, Benzoic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Glyceryl Behenate, Glyceryl Dibehenate, Ppg-1-Peg-9 Lauryl Glycol Ether, Red 33 (Ci 17200), Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/691ad9f1b7bd8/avene-antiredness-rosamed-p98744.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-022",
+    "brand": "Avène",
+    "name": "Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Oryza Sativa (rice) Starch (oryza Sativa Starch), Phenylene Bis-diphenyltriazine, Water (aqua), Glycerin, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Glyceryl Stearate, Stearyl Alcohol, Tapioca Starch Vp/eicosene Copolymer, Benzoic Acid, Caprylic/capric Triglyceride, Caprylyl Glycol, Fragrance (parfum), Glyceryl Behenate, Glyceryl Dibehenate, Ppg-1-peg-9 Lauryl Glycol Ether, Red 33 (ci 17200), Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3b05e0639/avene-fluid-spf50-p72953.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-037",
+    "brand": "Avène",
+    "name": "After-Sun Restorative Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Behenyl Alcohol, Arachidyl Alcohol, C20-22 Alkyl Phosphte, 1,2-Hexanediol, Arachidyl Glucoside, C20-22 Alcohols, Caprylyl Glycol, Fragrance (Parfum), Glycyrrhetinic Acid, Polyacrylate-13, Polyisobutene, Polysorbate 20, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Sodium Hydroxide, Sorbitan Isostearate, Tocopheryl Glucoside, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b61b92d0c4e/avene-after-sun-p82158.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-020",
+    "brand": "Avène",
+    "name": "Tolérance Extremely Gentle Cleanser",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Cetearyl Alcohol, Aquaphilus Dolomiae Extract Filtrate, Arginine, Caprylyl Glycol, Coco-Glucoside, Disodium Phosphate, Hydroxycapric Acid, Magnesium Oxide, Potassium Phosphate, Sodium Benzoate, Sodium Cetearyl Sulfate, Sodium Hydroxide, Tromethamine, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/66e7e14ea5689/avene-tolerance-extremely-p51129.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-MSK-AVE-001",
+    "brand": "Avène",
+    "name": "Soothing Moisturizing Mask",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Water (Aqua), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Palmitic Acid, Stearic Acid, Hydrogenated Palm/Palm Kernel Oil Peg-6 Esters, Triethanolamine, Glyceryl Stearate, Peg-100 Stearate, Propylene Glycol, 1,2-Hexanediol, Caprylic/Capric Glycerides, Caprylyl Glycol, Carbomer, Disodium Edta, Fragrance (Parfum), Microcrystalline Wax (Cera Microcristallina), Paraffin, Ribes Rubrum (Currant) Fruit Extract (Ribes Rubrum Fruit Extract), Rubus Idaeus (Raspberry) Fruit Extract (Rubus Idaeus Fruit Extract), Sodium Benzoate, Tocopheryl Glucoside, Tropolone, Vaccinium Myrtillus Fruit Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6932c069ab1ac/avene-soothing-moisturizing-p88583.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-038",
+    "brand": "Avène",
+    "name": "Hydrance Rich Hydrating Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avène Thermal Spring Water, Mineral Oil (Paraffinum Liquidum), Glycerin, Isohexadecane, Dimethicone, Cetearyl Alcohol, Carthamus Tinctorius Seed Oil, Isocetyl Stearoyl Stearate, Triethylhaxanoin, Glyceryl Stearate, Peg-100 Stearate, 1-2 Hexanediol, Butyrospermum Parkii Shea Butter, Cetearyl Glucoside, Benzoic Acid, Beta Sitosterol, Bht, Disodium Edta, Fragrance (Parfum), Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0b00641ff1b/avene-hydrance-rich-p29619.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-039",
+    "brand": "Avène",
+    "name": "Cream with Cold Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Mineral Oil (Paraffinum Liquidum), Avèe Thermal Spring Water (Avène Aqua), Beeswaw (Cera Alba), Glyceryl Stearate, Cetyl Alcohol, Bht, C20-40 Pareth-10, Caprylyl Glycol, Cetyl Phosphate, Parfum (Fragrance), Polyacrylate-13, Polyisobutene, Polysorbate 20, Sodium Hydroxide, Sorbitan Isostearate, Triethanolamine Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/5e75052b17d1a/avene-cream-with-p2725.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-010",
+    "brand": "Avène",
+    "name": "Essentials Intense Eye Make-Up Remover",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125ml",
+    "ingredients": "Water (Aqua), Avène Thermal Spring Water (Avène Aqua), Isododecane, Caprylic/Capric Triglyceride, Butylene Glycol, Sodium Chloride, Disodium Edta, Isopropyl Palmitate, Phenetyl Alcohol, Red 40 (CI 16035), Sodium Benzoate, Yellow 5 (CI 19140)",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb399b902f6/avene-essentials-intense-p33925.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-021",
+    "brand": "Avène",
+    "name": "Cleansing Foam",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Disodium Cocoamphoacetate Citrate, Decyl Glucoside, Glycerin, Sodium Cocoamphoacetate, Citric Acid, Diglycerin, Fragrance (Parfum), Pentylene Glycol, Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Sodium Chloride",
+    "image": "https://cdn1.costatic.com/img/product/400/63a985d54f98d/avene-cleansing-foam-p80912.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-023",
+    "brand": "Avène",
+    "name": "Intense Protect Ultra Water Resistant Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "150ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Diethilamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Ethylhexyl Triazone, Phenylene Bis-Diphenyltriazine, Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Stearyl Alcohol, VP/Eicosene Copolymer, Benzoic Acid, Caprylyl Glycol, Glyceryl behenate, Glyceryl Dibehenate, Glyceryl Stearate, PEG-100 Stearate, Polyacrylate-13, Polyisobutene, Polysorbate 20, PPG-1-PEG-9 Lauryl Glycol Ether, Red33 (CI 17200), Sorbitan isostearate, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/682ec6d6f29c6/avene-intense-protect-p100846.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-022",
+    "brand": "Avène",
+    "name": "Cleanance Comedomed Peeling Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Succinic Acid, Coco-Glucoside, Sodium Hydroxide, Lactic Acid, Blue 1 (Ci 42090), Citric Acid, Glyceryl Oleate, Green 5 (Ci 61570), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydrogenated Vegetable Glycerides Citrate, Isopropyl Alcohol, Oleth-10, Peg-6, Silybum Marianum Fruit Extract, Sodium Benzoate, Tocopherol, Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/68aec44a40523/avene-cleanance-comedomed-p111995.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-BWA-AVE-002",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Shower Cream",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Water (Aqua), Coco-Glucoside, Sodium Cocoyl Glutamate, Algin, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Glycol Distearate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydrogenated Vegetable Glycerides Citrate, Niacinamide, Silybum Marianum Seed Oil, Sodium Benzoate, Tocopherol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/654e1b8584eff/avene-xeracalm-nutrition-p82161.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-024",
+    "brand": "Avène",
+    "name": "Solaire Ultra Fluide Oil Control SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/67e11e3b6220c/avene-solaire-ultra-p100856.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-SSE-AVE-005",
+    "brand": "Avène",
+    "name": "Hyaluron Activ Procedure Hexapeptide Tensor Serum Solution",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "20ml",
+    "ingredients": "Hexapeptide Solution : Water (Aqua), Acetyl Hexapeptide-8, Red 33 (Ci 17200), Sodium Benzoate, - Serum Base - 18ml : Avene Thermal Spring Water (Avene Aqua), Niacinamide, Glycerin, Pentylene Glycol, Propanediol, Sodium Hyaluronate, Citric Acid, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/691b04fe53f7e/avene-hyaluron-activ-p112004.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-040",
+    "brand": "Avène",
+    "name": "Cicalfate + Lip Repair Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "10ml",
+    "ingredients": "Ricinus Communis (Castor) Seed Oil (Ricinus Communis Seed Oil), Avene Thermal Spring Water (Avene Aqua), Butyrospermum Parkii (Shea) Oil (Butyrospermum Parkii Oil), Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Beeswax (Cera Alba), Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Polyglyceryl-2 Dipolyhydroxystearate, Disteardimonium Hectorite, Magnesium Sulfate, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Benzoic Acid, Caprylyl Glycol, Glycyrrhetinic Acid, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxycapric Acid, Pentylene Glycol, Tocopherol, Tromethamine, Xanthan Gum, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/69f83f878630e/avene-cicalfate-lip-p115111.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AVE-006",
+    "brand": "Avène",
+    "name": "Cleanance Comedomed Intensive Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Isopropyl Alcohol, Peg-6, Glycerin, Glycolic Acid, Silybum Marianum Fruit Extract, Water (Aqua), Ascorbyl Glucoside, Acacia Senegal Gum, Bakuchiol, Beta-Caryophyllene, Citric Acid, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Sodium Citrate, Sodium Hydroxide, Sorbitan Isostearate, Tocopherol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/698305b8597fa/avene-cleanance-comedomed-p115112.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-EYE-AVE-004",
+    "brand": "Avène",
+    "name": "Soothing Eye Contour Care",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Caprylic/Capric Triglyceride, Glycerin, Sucrose Stearate, Sucrose Polystearate, Glyceryl Stearate, Peg-100 Stearate, Batyl Alcohol, Bisabolol, Citric Acid, Glyceryl Caprylate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Sodium Benzoate, Sodium Dextran Sulfate, Sorbitan Isostearate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6932c11cc7138/avene-soothing-eye-p114037.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-041",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Moisturizing Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Pentaerythrityl Tetracaprylate/Tetracaprate, Polyglyceryl-2 Dipolyhydroxystearate, Isopropyl Palmitate, Niacinamide, Behenyl Alcohol, Benzoic Acid, Caprylyl Glycol, Disodium Phosphate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxyethylcellulose, Lauryl Glucoside, Silybum Marianum Seed Oil, Sodium Citrate, Sodium Lauryl Glucose Carboxylate, Sodium Phosphate, Sodium Stearoyl Glutamate, Sorbic Acid, Tocopherol, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/68e631c58dba1/avene-xeracalm-nutrition-p100844.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-042",
+    "brand": "Avène",
+    "name": "Tolérance Control Soothing Skin Recovery Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Squalane, Beeswax (Cera Alba), Cetearyl Glucoside, Cetyl Esters, Aquaphilus Dolomiae Extract Filtrate, Arginine, Citric Acid, Tromethamine, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/69145c1d224a0/avene-tolerance-control-p51132.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-011",
+    "brand": "Avène",
+    "name": "Thermal Spring Water Spray",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "Avène Thermal Spring Water, Nitrogen (gas)",
+    "image": "https://cdn1.costatic.com/img/product/400/698444578a989/avene-thermal-spring-p2705.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-025",
+    "brand": "Avène",
+    "name": "Satin Finish Sun Oil SPF30",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6780f6c3ab64b/avene-satin-finish-p97034.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-026",
+    "brand": "Avène",
+    "name": "Tinted Fluid SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone. Phenylene Bis-diphenyltriazine, Water (aqua), Glycerin, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Titanium Dioxide (CI 77891), Potassium Cetyl Phosphate, Oryza Sativa (rice) Starch (oryza Sativa Starch, Isononyl Isononanoat, Glyceryl Stearat, Stearyl Alcohol, Tapioca Starch, Vp/eicosene Copolymer, Alumina, Benzoic Acid, Caprylic/capric Triglyceride, Caprylyl Glycol, Fragrance (parfum), Glyceryl Behenate, Glyceryl Dibehenate, Iron Oxides (ci 77492) (ci 77491) (ci 77499), Isopropyl Myristate, Isopropyl Titanium Triisostearate, Polyhydroxystearic Acid, Ppg-1-peg-9 Lauryl Glycol Ether, Propylene Carbonate, Stearalkonium Hectorite, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3b47a1dde/avene-tinted-fluid-p72954.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-043",
+    "brand": "Avène",
+    "name": "Anti-Redness Rosamed",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6577312545bb3/avene-anti-redness-p88586.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-AVE-003",
+    "brand": "Avène",
+    "name": "Body Gentle Shower Gel",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Sodium Laureth Sulfate, Coco-Glucoside, Glycerin, PEG-7 Glyceryl Cocoate, Polysorbate 20, Inulin, Lauryl Betaine, Glyceryl Oleate, Ceteareth-60 Myristyl Glycol, Ascorbyl Palmitate, Butyrospermum Parkii (Shea) Oil (Butyrospermum Parkii Oil), Camellina Sativa Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Citric Acid, Fragrance (Parfum), Hydrogenated Palm Glycerides Citrate, Lecithin, Propanediol, Salicylic Acid, Sodium Benzoate, Sodium Chloride, Sodium Myristoyl Glutamate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/68774a01b5347/avene-body-gentle-p32055.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-027",
+    "brand": "Avène",
+    "name": "Sun Spray for Children SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avène Thermal Spring Water (Avène Aqua), C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [nano], Diisopropyl Adipate, Water (Aqua), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Butyl Methoxydibenzoylmethane, Decyl Glucoside, Benzoic Acid, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium EDTA, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydroxycapric Acid, Lauryl Glucoside, Oxothiazolidine, Propylene Glycol, Sodium Benzoate, Sodium Citrate, Sodium Lauryl Glucoside, Glucose Carbonate, Sobric Acid, Tocopherol, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/686385169fa1e/avene-sun-spray-p100848.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-044",
+    "brand": "Avène",
+    "name": "XeraCalm AD Gel Lacté Relipidant",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), Glycerin, Carthamus Tinctorius (safflower) Seed Oil (carthamus Tinctorius Seed Oil), Niacinamide, 1,2-hexanediol, Aquaphilus Dolomiae Extract, Arginine, Caprylyl Glycol, Citric Acid, Helianthus Annuus (sunflower) Seed Oil (helianthus Annuus Seed Oil), Polyacrylate-13, Polyisobutene, Polysorbate 20, Sclerotium Gum, Sodium Dextran Sulfate, Sorbitan Isostearate, Tocopherol, Water (aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/68d3ee9e5e65e/avene-xeracalm-ad-p111996.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-045",
+    "brand": "Avène",
+    "name": "Hyaluron Activ B3 Cellular Regeneration Cream Eco-Recharge",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Niacinamide, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Glycol Palmitate, Arachidyl Alcohol, Cetearyl Alcohol, Cellulose, Glyceryl Stearate, Sodium Hyaluronate, Adenosine, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Cetearyl Glucoside, Citric Acid, Dimethyl Phenethyl Acetate, Fragrance (Parfum), Geranyl Acetate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Sodium Benzoate, Tocopherol, Tocopheryl Glucoside, Trimethylcyclopentenyl Methylisopentenol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/696deae9dfdfe/avene-hyaluron-activ-p114042.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-028",
+    "brand": "Avène",
+    "name": "Solaire Lait Invisible SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "250ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Sebacate, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Diethylhexyl Butamido Triazone, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate Citrate, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Pentylene Glycol, C12-15 Alkyl Benzoate, Vp/Eicosene Copolymer, Benzoic Acid, Caprylic/Capric Triglyceride, Cellulose Gum, Cetearyl Olivate, Fragrance (Parfum), Glycine Soja (Soybean) Oil (Glycine Soja Oil), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Microcrystalline Cellulose, Sodium Hydroxide, Sorbitan Olivate, Tocopherol, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/68d651d3c88ae/avene-solaire-lait-p100852.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-023",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Cleansing Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "500ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Decyl Glucoside, Water (Aqua), Sodium Cocoyl Glutamate, Algin, Carrageenan, Citric Acid, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Niacinamide, Silybum Marianum Seed Oil, Sodium Benzoate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/654a35d379f5b/avene-xeracalm-nutrition-p82163.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-029",
+    "brand": "Avène",
+    "name": "Solaire Lait Invisible SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Diisopropyl Sebacate, Coco-Caprylate/Caprate, Dicaprylyl Carbonate, Diethylhexyl Butamido Triazone, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate Citrate, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Pentylene Glycol, C12-15 Alkyl Benzoate, Vp/Eicosene Copolymer, Benzoic Acid, Caprylic/Capric Triglyceride, Cellulose Gum, Cetearyl Olivate, Fragrance (Parfum), Glycine Soja (Soybean) Oil (Glycine Soja Oil), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Microcrystalline Cellulose, Sodium Hydroxide, Sorbitan Olivate, Tocopherol, Tocopheryl Glucoside, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/68d6535bc3e23/avene-solaire-lait-p100851.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-030",
+    "brand": "Avène",
+    "name": "Sun Care SPF30 Silky Mist",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "150ml",
+    "ingredients": "C12-15 Alkyl Benzoate, Isododecane, Diisopropyl Adipate, Coco-Caprylate, Dicaprylyl Carbonate, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate, Avène Thermal Spring Water (Avène Aqua), Caprylic/Capric Triglyceride, Fragrance (Parfum), Helianthus Annus (Sunflower) Seed Oil, Helianthus Annus Seed Oil, Peg-40 Hydrogenated Castor Oil, Tocopherol, Tocopheryl Glucoside, Nitrogen",
+    "image": "https://cdn1.costatic.com/img/product/400/666943422717d/avene-sun-care-p33193.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-031",
+    "brand": "Avène",
+    "name": "Cream SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glycerin, Oryza Sativa (rice) Starch (oryza Sativa Starch), Phenylene Bis-diphenyltriazine, Water (aqua), Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Potassium Cetyl Phosphate, Stearyl Alcohol, Vp/eicosene Copolymer, Benzoic Acid, Caprylic/capric Triglyceride, Caprylyl Glycol, Fragrance (parfum), Glyceryl Behenate, Glyceryl Dibehenate, Ppg-1-peg-9 Lauryl Glycol Ether, Red 33 (ci 17200), Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3b5943d48/avene-cream-spf50-p72956.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-046",
+    "brand": "Avène",
+    "name": "Cleanance Mattifying Aqua-Gel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Propanediol, Pentylene Glycol, Glycerin, Water (Aqua), Triethylhexanoin, Niacinamide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Blue 1 (Ci 42090), Caprylic/Capric Triglyceride, Caprylyl Glycol, Cetearyl Olivate, Diglycerin, Fragrance (Parfum), Glyceryl Laurate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydroxypropyl Starch Phosphate, Lens Esculenta (Lentil) Seed Extract (Lens Esculenta Seed Extract), Peg-30 Dipolyhydroxystearate, Polyglycerin-3, Polysorbate 60, Potassium Hydroxide, Sodium Benzoate, Sorbitan Isostearate, Sorbitan Olivate, Tocopheryl Glucoside, Trideceth-6",
+    "image": "https://cdn1.costatic.com/img/product/400/66b4c8cf85f74/avene-cleanance-mattifying-p92874.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-047",
+    "brand": "Avène",
+    "name": "Cold Cream Concentrated Hand Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal, Spring Water (Avene Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Cetearyl Alcohol, Polymethyl Methacrylate, Glyceryl Stearate, Aluminium Sucrose Octasulfate, Peg-100 Stearate, Beeswax (Cera Alba), Benzoic Acid, Bisabolol, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Fragrance (Parfum), Hydroxypropyl Guar, Sodium Hydroxide, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/682ee1b027c74/avene-cold-cream-p24787.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-048",
+    "brand": "Avène",
+    "name": "Cleanance Comedomed Peeling Cream Intensive Pimples",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a046c625b480/avene-cleanance-comedomed-p97035.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-032",
+    "brand": "Avène",
+    "name": "Sunsimed Pigment Fluid",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "80ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0b2ebe19e35/avene-sunsimed-pigment-p114035.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-BWA-AVE-004",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Shower Cream",
+    "country": "France",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Water (Aqua), Coco-Glucoside, Sodium Cocoyl Glutamate, Algin, Citric Acid, Fragrance (Parfum), Glyceryl Oleate, Glycol Distearate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Hydrogenated Vegetable Glycerides Citrate, Niacinamide, Silybum Marianum Seed Oil, Sodium Benzoate, Tocopherol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/654a365883e1a/avene-xeracalm-nutrition-p82162.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-049",
+    "brand": "Avène",
+    "name": "Body Moisturizing Melt-in Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Butyrospermum Parkii (Shea) Oil (Butyrospermum Parkii Oil), Caprylic/Capric Triglyceride, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Isopropyl Palmitate, C14-22 Alcohols, Dimethicone, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Benzoic Acid, C12-20 Alkyl Glucoside, C20-22 Alcohols, C20-22 Alkyl Phosphate, Camelina Sativa Seed Oil, Caprylyl Glycol, Fragrance (Parfum), Glyceryl Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, PEG-100 Stearate, Polysorbate 60, Sodium Hydroxide, Sorbitan Isostearate, Squalane, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb39f0bae12/avene-body-moisturizing-p32703.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-050",
+    "brand": "Avène",
+    "name": "Cold Cream Concentrated Hand Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Caprylic/Capric Triglyceride, Cetearyl Alcohol, Polymethyl Methacrylate, Glyceryl Stearate, Aluminium Sucrose Octasulfate, Peg-100 Stearate, Beeswax (Cera Alba), Benzoic Acid, Bisabolol, Caprylyl Glycol, Cetearyl Glucoside, Cetyl Alcohol, Fragrance (Parfum), Hydroxypropyl Guar, Sodium Hydroxide, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/672e3221938fc/avene-cold-cream-p88580.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-TON-AVE-012",
+    "brand": "Avène",
+    "name": "Les Essentiels Makeup Removing Micellar Water",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Pentylene Glycol, Citric Acid, Coco-Glucoside, Ethyl Lauroyl Arginate Hcl, Fragrance (Parfum), Polyglyceryl-4 Caprate, Polyglyceryl-6 Caprylate, Trehalose, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/63d3ba33cc613/avene-les-essentiels-p80914.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-051",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avène Thermal Spring Water, Mineral Oil (Paraffinum Liquidum), Glycerin, Caprylic/Capric Triglyceride, Peg-12 Oenothera Biennis (Evening Primrose) Oil, Glyceryl Stearate, Myreth-3 Myrsitate, Peg-100 Stearate, Polyacrylate-13, Aquaphilus Dolomiae Extract, Arginine, Citric Acid, Evening Primerose Oil/Palm Oil Aminopropanediol Esters, Glycine, Polyisobutene, Polysorbate 20, Sorbitan Isostearate, Tocopherol, Water (Aqua)",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0efea8bca83/avene-xeracalm-ad-p115108.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-024",
+    "brand": "Avène",
+    "name": "Men Shaving Foam",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Palmitic Acid, Stearic Acid, Ceteareth-50, Butane, Triethanolamine, Methyl Gluceth-20, Propane, Bisabolol, Fragrance (Parfum), Hydroxycapric Acid, Isobutane, Potassium Hydroxide, Sodium Polynaphthalenesulfonate, Water (Aqua), Xanthan Gum, Zinc Pyrithione",
+    "image": "https://cdn1.costatic.com/img/product/400/6a3e7e0baede3/avene-men-shaving-p72951.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-AVE-025",
+    "brand": "Avène",
+    "name": "Cleanance Hydra Soothing Cleansing Cream",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Water (Aqua), Disodium Cocoyl Glutamate, Glycerin, Decyl Glucoside, Cetearyl Alcohol, Zea Mays (Corn) Starch (Zea Mays Starch), Coco-Betaine, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Xanthan Gum, Citric Acid, Silybum Marianum Seed Oil, Sodium Benzoate, Sodium Dextran Sulfate, Sodium Stearoyl Glutamate, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/699d52d5ee4e3/avene-cleanance-hydra-p92141.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-052",
+    "brand": "Avène",
+    "name": "XeraCalm AD Relipidant Balm",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Cetearyl Alcohol, Hydrogenated Vegetable Oil, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Caprylic/Capric Triglyceride, Glyceryl Stearate, Aquaphilus Dolomiae Extract, Arginine, Cetearyl Glucoside, Citric Acid, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Sodium Dextran Sulfate, Sodium Stearoyl Glutamate, Tocopherol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/698305585d211/avene-xeracalm-ad-p115107.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-AVE-007",
+    "brand": "Avène",
+    "name": "Vitamin Activ Cg Corrective Radiance Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua). Glycerin. Niacinamide. Pentylene Glycol. C9-12 Alkane. Caprylic/Capric Triglyceride. Pentaerythrityl Tetracaprylate/Tetracaprate. Ascorbyl Glucoside. Bakuchiol. 1,2-Hexanediol. Acacia Senegal Gum. Butylene Glycol. Citric Acid. Coco-Caprylate/Caprate. Fragrance (Parfum). Glyceryl Behenate. Glyceryl Dibehenate. Sodium Citrate. Sodium Dilauramidoglutamide Lysine. Sodium Hyaluronate. Sodium Hydroxide. Tocopheryl Glucoside. Tribehenin. Water (Aqua). Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/65a4e84c8ae5d/avene-vitamin-activ-p88589.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-053",
+    "brand": "Avène",
+    "name": "Cicalfate + Hydrating Skin Repairing Emulsion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Pentaerythrityl Tetracaprylate/Tetracaprate, Triethylhexanoin, Squalane, Cetearyl Alcohol, Behenyl Alcohol, Niacinamide, C20-22 Alkyl Phosphate, C20-22 Alcohols, butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Aquaphilus Dolomiae Ferment Filtrate, Arginine, Caprylyl Glycol, Cetaearyl Glucoside, Copper Sulfate, Sodium Benzoate, Sodium Hyaluronate, Sodium Hydroxide, Tocopheryl Acetate, Tromethamine, Xanthan Gum, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/62da666d5db30/avene-cicalfate-hydrating-p74350.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-033",
+    "brand": "Avène",
+    "name": "Sun Care Ultra Fluid Radiance SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Water (Aqua), Silica, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Aluminum Starch Octenylsuccinate, Diisopropyl Adipate, Butyl Methoxydibenzoylmethane, Titanium Dioxide (Ci 77891), Decyl Glucoside, Glyceryl Stearate, Peg-100 Stearate, Potassium Cetyl Phosphate, Vp/Eicosene Copolymer, Acrylates/Ammonium Methacrylate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alumina, Benzoic Acid, Butylene Glycol, Caprylic/Capric Triglyceride, Caprylyl Glycol, Disodium Edta, Fragrance (Parfum), Glyceryl Behenate, Glyceryl Dibehenate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Iron Oxides (Ci 77492,Ci 77491,Ci 77499), Isopropyl Myristate, Oxothiazolidine, Peg-30 Dipolyhydroxystearate, Propylene Glycol, Sodium Benzoate, Sodium Hydroxide, Stearyl Alcohol, Terpineol, Tocopherol, Tocopheryl Glucoside, Tribehenin, Trideceth-6, Triethyl Citrate, Vanillin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/67d19d64240c3/avene-sun-care-p100857.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-034",
+    "brand": "Avène",
+    "name": "Sun Care SPF50+ Solar Reflex",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Water (Aqua), Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Ethylhexyl Triazone, Phenylene Bis-Diphenyltriazine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Stearyl Alcohol, VP/Eicosene Copolymer, Benzoic Acid, Caprylyl Glycol, Caprylic/Capric Triglyceride, Glyceryl Behenate, Glyceryl Dibehenate, Glyceryl Stearate, Glycine Soja (Soybean Oil) (Glycine Soja Oil), PEG-100 Stearate, Polyacrylate-13, Polyisobutene Polysorbate 20, PPG-1-PEG-9 Lauryl Glycol Ether, Red 33 (CI 17200), Sorbitan Isostearate, Tocopherol, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3d857c48c/avene-sun-care-p80916.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SCR-AVE-003",
+    "brand": "Avène",
+    "name": "Cleanance Solid Scrub Cleaner",
+    "country": "France",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "100g",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6870d4ea8380e/avene-cleanance-solid-p102325.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-054",
+    "brand": "Avène",
+    "name": "XeraCalm AD Lipid-Replenishing Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Glycerin, Mineral Oil (Paraffinum Liquidum), Cetearyl Alcohol, Oenothera Biennis (Evening Primrose) Oil, Caprylic/Capric Triglyceride, Cetearyl Glucoside, Aquaphilus Dolomiae Extract, Arginine, Carbomer, Evening Primrose Oil/Palm Oil Aminopropanediol Esters, Glycine, Sodium Hydroxide, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/69bd460285062/avene-xeracalm-ad-p115110.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-055",
+    "brand": "Avène",
+    "name": "Vitamin Activ Cg Intensive Radiance Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Niacinamide, Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Glycol Palmitate, Ascorbyl Glucoside, Arachidyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate, Arachidyl Glucoside, Behenyl Alcohol, Caprylyl Glycol, Cetearyl Glucoside, Citric Acid, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Sodium Benzoate, Sodium Citrate, Sodium Hyaluronate, Sodium Hydroxide, Sodium Stearoyl Glutamate, Tocopherol, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/697347dc99b23/avene-vitamin-activ-p114045.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-035",
+    "brand": "Avène",
+    "name": "Tinted Cream SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "Avene Thermal Spring Water (avene Aqua), C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Glycerin, Phenylene Bis-diphenyltriazine, Water (aqua), Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Titanium Dioxide (ci 77891), Potassium Cetyl Phosphate, Myristyl Alcohol, Oryza Sativa (rice) Starch (oryza Sativa Starch), Stearyl Alcohol, Isononyl Isononanoate, Vp/eicosene Copolymer, Alumina, Benzoic Acid, Caprylic/capric Triglyceride, Caprylyl Glycol, Fragrance (parfum), Glyceryl Behenate, Glyceryl Dibehenate, Iron Oxides (ci 77492) (ci 77491) (ci 77499), Isopropyl Myristate, Isopropyl Titanium Triisostearate, Myristyl Glucoside, Polyhydroxystearic Acid, Ppg-1-peg-9 Lauryl Glycol Ether, Propylene Carbonate, Stearalkonium Hectorite, Tocopheryl Glucoside, Tribehenin, Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3b5fd401e/avene-tinted-cream-p72958.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-AVE-026",
+    "brand": "Avène",
+    "name": "XeraCalm AD Relipidizing Cleansing Oil Eco-Refill",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69f0cbbb1906b/avene-xeracalm-ad-p115113.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-056",
+    "brand": "Avène",
+    "name": "XeraCalm Nutrition Moisturizing Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/654a2708220dc/avene-xeracalm-nutrition-p82164.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-057",
+    "brand": "Avène",
+    "name": "Cicalfate Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Aqua, Zinc Oxide, PEG-40 Hydrogenated Castor Oil, Aluminium Sucrose Octasulfate, Sodium Magnesium Silicate, Chlorphenesin, Copper Sulfate, Hectorite, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/68074206a2457/avene-cicalfate-lotion-p2744.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-058",
+    "brand": "Avène",
+    "name": "Hyaluron Activ Retinal Procedure Lifting Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Glycerin, Squalane, Butyrospermum Parkii (Shea) Butter (Butyrospermum Parkii Butter), Carthamus Tinctorius (Safflower) Seed Oil (Carthamus Tinctorius Seed Oil), Pentaerythrityl Tetracaprylate/Tetracaprate, Cetearyl Alcohol, Behenyl Alcohol, Niacinamide, C20-22 Alkyl Phosphate, C20-22 Alcohols, Acacia Senegal Gum, Adenosine, Cetearyl Glucoside, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Retinal, Sodium Benzoate, Sodium Hyaluronate, Sodium Hydroxide, Terminalia Chebula Fruit Extract, Tocopherol, Tocopheryl Glucoside, Xanthan Gum,",
+    "image": "https://cdn1.costatic.com/img/product/400/691b02459671b/avene-hyaluron-activ-p112006.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-AVE-059",
+    "brand": "Avène",
+    "name": "Anti-Redness Strong Concentrate Care",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Propylene Glycol, Dicaprylate/Dicaprate, Pentaerythrityl Tetracaprylate/Tetracaprate, Glycerin, Glyceryl Stearate, Butylene Glycol, Cetearyl Alcohol, Stearic Acid, Buryrospermum Parkii (Shea Butter), Dimethicone, Ammonium Acryloyldimetyl Taurate/VP Copolyer, Benzoic Acid, Ceteareth 33, Dextran Sulfate, Dimethiconol, Disodium EDTA, Hesperidin Methyl Chalcone, Phenoxyethanol, Ruscus Aculeatus Root Extract, Sodium Hydroxide, Tocopheryl Acetate",
+    "image": "https://cdn1.costatic.com/img/product/400/66a273af97036/avene-anti-redness-p5749.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-060",
+    "brand": "Avène",
+    "name": "Cicalfate Hand Repairing Barrier Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Mineral Oil (Paraffinum Liquidum), Myreth-3 Myristate, Peg-45/Dodecyl Glycol Copolymer, Dimethicone, Aluminium Sucrose Octasulfate, Octyldodecanol Peg-7 Glyceryl Cocoate, Aliminium Starch Octenylsuccinate, Glycerin, Beeswax (Cera Alba), Cetyl Alcohol, Copper Sulfate, Dimethiconol, Disteardimonium Hectorite, Glyceryl Stearate, Magnesium Sulfate, Phenoxyethanol, Sodium Benzoate, Water (Aqua), Xanthan Gum, Zinc Sulfate",
+    "image": "https://cdn1.costatic.com/img/product/400/6969e550f2abf/avene-cicalfate-hand-p11203.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SUN-AVE-036",
+    "brand": "Avène",
+    "name": "Ultra Cellular Protection Serum Active Glow SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69c14862bd121/avene-ultra-cellular-p115117.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-AVE-037",
+    "brand": "Avène",
+    "name": "Solaire Fluide Anti Imperfection SPF50",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), C12-15 Alkyl Benzoate, Dicaprylyl Carbonate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Water (Aqua), Diisopropyl Adipate, Ethylhexyl Triazone, Oryza Sativa (Rice) Starch (Oryza Sativa Starch), Phenylene Bis-Diphenyltriazine, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, C9-12 Alkane, Lauryl Glucoside, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Tapioca Starch, Trimethylpentanediol/Adipic Acid/Glycerin Crosspolymer, Benzoic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Citric Acid, Coco-Caprylate/Caprate, Glyceryl Laurate, Helianthus Annuus (Sunflower) Seed Oil (Helianthus Annuus Seed Oil), Lens Esculenta (Lentil) Seed Extract (Lens Esculenta Seed Extract), Pentylene Glycol, Ppg-1-Peg-9 Lauryl Glycol Ether, Red 33 (Ci 17200), Sodium Benzoate, Sodium Phytate, Tocopherol, Tocopheryl Glucoside, Xanthan Gum, Zinc Gluconate",
+    "image": "https://cdn1.costatic.com/img/product/400/67d2de9dac1c0/avene-solaire-fluide-p100854.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-061",
+    "brand": "Avène",
+    "name": "Tolérance Control Soothing Skin Recovery Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Avene Thermal Spring Water (Avene Aqua), Caprylic/Capric Triglyceride, Ethylhexyl Palmitate, Glycerin, Cetearyl Alcohol, Squalane, Cetearyl Glucoside, Cetyl Esters, Aquaphilus Dolomiae Extract Filtrate, Arginine, Beeswax (Cera Alba), Citric Acid, Tromethamine, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/64fb3a672ab39/avene-tolerance-control-p51131.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-AVE-062",
+    "brand": "Avène",
+    "name": "After-Sun Restorative Lotion",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "Avène Thermal Spring Water (Avene Aqua),Caprylic/Capric Triglyceride, Glycerin, Behenyl Alcohol, Arachidyl Alcohol, C20-22 Alkyl Phosphte, 1,2-Hexanediol, Arachidyl Glucoside, C20-22 Alcohols, Caprylyl Glycol, Fragrance (Parfum), Glycyrrhetinic Acid, Polyacrylate-13, Polyisobutene, Polysorbate 20, Simmondsia Chinensis (Jojoba) Seed Oil (Simmondsia Chinensis Seed Oil), Sodium Hydroxide, Sorbitan Isostearate, Tocopheryl Glucoside, Water (Aqua), Xanthan Gum",
+    "image": "https://cdn1.costatic.com/img/product/400/6425990fb57c2/avene-after-sun-p82157.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
