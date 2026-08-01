@@ -39376,5 +39376,3324 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+    {
+    "id": "DU-BWA-NIV-001",
+    "brand": "Nivea",
+    "name": "Intimate Soothing Intimate Toilet Gel",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Laureth Sulfate, PEG-7 Glyceryl Cocoate, Lactic Acid, Bisabolol, Chamomilla Recutita Flower Extract, Panthenol, Glycine Soja Oil, Glycerin, Tocopherol, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Styrene/Acrylates Copolymer, Sodium Benzoate, BHT, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6792034ec57fd/nivea-intimate-soothing-p96103.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-001",
+    "brand": "Nivea",
+    "name": "Men Sensitive Daily Moisturizer SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, C12-15 Alkyl Benzoate, Methylpropanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, Glyceryl Stearate, Dibutyl Adipate, Phenylbenzimidazole Sulfonic Acid, Behenyl Alcohol, Ethylhexyl Triazone, Cetearyl Alcohol, Glycyrrhiza Inflata Root Extract, Chamomilla Recutita Flower Extract, Tocopheryl Acetate, Panthenol, Pantolactone, Xanthan Gum, Tapioca Starch, Sodium Stearoyl Glutamate, Maltodextrin, Sodium Hydroxide, Citric Acid, Trisodium Ethylenediamine Disuccinate, 1,2-Hexanediol, Ethylhexylglycerin, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/699f1b24ab9ed/nivea-men-sensitive-p110105.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-002",
+    "brand": "Nivea",
+    "name": "Soft Moisturizing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua, Glycerin, Myristyl Alcohol, Alcohol Denat, Myristyl Myristate, Cetearyl Glucoside, Coco- Caprylate/Caprate, Glyceryl Stearate, Palmitic Acid, Stearic Acid, Hydrogenated Coco-Glycerides | Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Prunus Amygdalus Dulcis Oil, Vegetable Oil, Cetyl Ricinoleate, Triisostearin, Sorbitan Stearate, Hydroxypropyl Starch Phosphate, Sodium Hydroxide, Cetearyl Alcohol, Gellan Gum, Xanthan Gum, Myristic Acid, Arachidic Acid, Oleic Acid, Lauric Acid, Disodium Cetearyl Sulfosuccinate, Phenoxyethanol, Linalool, Citronellol, Alpha- Isomethyl Ionone, Acetyl Cedrene, Citrus Aurantium Peel Oil, Limonene, Terpineol, Lavandula Oil/Extract, Linalyl Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/677e9fe35efb3/nivea-soft-moisturizing-p99166.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-001",
+    "brand": "Nivea",
+    "name": "Gentle Eye Makeup Remover Sensitive Eyes",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125 ml",
+    "ingredients": "Aqua, Poloxamer 184, Glycerin, Decyl Glucoside, Sodium Cocoamphoacetate, Panthenol, Sodium Hyaluronate, Sodium Chloride, Citric Acid, Pantolactone, Trisodium EDTA, Phenoxyethanol, 1,2-Hexanediol, Benzethonium Chloride",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5dcd012183/nivea-gentle-eye-p95433.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-003",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Rides Power Soin de Jour Extra Fermeté SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetearyl Alcohol, Methylpropanediol, Glyceryl Stearate SE, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Cocoglycerides, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Ubiquinone, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopheryl Acetate, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Pogostemon Cablin Oil, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67c9bbd143b89/nivea-q10-anti-p99162.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-004",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Rides Power Soin de Nuit Raffermissant",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Cocoglycerides, Methylpropanediol, Hydrogenated Coco-Glycerides, Glyceryl Stearate Citrate, Cetearyl Isononanoate, Triisostearin, Squalane, Macadamia Integrifolia Seed Oil, Ubiquinone, Panthenol, Creatine, 1-Methylhydantoin-2-Imide, Pantolactone, Glyceryl Stearate, Xanthan Gum, Ethylhexylglycerin, Caprylyl Glycol, Sodium Hydroxide, Citric Acid, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67c9bbd143b89/nivea-q10-anti-p99162.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-001",
+    "brand": "Nivea",
+    "name": "Sun UV Face Specialist Triple Protect SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Dicaprylyl Ether, Butylene Glycol Dicaprylate/Dicaprate, Alcohol Denat., C12-15 Alkyl Benzoate, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Titanium Dioxide (nano), Ethylhexyl Triazone, Dibutyl Adipate, Kaolin, Caprylic/Capric Triglyceride, Tapioca Starch, Phenylbenzimidazole Sulfonic Acid, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Diethylhexyl Butamido Triazone, Glycyrrhiza Inflata Root Extract, Sodium Hyaluronate, Laminaria Ochroleuca Extract, Tocopherol, Dimethicone, Silica, Sodium Chloride, Sodium Hydroxide, Betaine, Propylene Glycol, Ethylhexylglycerin, Phenoxyethanol, Trisodium EDTA, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66a795fcd72ba/nivea-sun-uv-p94563.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-002",
+    "brand": "Nivea",
+    "name": "Sun UV Face Specialist Tinted Sun Fluid SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Alcohol Denat, CI 77891, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Dipropylene Glycol Dibenzoate, Phenylbenzimidazole Sulfonic Acid, Butylene Glycol Dicaprylate/Dicaprate, Glycerin, Polyglyceryl-6 Stearate, Silica Dimethyl Silylate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, CI 77492, Glycyrrhiza Inflata Root Extract, Arginine HCL, Sodium Hyaluronate, Sodium PCA, Copernicia Cerifera Cera, Glyceryl Stearate, Sodium Hydroxide, Cetearyl Alcohol, Sodium Lactate, Polyglyceryl-6 Behenate, Tapioca Starch, Carrageenan, Phenoxyethanol, Ethylhexylglycerin, CI 77499, Trisodium Ethylenediamine Disuccinate, Xanthan Gum, Parfum, CI 77491, Hydroxyacetophenone, Alumina",
+    "image": "https://cdn1.costatic.com/img/product/400/69cba5269a772/nivea-sun-uv-p102392.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-005",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Stretch Mark Body Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat., Dicaprylyl Carbonate, Glyceryl Stearate, Butyrospermum Parkii Butter, Tapioca Starch, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Cocoglycerides, Octyldodecanol, Isobutylamido Thiazolyl Resorcinol, Tocopherol, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Carrageenan, Trisodium EDTA, Xanthan Gum, Sodium Hydroxide, Hydroxyacetophenone, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67376c577bdd5/nivea-cellular-luminous630-p95610.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-003",
+    "brand": "Nivea",
+    "name": "Sun UV Face Moisturizing Sun Cream SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Alcohol Denat, Butyl Methoxydibenzoylmethane, Tapioca Starch, Isopropyl Palmitate, Glycerin, C12-15 Alkyl Benzoate, Dibutyl Adipate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Glyceryl Stearate, Cetyl Alcohol, Hydrogenated Rapeseed Oil, Stearyl Alcohol, Hydroxypropyl Starch Phosphate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Tocopheryl Acetate, Ubiquinone, Sodium Stearoyl Glutamate, Polyglyceryl-10 Stearate, Xanthan Gum, Sodium Hydroxide, Sodium Cetearyl Sulfate, Sodium Chloride, Caprylyl Glycol, Ethylhexylglycerin, Phenoxyethanol, Trisodium EDTA, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Geraniol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6686a37b5e04b/nivea-sun-uv-p94537.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-006",
+    "brand": "Nivea",
+    "name": "Naturally Good Soin de Nuit Régénérant Argan",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Prunus Amygdalus Dulcis Oil, Alcohol Denat, Butyrospermum Parkii Butter, Simmondsia Chinensis Seed Oil, Dicaprylyl Ether, Glyceryl Stearate, Argania Spinosa Kernel Oil, Helianthus Annuus Seed Oil, Tocopherol, Glyceryl Caprylate, Sodium Stearoyl Glutamate, Xanthan Gum, Levulinic Acid, Sodium Levulinate, Ethylhexylglycerin, p-Anisic Acid, Sodium Chloride, Linalool, Limonene, Citronellol, Alpha-Isomethyl Ionone, Benzyl Alcohol, Geraniol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5cbdc94ebd/nivea-naturally-good-p95442.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-007",
+    "brand": "Nivea",
+    "name": "Cellular Expert Lift Remodeling Anti-Aging Day Cream SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Methylpropanediol, Tapioca Starch, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Alcohol, Ethylhexyl Stearate, Phenylbenzimidazole Sulfonic Acid, Ethylhexyl Triazone, Glyceryl Stearate, Behenyl Alcohol, Triisostearin, Bakuchiol, Creatine, 1-Methylhydantoin-2-Imide, Sodium Hyaluronate, Tocopherol, Sodium Stearoyl Glutamate, Ethylhexylglycerin, 1,2-Hexanediol, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Phenoxyethanol, Sodium Sulfate, Parfum, CI 15985, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5caa61fc77/nivea-cellular-expert-p95437.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-008",
+    "brand": "Nivea",
+    "name": "Naturally Good Aloe Vera Moisturizing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Coco-Caprylate/Caprate, Glyceryl Stearate Citrate, Glyceryl Stearate, Butyrospermum Parkii Butter, Helianthus Annuus Hybrid Oil, Aloe Barbadensis Leaf Juice Powder, Prunus Amygdalus Dulcis Oil, Hydroxypropyl Starch Phosphate, Caprylyl Glycol, Hydroxyacetophenone, Benzyl Alcohol, Ethylhexylglycerin, Xanthan Gum, Lecithin, Ascorbyl Palmitate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/672e3b72c0ff9/nivea-naturally-good-p95588.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-EYE-NIV-001",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Power Eye Contour Care Extra Firming 3 Actions",
+    "country": "Germany",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Glycerin, Methylpropanediol, Dicaprylyl Carbonate, Glyceryl Stearate, Cetearyl Alcohol, Hydrogenated Vegetable Oil, Tapioca Starch, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Octyldodecanol, 1,2-Hexanediol, Ubiquinone, Sodium Hyaluronate, Creatine, 1-Methylhydantoin 2-Imide, Tocopherol, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Caprylyl Glycol, Ethylhexylglycerin, Carrageenan, Xanthan Gum, Sodium Hydroxide, Phenoxyethanol, Alumina, CI 77891",
+    "image": "https://cdn1.costatic.com/img/product/400/6992d15c6cb3d/nivea-q10-anti-p95415.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-009",
+    "brand": "Nivea",
+    "name": "Nourishing Body Milk 72H",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Paraffinum Liquidum, Isohexadecane, Glycerin, Isopropyl Palmitate, Peg-40 Sorbitan Perisostearate, Cera Microcristallina, Polyglyceryl-3 Diisostareate, Sodium Hyaluronate, Prunus Amygdalus Dulcis Oil, Tocopherol, Magnesium Sulfate, Sodium Citrate, Citric Acid, Tocopheryl Acetate, Potassium Sorbate, Linalool, Limonene, Benzyl Alcohol, Geraniol, Citronellol, Alpha-Isomethyl Ionone, Benzyl Benzoate, Bht, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67863d05a2083/nivea-nourishing-body-p99146.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-SUN-NIV-004",
+    "brand": "Nivea",
+    "name": "Sun Lait Protect & Hydrate SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Glycerin, C12-15 Alkyl Benzoate, Alcohol Denat, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Titanium Dioxide (nano), Behenyl Alcohol, Hydrogenated Rapeseed Oil, Silica Dimethyl Silylate, Stearyl Alcohol, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Cellulose Gum, Tetrasodium Iminodisuccinate, Xanthan Gum, Trisodium EDTA, Sodium Stearoyl Glutamate, Sodium Chloride, Silica, Hydroxyacetophenone, Sodium Hydroxide, Phenoxyethanol, Dimethicone, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-010",
+    "brand": "Nivea",
+    "name": "Labello Original",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4,8 g",
+    "ingredients": "Helianthus Annuus Hybrid Oil, Cera Alba, Hydrogenated Rapeseed Oil, Butyrospermum Parkii Butter, Tocopherol, Ascorbyl Palmitate, Helianthus Annuus Seed Oil, Lecithin, Linalool, Citronellol, Citral, Aroma",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-011",
+    "brand": "Nivea",
+    "name": "Men Protect & Care Soin Hydratant",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Cocoglycerides, Tapioca Starch, Polyglyceryl-3 Methylglucose Distearate, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Hydroxypropyl Starch Phosphate, Cetearyl Alcohol, Glyceryl Stearate, Panthenol, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Citric Acid, Pantolactone, Phenoxyethanol, Caprylyl Glycol, Linalool, Limonene, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-012",
+    "brand": "Nivea",
+    "name": "Crème Soft",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Myristyl Alcohol, Alcohol Denat, Myristyl Myristate, Cetearyl Glucoside, Coco-Caprylate/Caprate, Glyceryl Stearate, Palmitic Acid, Stearic Acid, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Prunus Amygdalus Dulcis Oil, Vegetable Oil, Cetyl Ricinoleate, Triisostearin, Sorbitan Stearate, Hydroxypropyl Starch Phosphate, Sodium Hydroxide, Cetearyl Alcohol, Gellan Gum, Xanthan Gum, Myristic Acid, Arachidic Acid, Oleic Acid, Lauric Acid, Disodium Cetearyl Sulfosuccinate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Acetyl Cedrene, Citrus Aurantium Peel Oil, Limonene, Terpineol, Lavandula Oil/Extract, Linalyl Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-013",
+    "brand": "Nivea",
+    "name": "Crème",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Olus Oil, Cetyl Alcohol, Isopropyl Palmitate, Dimethicone, Sodium Polyacrylate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Limonene, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-014",
+    "brand": "Nivea",
+    "name": "Men Soin Extra Doux 24H Peau Sensible",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Ethylhexyl Cocoate, Cetearyl Alcohol, Distarch Phosphate, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Butyrospermum Parkii Butter, Panthenol, Tocopheryl Acetate, Chamomilla Recutita Flower Extract, Cellulose Gum, Maltodextrin, Xanthan Gum, Citric Acid, Pantolactone, Phenoxyethanol, Ethylhexylglycerin, Piroctone Olamine",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-015",
+    "brand": "Nivea",
+    "name": "Men Baume Après-Rasage Peau Sensible",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Palmitate, Panthenol, Tocopheryl Acetate, Chamomilla Recutita Flower Extract, Tapioca Starch, Triceteareth-4 Phosphate, Carbomer, Maltodextrin, Sodium Hydroxide, Pantolactone, Citric Acid, Phenoxyethanol, Piroctone Olamine, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-016",
+    "brand": "Nivea",
+    "name": "Men Crème",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Glycerin, Paraffinum Liquidum, Alcohol Denat, Cetyl Alcohol, Glyceryl Stearate, Hydrogenated Coco-Glycerides, Stearyl Alcohol, Cera Microcristallina, Palmitic Acid, Stearic Acid, Tocopheryl Acetate, Sodium Carbomer, Myristic Acid, Arachidic Acid, Oleic Acid, Dimethicone, Phenoxyethanol, Methylparaben, Geraniol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-CLE-NIV-001",
+    "brand": "Nivea",
+    "name": "Men Activ Energy Cleansing Gel",
+    "country": "Germany",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Myreth Sulfate, Acrylates Copolymer, PEG-200 Hydrogenated Glyceryl Palmate, Decyl Glucoside, Caffeine, Paullinia Cupana Seed Extract, Tocopherol, Maltodextrin, Microcrystalline Cellulose, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Sodium Hydroxide, Trisodium EDTA, Polyquaternium-10, Benzophenone-4, Sodium Lauryl Sulfate, Sodium Sulfate, Citric Acid, Phenoxyethanol, Methylparaben, Linalool, Limonene, Parfum, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-017",
+    "brand": "Nivea",
+    "name": "Men Crème Mains Hydratation Intense",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Glyceryl Stearate, Stearyl Alcohol, Dimethicone, Caprylic/Capric Triglyceride, Distarch Phosphate, Butyrospermum Parkii Butter, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Prunus Amygdalus Dulcis Oil. Sodium Cetearyl Sulfate, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Linalool, Limonene, Geraniol, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-018",
+    "brand": "Nivea",
+    "name": "Crème Soft",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Glycerin, Myristyl Alcohol, Alcohol Denat, Myristyl Myristate, Cetearyl Glucoside, Coco-Caprylate/Caprate, C Palmitic Acid, Stearic Acid yceryl Stearate, Acid, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Prunus Amygdalus Dulcis Oil Vegetable Oil, Cetyl Ricinoleate, Trisostearin, Sorbitan Stearate, Hydroxypropyl Starch Phosphate, Sodium Hydroxide, Cetearyl Alcohol, Gellon Gum, Xanthan Gum, Myristic Acid, Arachidic Acid, Oleic Acid, Lauric Acid, Disodium Cetearyl Sulfosuccinate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl lonone,Acetyl Cedrene, Citrus Aurantium Peel O, Limonene, Terpineol Lavandula Oil/Extroct, Linalyl Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-019",
+    "brand": "Nivea",
+    "name": "Crème Mains Repair 3in1",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Cetyl Alcohol, Myristyl Alcohol, Sodium Cetearyl Sulfate, Isopropyl Palmitate, Panthenol, Butyrospermum Parkii Butter, Dimethicone, Palmitic Acid, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Ethylhexylglycerin, Phenoxyethanol, Trisodium EDTA, Pantolactone, Citric Acid, Linalool, Limonene, Citronellol, Geraniol, Alpha-Isomethyl lonone, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-020",
+    "brand": "Nivea",
+    "name": "Labello Active For Men SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4,8 g",
+    "ingredients": "Octyldodecanol, Ricinus Communis Seed Oil (Castor Oil), Cera Alba (Beeswax), Helianthus Annuus Seed Cera (Sunflower Wax), Butyrospermum Parkii Butter (Shea Butter), Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Hydrogenated Castor Oil, Tocopherol (Vitamin E), Ascorbyl Palmitate (Vitamin C Derivate), Helianthus Annuus Seed Oil (Sunflower Oil), Aroma, CI 77891",
+    "image": "https://cdn1.costatic.com/img/product/400/670cfd0118efa/nivea-advent-calendar-p96430.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-002",
+    "brand": "Nivea",
+    "name": "Men Energy Gel Douche 3en1 Fraicheur 24H",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Parfum, Glycerin, Menthol, Sodium Chloride, Citric Acid, Sodium Sulfate, Sodium Benzoate, Linalool, Limonene, Benzyl Alcohol, Citronellol, CI 61570",
+    "image": "https://cdn1.costatic.com/img/product/400/674ec1f136e68/nivea-men-energy-p96072.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-021",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Expert Daily Anti-UV Fluid Care SPF50",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Glycerin, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Isopropyl Palmitate, Alcohol Denat, C12-15 Alkyl Benzoate, Distarch Phosphate, Glyceryl Stearate, Dibutyl Adipate, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Cetyl Alcohol, Stearyl Alcohol, Cocoglycerides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ubiquinone, Creatine, 1-Methylhydantoin-2-Imide, Acetyl Hydroxyproline, Glycyrrhiza Inflata Root Extract, Sodium Stearoyl Glutamate, Caprylyl Glycol, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/699880e5c69a2/nivea-q10-anti-p110106.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-005",
+    "brand": "Nivea",
+    "name": "Sun UV Face Anti-Aging Q10 SPF50",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Alcohol Denat, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Glycerin, Dibutyl Adipate, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Cetearyl Alcohol, Distarch Phosphate, Phenylbenzimidazole Sulfonic Acid, Glyceryl Stearate, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycyrrhiza Inflata Root Extract, Ubiquinone, Tocopheryl Acetate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Sodium Stearoyl Glutamate, Hydrogenated Rapeseed Oil, Cocoglycerides, Hydrogenated Coco-Glycerides, Silica Dimethyl Silylate, Sodium Hydroxide, Sodium Chloride, Hydroxyacetophenone, Ethylhexylglycerin, Phenoxyethanol, Trisodium EDTA, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Geraniol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/69e6498c97088/nivea-sun-uv-p116021.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-CLE-NIV-002",
+    "brand": "Nivea",
+    "name": "Fresh Cleansing Gel Normal to Combination Skin",
+    "country": "Germany",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Myreth Sulfate, Acrylates Copolymer, Glycerin, Nelumbo Nucifera Flower Extract, Tocopherol, Tocopheryl Acetate, Lauryl Glucoside, Sodium Lauryl Sulfate, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Benzophenone-4, Sodium Chloride, Polyquaternium-10, Sodium Hydroxide, Phenoxyethanol, Methylparaben, Ethylparaben, Sodium Sulfate, Geraniol, Benzyl Alcohol, Linalool, Triethanolamine, Parfum, CI 42090, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/6985c3df756cb/nivea-fresh-cleansing-p95412.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-022",
+    "brand": "Nivea",
+    "name": "Repair & Care 18% Glycerin + Provitamin B5 + Urea",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Glycerin, Urea, Caprylic/Capric Triglyceride, Behenyl Alcohol, Sodium Lactate, Butyrospermum Parkii Butter, Glyceryl Stearate Citrate, Isopropyl Palmitate, Helianthus Annuus Hybrid Oil, Coco-Caprylate/Caprate, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Panthenol, Pantolactone, Ascorbyl Palmitat, Caprylyl Glycol, Lecithin, Lactic Acid, Xanthan Gum, Citric Acid, Piroctone Olamine, Trisodium EDTA, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68be828257c87/nivea-repair-care-p112098.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-BWA-NIV-003",
+    "brand": "Nivea",
+    "name": "Care Shower Cream",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Glyceryl Glucoside, Lanolin Alcohol (Eucerit®), Panthenol, Octyldodecanol, Helianthus Annuus Seed Oil, Sodium Chloride, Polyquaternium-7, Citric Acid, PEG-40 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Linalool, Limonene, Geraniol, Citronellol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67d192270a7e6/nivea-care-shower-p96109.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-023",
+    "brand": "Nivea",
+    "name": "Repair & Care Body Lotion 72H 10% Glycerin",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a5e382593760/nivea-repair-care-p116034.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-024",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Soin de Jour Protecteur Anti-Taches SPF50",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Cetearyl Isononanoate, Dimethicone, Glycerin, Alcohol Denat, Cocoglycerides, Distarch Phosphate, Butylene Glycol, Methylpropanediol, Tapioca Starch, Isobutylamido Thiazolyl Resorcinol, Sodium Hyaluronate, Tocopheryl Acetate, Stearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate, Sodium Ascorbyl Phosphate, Sodium Stearoyl Glutamate, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trisodium EDTA, Sodium Chloride, Sodium Hydroxide, Sodium Sulfate, Phenoxyethanol, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67c16e5ecc098/nivea-cellular-luminous630-p99164.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-025",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Soin de Nuit",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Cocoglycerides, Hydrogenated Coco-Glycerides, Methylpropanediol, Glyceryl Stearate Citrate, Glyceryl Stearate, Panthenol, Folic Acid, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Magnolia Officinalis Bark Extract, Pantolactone, Squalane, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Citric Acid, Sodium Hydroxide, Phenoxyethanol, Parfum, CI 60725",
+    "image": "https://cdn1.costatic.com/img/product/400/67c16e5ecc098/nivea-cellular-luminous630-p99164.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-026",
+    "brand": "Nivea",
+    "name": "Care Nourishing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycérine, Cetyl Alcohol, Glyceryl Stearate, Glyceryl Stearate SE, Vegetable Oil, Arginine HCL, Glycine, Tocopheryl Acetate, Isopropyl Palmitate, Ethylhexylglycerin, Isopropyl Myristate, Phenoxyethanol, Linalool, Linalyl Acetate, Alpha-Isomethyl Ionone, Geraniol, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/698082d2b1cac/nivea-care-nourishing-p95584.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-027",
+    "brand": "Nivea",
+    "name": "Nourishing Day Care Dry Skin SPF 15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanediol, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Glyceryl Stearate, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Butyrospermum Parkii Butter, Phenylbenzimidazole Sulfonic Acid, Prunus Amygdalus Dulcis Oil, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a29606f791f6/nivea-nourishing-day-p95436.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-028",
+    "brand": "Nivea",
+    "name": "Repair & Care 12% Glycerin + Vitamin E",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, C15-19 Alkane, Glyceryl Stearate Se, Glyceryl Stearate, Isopropyl Palmitate, Cera Microcristallina, Dimethicone, Panthenol, Pantolactone, Paraffinum Liquidum, Hydrogenated Coco-Glycerides, Sodium Cetearyl Sulfate, Citric Acid, Tocopheryl Acetate, Carbomer, Sodium Hydroxide, Ethylhexylglycerin, Phenoxyethanol, Benzyl Alcohol, Linalool, Bht, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/69bbd3cd72464/nivea-repair-care-p95612.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-004",
+    "brand": "Nivea",
+    "name": "Men Protect & Care 3in1 Shower Gel for Body, Face and Hair",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, Decyl Glucoside, Aloe Barbadensis Leaf Juice Powder, Glycerin, Sodium Chloride, Laureth-4, Citric Acid, Tocopherol, Sodium Benzoate, Limonene, Linalool, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/674ecbc790b58/nivea-men-protect-p96082.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-029",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Energy Radiance Activating Day Cream SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Methylpropanediol, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Glyceryl Stearate, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Butyrospermum Parkii Butter, Phenylbenzimidazole Sulfonic Acid, Ubiquinone, Sodium Ascorbyl Phosphate, Caffeine, Paullinia Cupana Seed Extract, Tocopheryl Acetate, Creatine, 1-Methylhydantoin-2-Imide, Panthenol, Maltodextrin, Pantolactone, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trisodium EDTA, Citric Acid, Sodium Hydroxide, Phenoxyethanol, Parfum, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/66b5bd30557f8/nivea-q10-anti-p95447.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-030",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Power Extra-Firming Day Care SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetearyl Alcohol, Methylpropanediol, Glyceryl Stearate SE, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Cocoglycerides, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Ubiquinone, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopheryl Acetate, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Pogostemon Cablin Oil, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b4c66a277f9/nivea-q10-anti-p95425.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-031",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Day Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Methylpropanediol, Tapioca Starch, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Stearate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Behenyl Alcohol, Triisostearin, Glyceryl Stearate, Ubiquinone, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopherol, Sodium Stearoyl Glutamate, Ethylhexylglycerin, 1,2-Hexanediol, Xanthan Gum, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Pogostemon Cablin Oil, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10f25ce26b/nivea-q10-anti-p112631.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-001",
+    "brand": "Nivea",
+    "name": "Sérum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Alcohol Denat, Cocoglycerides, Glyceryl Stearate Citrate, Butyrospermum Parkii Butter, Distarch Phosphate, Acetyl Hydroxyproline, Ubiquinone, 1-Methylhydantoin-2-Imide, Creatine, Hydroxyacetophenone, Xanthan Gum, Sodium Hydroxide, Phenoxyethanol, Pogostemon Cablin Oil, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10f25ce26b/nivea-q10-anti-p112631.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-032",
+    "brand": "Nivea",
+    "name": "Lait Corps Hydratant Douceur 72H Peaux Sèches",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Water, Glycerin, Alcohol Denat, Cetearyl Alcohol, Ethylhexyl Cocoate, Glyceryl Stearate SE, Butyrospermum Parkii (Shea) Butter, Isopropyl Palmitate, Macadamia Integrifolia Seed Oil, Sodium Hyaluronate, Tocopherol, Helianthus Annuus Seed Oil, Sodium Cetearyl Sulfate, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Phenoxyethanol, Linalool, Limonene, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67977cafda4be/nivea-lait-corps-p99156.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-033",
+    "brand": "Nivea",
+    "name": "Repair Hand Cream 3in1",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Cetyl Alcohol, Myristyl Alcohol, Sodium Cetearyl Sulfate, Isopropyl Palmitate, Panthenol, Butyrospermum Parkii Butter, Dimethicone, Palmitic Acid, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Ethylhexylglycerin, Phenoxyethanol, Trisodium EDTA, Pantolactone, Citric Acid, Linalool, Limonene, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6985c445eed80/nivea-repair-hand-p95586.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-034",
+    "brand": "Nivea",
+    "name": "Derma Skin Clear Soin Exfoliant Quotidien Nuit Peaux à Imperfections",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Glycolic Acid, Dimethicone, Glycerin, Tapioca Starch, Cetearyl Alcohol, Glyceryl Stearate, Sodium Hydroxide, Gluconolactone, PEG-40 Stearate, PEG-150 Distearate, Salicylic Acid, Niacinamide, Panthenol, Glycyrrhiza Inflata Root Extract, Pantolactone, Xanthan Gum, Trisodium EDTA, Citric Acid, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6818948500b7e/nivea-derma-skin-p95468.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-035",
+    "brand": "Nivea",
+    "name": "Repair & Care Lait Corps 72H 10% Glycerin",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Water, Glycerin, Alcohol Denat, Cetearyl Alcohol, Ethylhexyl Cocoate, Glyceryl Stearate Se, Butyrospermum Parkii Butter, Isopropyl Palmitate, Panthenol, Niacinamide, Tocopherol, Macadamia Integrifolia Seed Oil, Helianthus Annuus Seed Oil, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Sodium Cetearyl Sulfate, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Pantolactone, Citric Acid, Ethylhexylglycerin, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67977b0d6985f/nivea-repair-care-p99154.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-002",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Aging Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cocoglycerides, Methylpropanediol, Glyceryl Stearate, Cetearyl Alcohol, Distarch Phosphate, Tapioca Starch, Butyrospermum Parkii Butter, Cetyl Palmitate, Squalane, Isobutylamido Thiazolyl Resorcinol, Glycine Soja Germ Extract, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Chloride, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b61994b6c8f/nivea-cellular-luminous630-p95471.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-036",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Spot Hand Cream SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Cetearyl Alcohol, Alcohol Denat, Butyl Methoxydibenzoylmethane, Glycerin, Cocoglycerides, C12-15 Alkyl Benzoate, Butylene Glycol Dicaprylate/Dicaprate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Dibutyl Adipate, Ethylhexyl Triazone, Ethylhexyl Salicylate, Butyrospermum Parkii Butter, Phenylbenzimidazole Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Stearyl Alcohol, Caprylyl Glycol, Isobutylamido Thiazolyl Resorcinol, Sodium Hyaluronate, Tapioca Starch, Xanthan Gum, Arctium Lappa Fruit Extract, Sodium Stearoyl Glutamate, Sodium Chloride, Sodium Hydroxide, Phenoxyethanol, Trisodium EDTA, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/673383ce5f7b9/nivea-cellular-luminous630-p95589.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-037",
+    "brand": "Nivea",
+    "name": "Cellular Expert Filler Soin de Nuit Anti-Âge Repulpant",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Cocoglycerides, Hydrogenated Coco-Glycerides, Methylpropanediol, Glyceryl Stearate Citrate, Glyceryl Stearate, Panthenol, Folic Acid, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Magnolia Officinalis Bark Extract, Pantolactone, Squalane, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Citric Acid, Sodium Hydroxide, Phenoxyethanol, Parfum, CI 60725",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5c9b387cae/nivea-cellular-expert-p95419.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-006",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Lait Solaire Absorption Rapide SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Glycerin, Alcohol Denat, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Ethylhexyl Triazone, Copernicia Cerifera Cera, Glyceryl Stearate Se, Microcrystalline Cellulose, Phenylbenzimidazole Sulfonic Acid, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Tocopheryl Acetate, Xanthan Gum, Polyglyceryl-3 Methylglucose Distearate, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Hydrogenated Rapeseed Oil, Cetyl Palmitate, Cellulose Gum, Sodium Cetearyl Sulfate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Hydroxyacetophenone, Ethylhexylglycerin, Phenoxyethanol, Linalool, Benzyl Alcohol, Linalyl Acetate, Alpha-Isomethyl Ionone, Citronellol, Vanillin, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/69a861214d9a0/nivea-sun-protect-p102375.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-038",
+    "brand": "Nivea",
+    "name": "Q10 Firming Body Lotion Moisturizing + Vitamin C",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "625 ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Palmitate, Alcohol Denat, Glyceryl Stearate Se, Glyceryl Stearate, C12-15 Alkyl Benzoate, Ubiquinone, Sodium Ascorbyl Phosphate, Butyrospermum Parkii Butter, Dimethicone, Sodium Cetearyl Sulfate, Carbomer, Sodium Hydroxide, Trisodium Edta, Phenoxyethanol, Ethylhexylglycerin, Linalool, Citronellol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67977a49c5cdc/nivea-q10-firming-p99148.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-002",
+    "brand": "Nivea",
+    "name": "Soothing Micellar Water for Sensitive Skin",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, PEG-40 Hydrogenated Castor Oil, Glycine, Vitis Vinifera Seed Oil, Panthenol, Pantolactone, Glycerin, Sorbitol, Decyl Glucoside, Disodium Cocoyl Glutamate, Propylene Glycol, 1,2-Hexanediol, Poloxamer 124, Citric Acid, Polyquaternium-10, Trisodium EDTA, Phenoxyethanol, Cetrimonium Chloride, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/66fa912608b06/nivea-soothing-micellar-p95410.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-003",
+    "brand": "Nivea",
+    "name": "Cellular Epigenetics Ultimate Youth Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Cocoglycerides, Methylpropanediol, Caprylic/Capric Triglyceride, Octyldodecanol, Glyceryl Stearate, Cetearyl Alcohol, Distarch Phosphate, Tapioca Starch, Butyrospermum Parkii Butter, Cetyl Palmitate, Squalane, Dihydromyricetin, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Citric Acid, Diethylhexyl Syringylidenemalonate, Sodium Metabisulfite, Phenoxyethanol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/691c3f757efde/nivea-cellular-epigenetics-p112110.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-004",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Skin Glow Immediate Glow Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a6087861be9d/nivea-cellular-luminous630-p110108.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-039",
+    "brand": "Nivea",
+    "name": "Lotion Corps Express Hydratation 72H",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Alcohol Denat, Glycerin, Isopropyl Palmitate, Glyceryl Stearate Se, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Sodium Hyaluronate, Maris Sal, Vitis Vinifera Seed Oil, Sodium Cetearyl Sulfate, Xanthan Gum, Gellan Gum, Citric Acid, Hydroxyacetophenone, Phenoxyethanol, Linalool, Benzyl Alcohol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/678679f8ea7fd/nivea-lotion-corps-p99147.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-040",
+    "brand": "Nivea",
+    "name": "Nourishing Moisturizing Day Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanediol, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Glyceryl Stearate, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Butyrospermum Parkii Butter, Phenylbenzimidazole Sulfonic Acid, Prunus Amygdalus Dulcis Oil, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68cd031f15b71/nivea-youth-advent-p112627.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-041",
+    "brand": "Nivea",
+    "name": "Naturally Good Family Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "450 ml",
+    "ingredients": "Aqua, Glycerin, Cetyl Alcohol, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Glyceryl Stearate, Glyceryl Stearate Citrate, Helianthus Annuus Hybrid Oil, Panthenol, Pantolactone, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii Butter, Caprylyl Glycol, Xanthan Gum, Hydroxypropyl Starch Phosphate, Ascorbyl Palmitate, Lecithin, Benzyl Alcohol, Ethylhexylglycerin, Hydroxyacetophenone, Citric Acid, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67376108d05d0/nivea-naturally-good-p95609.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-042",
+    "brand": "Nivea",
+    "name": "Men Sensitive Face Cream Sensitive Skin SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Tapioca Starch, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Hydrogenated Coco-Glycerides, Octocrylene, Phenylbenzimidazole Sulfonic Acid, Polyglyceryl-3 Methylglucose Distearate, Caprylic/Capric Triglyceride, Panthenol, Tocopheryl Acetate, Chamomilla Recutita Flower Extract, Sodium Hydroxide, Carbomer, Maltodextrin, Trisodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Pantolactone, Citric Acid, Phenoxyethanol, 1,2-Hexanediol, Ethylhexylglycerin, Piroctone Olamine, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6747309313502/nivea-men-sensitive-p96090.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-005",
+    "brand": "Nivea",
+    "name": "Cellular Expert Filler Plumping Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, PEG-40 Hydrogenated Castor Oil, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Cocoglycerides, 1,2-Hexanediol, Xanthan Gum, Phenoxyethanol, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5c9381f2f4/nivea-cellular-expert-p95474.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-003",
+    "brand": "Nivea",
+    "name": "Skin Glow Micellar Water",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Isododecane, Glycerin, C15-19 Alkane, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Arginine HCL, Citrus Sinensis Fruit Extract, Coco-Caprylate/Caprate, Isopropyl Palmitate, Caprylyl/Capryl Glucoside, Tocopherol, Zea Mays Oil, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenoxyethanol, Benzethonium Chloride, Decyl Alcohol, CI 40800",
+    "image": "https://cdn1.costatic.com/img/product/400/66eabd20c44d5/nivea-skin-glow-p95476.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-006",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Expert 2in1 Wrinkle Filler Facial Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Dimethicone, Glycerin, Dimethicone Crosspolymer, Methylpropanediol, Alcohol Denat, Coco-Caprylate/Caprate, Octyldodecanol, Dicaprylyl Ether, Silica, Cetearyl Alcohol, Glyceryl Stearate, Tapioca Starch, Ubiquinone, Pimpinella Anisum Fruit Extract, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Panthenol, Pantolactone, Tocopherol, Sodium Cetearyl Sulfate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Trisodium EDTA, Sodium Chloride, Sodium Sulfate, Sodium Hydroxide, Phenoxyethanol, CI 77891, CI 77491, CI 15985, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f0f54dd5729/nivea-q10-anti-p95464.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-007",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Sun Milk SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Glycerin, Alcohol Denat, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Ethylhexyl Triazone, Copernicia Cerifera Cera, Glyceryl Stearate Se, Microcrystalline Cellulose, Phenylbenzimidazole Sulfonic Acid, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Tocopheryl Acetate, Xanthan Gum, Polyglyceryl-3 Methylglucose Distearate, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Hydrogenated Rapeseed Oil, Cetyl Palmitate, Cellulose Gum, Sodium Cetearyl Sulfate, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Hydroxyacetophenone, Ethylhexylglycerin, Phenoxyethanol, Linalool, Benzyl Alcohol, Linalyl Acetate, Alpha-Isomethyl Ionone, Citronellol, Vanillin, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/69a82c57e9935/nivea-sun-protect-p102381.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-004",
+    "brand": "Nivea",
+    "name": "Gentle Micellar Water for Dry Skin",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, PEG-40 Hydrogenated Castor Oil, Glycine, Prunus Amygdalus Dulcis Oil, Panthenol, Glycerin, Sorbitol, Pantolactone, Decyl Glucoside, Disodium Cocoyl Glutamate, Propylene Glycol, 1,2-Hexanediol, Citric Acid, Poloxamer 124, Trisodium EDTA, Polyquaternium-10, Phenoxyethanol, Cetrimonium Chloride, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/66eaaaff15781/nivea-gentle-micellar-p95421.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-043",
+    "brand": "Nivea",
+    "name": "Soothing Day Care for Sensitive Skin SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanediol, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Glyceryl Stearate, Tapioca Starch, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Distarch Phosphate, Glycyrrhiza Inflata Root Extract, Vitis Vinifera Seed Oil, Sodium Stearoyl Glutamate, Butyrospermum Parkii Butter, Ethylhexylglycerin, Hydroxyacetophenone, Xanthan Gum, Phenylbenzimidazole Sulfonic Acid, Trisodium EDTA, Sodium Chloride, Sodium Hydroxide, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5db8d35b04/nivea-soothing-day-p95416.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-044",
+    "brand": "Nivea",
+    "name": "Soft Moisturizing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Glycerin Paraffinum, Myristryl Alcohol, Butylene Glycol, Alcohol Dent., Myristyl Myristate, Palmitic Acid, Glyceryl Stearate, Stearic Acid, Cera Microcristallina, Hydrogentaed Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Lanolin Alcohol (Eucerit), Myristic Acid, Arachidic Acid, Oelic, Acid, Polyglyceryl-2 Caprate, Dimenthicone, Carbomer, Sodium Hydroxide, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Benzyl Alcohol, Limonene Benzyl Salicylate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/672e3ba1e3dc9/nivea-soft-moisturizing-p95600.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-005",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Skin Glow Micellar Water",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a34f7443d67f/nivea-cellular-luminous630-p116033.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-006",
+    "brand": "Nivea",
+    "name": "Fresh Toner Lotus Flower Normal & Combination Skin",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Alcohol Denat., Glycerin, Polyglyceryl-4 Caprate, Cellulose Gum, Nelumbo Nucifera Flower Extract, Tocopheryl Acetate, Citric Acid, Caprylyl Glycol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5db69cc8d1/nivea-fresh-toner-p95431.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DU-MSK-NIV-001",
+    "brand": "Nivea",
+    "name": "Cellular Expert Lift Anti-Aging 1 Tissue Mask",
+    "country": "Germany",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "1 Tissue Mask",
+    "ingredients": "Aqua, Glycerin, Pentylene Glycol, Bakuchiol, Sodium Hyaluronate, Creatine, Magnolia Officinalis Bark Extract, 1-Methylhydantoin-2-Imide, Xanthan Gum, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Hydroxide, Benzyl Alcohol, Anise Alcohol, Citral, Citronellol, Geraniol, Linalool, Limonene, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5c9f781a1c/nivea-cellular-expert-p95460.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-005",
+    "brand": "Nivea",
+    "name": "Men Deep Clean 3in1 Shower Gel Face, Body and Hair Clay Powder",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Parfum, Kaolin, Glycerin, Glycol Distearate, Citric Acid, Sodium Chloride, Laureth-4, Cellulose, Cellulose Gum, Sodium Sulfate, Sodium Benzoate, Benzoic Acid, Linalool, Limonene, Geraniol, CI 61570, CI 10316, CI 16035, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/68187dc634fe0/nivea-men-deep-p96083.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-045",
+    "brand": "Nivea",
+    "name": "Labello Acide Hyaluronique Ultra Hydratant",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Amygdalus Dulcis Oil, Glycerin, Ricinus Communis Seed Oil, Cocos Nucifera Oil, Aqua, Behenyl Behenate, Butyrospermum Parkii Butter, Helianthus Annuus Seed Cera, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Sodium Hyaluronate, Centella Asiatica Extract, Tocopherol, Ascorbyl Palmitate, Copernicia Cerifera Cera, Helianthus Annuus Seed Oil, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Citronellol, Geraniol, Aroma",
+    "image": "https://cdn1.costatic.com/img/product/400/691c55bb36b00/nivea-advent-calendar-p112634.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-CLE-NIV-003",
+    "brand": "Nivea",
+    "name": "Lait de Toilette Douceur",
+    "country": "Germany",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Paraffinum Liquidum, Glycerin, Butyrospermum Parkii Butter, Cetyl Alcohol, Prunus Amygdalus Dulcis Oil, Oleic Acid, Glyceryl Stearate, Palmitic Acid, Stearic Acid, Arachidic Acid, Myristic Acid, Carbomer, Sodium Hydroxide, Phenoxyethanol, Methylparaben, Geraniol, Benzyl Alcohol, Linalool, Alpha-Isomethyl Ionone, Limonene, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4b5dbd81ede/nivea-lait-de-p95429.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-008",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Invisible Finish Sun Cream SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, C12-15 Alkyl Benzoate, Alcohol Denat, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Cocoate, Isopropyl Palmitate, Dibutyl Adipate, Glycerin, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Distarch Phosphate, Tapioca Starch, Glyceryl Stearate, Phenylbenzimidazole Sulfonic Acid, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Tocopheryl Acetate, Microcrystalline Cellulose, Copernicia Cerifera Cera, Hydroxypropyl Starch Phosphate, Sodium Stearoyl Glutamate, Xanthan Gum, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Hydrogenated Rapeseed Oil, Cetyl Palmitate, Cellulose Gum, Sodium Hydroxide, Silica Dimethyl Silylate, Trisodium Ethylenediamine Disuccinate, Hydroxyacetophenone, Ethylhexylglycerin, Phenoxyethanol, Linalool, Benzyl Alcohol, Linalyl Acetate, Alpha-Isomethyl Ionone, Citronellol, Vanillin, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/699874e650bef/nivea-sun-protect-p102384.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-009",
+    "brand": "Nivea",
+    "name": "Sun Protect & Bronze Double Action Lait SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Alcohol Denat, Isopropyl Palmitate, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Dibutyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Triazone, Glyceryl Stearate, Glycerin, Phenylbenzimidazole Sulfonic Acid, Glycyrrhetinic Acid, Tocopheryl Acetate, Microcrystalline Cellulose, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, Silica Dimethyl Silylate, Carrageenan, Cetyl Palmitate, Phenoxyethanol, Sodium Stearoyl Glutamate, Trisodium EDTA, Xanthan Gum, Cellulose Gum, Caprylyl Glycol, Sodium Hydroxide, Sodium Chloride, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6690fc582d97b/nivea-sun-protect-p94545.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-006",
+    "brand": "Nivea",
+    "name": "Men Protect & Care 3in1 Shower Gel Face, Body and Hair",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, Decyl Glucoside, Aloe Barbadensis Leaf Juice Powder, Glycerin, Sodium Chloride, Laureth-4, Citric Acid, Tocopherol, Sodium Benzoate, Limonene, Linalool, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/674ed8e4299b1/nivea-men-protect-p96076.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-046",
+    "brand": "Nivea",
+    "name": "Aloe Vera 24hr Moisture Matifying Day Cream Combination Skin",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Distarch Phosphate, Glyceryl Stearate SE, Tapioca Starch, Aloe Barbadensis Leaf Juice Powder, Calcium Pantothenate, Magnesium Chloride, Sodium Cetearyl Sulfate, Ethylhexylglycerin, Hydroxypropyl Starch Phosphate, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67ceeab26446f/nivea-aloe-vera-p95411.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DU-TON-NIV-007",
+    "brand": "Nivea",
+    "name": "Waterproof Expert Micellar Water",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Isododecane, Glycerin, C15-19 Alkane, Camellia Sinensis Leaf Extract, Vaccinium Myrtillus Fruit Extract, Isopropyl Palmitate, Caprylyl/Capryl Glucoside, Coco-Caprylate/Caprate, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Citric Acid, Benzethonium Chloride, Phenoxyethanol, Potassium Sorbate, Sodium Benzoate, Sorbic Acid, CI 60725, CI 61565",
+    "image": "https://cdn1.costatic.com/img/product/400/66ebd700e9db3/nivea-waterproof-expert-p95424.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-047",
+    "brand": "Nivea",
+    "name": "Q10 Soin de Jour Energy Facial",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Methylpropanediol, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Glyceryl Stearate, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Butyrospermum Parkii Butter, Phenylbenzimidazole Sulfonic Acid, Ubiquinone, Sodium Ascorbyl Phosphate, Caffeine, Paullinia Cupana Seed Extract, Tocopheryl Acetate, Creatine, 1-Methylhydantoin-2-Imide, Panthenol, Maltodextrin, Pantolactone, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trisodium EDTA, Citric Acid, Sodium Hydroxide, Phenoxyethanol, Parfum, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/6818996d76990/nivea-q10-soin-p99163.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-048",
+    "brand": "Nivea",
+    "name": "Q10 Soin de Nuit Energy Facial",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Methylpropanediol, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Cetearyl Isononanoate, Cocoglycerides, Hydroxypropyl Starch Phosphate, Ubiquinone, Sodium Ascorbyl Phosphate, Caffeine, Paullinia Cupana Seed Extract, Tocopheryl Acetate, Creatine, 1-Methylhydantoin-2-Imide, Panthenol, Pantolactone, Maltodextrin, Ethylhexylglycerin, Hydroxyacetophenone, Xanthan Gum, Citric Acid, Phenoxyethanol, Fragrance, Red 40",
+    "image": "https://cdn1.costatic.com/img/product/400/6818996d76990/nivea-q10-soin-p99163.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-008",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Skin Glow Immediate Glow Liquid Exfoliant",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a6086cd534fb/nivea-cellular-luminous630-p110109.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-010",
+    "brand": "Nivea",
+    "name": "Sun Alpin Sun Face Cream SPF50",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Alcohol Denat, Butyl Methoxydibenzoylmethane, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, C12-15 Alkyl Benzoate, Glycerin, Dibutyl Adipate, Ethylhexyl Triazone, Butylene Glycol Dicaprylate/Dicaprate, Phenylbenzimidazole Sulfonic Acid, Distarch Phosphate, Cetearyl Alcohol, Glyceryl Stearate, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Tocopheryl Acetate, Glycyrrhiza Inflata Root Extract, Sodium Stearoyl Glutamate, Hydrogenated Rapeseed Oil, Silica Dimethyl Silylate, Cocoglycerides, Hydrogenated Coco-Glycerides, Hydroxypropyl Starch Phosphate, Xanthan Gum, Sodium Hydroxide, Sodium Chloride, Ethylhexylglycerin, Hydroxyacetophenone, Phenoxyethanol, Trisodium EDTA, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Limonene, Geraniol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/69d6596fae3d1/nivea-sun-alpin-p116022.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-007",
+    "brand": "Nivea",
+    "name": "Crème Soft Douche Moisturizing Care",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Parfum, Glycerin, Prunus Amygdalus Dulcis Oil, Vitis Vinifera Seed Oil, Sodium Ascorbyl Phosphate, Tocopherol, Glycol Distearate, Citric Acid, Sodium Chloride, Hydrogenated Castor Oil, Sodium Benzoate, Benzoic Acid, Linalool, Limonene, Benzyl Alcohol, Citronellol, Geraniol",
+    "image": "https://cdn1.costatic.com/img/product/400/67e18e07aacca/nivea-creme-soft-p96104.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-MSK-NIV-002",
+    "brand": "Nivea",
+    "name": "Ultra Purifying Freshness Patches All Skin Types",
+    "country": "Germany",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "8 Patches",
+    "ingredients": "Polyquaternium-37, Silica, Aqua, Glycerin, Polysilicone-13, PEG-12 Dimethicone, Titanium Dioxide, Sodium Citrate, Methylparaben, Citral, Limonene, Geraniol, Linalool, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68343f8c428fa/nivea-ultra-purifying-p95441.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-049",
+    "brand": "Nivea",
+    "name": "Q10 Lait Sérum Corps Fermeté et Énergisant + Vitamine C",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Alcohol Denat, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Coco-Caprylate/Caprate, Ubiquinone, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Sorbitan Stearate, Dehydroxanthan Gum, Tapioca Starch, Phenoxyethanol, Ethylhexylglycerin, Citric Acid, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/699879685c83a/nivea-q10-lait-p110103.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "شد الجسم"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-008",
+    "brand": "Nivea",
+    "name": "Men Sport Freshness 24H Revitalizing 3in1 Shower Gel Face, Body and Hair",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Chloride, Calcium Chloride, Glycerin, Caprylyl/Capryl Glucoside, Citric Acid, Glycol Distearate, Laureth-4, Tocopherol, Sodium Sulfate, Sodium Benzoate, Parfum, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/6a54f7038fc2b/nivea-men-sport-p96078.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-050",
+    "brand": "Nivea",
+    "name": "Lotion Corps Express Hydratation 72H",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Alcohol Denat, Glycerin, Isopropyl Palmitate, Glyceryl Stearate Se, Cetearyl Alcohol, Hydroxypropyl Starch Phosphate, Sodium Hyaluronate, Maris Sal, Vitis Vinifera Seed Oil, Sodium Cetearyl Sulfate, Xanthan Gum, Gellan Gum, Citric Acid, Hydroxyacetophenone, Phenoxyethanol, Linalool, Benzyl Alcohol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6780fcae189fc/nivea-lotion-corps-p99152.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-011",
+    "brand": "Nivea",
+    "name": "Sun UV Face Specialist Sun Fluid SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Alcohol Denat, C12-15 Alkyl Benzoate, Butylmethoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Triazone, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Polyglyceryl-6 Stearate, Distarch Phosphate, Silica Dimethyl Silylate, Niacinamide, Tocopheryl Acetate, Decylene Glycol, Glycyrrhiza Inflata Root Extract, Copernicia Cerifera Cera, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Oryza Sativa Starch, Xanthan Gum, Hydroxypropyl Methylcellulose, Trisodium Ethylenediamine Disuccinate, Hydroxypropyl Starch Phosphate, Polyglyceryl-6 Behenate, Phenoxyethanol, Hydroxyacetophenone, Sodium Hydroxide, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/678a6fd50fbcf/nivea-sun-uv-p99157.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-009",
+    "brand": "Nivea",
+    "name": "Biphase Sensitive Eye Makeup Remover",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125 ml",
+    "ingredients": "Aqua, Isododecane, Isopropyl Palmitate, Dimethicone, Helianthus Annuus Seed Oil, Centaurea Cyanus Flower Extract, Tocopherol, Sodium Chloride, Caprylyl/Capryl Glucoside, Trisodium EDTA, Phenoxyethanol, Benzethonium Chloride, CI 61565, CI 60725",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5dddac614e/nivea-biphase-sensitive-p95435.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-051",
+    "brand": "Nivea",
+    "name": "Soft Moisturizing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Myristyl Alcohol, Alcohol Denat, Myristyl Myristate, Cetearyl Glucoside, Coco-Caprylate/Caprate, Glyceryl Stearate, Palmitic Acid, Stearic Acid, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Prunus Amygdalus Dulcis Oil, Vegetable Oil, Cetyl Ricinoleate, Triisostearin, Sorbitan Stearate, Hydroxypropyl Starch Phosphate, Sodium Hydroxide, Cetearyl Alcohol, Gellan Gum, Xanthan Gum, Myristic Acid, Arachidic Acid, Oleic Acid, Lauric Acid, Disodium Cetearyl Sulfosuccinate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Acetyl Cedrene, Citrus Aurantium Peel Oil, Limonene, Terpineol, Lavandula Oil/Extract, Linalyl Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6728a239a102a/nivea-soft-moisturizing-p95607.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-010",
+    "brand": "Nivea",
+    "name": "Eau Micellaire Skin Recharge",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Isododecane, Glycerin, C15-19 Alkane, Panthenol, Squalane, Arginine HCL, Coco Caprylate/Caprate, Isopropyl Palmitate, Caprylyl/Capryl Glucoside, Pantolactone, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Citric Acid, Phenoxyethanol, Benzethonium Chloride, Decyl Alcohol, CI 61565, CI 60725",
+    "image": "https://cdn1.costatic.com/img/product/400/66eabf0bc91b9/nivea-eau-micellaire-p95477.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-MSK-NIV-003",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Energy 1 Tissue Mask",
+    "country": "Germany",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "1 Tissue Mask",
+    "ingredients": "Aqua, Glycerin, Pentylene Glycol, Ubiquinone, Sodium Ascorbyl Phosphate, Creatine, 1-methylhydantoin-2-imide, Xanthane, Ppg-26-buteth-26, Peg-40 Hydrogénated Castor Oil, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Hydroxide, Benzyl Alcohol, Linalool, Limononene, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b9dbe39c031/nivea-q10-anti-p95451.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-052",
+    "brand": "Nivea",
+    "name": "Soin de Jour Fraîcheur Hydratation 24H Peaux Normales SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Alcohol Denat, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Caprylic/Capric Triglyceride, Distarch Phosphate, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Nymphaea Alba Root Extract, Sodium Stearoyl Glutamate, Butyrospermum Parkii Butter, Ethylhexylglycerin, Hydroxyacetophenone, Tapioca Starch, Xanthan Gum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67cee5c60696c/nivea-soin-de-p95434.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DU-SUN-NIV-012",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Lait SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Glycerin, C12-15 Alkyl Benzoate, Alcohol Denat, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Titanium Dioxide (nano), Behenyl Alcohol, Hydrogenated Rapeseed Oil, Silica Dimethyl Silylate, Stearyl Alcohol, Phenylbenzimidazole Sulfonic Acid, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Tocopheryl Acetate, Hydroxypropyl Starch Phosphate, Cellulose Gum, Phenoxyethanol, Tetrasodium Iminodisuccinate, Xanthan Gum, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Trisodium EDTA, Silica, Dimethicone, Sodium Hydroxide, Sodium Chloride, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6690ff77a832f/nivea-sun-protect-p94535.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-013",
+    "brand": "Nivea",
+    "name": "Sun Protect & Bronze Dry Oil SPF20",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Alcohol Denat, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Ethylhexyl Salicylate, Glycerin, Butyl Methoxydibenzoylmethane, Dicaprylyl Carbonate, Acrylates/Octylacrylamide Copolymer, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycyrrhetinic Acid, Tocopheryl Acetate, Tocopherol, Aqua, Limonene, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Ethyl Benzoate, Methyl Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/669100394da3c/nivea-sun-protect-p94542.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مقاوم للماء"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-009",
+    "brand": "Nivea",
+    "name": "Men Réveil Express Gel Douche Fraîcheur 24H 3en1 Visage Corps et Cheveux",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Glycerin, Menthol, Sodium Chloride, Citric Acid, Sodium Sulfate, Sodium Benzoate, Citronellol, Linalool, Parfum, Ci 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/674ec751a1cd2/nivea-men-reveil-p96075.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-053",
+    "brand": "Nivea",
+    "name": "Moisturizing Hand & Body Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Paraffinum Liquidum, Cera Microcristallina, Glycerin, Lanolin Alcohol, Paraffin, Panthenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium Stearate, Limonene, Geraniol, Hydroxycitronellal, Linalool, Citronellol, Benzyl Benzoate, Cinnamyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/697b3989a2591/nivea-moisturizing-hand-p95601.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-007",
+    "brand": "Nivea",
+    "name": "Derma Skin Clear Purifying and Soothing Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, Niacinamide, Glycyrrhiza Inflata Root Extract, Sodium Hyaluronate, Panthenol, Pantolactone, Ceteareth-20, Cellulose Gum, 1,2-Hexanediol, Sodium Chloride, Sodium Sulfate, Citric Acid, Phenoxyethanol, Ci 42090, Ci 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/678a757234cf2/nivea-derma-skin-p99159.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تهدئة البشرة",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-008",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Collagen Expert 3in1 Repairing Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4b8acf55de2/nivea-q10-anti-p116024.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-054",
+    "brand": "Nivea",
+    "name": "72H Moisturizing Body Lotion Dry Skin",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "625 ml",
+    "ingredients": "Water, Glycerin, Alcohol Denat, Cetearyl Alcohol, Ethylhexyl Cocoate, Glyceryl Stearate SE, Butyrospermum Parkii (Shea) Butter, Isopropyl Palmitate, Macadamia Integrifolia Seed Oil, Sodium Hyaluronate, Tocopherol, Helianthus Annuus Seed Oil, Sodium Cetearyl Sulfate, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Ethylhexylglycerin, Phenoxyethanol, Linalool, Limonene, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67977bfad95ce/nivea-72h-moisturizing-p99167.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-SUN-NIV-014",
+    "brand": "Nivea",
+    "name": "Sun UV Face Specialist Anti-Spot SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Alcohol Denat, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, C12-15 Alkyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Isopropyl Palmitate, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Cetearyl Alcohol, Distarch Phosphate, Phenylbenzimidazole Sulfonic Acid, Glyceryl Stearate, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Isobutylamido Thiazolyl Resorcinol, Glycyrrhiza Inflata Root Extract, Sodium Hyaluronate, Tocopheryl Acetate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Sodium Stearoyl Glutamate, Cocoglycerides, Hydrogenated Coco-Glycerides, Hydrogenated Rapeseed Oil, Sodium Hydroxide, Sodium Chloride, Sodium Sulfate, Ethylhexylglycerin, Hydroxyacetophenone, Phenoxyethanol, Trisodium EDTA, Parfum, CI 15985, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/6690ff23b2779/nivea-sun-uv-p94561.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-009",
+    "brand": "Nivea",
+    "name": "Men Power Sérum Visage 2en1 Anti-Âge et Anti-Tâches SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Butylene Glycol, Isopropyl Palmitate, Methylpropanediol, Diisopropyl Adipate, Sodium Hyaluronate, Isobutylamido Thiazolyl Resorcinol, Tapioca Starch, Xanthan Gum, Dehydroxanthan Gum, Citric Acid, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Piroctone Olamine, Parfum, Ci 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/67d452f231c03/nivea-men-power-p96089.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-011",
+    "brand": "Nivea",
+    "name": "Derma Skin Clear Micellar Water",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Isododecane, Glycerin, C15-19 Alkane, Niacinamide, Gluconolactone, Salicylic Acid, Arginine HCL, Tocopherol, Coco-Caprylate/Caprate, Glycolipids, Zea Mays Oil, Sodium Chloride, Sodium Lactate, Citric Acid, Sodium Hydroxide, Trisodium EDTA, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Phenoxyethanol, Sodium Benzoate, CI 61565, CI 40800",
+    "image": "https://cdn1.costatic.com/img/product/400/68adb143b79b9/nivea-derma-skin-p112103.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DU-SCR-NIV-001",
+    "brand": "Nivea",
+    "name": "Derma Skin Clear Face and Body Scrub Blemished Skin",
+    "country": "Germany",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Coco-Glucoside, Coco-Betaine, Microcrystalline Cellulose, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lactic Acid, Niacinamide, Salicylic Acid, Cellulose, Mannitol, Sodium Chloride, Polyquaternium-10, Sodium Benzoate, Sodium Hydroxide, Phenoxyethanol, Benzophenone-4, Parfum, CI 77289",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5dbfd14c97/nivea-derma-skin-p95469.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-055",
+    "brand": "Nivea",
+    "name": "Intense Moisture Hand Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Glyceryl Stearate, Stearyl Alcohol, Dimethicone, Caprylic/Capric Triglyceride, Distarch Phosphate, Butyrospermum Parkii Butter, Glyceryl Stearate SE, Hydrogenated Coco-Glycerides, Prunus Amygdalus Dulcis Oil, Sodium Cetearyl Sulfate, Xanthan Gum, Phenoxyethanol, Ethylhexylglycerin, Linalool, Limonene, Geraniol, Benzyl Alcohol, Citronellol, Alpha-Isomethyl Ionone, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6761697872087/nivea-intense-moisture-p95587.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-056",
+    "brand": "Nivea",
+    "name": "Soufflé Perlé Cherry Blossom Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, C15-19 Alkane, Cetearyl Alcohol, Isopropyl Palmitate, Paraffinum Liquidum, Glyceryl Stearate, Glyceryl Stearate SE, Butyrospermum Parkii Butter, Dimethicone, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Helianthus Annuus Seed Oil, Microcrystalline Cellulose, Mannitol, Algin, Sodium Cetearyl Sulfate, Carbomer, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Linalool, Limonene, Benzyl Alcohol, Citronellol, Geraniol, Alpha-Isomethyl Ionone, Parfum, CI 77492",
+    "image": "https://cdn1.costatic.com/img/product/400/67377046ef92e/nivea-souffle-perle-p95581.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-057",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Tightened Pores Day Care SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Glyceryl Stearate, Phenylbenzimidazole Sulfonic Acid, Isopropyl Palmitate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Distarch Phosphate, Ubiquinone, 1 Methylhydantoin-2-Imide, Creatine, Aloe Barbadensis Leaf Juice Powder, Fucus Vesiculosus Extract, Camellia Sinensis Leaf Extract, Hydrogenated Palm Glycerides, Potassium Cetyl Phosphate, Sodium Cetearyl Sulfate, Palmitic Acid, Stearic Acid, Myristic Acid, Arachidic Acid, Oleic Acid, Lauric Acid, Caprylic/Capric Triglyceride, Hydroxyacetophenone, Xanthan Gum, Tapioca Starch, Trisodium EDTA, Citric Acid, Sodium Hydroxide, Sodium Chloride, Sodium Sulfate, Sodium Benzoate, Phenoxyethanol, Parfum, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/66fbfc8cb3ce9/nivea-q10-anti-p95428.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "قابض للمسام",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-015",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Kids Sun Milk SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Alcohol Denat, Glycerin, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Dibutyl Adipate, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Dipropylene Glycol Dibenzoate, Ethylhexyl Triazone, Cetyl Alcohol, Copernicia Cerifera Cera, Silica Dimethyl Silylate, Hectorite, Panthenol, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Polyglyceryl-3 Methylglucose Distearate, C18-38 Alkyl Hydroxystearoyl Stearate, Phenylbenzimidazole Sulfonic Acid, Xanthan Gum, Cetyl Palmitate, Glyceryl Stearate, Trisodium Ethylenediamine Disuccinate, Glyceryl Stearate Citrate, Sodium Hydroxide, Pantolactone, Citric Acid, Hydroxyacetophenone, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/699877c6a7fc9/nivea-sun-protect-p102382.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-010",
+    "brand": "Nivea",
+    "name": "Cellular Expert Lift Sérum Effet Liftant",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, Caprylyl/Capryl Glucoside, Polyglyceryl-4 Caprate, Bakuchiol, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, 1,2-Hexanediol, Xanthan Gum, Citric Acid, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Parfum, CI 16035, CI 15985",
+    "image": "https://cdn1.costatic.com/img/product/400/66fe66e12ca86/nivea-cellular-expert-p95472.jpg",
+    "marketingClaims": [
+      "شد البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-058",
+    "brand": "Nivea",
+    "name": "Cellular Expert Lift Smoothing Anti-Aging Night Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Ricinus Communis Seed Oil, Cetearyl Alcohol, Methylpropanediol, Hydrogenated Coco-Glycerides, Glyceryl Stearate, Glyceryl Stearate Citrate, Bakuchiol, Sodium Hyaluronate, Panthenol, Pantolactone, Creatine, 1-Methylhydantoin-2-Imide, Ethylhexylglycerin, Caprylyl Glycol, Xanthan Gum, Sodium Hydroxide, Citric Acid, Sodium Sulfate, Sodium Chloride, Phenoxyethanol, Parfum, CI 15985, CI 47005",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5caeb53a9c/nivea-cellular-expert-p95438.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-010",
+    "brand": "Nivea",
+    "name": "Crème Soft Douche Moisturizing Care",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, Decyl Glucoside, Parfum, Glycerin, Prunus Amygdalus Dulcis Oil, Sodium Chloride, Citric Acid, Laureth-4, Sodium Benzoate, Linalool, Limonene, Citronellol, Benzyl Alcohol, Geraniol",
+    "image": "https://cdn1.costatic.com/img/product/400/688379e9ddf62/nivea-creme-soft-p96110.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-EYE-NIV-002",
+    "brand": "Nivea",
+    "name": "Q10 Energy Revitalizing Eye Care",
+    "country": "Germany",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Glycerin, Methylpropanediol, Dicaprylyl Carbonate, Glyceryl Stearate, Cetearyl Alcohol, Hydrogenated Vegetable Oil, Tapioca Starch, C12-15AlkylBenzoate, Caprylic/Capric Triglyceride, Octyldodecanol, 1,2-Hexanediol, Ubiquinone, Sodium Ascorbyl Phosphate, Tocopherol, Tocopheryl A c e t a t e , C r e a t i n e , 1-Methylhydantoin-2-Imide, Potassium Cetyl Phosphate, HydrogenatedPalm Glycerides, Carrageenan, Xanthan Gum,Ethylhexylglycerin, Caprylyl Glycol, Sodium Hydroxide, Phenoxyethanol, Alumina, CI 77891",
+    "image": "https://cdn1.costatic.com/img/product/400/67d143a5bbe99/nivea-q10-energy-p95478.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-059",
+    "brand": "Nivea",
+    "name": "Men Power Crème Visage 2en1 Anti-Âge et Anti-Tâches SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, Butyl Methoxydibenzoylmethane, Ethylhexyl Cocoate, Isopropyl Palmitate, Isoamyl Laurate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Cetearyl Alcohol, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Silica, Cocoglycerides, Tapioca Starch, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Behenyl Alcohol, Sodium Hyaluronate, Isobutylamido Thiazolyl Resorcinol, Tocopheryl Acetate, Dehydroxanthan Gum, Sodium Stearoyl Glutamate, Trisodium Ethylenediamine Disuccinate, Sodium Chloride, Sodium Hydroxide, Methylpropanediol, Phenoxyethanol, Ethylhexylglycerin, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67ceb1e9e5a7c/nivea-men-power-p96088.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-060",
+    "brand": "Nivea",
+    "name": "Soft Moisturizing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua, Glycerin, Myristyl Alcohol, Alcohol Denat, Myristyl Myristate, Cetearyl Glucoside, Coco-Caprylate/Caprate, Glyceryl Stearate, Palmitic Acid, Stearic Acid, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Prunus Amygdalus Dulcis Oil, Vegetable Oil, Cetyl Ricinoleate, Triisostearin, Sorbitan Stearate, Hydroxypropyl Starch Phosphate, Sodium Hydroxide, Cetearyl Alcohol, Gellan Gum, Xanthan Gum, Myristic Acid, Arachidic Acid, Oleic Acid, Lauric Acid, Disodium Cetearyl Sulfosuccinate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Acetyl Cedrene, Citrus Aurantium Peel Oil, Limonene, Terpineol, Lavandula Oil/Extract, Linalyl Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66fa8173c2cee/nivea-soft-moisturizing-p95599.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-061",
+    "brand": "Nivea",
+    "name": "Sun After-Sun Bronze",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat., Dicaprylyl Ether, Glyceryl Stearate SE, Isopropyl Palmitate, Cetearyl Alcohol, Aloe Barbadensis Leaf Juice Powder, Glycyrrhetinic Acid, Dimethicone, Carbomer, Sodium Cetearyl Sulfate, Sodium Hydroxide, Ethylhexylglycerin, Phenoxyethanol, Linalool, Citral, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68075436ea09a/nivea-sun-after-p94556.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-012",
+    "brand": "Nivea",
+    "name": "Biphase Eye Makeup Remover",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "125 ml",
+    "ingredients": "Aqua, Isododecane, C15-19 Alkane, Isopropyl Palmitate, Glycerin, Ethylhexyl Cocoate, Dicaprylyl Ether, Tocopherol, Sodium Ascorbyl Phosphate, Caprylyl/Capryl Glucoside, Citric Acid, Sodium Chloride, Sodium Hydroxide, Trisodium EDTA, Phenoxyethanol, Benzethonium Chloride, Sodium Sulfate, CI 16035, CI 61570",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5dd48b5e74/nivea-biphase-eye-p95423.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-016",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Lait SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Glycerin, C12-15 Alkyl Benzoate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butylene Glycol Dicaprylate/Dicaprate, Ethylhexyl Salicylate, Titanium Dioxide (nano), Behenyl Alcohol, Hydrogenated Rapeseed Oil, Silica Dimethyl Silylate, Stearyl Alcohol, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Phenylbenzimidazole Sulfonic Acid, Tocopheryl Acetate, Cellulose Gum, Tetrasodium Iminodisuccinate, Xanthan Gum, Trisodium EDTA, Sodium Stearoyl Glutamate, Sodium Chloride, Silica, Hydroxyacetophenone, Sodium Hydroxide, Phenoxyethanol, Dimethicone, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6690ff4dbf40e/nivea-sun-protect-p94540.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-TON-NIV-013",
+    "brand": "Nivea",
+    "name": "Micellar Water Rose Care",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4fc12dd9368/nivea-micellar-water-p116007.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-011",
+    "brand": "Nivea",
+    "name": "Men Energy Gel Douche 3en1 Fraicheur 24H",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Parfum, Glycerin, Menthol, Sodium Chloride, Citric Acid, Sodium Sulfate, Sodium Benzoate, Linalool, Limonene, Benzyl Alcohol, Citronellol, CI 61570",
+    "image": "https://cdn1.costatic.com/img/product/400/674ec8b377df4/nivea-men-energy-p96073.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-011",
+    "brand": "Nivea",
+    "name": "Cellular Vitamin C Professional Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glyceryn, Propanediol, Coco-Caprylate/Caprate, C15-19 Alkane, Ascorbyl Glucoside, Glyceryl Stearate Citrate, Pentylene Glycol, Tocopherol, Saccharide Isomerate, Arginine, Glyceryl Stearate, Glycine Soja Oil, Glucose, Helianthus Annuus Seed Oil, Microcrystalline Cellulose, Silica, Xanthan Gum, C14-22 Alcohols, C12-20 Alkyl Glucoside, Sodium Phytate, Citric Acid, Sodium Citrate, Alcohol, Phenoxyethanol, Limonene, Linalool, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66e06499daaa4/nivea-cellular-vitamin-p95465.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-062",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Sensitive Soothing Night Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Methylpropanediol, Butyrospermum Parkii Butter, Ethylhexyl Stearate, Dicaprylyl Ether, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Cocoglycerides, Panthenol, Ubiquinone, Creatine, 1-Methylhydantoin-2-Imide, Glycyrrhiza Inflata Root Extract, Pantolactone, Carbomer, Caprylic/ Capric Triglyceride, Trisodium EDTA, Citric Acid, Ethylhexylglycerin, Sodium Hydroxide, Phenoxyethanol",
+    "image": "https://cdn1.costatic.com/img/product/400/66b4c673c9d0d/nivea-q10-anti-p95427.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-TON-NIV-014",
+    "brand": "Nivea",
+    "name": "Tonique Douceur Huile D'Amande Douce Peaux Sèches & Sensibles",
+    "country": "Germany",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua, Glycerin, PEG-8, PEG-40 Hydrogenated Castor Oil, Prunus Amygdalus Dulcis Oil, Polyquaternium-10, Citric Acid, Phenoxyethanol, 1,2-Hexanediol, Trisodium EDTA, Geraniol, Benzyl Alcohol, Linalool, Alpha-Isomethyl Ionone, Limonene, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5daf079483/nivea-tonique-douceur-p95432.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-012",
+    "brand": "Nivea",
+    "name": "Sun After Sun Gel-Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "100 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/69ea3906797d1/nivea-sun-after-p116023.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-063",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Stretch Marks",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Caprylic/Capric Triglyceride, Isopropyl Palmitate, Ethylhexyl Stearate | Isobutylamido Thiazolyl Resorcinol, Tocopherol, Helianthus Annuus Seed Oil, Parfum, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66e05e8364c59/nivea-cellular-luminous630-p95611.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-013",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Post-Acne Brands Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Alcohol Denat, Glycerin, Tapioca Starch, Salicylic Acid, Carbomer, Isobutylamido Thiazolyl Resorcinol, Sodium Hyaluronate, Camellia Sinensis Leaf Extract, Panthenol, Pantolactone, Isoquercitrin, Glucosylrutin, Glycyrrhiza Inflata Root Extract, Ammonium Acryloyldimethyltaurate/VP Copolymer, Decylene Glycol, Citric Acid, Trisodium EDTA, Sodium Chloride, Sodium Sulfate, Sodium Hydroxide, Sodium Benzoate, Parfum, CI 42090, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/66b61972a867d/nivea-cellular-luminous630-p95470.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DU-BWA-NIV-012",
+    "brand": "Nivea",
+    "name": "Men Soothing Routine Kit For Sensitive Skin Gel Douche",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Myreth Sulfate, Sodium Laureth Sulfate, Coco-Glucoside, Bambusa Vulgaris Shoot Extract, Glycerin, Sodium Chloride, Citric Acid, Glycol Distearate, Hydrogenated Castor Oil, Propylene Glycol, Butylene Glycol, Sodium Benzoate, Benzoic Acid, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a22c8fba871e/nivea-men-soothing-p112628.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-CLE-NIV-004",
+    "brand": "Nivea",
+    "name": "Men Soothing Routine Kit For Sensitive Skin Mousse à Raser",
+    "country": "Germany",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Isobutane, Triethanolamine, Laureth-23, Palmitic Acid, Stearic Acid, Glycerin, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Myristic Acid, Arachidic Acid, Oleic Acid, Potassium Hydroxide, Butane, Propane, Silica, BHT, Methylparaben, Piroctone Olamine, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a22c8fba871e/nivea-men-soothing-p112628.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-064",
+    "brand": "Nivea",
+    "name": "Men Soothing Routine Kit For Sensitive Skin Baume Après-Rasage",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Isopropyl Palmitate | Chamomilla Recutita Flower Extract, Tocopheryl Acetate, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tapioca Starch, Triceteareth-4 Phosphate, Carbomer, Sodium Hydroxide, Caprylic/Capric Triglyceride, Phenoxyethanol, Piroctone Olamine, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a22c8fba871e/nivea-men-soothing-p112628.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-065",
+    "brand": "Nivea",
+    "name": "Men Soothing Routine Kit For Sensitive Skin Crème Visage",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Tapioca Starch, Butyl Methoxydibenzoylmethane, Cetearyl Alcohol, Hydrogenated Coco-Glycerides, Octocrylene, Phenylbenzimidazole Sulfonic Acid, Polyglyceryl-3 Methylglucose Distearate, Caprylic/Capric Triglyceride, Panthenol, Tocopheryl Acetate, Chamomilla Recutita Flower Extract, Sodium Hydroxide, Carbomer, Maltodextrin, Trisodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Pantolactone, Citric Acid, Phenoxyethanol, 1,2-Hexanediol, Ethylhexylglycerin, Piroctone Olamine, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a22c8fba871e/nivea-men-soothing-p112628.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-014",
+    "brand": "Nivea",
+    "name": "Anti-Aging Routine Kit Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Cocoglycerides, Methylpropanediol, Caprylic/Capric Triglyceride, Octyldodecanol, Glyceryl Stearate, Cetearyl Alcohol, Distarch Phosphate, Tapioca Starch, Butyrospermum Parkii Butter, Cetyl Palmitate, Squalane, Dihydromyricetin, Sodium Hyaluronate, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Citric Acid, Diethylhexyl Syringylidenemalonate, Sodium Metabisulfite, Phenoxyethanol, Citronellol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68d152c25f1cc/nivea-anti-aging-p112629.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-066",
+    "brand": "Nivea",
+    "name": "Anti-Aging Routine Kit Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, C12-15 Alkyl Benzoate, Methylpropanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Butylene Glycol Dicaprylate/Dicaprate, Glyceryl Stearate, Dibutyl Adipate, Phenylbenzimidazole Sulfonic Acid, Behenyl Alcohol, Ethylhexyl Triazone, Cetearyl Alcohol, Folic Acid, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Magnolia Officinalis Bark Extract, Sodium Stearoyl Glutamate, Ethylhexylglycerin, 1,2-Hexanediol, Xanthan Gum, Tapioca Starch, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Parfum, CI 16035, CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/68d152c25f1cc/nivea-anti-aging-p112629.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-067",
+    "brand": "Nivea",
+    "name": "Sun Moisturizing After Sun Lotion",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Enriched with Organic Aloe Vera, Hyaluronic Acid, and Vitamin E",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0db1387245c/nivea-sun-moisturizing-p110102.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-068",
+    "brand": "Nivea",
+    "name": "Naturally Good Soin de Jour Éclat Aloe Vera",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Alcohol Denat., Simmondsia Chinensis Seed Oil, Prunus Amygdalus Dulcis Oil, Dicaprylyl Ether, Butyrospermum Parkii Butter, Glyceryl Stearate, Coco-Caprylate/Caprate, Aloe Barbadensis Leaf Juice Powder, Helianthus Annuus Seed Oil, Tocopherol, Glyceryl Caprylate, Sodium Stearoyl Glutamate, Xanthan Gum, Levulinic Acid, Sodium Levulinate, Ethylhexylglycerin, p-Anisic Acid, Sodium Chloride, Linalool, Limonene, Citronellol, Alpha-Isomethyl Ionone, Benzyl Alcohol, Geraniol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5cb5588f58/nivea-naturally-good-p95443.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-069",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Power Extra-Firming Day Care SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Methylpropanediol, Tapioca Starch, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Stearate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic Acid, Behenyl Alcohol, Triisostearin, Glyceryl Stearate, Ubiquinone, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopherol, Sodium Stearoyl Glutamate, Ethylhexylglycerin, 1,2-Hexanediol, Xanthan Gum, Sodium Chloride, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Pogostemon Cablin Oil, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b4c6816307c/nivea-q10-anti-p95418.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-017",
+    "brand": "Nivea",
+    "name": "Sun Protect & Bronze Dry Oil SPF30",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Alcohol Denat, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Butylene Glycol Dicaprylate/Dicaprate, Dibutyl Adipate, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Ethylhexyl Triazone, Glycerin, Acrylates/Octylacrylamide Copolymer, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycyrrhetinic Acid, Tocopheryl Acetate, Tocopherol, Aqua, Limonene, Linalool, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Ethyl Benzoate, Methyl Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6690fa698f907/nivea-sun-protect-p94543.jpg",
+    "marketingClaims": [
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-070",
+    "brand": "Nivea",
+    "name": "Cellular Expert Filler Anti-Aging Plumping Day Care SPF15",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Butyrospermum Parkii Butter, Methylpropanediol, Glyceryl Stearate SE, Cocoglycerides, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Folic Acid, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Magnolia Officinalis Bark Extract, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Parfum, CI 16035, CI 42090 CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/67d1995044d61/nivea-cellular-expert-p95463.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-071",
+    "brand": "Nivea",
+    "name": "Q10 Anti-Wrinkle Extra Nourishing Repairing Night Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Butyrospermum Parkii Butter, Methylpropanediol, Caprylic/Capric Triglyceride, Glyceryl Stearate Citrate, Hydrogenated Coco-Glycerides, Cetearyl Isononanoate, Cocoglycerides, Hydroxypropyl Starch Phosphate, Ubiquinone, Creatine, 1-Methylhydantoin-2-Imide, Panthenol, Pantolactone, Tocopherol, Argania Spinosa Kernel Oil, Vitis Vinifera Seed Oil, Squalane, Ethylhexylglycerin, Hydroxyacetophenone, Xanthan Gum, Sodium Hydroxide, Citric Acid, Phenoxyethanol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66b4c62cea65e/nivea-q10-anti-p95440.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-013",
+    "brand": "Nivea",
+    "name": "Men Sensitive 3in1 Shower Gel for Body, Face and Hair",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua, Sodium Myreth Sulfate, Cocamidopropyl Betaine, Sodium Laureth Sulfate, Glycol Distearate, Decyl Glucoside, Glycerin, Bambusa Vulgaris Shoot Extract, Sodium Chloride, Citric Acid, Laureth-4, Tocopherol, Propylene Glycol, Butylene Glycol, Sodium Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/675066dbc4456/nivea-men-sensitive-p96080.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SUN-NIV-018",
+    "brand": "Nivea",
+    "name": "Sun Protect & Hydrate Kids Lait SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Palmitate, Alcohol Denat, Butyl Methoxydibenzoylmethane, Cocoglycerides, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Salicylate, Titanium Dioxide (nano), Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Hydrogenated Rapeseed Oil, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Silica Dimethyl Silylate, Phenylbenzimidazole Sulfonic Acid, Prunus Amygdalus Dulcis Oil, Tocopheryl Acetate, Stearyl Alcohol, Xanthan Gum, Behenyl Alcohol, Cellulose Gum, Sodium Stearoyl Glutamate, Hydroxypropyl Starch Phosphate, Hydroxyacetophenone, Silica, Phenoxyethanol, Trisodium EDTA, Dimethicone, Sodium Hydroxide, Sodium Chloride, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6690fac9033e2/nivea-sun-protect-p94536.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-EYE-NIV-003",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Dark Circle Eye Care",
+    "country": "Germany",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15 ml",
+    "ingredients": "Aqua, Glycerin, Dicaprylyl Carbonate, Methylpropanediol, Glyceryl Stearate, Cetearyl Alcohol, Hydrogenated Vegetable Oil, Tapioca Starch, Caprylic/Capric Triglyceride, Cocoglycerides, Octyldodecanol, 1,2-Hexanediol, Isobutylamido Thiazolyl Resorcinol, Sodium Hyaluronate, Caffeine, Tocopherol, Ethylhexylglycerin, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Caprylyl Glycol, Carrageenan, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, CI 77891",
+    "image": "https://cdn1.costatic.com/img/product/400/66fa80995721d/nivea-cellular-luminous630-p95456.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-072",
+    "brand": "Nivea",
+    "name": "Men Advent Calendar Baume Après-Rasage",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Isopropyl Palmitate | Chamomilla Recutita Flower Extract, Tocopheryl Acetate, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tapioca Starch, Triceteareth-4 Phosphate, Carbomer, Sodium Hydroxide, Caprylic/Capric Triglyceride, Phenoxyethanol, Piroctone Olamine, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6a0da744c43b9/nivea-men-advent-p112635.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-073",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Spot Protective Day Care SPF50",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Butyl Methoxydibenzoylmethane, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Isopropyl Palmitate, Alcohol Denat., C12-15 Alkyl Benzoate, Distarch Phosphate, Glyceryl Stearate, Dibutyl Adipate, Ethylhexyl Triazone, Butylene Glycol, Dicaprylate/Dicaprtae, Phenylbenzimidazole Sulfonic Acid, Tapioca Starch, Cetyl Alcohol, Stearyl Alcohol, Coco-Glycerides, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Isobutylamido Thiazolyl Resorcinol (Thiamidol®), Sodium Hyaluronate, Tocopheryl Acetate, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Caprylyl Glycol, Sodium Chloride, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Sodium Sulfate, Parfum, CI15985, CI16035",
+    "image": "https://cdn1.costatic.com/img/product/400/67bec4647b4f0/nivea-cellular-luminous630-p99158.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-015",
+    "brand": "Nivea",
+    "name": "Cellular Routine Set Serums for Layering Sérum Repulpant",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, PEG-40 Hydrogenated Castor Oil, Sodium Hyaluronate, Aloe Barbadensis Leaf Juice Powder, Cocoglycerides, 1,2-Hexanediol, Xanthan Gum, Phenoxyethanol, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10fa62233b/nivea-cellular-routine-p112632.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-016",
+    "brand": "Nivea",
+    "name": "Cellular Routine Set Serums for Layering Sérum Liftant",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Alcohol Denat, Caprylyl/Capryl Glucoside, Polyglyceryl-4 Caprate, Bakuchiol, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, 1,2-Hexanediol, Xanthan Gum, Citric Acid, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Parfum, CI 16035, CI 15985",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10fa62233b/nivea-cellular-routine-p112632.jpg",
+    "marketingClaims": [
+      "شد البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-017",
+    "brand": "Nivea",
+    "name": "Cellular Routine Set Serums for Layering Radiance Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Propanediol, Coco-Caprylate/Caprate, C15-19 Alkane, Ascorbyl Glucoside, Glyceryl Stearate Citrate, Pentylene Glycol, Tocopherol, Arginine, Microcrystalline Cellulose, Saccharide Isomerate, Glyceryl Stearate, Silica, C14-22 Alcohols, Xanthan Gum, C12-20 Alkyl Glucoside, Sodium Phytate, Citric Acid, Sodium Citrate, Alcohol, Phenoxyethanol, Citrsu Aurantium Peel Oil, Limonene, Linalool, Linalyl, Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10fa62233b/nivea-cellular-routine-p112632.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-014",
+    "brand": "Nivea",
+    "name": "Men Sensitive 3in1 Shower Gel for Body, Face and Hair",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Myreth Sulfate, Cocamidopropyl Betaine, Sodium Laureth Sulfate, Glycol Distearate, Decyl Glucoside, Glycerin, Bambusa Vulgaris Shoot Extract, Sodium Chloride, Citric Acid, Laureth-4, Tocopherol, Propylene Glycol, Butylene Glycol, Sodium Benzoate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6818953cdeac5/nivea-men-sensitive-p96077.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DU-SSE-NIV-018",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Skin Glow Instant Glow Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "15 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a6085512bdc1/nivea-cellular-luminous630-p110107.jpg",
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SUN-NIV-019",
+    "brand": "Nivea",
+    "name": "Sun 2in1 Primer Daily UV Serum SPF50+",
+    "country": "Germany",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Alcohol Denat, Butyl Methoxydibenzoylmethane, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dibutyl Adipate, Dipropylene Glycol Dibenzoate, Ethylhexyl Triazone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Distarch Phosphate, Glyceryl Stearate SE, Phenylbenzimidazole Sulfonic Acid, Silica Dimethyl Silylate, Glycerin, Glycyrrhiza Inflata Root Extract, Tocopheryl Acetate, Sodium Hyaluronate, Tapioca Starch, Microcrystalline Cellulose, Copernicia Cerifera Cera, Hydrogenated Rapeseed Oil, Polyglyceryl-3 Methylglucose Distearate, Diisostearoyl Polyglyceryl-3 Dimer Dilinoleate, Xanthan Gum, Cetyl Palmitate, Trisodium Ethylenediamine Disuccinate, Cellulose Gum, Sodium Cetearyl Sulfate, Sodium Hydroxide, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Hydroxyacetophenone, CI 15985, CI 16035",
+    "image": "https://cdn1.costatic.com/img/product/400/699881de39aec/nivea-sun-2in1-p102380.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-BWA-NIV-015",
+    "brand": "Nivea",
+    "name": "Care Shower Cream",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "500 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Glyceryl Glucoside, Lanolin Alcohol (Eucerit®), Panthenol, Octyldodecanol, Helianthus Annuus Seed Oil, Sodium Chloride, Polyquaternium-7, Citric Acid, PEG-40 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Linalool, Limonene, Geraniol, Citronellol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67d19142e8c0a/nivea-care-shower-p96111.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-074",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Soin de Jour Protecteur Anti-Taches SPF50",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Cetearyl Isononanoate, Dimethicone, Glycerin, Alcohol Denat, Cocoglycerides, Distarch Phosphate, Butylene Glycol, Methylpropanediol, Tapioca Starch, Isobutylamido Thiazolyl Resorcinol, Sodium Hyaluronate, Tocopheryl Acetate, Stearyl Alcohol, Cetyl Alcohol, Glyceryl Stearate, Sodium Ascorbyl Phosphate, Sodium Stearoyl Glutamate, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trisodium EDTA, Sodium Chloride, Sodium Hydroxide, Sodium Sulfate, Phenoxyethanol, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6870ad9b792a1/nivea-cellular-luminous630-p99165.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-019",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Spot Correcting Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Butyrospermum Parkii Butter, Methylpropanediol, Glyceryl Stearate SE, Cocoglycerides, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Hydroxypropyl Starch Phosphate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Folic Acid, Sodium Hyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Magnolia Officinalis Bark Extract, Ethylhexylglycerin, Xanthan Gum, Trisodium EDTA, Sodium Hydroxide, Sodium Chloride, Sodium Sulfate, Phenoxyethanol, Parfum, CI 16035, CI 42090 CI 42090",
+    "image": "https://cdn1.costatic.com/img/product/400/6870ad9b792a1/nivea-cellular-luminous630-p99165.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-CLE-NIV-005",
+    "brand": "Nivea",
+    "name": "Derma Skin Clear Facial Cleansing Gel Blemished Skin",
+    "country": "Germany",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150 ml",
+    "ingredients": "Aqua, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Salicylic Acid, Niacinamide, Sodium Benzoate",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5dc4b341f6/nivea-derma-skin-p95467.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DU-BWA-NIV-016",
+    "brand": "Nivea",
+    "name": "Derma Control Defend Shower Care",
+    "country": "Germany",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "ingredients": "Aqua, Sodium Laureth Sulfate,\r\nCocamidopropyl Betaine, Coco-Glucoside, Sodium, Chloride, Sodium Hyaluronate,\r\nPanthenol, Pantolactone, Sodium Ascorbyl Phosphate, Tocopherol, Prunus Amygdalus\r\nDulcis Oil, Vitis Vinifera Seed Oil, Glycerin, Glycol Distearate, Citric Acid,\r\nSodium Benzoate, Benzoic Acid, Parfum, Hydrogenated Castor Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/68cad788dad35/nivea-derma-control-p112102.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-075",
+    "brand": "Nivea",
+    "name": "Soft Moisturizing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "375 ml",
+    "ingredients": "Aqua,\r\nGlycerin, Myristyl Alcohol, Alcohol Denat, Myristyl Myristate, Cetearyl\r\nGlucoside, Coco-Caprylate/Caprate, Glyceryl Stearate, Palmitic Acid, Stearic\r\nAcid, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl\r\nAcetate, Prunus Amygdalus Dulcis Oil, Vegetable Oil, Cetyl Ricinoleate,\r\nTriisostearin, Sorbitan Stearate, Hydroxypropyl Starch Phosphate, Sodium\r\nHydroxide, Cetearyl Alcohol, Gellan Gum, Xanthan Gum, Myristic Acid, Arachidic\r\nAcid, Oleic Acid, Lauric Acid, Disodium Cetearyl Sulfosuccinate, Phenoxyethanol,\r\nLinalool, Citronellol, Alpha-Isomethyl Ionone, Acetyl Cedrene, Citrus Aurantium\r\nPeel Oil, Limonene, Terpineol, Lavandula Oil/Extract, Linalyl Acetate, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/67337da9d778e/nivea-soft-moisturizing-p95608.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-020",
+    "brand": "Nivea",
+    "name": "Cellular Epigenetics Ultimate\r\nYouth Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "15 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a60892b8b4ad/nivea-cellular-epigenetics-p116006.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-076",
+    "brand": "Nivea",
+    "name": "Care\r\nNourishing Cream",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "ingredients": "Aqua, Glycérine, Cetyl Alcohol, Glyceryl Stearate, Glyceryl\r\nStearate SE, Vegetable Oil, Arginine HCL, Glycine, Tocopheryl Acetate, Isopropyl\r\nPalmitate, Ethylhexylglycerin, Isopropyl Myristate, Phenoxyethanol, Linalool,\r\nLinalyl Acetate, Alpha-Isomethyl Ionone, Geraniol, Benzyl Alcohol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/6980831b07883/nivea-care-nourishing-p95605.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DU-LOT-NIV-077",
+    "brand": "Nivea",
+    "name": "Q10 Duo Expert Anti-Rides Day Care",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol,\r\nMethylpropanediol, Tapioca Starch, Butyl Methoxydibenzoylmethane, Ethylhexyl\r\nSalicylate, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl\r\nTriazine, Ethylhexyl Stearate, Ethylhexyl Triazone, Phenylbenzimidazole Sulfonic\r\nAcid, Behenyl Alcohol, Triisostearin, Glyceryl Stearate, Ubiquinone, Sodium\r\nHyaluronate, Creatine, 1-Methylhydantoin-2-Imide, Tocopherol, Sodium Stearoyl\r\nGlutamate, Ethylhexylglycerin, 1,2-Hexanediol, Xanthan Gum, Sodium Chloride,\r\nTrisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Pogostemon Cablin Oil,\r\nParfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10e0335218/nivea-q10-duo-p112630.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-021",
+    "brand": "Nivea",
+    "name": "Q10\r\nDuo Expert Anti-Rides Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Dimethicone, Glycerin, Dimethicone Crosspolymer,\r\nMethylpropanediol, Alcohol Denat, Coco-Caprylate/Caprate, Octyldodecanol,\r\nDicaprylyl Ether, Silica, Cetearyl Alcohol, Glyceryl Stearate, Tapioca Starch,\r\nUbiquinone, Pimpinella Anisum Fruit Extract, Sodium Hyaluronate,\r\nCreatine, 1-Methylhydantoin-2-Imide, Panthenol, Pantolactone, Tocopherol, Sodium\r\nCetearyl Sulfate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid,\r\nTrisodium EDTA, Sodium Chloride, Sodium Sulfate, Sodium Hydroxide,\r\nPhenoxyethanol, CI 77891, CI 77491, CI 15985, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/68f10e0335218/nivea-q10-duo-p112630.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-078",
+    "brand": "Nivea",
+    "name": "Q10\r\nAnti-Wrinkle Collagen Expert Rich Day & Night Balm",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "",
+    "image": "https://cdn1.costatic.com/img/product/400/6a4b8abf7c992/nivea-q10-anti-p116026.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-SSE-NIV-022",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Anti-Spot Corrective Serum",
+    "country": "Germany",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua, Isopropyl Palmitate, Cetearyl\r\nIsononanoate, Dimethicone, Glycerin, Alcohol Denat., Cocoglycerides, Distarch\r\nPhosphate, Butylene Glycol, Methylpropanediol, Tapioca Starch, Isobutylamido\r\nThiazolyl Resorcinol, Sodium Hyaluronate, Tocopheryl Acetate, Stearyl Alcohol,\r\nCetyl Alcohol, Glyceryl Stearate, Sodium Ascorbyl Phosphate, Sodium Stearoyl\r\nGlutamate, Sodium Polyacrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer,\r\nTrisodium EDTA, Sodium Chloride, Sodium Hydroxide, Sodium Sulfate,\r\nPhenoxyethanol, Benzyl Alcohol, Parfum, CI 15985, CI 47005",
+    "image": "https://cdn1.costatic.com/img/product/400/6788c9cc2e687/nivea-cellular-luminous630-p99145.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DU-LOT-NIV-079",
+    "brand": "Nivea",
+    "name": "Naturally Good Anti-Aging Plumping Day Care Botanical Oils",
+    "country": "Germany",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua, Glycerin,\r\nCetearyl Alcohol, Alcohol Denat., Simmondsia Chinensis Seed Oil, Prunus\r\nAmygdalus Dulcis Oil, Dicaprylyl Ether, Butyrospermum Parkii Butter, Glyceryl\r\nStearate, Coco-Caprylate/Caprate, Arctium Lappa Fruit Extract, Argania Spinosa\r\nKernel Oil, Tocopherol, Helianthus Annuus Seed Oil, Xanthan Gum, Sodium Stearoyl\r\nGlutamate, Glyceryl Caprylate, Ethylhexylglycerin, Sodium Chloride, p-Anisic\r\nAcid, Sodium Levulinate, Levulinic Acid, Benzyl Alcohol, Linalool, Limonene,\r\nCitronellol, Alpha-Isomethyl Ionone, Geraniol, Parfum",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5cb257e8ff/nivea-naturally-good-p95445.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
