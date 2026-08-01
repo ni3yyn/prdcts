@@ -6355,27 +6355,6 @@
     "targetTypes": []
   },
   {
-    "id": "DZ-SUN-MAK-002",
-    "brand": "MAKE COSMETIC",
-    "name": "SUNSCREEN",
-    "country": "Algeria",
-    "category": {
-      "id": "sunscreen",
-      "label": "واقي شمس",
-      "icon": "sun"
-    },
-    "quantity": "null",
-    "ingredients": "ماء, داي إيثيل أمينو هيدروكسي بنزويل هيكسيل بنزوات (DHHB), إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), الجلسرين, إيثيل هكسيل ساليسيلات (أوكتيسالات), كحول السيتريل, زبدة الشيا, زيت جنين القمح, زيت اللوز الحلو, جلايكول ثنائي الستيارات, سيليكا, سيتاريث-20, أكسيد الزنك, CI 77891 (ثاني أكسيد التيتانيوم), كربونات ثنائي الكابريليل, بانثينول (بروفيتامين B5), صمغ الزانثان, ميثيل إيزوثيازولينون (MI)",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772287746/kpft7fcjaks2f17xommz.jpg",
-    "marketingClaims": [],
-    "price": {
-      "min": 650,
-      "max": 650,
-      "currency": "DZD"
-    },
-    "targetTypes": []
-  },
-  {
     "id": "OT-SUN-CALL-001",
     "brand": "CALLIDERM",
     "name": "Ecran total teinté SPF50+",
@@ -43024,6 +43003,26 @@
     "targetTypes": []
   },
   {
+    "id": "DZ-SUN-MAK-005",
+    "brand": "MAKE COSMETIC",
+    "name": "Roll on Lait Protectrice 50spf",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, DAUCUS CAROTA FRUIT OIL, COCOS NUCIFERA OIL, TOCOPHEROL, PEG-25 PABA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://incibeauty.com/photos/a/c/8/ac85b506e5d0859610b1d57c46899269.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
     "id": "DZ-SUN-MAK-004",
     "brand": "MAKE COSMETIC",
     "name": "Eau Rafraîchissante Protectrice Spray Solaire Anti UV SPF 50",
@@ -43238,8 +43237,7 @@
     "ingredients": "AQUA, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, KAOLIN, MONTMORILLONITE, ILLITE, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLINONE, BUTYROSPERMUM PARKII BUTTER, CITRUS LIMON PEEL OIL",
     "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/d/s/dsc06096-1.jpg",
     "marketingClaims": [
-      "توازن الدهون والزيوت",
-      "للبشرة الدهنية"
+      "توازن الدهون والزيوت"
     ],
     "price": {
       "min": 600,
@@ -43327,16 +43325,20 @@
     "quantity": "150 ml",
     "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, DAUCUS CAROTA FRUIT OIL, COCOS NUCIFERA OIL, TOCOPHEROL, PEG-25 PABA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, SODIUM BENZOATE, POTASSIUM SORBATE",
     "image": "https://kadisse.com/wp-content/uploads/2025/03/Make-Lait-Protecteur-Au-Beurre-De-Karite-150-ml-e1743951302610.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس"
+    ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
   },
   {
     "id": "DZ-SUN-MAK-002",
     "brand": "MAKE COSMETIC",
     "name": "Mineral Sunscreen 50 SPF Sensitive Skin - 50 ml",
-    "image": "https://make-cosmetic.com/cdn/shop/files/magnific_place-this-exact-sunscree_MXA6A8dDCm.png",
-    "ingredients": "AQUA, CAPRYLIC/CAPRIC TRIGLYCERIDE, TITANIUM DIOXIDE, POLYHYDROXYSTEARIC ACID, STEARIC ACID, ALUMINA, ALUMINUM STEARATE, C12-15 ALKYL BENZOATE, SORBITAN STEARATE, SORBITYL LAURATE, HYDROLYZED WHEAT PROTEIN/PVP CROSSPOLYMER, GLYCERIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SCLEROTIUM GUM, XANTHAN GUM, DISODIUM EDTA",
     "country": "Algeria",
     "category": {
       "id": "sunscreen",
@@ -43344,19 +43346,19 @@
       "icon": "sun"
     },
     "quantity": "50 ml",
+    "ingredients": "AQUA, CAPRYLIC/CAPRIC TRIGLYCERIDE, TITANIUM DIOXIDE, POLYHYDROXYSTEARIC ACID, STEARIC ACID, ALUMINA, ALUMINUM STEARATE, C12-15 ALKYL BENZOATE, SORBITAN STEARATE, SORBITYL LAURATE, HYDROLYZED WHEAT PROTEIN/PVP CROSSPOLYMER, GLYCERIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SCLEROTIUM GUM, XANTHAN GUM, DISODIUM EDTA",
+    "image": "https://make-cosmetic.com/cdn/shop/files/magnific_place-this-exact-sunscree_MXA6A8dDCm.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
     "price": {
       "min": 1100,
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "sensitive_skin"
-    ],
-    "marketingClaims": [
-      "moisturizing",
-      "sun_protection",
-      "broad_spectrum"
-    ]
+    "targetTypes": []
   },
   {
     "id": "DZ-MSK-MAK-003",
@@ -43371,7 +43373,9 @@
     "quantity": "100 ml",
     "ingredients": "AQUA / WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, BHT, MONTMORILLONITE, ILLITE, KAOLIN, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLON",
     "image": "https://kadisse.com/wp-content/uploads/2024/05/Make-Masque-Apaisant-A-LArgile-Rose-100-ml-768x1024.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 470,
       "max": null,
@@ -43392,7 +43396,9 @@
     "quantity": "75 g",
     "ingredients": "AQUA, GLYCOL DISTEARATE, CETEARETH-20, CETEARYL ALCOHOL, PETROLATUM, CERA ALBA, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, ARGANIA SPINOSA KERNEL OIL, THEOBROMA CACAO SEED BUTTER, BUTYROSPERMUM PARKII BUTTER, METHYLCHLOROISOTHIAZOLINONE, PARFUM",
     "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-39-10.png",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": null,
     "targetTypes": []
   },
@@ -43409,7 +43415,9 @@
     "quantity": "125 ml",
     "ingredients": "AQUA/WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, BHT, MONTMORILLONITE, ILLITE, KAOLIN, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLINONE, ALLANTOIN",
     "image": "https://make-cosmetic.com/cdn/shop/files/flux-kontext-pro_replace_background_w-3.png?v=1780193647&width=1080",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": null,
     "targetTypes": []
   },
@@ -43417,8 +43425,6 @@
     "id": "DZ-SUN-MAK-001",
     "brand": "MAKE COSMETIC",
     "name": "Crème Écran Total / Solaire Anti UVB-UVA SPF 50+",
-    "image": "https://make-cosmetic.com/cdn/shop/files/Gemini_Generated_Image_vm42krvm42krvm42.png?v=1780778922&width=1080",
-    "ingredients": "AQUA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, DIETHYLAMINO HYDROXYBENZOIC ACID, GLYCERIN, ETHYLHEXYL SALICYLATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, PRUNUS AMYGDALUS DULCIS OIL, ALOE BARBADENSIS EXTRACT, GLYCOL DISTEARATE, SILICA, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), DICAPRYLYL CARBONATE, PANTHENOL, XANTHAN GUM, METHYLISOTHIAZOLINONE",
     "country": "Algeria",
     "category": {
       "id": "sunscreen",
@@ -43426,23 +43432,18 @@
       "icon": "sun"
     },
     "quantity": "50 ml",
+    "ingredients": "AQUA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, DIETHYLAMINO HYDROXYBENZOIC ACID, GLYCERIN, ETHYLHEXYL SALICYLATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, PRUNUS AMYGDALUS DULCIS OIL, ALOE BARBADENSIS EXTRACT, GLYCOL DISTEARATE, SILICA, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), DICAPRYLYL CARBONATE, PANTHENOL, XANTHAN GUM, METHYLISOTHIAZOLINONE",
+    "image": "https://make-cosmetic.com/cdn/shop/files/Gemini_Generated_Image_vm42krvm42krvm42.png?v=1780778922&width=1080",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
     "price": {
       "min": 700,
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "oily_skin",
-      "normal_skin",
-      "dry_skin",
-      "combination_skin",
-      "sensitive_skin"
-    ],
-    "marketingClaims": [
-      "moisturizing",
-      "soothing",
-      "sun_protection",
-      "broad_spectrum"
-    ]
+    "targetTypes": []
   }
 ]
