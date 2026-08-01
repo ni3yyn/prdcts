@@ -43002,5 +43002,447 @@
     "targetTypes": [
       "شعر تالف"
     ]
+  },
+  {
+    "id": "DZ-SUN-MAK-005",
+    "brand": "MAKE COSMETIC",
+    "name": "Roll on Lait Protectrice 50spf",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, DAUCUS CAROTA FRUIT OIL, COCOS NUCIFERA OIL, TOCOPHEROL, PEG-25 PABA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://incibeauty.com/photos/a/c/8/ac85b506e5d0859610b1d57c46899269.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SUN-MAK-004",
+    "brand": "MAKE COSMETIC",
+    "name": "Eau Rafraîchissante Protectrice Spray Solaire Anti UV SPF 50",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, DICAPRYLYL CARBONATE, PEG-7 GLYCERYL COCOATE, PROPYLENE GLYCOL, GLYCERIN, ISOPROPYL MYRISTATE, ALOE BARBADENSIS LEAF JUICE, TOCOPHEROL, PEG-40 CASTOR OIL, EDTA, SODIUM BENZOATE, POTASSIUM SORBATE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, PEG-25 PABA, PARFUM",
+    "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-999.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "مقاوم للماء"
+    ],
+    "price": {
+      "min": 850,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-MAK-004",
+    "brand": "MAKE COSMETIC",
+    "name": "Gommage Moussant Corps Meditate in Africa Café Caramel",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "300 g",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETEARETH 20, CETYL ALCOHOL, GLYCERIN, XANTHAN GUM, BUTYROSPERMUM PARKII BUTTER, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, POLYSORBATE 80, PHENOXYETHANOL, SUCROSE, PARFUM, CARAMEL",
+    "image": "https://kadisse.com/wp-content/uploads/2024/05/Make-Gommage-Moussant-Corps-Cafe-Caramel-300-g-e1716818573559-768x841.webp",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تقشير"
+    ],
+    "price": {
+      "min": 650,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-MAK-004",
+    "brand": "MAKE COSMETIC",
+    "name": "Body Lotion مخمرية بالحليب Seduction",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 g",
+    "ingredients": "EAU TRAITEE, COCO-CAPRYLATE, ISOPROPYL MYRISTATE, BEURRE DE KARITE, HUILE D'AMANDE DOUCE, VITAMINE E, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://incibeauty.com/photos/f/8/9/f894e17acb6223f4ef797e687cc8ae80.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-LOT-MAK-003",
+    "brand": "MAKE COSMETIC",
+    "name": "HAND CREAM 75G MAINS ET ONGLES ABIMES A LANOINE",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 g",
+    "ingredients": "AQUA, GLYCOL DISTEARATE, CETEARETH-20, CETEARYL ALCOHOL, PETROLATUM, CERA ALBA, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, ARGANIA SPINOSA KERNEL OIL, THEOBROMA CACAO SEED BUTTER, LANOLIN, METHYLCHLOROISOTHIAZOLINONE, PARFUM",
+    "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-37-10.png",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-MSK-MAK-004",
+    "brand": "MAKE COSMETIC",
+    "name": "Masque Gommant 3 en 1",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "125 ml",
+    "ingredients": "AQUA/WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, BHT, MONTMORILLONITE, ILLITE, KAOLIN, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLINONE, ORYZA SATIVA POWDER, NIACINAMIDE",
+    "image": "https://kadisse.com/wp-content/uploads/2025/05/Make-Masque-Gommant-3En1-Reduit-Imperfections-125-ml.webp",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": {
+      "min": 500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-LOT-MAK-001",
+    "brand": "MAKE COSMETIC",
+    "name": "Hand Cream Crème Mains Protectrice Aloe Vera et Glycérine",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 g",
+    "ingredients": "AQUA, GLYCOL DISTEARATE, CETEARETH-20, CETEARYL ALCOHOL, PETROLATUM, CERA ALBA, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, ARGANIA SPINOSA KERNEL OIL, THEOBROMA CACAO SEED BUTTER, ALOE BARBADENSIS EXTRACT, METHYLCHLOROISOTHIAZOLINONE, PARFUM",
+    "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-36-8.png",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-MSK-MAK-001",
+    "brand": "MAKE COSMETIC",
+    "name": "Masque Charbon 2 en 1 Anti Point Noir Détoxifiant",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "125 ml",
+    "ingredients": "AQUA/WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, BHT, MONTMORILLONITE, ILLITE, KAOLIN, ZINC OXIDE, TOCOPHEROL, MELALEUCA ALTERNIFOLIA LEAF OIL, METHYLISOTHIAZOLINONE, SALICYLIC ACID",
+    "image": "https://kadisse.com/wp-content/uploads/2025/05/Make-Masque-2En1-Charbon-Anti-Point-Noir-125-ml.webp",
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء",
+      "تنقية المسام"
+    ],
+    "price": {
+      "min": 500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-MAK-003",
+    "brand": "MAKE COSMETIC",
+    "name": "Gommage Visage Hydratant",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, CERA ALBA, CETEARETH-3, CETEARYL ALCOHOL, PETROLATUM, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII BUTTER EXTRACT, GLYCERIN, PRUNUS DULCIS OLEOSOMES, PRUNUS ARMENIACA SEED POWDER, PARFUM",
+    "image": "https://kadisse.com/wp-content/uploads/2025/05/Make-Gommage-Visage-Hydratant-Au-Noyau-DAbricot-150-ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تقشير لطيف",
+      "تقشير"
+    ],
+    "price": {
+      "min": 500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-HMA-MAK-001",
+    "brand": "MAKE COSMETIC",
+    "name": "Masque Argile Verte 2 en 1 Purifiant Matifiant",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "125 ml",
+    "ingredients": "AQUA, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, KAOLIN, MONTMORILLONITE, ILLITE, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLINONE, BUTYROSPERMUM PARKII BUTTER, CITRUS LIMON PEEL OIL",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/d/s/dsc06096-1.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "للبشرة الدهنية"
+    ],
+    "price": {
+      "min": 600,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-MAK-001",
+    "brand": "MAKE COSMETIC",
+    "name": "Gel Douche Coco Citron",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400 ml",
+    "ingredients": "WATER, COCAMIDOPROPYL BETAINE, SODIUM LAURETH SULFATE, PEG-7 GLYCERYL COCOATE, COCO GLUCOSIDE, GLYCERYL OLEATE, DIETHANOL AMINE D'ACIDE GRAS DE COPRAH, PEG-40 HYDROGENATED CASTOR OIL, SODIUM CHLORIDE, PARFUM COCO CITRON, METHYLISOTHIAZOLINONE",
+    "image": "https://incibeauty.com/photos/5/1/8/5183d3f08385c27de0bcc0e42f7e6e7a.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-MAK-002",
+    "brand": "MAKE COSMETIC",
+    "name": "Gommage Visage Revitalisant Pépins de Raisin",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, CERA ALBA, CETEARETH-20, CETEARYL ALCOHOL, PETROLATUM, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII BUTTER EXTRACT, GLYCERIN, VITIS VINIFERA SEED POWDER, PARFUM",
+    "image": "https://kadisse.com/wp-content/uploads/2025/05/Make-Gommage-Visage-Revitalisant-Au-Pepins-De-Raisin-150-ml.webp",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تقشير"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-MAK-001",
+    "brand": "MAKE COSMETIC",
+    "name": "Gommage Visage Régénérant Concombre",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, CERA ALBA, CETEARETH-20, CETEARYL ALCOHOL, PETROLATUM, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII BUTTER EXTRACT, GLYCERIN, CUCUMIS SATIVUS FRUIT EXTRACT, PRUNUS ARMENIACA SEED POWDER, PARFUM",
+    "image": "https://kadisse.com/wp-content/uploads/2025/05/Make-Gommage-Visage-Regenerant-Concombre-150-ml.webp",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تقشير"
+    ],
+    "price": {
+      "min": 500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SUN-MAK-003",
+    "brand": "MAKE COSMETIC",
+    "name": "Make Lait Protecteur Au Beurre De Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, DAUCUS CAROTA FRUIT OIL, COCOS NUCIFERA OIL, TOCOPHEROL, PEG-25 PABA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://kadisse.com/wp-content/uploads/2025/03/Make-Lait-Protecteur-Au-Beurre-De-Karite-150-ml-e1743951302610.webp",
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SUN-MAK-002",
+    "brand": "MAKE COSMETIC",
+    "name": "Mineral Sunscreen 50 SPF Sensitive Skin - 50 ml",
+    "image": "https://make-cosmetic.com/cdn/shop/files/magnific_place-this-exact-sunscree_MXA6A8dDCm.png",
+    "ingredients": "AQUA, CAPRYLIC/CAPRIC TRIGLYCERIDE, TITANIUM DIOXIDE, POLYHYDROXYSTEARIC ACID, STEARIC ACID, ALUMINA, ALUMINUM STEARATE, C12-15 ALKYL BENZOATE, SORBITAN STEARATE, SORBITYL LAURATE, HYDROLYZED WHEAT PROTEIN/PVP CROSSPOLYMER, GLYCERIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SCLEROTIUM GUM, XANTHAN GUM, DISODIUM EDTA",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 1100,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "moisturizing",
+      "sun_protection",
+      "broad_spectrum"
+    ]
+  },
+  {
+    "id": "DZ-MSK-MAK-003",
+    "brand": "MAKE COSMETIC",
+    "name": "MASQUE APAISANT A BASE D'ARGILE ROSE",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "100 ml",
+    "ingredients": "AQUA / WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, BHT, MONTMORILLONITE, ILLITE, KAOLIN, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLON",
+    "image": "https://kadisse.com/wp-content/uploads/2024/05/Make-Masque-Apaisant-A-LArgile-Rose-100-ml-768x1024.webp",
+    "marketingClaims": [],
+    "price": {
+      "min": 470,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-MAK-002",
+    "brand": "MAKE COSMETIC",
+    "name": "HAND CREAM",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 g",
+    "ingredients": "AQUA, GLYCOL DISTEARATE, CETEARETH-20, CETEARYL ALCOHOL, PETROLATUM, CERA ALBA, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, ARGANIA SPINOSA KERNEL OIL, THEOBROMA CACAO SEED BUTTER, BUTYROSPERMUM PARKII BUTTER, METHYLCHLOROISOTHIAZOLINONE, PARFUM",
+    "image": "https://cosmeticstoredz.com/wp-content/uploads/2026/02/CC-39-10.png",
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-MSK-MAK-002",
+    "brand": "MAKE COSMETIC",
+    "name": "Masque Argile Rose 3 en 1",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "125 ml",
+    "ingredients": "AQUA/WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CETEARYL ALCOHOL, CETEARETH-20, PERSEA GRATISSIMA OIL, PRUNUS AMYGDALUS DULCIS OIL, BHT, MONTMORILLONITE, ILLITE, KAOLIN, ZINC OXIDE, TOCOPHEROL, CHAMOMILLA RECUTITA FLOWER EXTRACT, METHYLISOTHIAZOLINONE, ALLANTOIN",
+    "image": "https://make-cosmetic.com/cdn/shop/files/flux-kontext-pro_replace_background_w-3.png?v=1780193647&width=1080",
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SUN-MAK-001",
+    "brand": "MAKE COSMETIC",
+    "name": "Crème Écran Total / Solaire Anti UVB-UVA SPF 50+",
+    "image": "https://make-cosmetic.com/cdn/shop/files/Gemini_Generated_Image_vm42krvm42krvm42.png?v=1780778922&width=1080",
+    "ingredients": "AQUA, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL METHOXYCINNAMATE, DIETHYLAMINO HYDROXYBENZOIC ACID, GLYCERIN, ETHYLHEXYL SALICYLATE, CETEARYL ALCOHOL, BUTYROSPERMUM PARKII BUTTER, TRITICUM VULGARE GERM OIL, PRUNUS AMYGDALUS DULCIS OIL, ALOE BARBADENSIS EXTRACT, GLYCOL DISTEARATE, SILICA, CETEARETH-20, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), DICAPRYLYL CARBONATE, PANTHENOL, XANTHAN GUM, METHYLISOTHIAZOLINONE",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 700,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "moisturizing",
+      "soothing",
+      "sun_protection",
+      "broad_spectrum"
+    ]
   }
 ]
