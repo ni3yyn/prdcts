@@ -42695,5 +42695,312 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-MIS-001",
+    "brand": "Miss Claire",
+    "name": "Shampooing A L'Huile D'Argan Keratine Extreme",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "750 ml",
+    "ingredients": "EAU TRAITEE, SODIUM LAURETH SULFATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, PEG-7 GLYCERYL COCOATE, CITRIC ACID, CHLORURE DE SODIUM, POLYQUATERNIUM-7, DICAPRYLYL ETHER, LAURYL ALCOHOL, CHLOROMETHYLISOTHIAISONIONE, METHYLISOTHIASOLINONE, PARFUM",
+    "image": "https://incibeauty.com/photos/8/7/b/87b72b6d2abde3c03e826c4634c80bc.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-MIS-001",
+    "brand": "Miss Claire",
+    "name": "Hair Mayonnaise",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "500 g",
+    "ingredients": "WATER, GLYCERIN, OLEA EUROPAEA FRUIT OIL, PETROLATUM, PARAFFINUM LIQUIDUM, CETEARYL ALCOHOL, COCOS NUCIFERA OIL, BUTYROSPERMUM PARKII BUTTER, CETRIMONIUM CHLORIDE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, FRAGRANCE, CONSERVATEUR, CI 15985, CI 45430",
+    "image": "https://incibeauty.com/photos/e/d/4/ed422e8c07ac198f0ae226ee64336f93.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-MIS-002",
+    "brand": "Miss Claire",
+    "name": "Shampoing Silver Déjaunit Et Ravive",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "80 ml",
+    "ingredients": "",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/w/h/whatsapp_image_2026-05-19_at_11.18.36_am.jpeg",
+    "marketingClaims": [
+      "حماية من الحرارة"
+    ],
+    "price": {
+      "min": 350.0,
+      "max": 350.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-MIS-003",
+    "brand": "Miss Claire",
+    "name": "Shampoing sans Sulfate Aloe Vera Pro-care Soin Kératine et Protéine",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "450 ml",
+    "ingredients": "EAU TRAITEE, COCO GLUCOSIDE, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYLE BETAINE, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, GLYCOL DISTEARATE, CHLOROMETHYLISOTHIAZOLINONE, METHYL ISOTHIAZOLINONE, EXTRAIT D'ALOE VERA, PARFUM",
+    "image": "https://incibeauty.com/photos/thumb/3/0/d/30d3f77d9172638435644228d359575.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-MIS-001",
+    "brand": "Miss Claire",
+    "name": "en 1 Shampooing Après-shampooing sans Sulfate Elixir d'Argan",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "1 L",
+    "ingredients": "EAU, COCO GLUCOSIDE, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYLE BETAINE, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, GLYCOL DISTEARATE, CHLORO METHYL ISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, HYDROLYZED WHEAT, KERATINE",
+    "image": "https://incibeauty.com/photos/thumb/f/f/b/ffb6c9978f9b1f9478745d1e38d439a.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-MIS-004",
+    "brand": "Miss Claire",
+    "name": "Family Keratine Shampoo Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "1 L",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, POLYQUATERNIUM-7, DICAPRYLYL ETHER, LAURYL ALCOHOL, CHLOROMETHYLISOTHIAZONINE, METHYLISOTHIAZOLINONE",
+    "image": "https://incibeauty.com/photos/thumb/e/2/2/e22acbac441dc0f861a06ca0258b5ae8.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 450.0,
+      "max": 450.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-MIS-005",
+    "brand": "Miss Claire",
+    "name": "Shampooing Sans Sulfate Garlic Stop-Chute",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "450 ml",
+    "ingredients": "EAU, COCO GLUCOSIDE, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYLE BETAINE, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, GLYCOL DISTEARATE, CHLOROMETHYLISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, PARFUM, GARLIC EXTRACT",
+    "image": "https://incibeauty.com/photos/d/9/2/d92ad7a85456ca16135a65fcee09d3.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-MIS-006",
+    "brand": "Miss Claire",
+    "name": "Shampooing Sans Sulfate Keratine Techno Lisse",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "450 ml",
+    "ingredients": "EAU, COCO GLUCOSIDE, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYLE BETAINE, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, GLYCOL DISTEARATE, CHLOROMETHYLISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://incibeauty.com/photos/5/f/3/5f3e91b32eb264e821f1ed84affbd2.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-HMA-MIS-002",
+    "brand": "Miss Claire",
+    "name": "Hair Food Coco",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "400 ml",
+    "ingredients": "AQUA, GLYCERINE, ALCOOL CETEARYLIQUE, CAPRYLATE DE COCO CAPRATE, STEARAMIDOPROPYL DIMETHYLAMINE, CAPRYLIQUE TRIGLYCÉRIDE CAPRIQUE, ESTERS CÉTYLIQUES, ACIDE LACTIQUE, PARFUM, BENZOATE DE SODIUM, POTASSIUM SORBATE, PSIDIUM GUAJAVA EXTRACT, EXTRAIT DE COCONUT, SODIUM HYDROXIDE, CITRIC ACID, LINALOOL",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/5/5/555997443_18068746901243404_1727007346430341929_n_1_.png",
+    "marketingClaims": [],
+    "price": {
+      "min": 650.0,
+      "max": 650.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-MIS-003",
+    "brand": "Miss Claire",
+    "name": "Hair Food Banane",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "400 ml",
+    "ingredients": "AQUA, GLYCERINE, ALCOOL CETEARYLIQUE, CAPRYLATE DE COCO CAPRATE, STEARAMIDOPROPYL DIMETHYLAMINE, CAPRYLIQUE TRIGLYCÉRIDE CAPRIQUE, ESTERS CÉTYLIQUES, ACIDE LACTIQUE, PARFUM, BENZOATE DE SODIUM, POTASSIUM SORBATE, PSIDIUM GUAJAVA EXTRACT, EXTRAIT DE BANANE, SODIUM HYDROXIDE, CITRIC ACID, LINALOOL",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/4/9/499678393_1097710629046507_9060139875380406017_n_1_1__1.png",
+    "marketingClaims": [
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 650.0,
+      "max": 650.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-MIS-004",
+    "brand": "Miss Claire",
+    "name": "Hair Food Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "400 ml",
+    "ingredients": "AQUA, GLYCERINE, ALCOOL CETEARYLIQUE, COCO-CAPRYLATE/CAPRATE, STEARAMIDOPROPYL DIMETHYLAMINE, CAPRYLIC/CAPRIC TRIGLYCERIDE, ESTERS CÉTYLIQUES, LACTIC ACID, PARFUM, BENZOATE DE SODIUM, POTASSIUM SORBATE, PSIDIUM GUAJAVA EXTRACT, EXTRAIT D'ALOE VERA, SODIUM HYDROXIDE, CITRIC ACID, LINALOOL",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/5/2/523358911_18074424713312936_687825833468758668_n-photoroom_1_1_.png",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": {
+      "min": 650.0,
+      "max": 650.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-MIS-005",
+    "brand": "Miss Claire",
+    "name": "Hair Food Avocat",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "400 ml",
+    "ingredients": "AQUA, GLYCERINE, ALCOOL CETEARYLIQUE, CAPRYLATE DE COCO CAPRATE, STEARAMIDOPROPYL DIMETHYLAMINE, CAPRYLIQUE TRIGLYCÉRIDE CAPRIQUE, ESTERS CÉTYLIQUES, ACIDE LACTIQUE, PARFUM, BENZOATE DE SODIUM, POTASSIUM SORBATE, PSIDIUM GUAJAVA EXTRACT, EXTRAIT D'AVOCAT, SODIUM HYDROXIDE, CITRIC ACID, LINALOOL",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/w/e/web.whatsapp_45_1__1_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تلميع ولمعان",
+      "مكافحة التجعد"
+    ],
+    "price": {
+      "min": 650.0,
+      "max": 650.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-MIS-002",
+    "brand": "Miss Claire",
+    "name": "Hair Mayonnaise",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "500 ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, SORBITOL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED KERATIN, OLEA EUROPAEA FRUIT OIL, EGG PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, ALOE BARBADENSIS LEAF EXTRACT",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/w/h/whatsapp_image_2026-05-24_at_2.52.38_pm.jpeg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": {
+      "min": 480.0,
+      "max": 480.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر تالف"
+    ]
   }
 ]
