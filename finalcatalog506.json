@@ -47849,6 +47849,1228 @@
       "currency": "DZD"
     },
     "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-ANU-001",
+    "brand": "Anua",
+    "name": "Peach 77 Niacin Enriched Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Persica (Peach) Fruit Extract (77%), Glycerin, Methylpropanediol, Niacinamide, Isododecane, Lactobacillus Ferment, 1,2-Hexanediol, Propanediol, Panthenol, Polyglyceryl-3 Methylglucose Distearate, Polymethylsilsesquioxane, Hydrogenated Polydecene, Jojoba Esters, Coptis Japonica Root Extract, Prunus Persica (Peach) Flower Extract, Soluble Collagen, Sodium Hyaluronate, Vinyl Dimethicone, Ammonium Acryloyldimethyltaurate/VP Copolymer, Water, Dimethiconol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Butylene Glycol, Adenosine, Disodium EDTA, Cyanocobalamin, Saccharomyces Ferment Filtrate, Galactomyces Ferment Filtrate, Bifida Ferment Lysate, Ceramide NP, Pectin, Maltodextrin, Hydrolyzed Vegetable Protein, Fragrance, Hydroxyacetophenone, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/490759654/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-ANU-002",
+    "brand": "Anua",
+    "name": "Heartleaf 70% Daily Relief Lotion",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract (70%), Glycerin, 1,2-Hexanediol, MethylTrimethicone, Ethylhexyl Stearate, Butylene Glycol, Hydrogenated Poly(C6-14 Olefin), Polyglyceryl-3 Distearate, Fraxinus Rhynchophylla Extract, Ocimum Basilicum (Basil) Flower/Leaf/Stem Extract, Ulmus Davidiana Root Extract, Amaranthus Caudatus Seed Extract, Hydrogenated Lecithin, Sodium Hyaluronate, Glyceryl Glucoside, Water, Glyceryl Stearate, Trehalose, Arginine, Carbomer, Glyceryl Stearate Citrate, Sodium Stearoyl Glutamate, Glucose, Disodium Edta, Betaine, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/477133706/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-001",
+    "brand": "Anua",
+    "name": "Heartleaf 80 Moisture Soothing Ampoule Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract (80%), Butylene Glycol, Water, Dipropylene Glycol, Glycerin, 1,2-Hexanediol, Hydroxyacetophenone, Cellulose Gum, Carbomer, Allantoin, Polyglyceryl-10 Laurate, Citric Acid, Arginine, Disodium EDTA, Betaine, Panthenol, Biosaccharide Gum-1, Theobroma Cacao (Cocoa) Extract, Ethylhexylglycerin, Sodium Hyaluronate, Dextrin, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199596/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SSE-ANU-001",
+    "brand": "Anua",
+    "name": "Heartleaf 80% Soothing Ampoule",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract, Butylene Glycol, Glycerin, 1,2-Hexanediol, Betaine, Cassia Obtusifolia Seed Extract, Panthenol, Hydroxyethyl Cellulose, Sodium Hyaluronate, Arginine, Carbomer, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459103188/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-001",
+    "brand": "Anua",
+    "name": "Birch 70% Moisture Boosting Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Betula Platyphylla Japonica Juice (70%), Dipropylene Glycol, Vegetable Glycerin, 1,2-Hexanediol, Methylpropanediol, Betaine, Allantoin, Cucumis Sativus (Cucumber) Fruit Extract, Gluconic Acid, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Glycosaminoglycans, Butylene Glycol, Gardenia Florida Fruit Extract, Isopentyldiol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Citric Acid, Propanediol, Benzyl Glycol, Ethylhexylglycerin, Raspberry Ketone",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199509/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-SSE-ANU-002",
+    "brand": "Anua",
+    "name": "Rice 7 Ceramide Hydrating Barrier Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Oryza Sativa (Rico) Bran Water, Dipropylene Glycol, Glycerin, Methylpropanediol, Water, Butylene Glycol, Methyl Gluceth-10, Niacinamide, 1,2-Hexanediol, Panthenol, Hydroxyethyl Urea, Pentylene Glycol, Sodium Polyacryate, Oryza Sativa (Rice) Extract, Caprylic/Capric Triglyceride, Carbomer, Hydrogenated Lecithin, Ethylhexylglycerin, Polyquatemnium-51, Adenosine, Allantoin, Sodium Phytate, Xanthan Gum, Ceramide NP, Sodium Hyaluronate, Alpha-Arbutin, Angelica Keiskei Extract, Corchorus Olitorius Leaf Extract, Dioscorea Japonica Root Extract, Hibiscus Esculentus Fruit Extract, Nelumbo Nucifera Root Extract, Beta-Glucan, Tocopherol, Defatted Rice Bran Extract, Arbutin, Zinc Stearate, Defatted Rice Bran, Oryza Sativa (Rice) Bran, Hydrolyzed Rice Protein, Oryza Sativa (Rice) Seed Protein, Honey Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/469785396/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-002",
+    "brand": "Anua",
+    "name": "Azelaic Acid 3 Cica Skin Clarifying Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Azelaic Acid, 1,2-Hexanediol, Sodium Hydroxide, Propylene Glycol, Salicylic Acid, Dipotassium Glycyrrhizate, Propanediol, PPG-13-Decyltetradeceth-24, Butylene Glycol, Disodium EDTA, Melia Azadirachta Leaf Extract, Glycerin, Rosmarinus Officinalis Leaf Oil, Melia Azadirachta Flower Extract, Cynanchum Atratum Extract, Melaleuca Alternifolia Leaf Oil, Epilobium Angustifolium Flower/Leaf/Stem Extract, Ethylhexylglycerin, Althaea Rosea Flower Extract, Docosahexaenoic Acid, Citric Acid, Tocopherol, Madecassoside, Centella Asiatica Extract, Panthenol, Glycine Soja Protein, Centella Asiatica Leaf Extract, Asiaticoside, Allantoin, Ectoin, Glycyrrhizic Acid, Hydroxyethylcellulose, Succinic Acid, Zinc PCA, O-Cymen-5-Ol, Sodium Hyaluronate, Glycolic Acid, Potassium Azeloyl Diglycinate, Coco-Caprylate/Caprate, Sodium Hyaluronate Crosspolymer, Centella Asiatica Root Extract, Hydrogenated Lecithin, Polyglutamic Acid, Xylose, Asiatic Acid, Madecassic Acid, Totarol, Squalane, Chlorella Vulgaris Extract, Ceramide NP",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/487245125/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تهدئة البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-003",
+    "brand": "Anua",
+    "name": "Heartleaf Centella Red Spot Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Houttuynia Cordata Flower/Leaf/Stem Water, 1,2-Hexanediol, Glycerin, Butylene Glycol, 2,3-Butanediol, Panthenol, Dicaprylyl Carbonate, Tocopherol, Methyl Trimethicone, Niacinamide, Cetearyl Olivate, Sorbitan Olivate, Squalane, Pentylene Glycol, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Madecassic Acid, Madecassoside, Asiaticoside, Asiatic Acid, Sorbitol, Cetyl Palmitate, Sorbitan Palmitate, Sucrose Polystearate, Cetearyl Alcohol, Olea Europaea (Olive) Oil Unsaponifiables, Diphenylsiloxy Phenyl Trimethicone, Stearyl Dimethicone, Hydrogenated Polyisobutene, Poly C10-30 Alkyl Acrylate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyglyceryl-3 Distearate, Glyceryl Stearate Citrate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sorbitan Isostearate, Hydrogenated Olive Oil Decyl Esters, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Caprylyl/Capryl Glucoside, Sorbitan Oleate, Aminomethyl Propanediol, Glyceryl Stearate, Hydrogenated Lecithin, Ceramide NP, Ethylhexylglycerin, Cellulose, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Beta-Sitosterol, Macadamia Ternifolia Seed Oil, Phytosterols, Adenosine, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Phytate, Allantoin, Stearic Acid, Phytosphingosine, Cholesterol, Ceramide NG, Ceramide NS, Ceramide AS, Ceramide AP, Ceramide EOP",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483512802/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-001",
+    "brand": "Anua",
+    "name": "Heartleaf Quercetinol Pore Deep Cleansing Foam",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract (33.4%), Quercetin(10,000 ppb), Houttuynia Cordata Extract, Glycerin, Sodium Cocoyl Glycinate, Water, Sodium Lauroyl Glutamate, Coco-Glucoside, Sodium Cocoamphoacetate, Sodium Chloride, 1,2-Hexanediol, Salicylic Acid, Butylene Glycol, Lecithin, Glyceryl Stearate SE, Hydroxypropyl Starch Phosphate, Potassium Benzoate, Polyquaternium-67, Houttuynia Cordata Powder, Quercetin, Oenothera Biennis (Evening Primrose) Flower Extract, Ulmus Davidiana Root Extract, Pinus Palustris Leaf Extract, Pueraria Lobata Root Extract, Capryloyl Salicylic Acid, Tocopherol, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Dextrin, Gardenia Florida Fruit Extract, Fragrance, Ethylhexylglycerin, Disodium EDTA",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/480663985/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-003",
+    "brand": "Anua",
+    "name": "Rice 70 Glow Milky Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Oryza Sativa (Rice) Bran Water(71%), Butylene Glycol, Glycerin. Dipropylene Glycol, Niacinamide, Propanediol, Water, 1,2-Hexanediol, Methyl Gluceth-20, Panthenol, Betaine, Oryza Sativa (Rice) Extract(3,753ppm), Hydroxyacetophenone, Diphenyl Dimethicone, Triethylhexanoin, Hydrogenated Lecithin, Adenosine. Ethylhexylglycerin, Carbomer, Tromethamine, Xanthan Gum. Glyceryl Acrylate/Acrylic Acid Copolymer, Theobroma Cacao (Cocoa) Seed Extract, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Dextrin, Hydrolyzed Rice Protein (3,000ppb), Oryza Sativa (Rice) Seed Protein(3,000ppb), Ceramide NP, Sodium Lauroyl Lactylate, Arbutin, Ascorbic Acid, Allantoin, Ceramide AP, Phytosphingosine, Cholesterol, Ceramide EOP",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/469759772/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-SSE-ANU-003",
+    "brand": "Anua",
+    "name": "PDRN Hyaluronic Acid Capsule 100 Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Propanediol, Glycerin, Hydrolyzed Hyaluronic Acid (29,049ppm), 1,2-Hexanediol, Niacinamide, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Glutathione, Hydrolyzed Collagen, Sodium Hyaluronate (800ppm), Coptis Japonica Root Extract, Adenosine, Sodium DNA(100ppm), Hyaluronic Acid (30ppm), Hydrolyzed Sodium Hyaluronate (30ppm), Hydroxypropyltrimonium Hyaluronate (30ppm), Potassium Hyaluronate (30ppm), Sodium Hyaluronate Crosspolymer (30ppm), Sodium Acetylated Hyaluronate (1ppm), Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Citric Acid, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Citrate, Pentylene Glycol",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/471045737/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-004",
+    "brand": "Anua",
+    "name": "Heartleaf 70% Soothing Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Houttuynia Cordata Extract (70%), Butylene Glycol, Glycerin, Isoamyl Laurate, Purified Water, Pentylene Glycol, 1,2-Hexanediol, Centella Asiatica (Gotu Kola) Extract, Portulaca Oleracea Extract, Betaine, Madecassic Acid, Asiatic Acid, Asiaticoside, Chlorella Vulgaris Extract, Panthenol, Ethylhexylglycerin, Hydrogenated Polydecene, Glucose, Niacinamide, Vinyl Dimethicone, Caprylyl Methicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Dimethiconol, Polymethylsilsesquioxane, Glyceryl Acrylate/Acrylic Acid Copolymer, Tromethamine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructooligosaccharides, Fructose, Dipotassium Glycyrrhizate, Sodium Phytate, Dipropylene Glycol, Tocopherol, Xanthan Gum",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459148049/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SCR-ANU-001",
+    "brand": "Anua",
+    "name": "Heartleaf Lha Moisture Peeling Gel",
+    "country": "Korea",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, Cellulose, 1,2-Hexanediol, Houttuynia Cordata Extract (10,000ppm), Arginine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propanediol, Allantoin, Carthamus Tinctorius (Safflower) Flower Extract, Dextrin, Polyglyceryl-10 Laurate, Gardenia Florida Fruit Extract, Disodium EDTA, Theobroma Cacao (Cocoa) Extract, Glycerin, Aloe Ferox Leaf Extract, Bioflavonoids, Sodium Hyaluronate, Caprylyl Glycol, Capryloyl Salicylic Acid (1,000ppb), Brassica Oleracea Italica (Broccoli) Extract, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/472402057/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-002",
+    "brand": "Anua",
+    "name": "Peach 70 Niacin Serum Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Persica Fruit Extract, Water, Glycerin, Methylpropanediol, Niacinamide, 1,2-Hexanediol, Lactobacillus Ferment, Phellinus Linteus Extract, Vincetoxicum Atratum Extract, Hydrolyzed Hyaluronic Acid, Althaea Rosea Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Safflower Seed Oil, Salvia Hispanica Seed Oil, Prunus Persica Flower Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Sodium Hyaluronate, Hydroxyacetophenone, Polypropanediol, Butylene Glycol, Allantoin, Tromethamine, Polyglyceryl-10 Isostearate, Polyglyceryl-10 Oleate, Sodium Phytate , Cyanocobalamin, Ethylhexylglycerin, Panthenol, Caprylic/Capric Triglyceride, Betaine Salicylate, Hydrogenated Lecithin, Linoleic Acid, Linolenic Acid, Sucrose Palmitate, Ceramide NP, Carbomer, Fragrance",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459187185/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-ANU-003",
+    "brand": "Anua",
+    "name": "PDRN Hyaluron 100 Serum Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Glycerin, Niacinamide, 1,2-Hexanediol, Isopentyldiol, Trehalose, Carbomer, Arginine, Propanediol, Allantoin, Panthenol, Ethylhexylglycerin, Polyglyceryl-10 Laurate, Xanthan Gum, Adenosine, Melia Azadirachta Leaf Extract, Sodium DNA, Hydrolyzed Hyaluronic Acid, Melia Azadirachta Flower Extract, Disodium EDTA, Glyceryl Acrylate/Acrylic Acid Copolymer, Coccinia Indica Fruit Extract, Solanum Melongena (Eggplant) Fruit Extract, Glyceryl Oleate, Lauryl Glucoside, Myristyl Glucoside, Polyglyceryl-6 Laurate, Hydrogenated Lecithin, Ocimum Sanctum Leaf Extract, Hydrolyzed Collagen, Hyaluronic Acid, Sodium Hyaluronate, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Coptis Japonica Root Extract, Glutathione, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Citric Acid, Sodium Citrate, Pentylene Glycol, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/484059638/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-ANU-004",
+    "brand": "Anua",
+    "name": "PDRN 100 Hyaluronic Acid Booster Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Glycerin, Pentylene Glycol, Propanediol, Saccharum Officinarum Extract, Xylitylglucoside, Glycine Soja Seed Extract, Malachite Extract, Xylitol, Melia Azadirachta Leaf Extract, Vincetoxicum Atratum Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Althaea Rosea Flower Extract, Aloe Barbadensis Flower Extract, Hydrolyzed Hyaluronic Acid, Solanum Melongena Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa Root Extract, 1,2-Hexanediol, Betaine, Hydroxyacetophenone, Panthenol, Ethylhexylglycerin, Anhydroxylitol, Allantoin, Sodium Dna, Dipropylene Glycol, Octanediol, Phosphatidylcholine, Tocopherol, Hyaluronic Acid, C12-13 Alketh-9, Dipotassium Phosphate, Acetyl Glutamine, Copper Tripeptide-1, Cellulose Gum, Disodium EDTA, Xanthan Gum",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/487245121/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ANU-004",
+    "brand": "Anua",
+    "name": "Nano Retinol 0.3% + Niacin Renewing Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Water, Glycereth-26, Niacinamide (5%), Malus Domestica Fruit Extract, Glycerin, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Castanea Crenata (Chestnut) Shell Extract, Glyceryl Citrate/Lactate/Linoleate/Oleate, Diospyros Kaki Leaf Extract, Coptis Japonica Root Extract, Potentilla Anserina Extract, Avena Sativa (Oat) Kernel Extract, Cynara Scolymus (Artichoke) Leaf Extract, Portulaca Oleracea Extract, Melaleuca Alternifolia (Tea Tree) Extract, Ficus Carica (Fig) Fruit Extract, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Artemisia Capillaris Flower Extract, Arnica Montana Flower Extract, Houttuynia Cordata Extract, Melia Azadirachta Leaf Extract, Lavandula Angustifolia (Lavender) Flower Extract, Chamomilla Recutita (Matricaria) Flower/Leaf Extract, Borago Officinalis Extract, Centaurea Cyanus Flower Extract, Hydrogenated Lecithin, Camellia Sinensis Leaf Water, Centaurea Cyanus Flower Water, Sodium Hyaluronate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Carapa Guianensis Seed Oil, Hippophae Rhamnoides Fruit Oil, Tocopherol, Propanediol, Cetyl Ethylhexanoate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Polyacrylate Crosspolymer-6, Methylpropanediol, Butylene Glycol, Polysorbate 20, Retinol (0.11%), Ceramide NP, Pentylene Glycol, Carbomer, Tromethamine, Dipotassium Glycyrrhizate, Ethylhexylglycerin, Adenosine, Disodium EDTA, Polyquaternium-51, Beta-Glucan, Squalane, Panthenol, Hydrolyzed Sodium Hyaluronate, BHT, Oleic Acid, Dipropylene Glycol, BHA, Allantoin, Maltodextrin, Saccharide Hydrolysate, Sorbitan Laurate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Octyldodecanol, Phytosterols, Madecassoside, Ceramide AS, Ceramide AP, Capryloyl Salicylic Acid, Cholesterol, Hydroxyethylcellulose, Acetyl Dipeptide-1 Cetyl Ester, Ceramide NS, Ceramide NG, Caprylyl Glycol, Guaiazulene, Sucrose Distearate, Nonapeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Hydroxypropyl Cyclodextrin, Hexapeptide-9, Ceramide EOP",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199681/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-ANU-005",
+    "brand": "Anua",
+    "name": "PDRN Hyaluronic Glow Pad",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Glycereth-26, Niacinamide, Glycerin, 1,2-Hexanediol, Diethoxyethyl Succinate, Hydroxyethyl Urea, Hydroxyacetophenone, Glycereth-25 PCA Isostearate, Glycosyl Trehalose, Hydrogenated Starch Hydrolysate, Melia Azadirachta Leaf Extract, Ethylhexylglycerin, Xanthan Gum, Propanediol, Adenosine, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Disodium EDTA, Sodium DNA (100ppm), Hydrolyzed Collagen, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Coptis Japonica Root Extract, Ocimum Sanctum Leaf Extract, Zea Mays (Corn) Kernel Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Sodium Hyaluronate (5.002ppm), Hyaluronic Acid (5ppm), Hydrolyzed Hyaluronic Acid (5ppm), Terminalia Ferdinandiana Fruit Extract, Fructan, Glucose, Lecithin, Acetyl Glutamine, Collagen Extract, Bacillus/Soybean Ferment Extract, Caprylyl Glycol, Folic Acid, Hexapeptide-11, Oligopeptide-1, Oligopeptide-2, Oligopeptide-3",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483003004/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-ANU-001",
+    "brand": "Anua",
+    "name": "Heartleaf Silky Moisture Sunscreen",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Water, Houttuynia Cordata Extract 300,000 ppm, Dibutyl Adipate, Propanediol, Ethylhexyl Triazone, Terephthalylidene Dicamphor Sulfonic Acid, Glycerin, Niacinamide, Caprylyl Methicone, Polymethylsilsesquioxane, Tromethamine, Polyglyceryl-3 Distearate, Cetearyl Alcohol, 1,2-Hexanediol, Pentylene Glycol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polysilicone-15, Diospyros Kaki Leaf Extract, Anastatica Hierochuntica Extract, Vitis Vinifera Fruit Extract, Carthamus Tinctorius Flower Extract, Coffea Arabica Seed Extract, Polygonum Cuspidatum Root Extract, Polygonum Cuspidatum Root Extract, Camellia Sinensis Leaf Extract, Castanea Crenata Shell Extract, Zanthoxylum Piperitum Fruit Extract, Panthenol, Glyceryl Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Potassium Cetyl Phosphate, Methylpropanediol, Carbomer, Butylene Glycol, Glyceryl Stearate Citrate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Ammonium Acryloyldimethyltaurate/VP Copolymer, Adenosine, Polyether-1, Biosaccharide Gum-1",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199554/500x500x2/image.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-005",
+    "brand": "Anua",
+    "name": "Rice 70 Intensive Moisturizing Milk",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Oryza Sativa Rice Bran Water, Hydrogenated Poly C6-14 Olefin, Butylene Glycol, Glycerin, Niacinamide, Limnanthes Alba Meadowfoam Seed Oil, Phytosteryl/Octyldodecyl Lauroyl Glutamate, 1,2-Hexanediol, Diglycerin, Cetyl Ethylhexanoate, Water, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Glyceryl Stearate, Cocos Nucifera Coconut Oil, Vinyl Dimethicone, Behenyl Alcohol, Oryza Sativa Rice Extract, Polysorbate 20, Cetearyl Alcohol, Arginine, Hydroxyacetophenone, Hydrogenated Lecithin, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glyceryl Stearate SE, Xanthan Gum, Adenosine, Carbomer, Cholesterol, Dipropylene Glycol, Ceramide NP, Sorbitan Isostearate, Lactobacillus Ferment Filtrate, Squalane, Allantoin, Oryza Sativa Rice Seed Protein, Hydrolyzed Rice Protein, Tocopherol, Ectoin, Phytosphingosine, Palmitic Acid, Stearic Acid, Sodium Hyaluronate, Ceramide AS, Ceramide AP, Ceramide NS, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Oryza Sativa Rice Bran Oil, Ceramide EOP",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483519298/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-002",
+    "brand": "Anua",
+    "name": "8 Hyaluronic Acid Hydrating Gentle Foaming Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Sodium Cocoyl Glycinate, Lauryl Hydroxysultaine, Coco-Glucoside, Sodium Lauroyl Glutamate, Quillaja Saponaria Bark Extract, Hydrolyzed Vegetable Protein, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate, Panthenol, Zinc PCA, Decyl Glucoside, Hectorite, Pentylene Glycol, Caprylyl Glycol, Hydroxypropyl Starch Phosphate, 1,2-Hexanediol, Betaine, Polyquaternium-67, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Sodium Chloride, Sodium Phytate, Sodium Cocoyl Isethionate, Maltodextrin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/472402061/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ANU-005",
+    "brand": "Anua",
+    "name": "Birch 70% Moisture Boosting Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Dipropylene Glycol, Betula Platyphylla Japonica Juice, Glycerin, Diglycerin, 1,2-Hexanediol, Trehalose, Hydroxyacetophenone, Carbomer, Caprylyl Glycol, Ethylhexylglycerin, Tromethamine, Sodium Phytate, Allantoin, Betaine, Cucumis Sativus Fruit Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Dextrin, Gardenia Florida Fruit Extract, Ulmus Davidiana Root Extract, Pueraria Lobata Root Extract, Pinus Palustris Leaf Extract, Panthenol, Oenothera Biennis Flower Extract, Gluconolactone, Biosaccharide Gum-1, Dipotassium Glycyrrhizate, Malachite Extract, Sodium Hyaluronate, Tocopherol, Hydroxypropyltrimonium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/495282465/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-004",
+    "brand": "Anua",
+    "name": "Peach 70 Niacin Brightening Collagen Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Persica Fruit Water, Water, Dipropylene Glycol, Hydrogenated Polydecene, 1,2-Hexanediol, Glycerin, Niacinamide, Lactobacillus Ferment, Acrylates Copolymer, Ceratonia Siliqua Gum, Xanthan Gum, Carrageenan, Hydroxyacetophenone, Sucrose, Allantoin, Potassium Chloride, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Cellulose Gum, Gellan Gum, Caprylyl Glycol, Adenosine, Ethylhexylglycerin, Sodium Phytate, Soluble Collagen, Sodium Hyaluronate, Maltodextrin, Rubus Idaeus Fruit Extract, Rubus Coreanus Fruit Extract, Prunus Persica Flower Extract, Prunus Persica Fruit Extract, Prunus Serrulata Flower Extract, Hydroxypropyltrimonium Hyaluronate, Betaine Salicylate, Sodium Citrate, Sodium Acetylated Hyaluronate, Citric Acid, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Cyanocobalamin, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Iron Oxides CI 77491",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/488673156/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-ANU-005",
+    "brand": "Anua",
+    "name": "Heartleaf 70 Soothing Collagen Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, Butylene Glycol, Glycerin, Hydrogenated Polydecene, 1,2-Hexanediol, Acrylates Copolymer, Ceratonia Siliqua Carob Gum, Xanthan Gum, Carrageenan, Hydroxyacetophenone, Sucrose, Allantoin, Potassium Chloride, Cellulose Gum, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Aloe Barbadensis Leaf Extract, Gellan Gum, Caprylyl Glycol, Adenosine, Propanediol, Ethylhexylglycerin, Menthoxypropanediol, Menthyl Lactate, Sodium Phytate, Soluble Collagen, Sodium Hyaluronate, Houttuynia Cordata Extract, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Saccharomyces Ferment, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Chromium Oxide Greens CI 77288",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/488673162/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-003",
+    "brand": "Anua",
+    "name": "Heartleaf Pore Control Cleansing Oil Mild",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Ethylhexyl Stearate,Sorbeth-30 Tetraoleate,Cetyl Ethylhexanoate,Caprylic/Capric Triglyceride,Triethylhexanoin,Isododecane,Water,Rosmarinus Officinalis Leaf Oil,Sorbitan Sesquioleate,Tocopherol,Helianthus Annuus Seed Oil,Houttuynia Cordata Extract",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/465324136/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-006",
+    "brand": "Anua",
+    "name": "Niacinamide 5 TXA Brightening Pad",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Methylpropanediol, Niacinamide (5%), Butylene Glycol, Glycerin, 1,2-Hexanediol, Ethylhexylglycerin, Adenosine, Arginine, Carbomer, Disodium EDTA, Cyanocobalamin, Betaine Salicylate, Hydrolyzed Sodium Hyaluronate, Madecassoside, Tranexamic Acid (4ppm), Gluconolactone, Portulaca Oleracea Extract, Vitis Vinifera (Grape) Seed Extract, Saururus Chinensis Extract, Rice Ferment Filtrate (Sake), Oligopeptide-2, Polyglyceryl-10 Laurate, Caprylyl Glycol, Copper Tripeptide-1, Hexapeptide-9, Hexapeptide-11, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Tripeptide-1",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483003009/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ANU-006",
+    "brand": "Anua",
+    "name": "Peach 70% Niacinamide Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Persica (Peach) Fruit Extract (70.2%), Glycerin, Niacinamide, Butylene Glycol, Diethoxyethyl Succinate, Water, 1,2-Hexanediol, Lactobacillus Ferment, Sodium Hyaluronate, Sphingomonas Ferment Extract, Alpha-Arbutin, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Carthamus Tinctorius (Safflower) Seed Oil, Salvia Hispanica Seed Oil, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/_Glucose/_Methyl Rapeseedate Ferment, Pentylene Glycol, Polyglyceryl-10 Laurate, Betaine Salicylate, Sodium Phytate, Cellulose, Caprylic/_Capric Triglyceride, Hydrogenated Lecithin, Panthenol, Polyglutamic Acid, Linoleic Acid, Linolenic Acid, Polyglyceryl-10 Oleate, Sucrose Palmitate, Cyanocobalamin, 3-O-Ethyl Ascorbic Acid, Ceramide NP, Asiaticoside, Madecassic Acid, Asiatic Acid, Xanthan Gum, Fragrance",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459174903/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-ANU-006",
+    "brand": "Anua",
+    "name": "PDRN Hyaluronic Acid 100 Moisture Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Squalane, Glycerin, Niacinamide, Pentylene Glycol, 1,2-Hexanediol, Sodium DNA, Hydrolyzed Collagen, Sodium Hyaluronate, Melia Azadirachta Leaf Extract, Hydrolyzed Hyaluronic Acid, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Hyaluronic Acid, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (Turmeric) Root Extract, Centella Asiatica Leaf Extract, Diphenylsiloxy Phenyl Trimethicone, PCA Dimethicone, Butylene Glycol, Propanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Diglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, C12-20 Alkyl Glucoside, Methylpropanediol, Ethylhexylglycerin, Adenosine, Sodium Phytate, Aminomethyl Propanediol, PVM/MA Copolymer, Madecassoside, C12-13 Alketh-9, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Asiaticoside, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Behenyl Alcohol, C14-22 Alcohols, Carbomer",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483519296/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-004",
+    "brand": "Anua",
+    "name": "Rice Enzyme Brightening Cleansing Powder",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Zea Mays (Corn) Starch, Kaolin (CI 77004), Sodium Bicarbonate, Sodium Cocoyl lsethionate, Sodium Lauroyl Glutamate,Citric Acid, Sodium Polyacrylate, Diglycerin, Allantoin, Water, Maltodextrin, Papain, Oryza Sativa (Rice) Powder, Oryza Sativa (Rice) Lees Extract, Oryza Sativa (Rice) Bran Water, Butylene Glycol, 1,2-Hexanediol, Ceramide NP, Ascorbic Acid, Alpha-Arbutin, Glucose, Oryza Sativa Rice) Extract, Protease, Dipropylene Glycol Glycerin, Tartaric Acid, Lactic Acid, Oryza Sativa (Rice) Seed Protein, Hydrolyzed Rice Protein, Caprylyl Glycol",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/469746290/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تنظيف عميق",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-ANU-007",
+    "brand": "Anua",
+    "name": "Heartleaf 77% Clear Pad",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract, Water, Gluconolactone, Propanediol, Tromethamine, Butylene Glycol, 1,2-Hexanediol, Betaine, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ulmus Davidiana Root Extract, Pueraria Lobata Root Extract, Pinus Palustris Leaf Extract, Oenothera Biennis Flower Extract, Camellia Sinensis Leaf Extract, Coix Lacryma-Jobi Ma-yuen Seed Extract, Portulaca Oleracea Extract, Centella Asiatica Extract, Madecassoside, Asiatic Acid, Asiaticoside, Madecassic Acid, Sodium Phytate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459187149/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تهدئة البشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SUN-ANU-002",
+    "brand": "Anua",
+    "name": "Airy Sun Cream",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Water, Zinc Oxide, Cyclohexasiloxane, Butyloctyl Salicylate, Propanediol, Propylheptyl Caprylate, Isododecane, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Caprylyl Methicone, Dicaprylyl Carbonate, Methyl Methacrylate Crosspolymer, Polymethylsilsesquioxane, Centella Asiatica Extract, Artemisia Capillaris Extract, Houttuynia Cordata Extract, Melaleuca Alternifolia (Tea Tree) Extract, Sodium Hyaluronate, Disteardimonium Hectorite, Magnesium Sulfate, Triethoxycaprylylsilane, 1,2-hexanediol, Polyglyceryl-2 Dipolyhydroxystearate, Lauryl Polyglyceryl-3 PolydimethyIsiloxyethyl Dimethicone, Phenyl Trimethicone, Acrylates/dimethiconeCopolymer, Glyceryl Caprylate, Caprylyl Glycol, Ethylhexylglycerin, Tocopherol, Butylene Glycol, Pentylene Glycol",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/472399124/500x500x2/image.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-006",
+    "brand": "Anua",
+    "name": "Green Lemon Vita C Blemish Serum Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Purified Water, Butylene Glycol, Citrus Limon (Lemon) Fruit Extract (20,000ppm), Niacinamide, 1,2-Hexanediol, Dipropylene Glycol, Hydroxyacetophenone, Arginine, Allantoin, Acrylate/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Polyglyceryl-10 Laurate, Ethylhexylglycerin, Disodium EDTA, Fragrance, Ascorbic Acid (100ppm), Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Ferulic Acid, Glutathione, Hydrolyzed Sodium Hyaluronate, Tocopherol, Apium Graveolens (Celery) Extract, Brassica Oleracea Italica (Broccoli) Extract, Camellia Sinensis Leaf Extract, Persea Gratissima (Avocado) Fruit Extract, Prunus Mume Fruit Extract, Limonene, Citronellol, Linalool",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199598/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-ANU-008",
+    "brand": "Anua",
+    "name": "Heartleaf 77% Soothing Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract(77%), Purified Water, 1,2-Hexandiol, Glycerin, Betaine, Panthenol, Saccharum Officinarum (Sugarcane) Extract, Portulaca Oleracea Extract, Butylene Glycol, Vitex Agnus-Castus Extract, Chamomilla Recutita (Matricaria) Flower Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Vitis Vinifera (Grape) Fruit Extract, Apple Fruit Extract, Centella Asiatica Extract, Isopentyldiol, Methylpropanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Disodium EDTA",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459106718/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-005",
+    "brand": "Anua",
+    "name": "8 Hyaluronic Acid Moisturizing Gentle Gel Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Coco-Betaine, Sodium Cocoyl Alaninate, Potassium Cocoyl Glycinate, Acrylates Copolymer, Glycerin, 1,2-Hexanediol, Propanediol, Polyglyceryl-4 Caprate, Caprylyl Glycol, Hydroxyacetophenone, Tromethamine, Glyceryl Glucoside, Disodium EDTA, Hydrolyzed Hyaluronic Acid, Squalane, Ectoin, Citric Acid, Hydrolyzed Vegetable Protein, Maltodextrin, Hydrogenated Lecithin, Ceramide, Butylene Glycol, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483003030/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-SSE-ANU-007",
+    "brand": "Anua",
+    "name": "Niacinamide 10% + TXA 4% Dark Spot Correcting Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Niacinamide, Tranexamic Acid, Butylene Glycol, Diethoxyethyl Succinate, 1,2-Hexanediol, Arbutin, Sodium Hyaluronate, Alpha-Arbutin, Coccinia Indica Fruit Extract, Eclipta Prostrata Extract, Macadamia Integrifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Theobroma Cacao (Cocoa) Extract, Hydrolyzed Hyaluronic Acid, Chamaecyparis Obtusa Leaf Extract, Prunus Persica (Peach) Flower Extract, Camellia Sinensis Seed Oil, Yeast Ferment Extract, Centella Asiatica Extract, Artemisia Princeps Leaf Extract, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Hyaluronic Acid, Pentylene Glycol, Betaine Salicylate, Sucrose Palmitate, Hydrogenated Lecithin, Gellan Gum, Sodium Phytate, Cellulose, Caprylic/Capric Triglyceride, Panthenol, Cyanocobalamin, Polyglutamic Acid, 3-0-Ethyl Ascorbic Acid, Ceramide NP, Dextrin, Asiaticoside, Madecassic Acid, Asiatic Acid, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Xanthan Gum",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/482241393/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-ANU-006",
+    "brand": "Anua",
+    "name": "Peach Niacin Spread Cleansing Foam",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Prunus Persica Fruit Water, Glycerin, Potassium Laurate, Cellulose, Potassium Myristate, Acrylates Copolymer, 1,2-Hexanediol, Betaine, Prunus Persica Seed Powder, Hydroxyacetophenone, Potassium Hydroxide, Polyquaternium-22, Lactobacillus Ferment, Ethylhexylglycerin, Parfum, Gardenia Florida Fruit Extract, Sodium Phytate, Dextrin, Niacinamide, Cyanocobalamin, Butylene Glycol, Hydrogenated Lecithin, Centella Asiatica Extract, Ficus Carica Fruit Extract, Sodium Hyaluronate, Glyceryl Glucoside, Beta-Glucan, Ceramide NP, Pueraria Lobata Root Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis Flower Extract, Linolenic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Acryloyldimethyltaurate/Vp Copolymer, Hydroxypropyl Starch Phosphate, Capryloyl Salicylic Acid, Prunus Armeniaca Fruit Extract",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/487245117/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ANU-008",
+    "brand": "Anua",
+    "name": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane Zinc Pca, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/473914621/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-007",
+    "brand": "Anua",
+    "name": "Rice 70 Glow Collagen mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Oryza Sativa Bran Water, Water, Dipropylene Glycol, Hydrogenated Polydecene, 1,2-Hexanediol, Glycerin, Niacinamide, Acrylates Copolymer, Ceratonia Siliqua Gum, Xanthan Gum, Carrageenan, Hydroxyacetophenone, Oryza Sativa Extract, Sucrose, Allantoin, Potassium Chloride, Oryza Sativa Hull Powder, Sodium Polyacrylate, Dipotassium Glycyrrhizate, Cellulose Gum, Gellan Gum, Caprylyl Glycol, Adenosine, Butylene Glycol, Panthenol, Ethylhexylglycerin, Sodium Phytate, Iron Oxides, Soluble Collagen, Sodium Hyaluronate, CI 77491, Hydroxypropyltrimonium Hyaluronate, Phytosphingosine, Oryza Sativa Seed Protein, Hydrolyzed Rice Protein, Ceramide NP, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/489818804/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تحفيز الكولاجين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-TON-ANU-009",
+    "brand": "Anua",
+    "name": "BHA 2% Gentle Exfoliating Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, 1,2-Hexanediol, Salicylic Acid, C12-14 Pareth-12, Octyldodeceth-16, Melaleuca Alternifolia (Tea Tree) Extract, Pentylene Glycol, Salix Alba (Willow) Leaf Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Ulmus Davidiana Root Extract, Pinus Palustris Leaf Extract, Pueraria Lobata Root Extract, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Hydrogenated Lecithin, Sodium Hyaluronate, Sodium Citrate, Citric Acid, Xanthan Gum, Disodium EDTA, Panthenol, Tocopherol, Ceramide NP, Butylene Glycol, Zinc Sulfate, Triethylhexanoin, Cholesterol, Hydrogenated Polydecene, Glyceryl Stearate, Cetearyl Alcohol, Potassium C11- 15 Alkyl Phosphate, Ceramide NG, Dimethicone, Ceramide AS, Ceramide AP, Ceramide NS, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Potassium Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, Sodium Hya- luronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Glycine, Glutamic Acid, Glutamine, Lysine, Leucine, Methionine, Valine, Serine, Cysteine, Citrulline, Asparagine, Aspartic Acid, Isoleucine, Alanine, Arginine, Ornithine, Taurine, Tyrosine, Threonine, Tryptophan, Phenylalanine, Proline, Histidine, Ceramide EOP, Phytosphingosine, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/497654991/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام",
+      "مضاد للرؤوس السوداء"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-008",
+    "brand": "Anua",
+    "name": "Heartleaf 77% Soothing Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract, Glycerin, Water, Dipropylene Glycol, Glycereth-26, 1,2-Hexanediol, Arginine, Caprylyl Glycol, Propanediol, Illicium Verum (Anise) Fruit Extract, Allantoin, Sodium Hyaluronate, Centella Asiatica Extract, Chamomilla Recutita (Matricaria) Flower Extract, Hippophae Rhamnoides Fruit Extract, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Ceramide NP, Glycosphingolipids, Hydrogenated Lecithin, Carbomer, Xanthan Gum, Polyglyceryl-4 Caprate, Ethylhexylglycerin, Disodium EDTA, Squalane",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199591/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-MSK-ANU-009",
+    "brand": "Anua",
+    "name": "Birch Moisture Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, Butylene Glycol, Glycerin, Diglycerin, Betula Platyphylla Japonica Juice, Beta-Glucan, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate, Di potassium Glycyrrhizate, Trehalose, Allantoin, Butyrospermum Parkii Butter, Phytosphingosine, Ceramide NP, Glucose, Xylitol",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459187166/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-007",
+    "brand": "Anua",
+    "name": "Heartleaf Pore Control Cleansing Oil",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Ethylhexyl Palmitate, Sorbeth-30 Tetraoleate, Sorbitan Sesquioleate, Caprylic/Capric Triglyceride, Butyl Avocadate, Fragrance, Helianthus Annuus (Sunflower) Seed Oil, Macadamia Ternifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Caprylyl Glycol, Ethylhexylglycerin, Curcuma Longa (Turmeric) Root Extract, Melia Azadirachta Flower Extract, Tocopherol, Melia Azadirachta Leaf Extract, Houttuynia Cordata Extract, Corallina Officinalis Extract, Melia Azadirachta Bark Extract, Moringa Oleifera Seed Oil, Ocimum Sanctum Leaf Extract",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459185979/500x500x2/image.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-010",
+    "brand": "Anua",
+    "name": "Azelaic Acid 10 Hyaluron Redness Soothing Pad",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Dipropylene Glycol, Propanediol, Glycerin, Betaine, Diglycerin, Methylpropanediol, Hydroxyethyl Urea, 1,2-Hexanediol, Hydroxyacetophenone, Glycereth-25 PCA Isostearate, Panthenol, Melia Azadirachta Leaf Extract, Xanthan Gum, Ethylhexylglycerin, Disodium EDTA, Melia Azadirachta Flower Extract, Allantoin, Sodium Polyacrylate, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Theobroma Cacao (Cocoa) Seed Extract, Dextrin, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Azelaic Acid, Bisabolol, Dipotassium Glycyrrhizate, Zea Mays (Corn) Kernel Extract, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside, Ceramide NP, Chlorella Vulgaris Extract, Melaleuca Alternifolia (Tea Tree) Leaf Water, Squalane, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Fructan, Pinus Pinaster Bark Extract, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Glucose, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/483519293/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تهدئة البشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ANU-008",
+    "brand": "Anua",
+    "name": "Heartleaf Succinic Moisture Cleansing Foam",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Disodium Cocoamphodiacetate, Sodium Cocoyl Glycinate, Sodium Methyl Cocoyl Taurate, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium 2-Sulfolaurate, Sodium Chloride, Methylpropanediol, Houttuynia Cordata Extract (10,000ppm), Quillaja Saponaria Bark Extract, Vincetoxicum Atratum Extract, Althaea Rosea Flower Extract, Chitosan, 1,2-Hexanediol, Caprylyl Glycol, Tromethamine, Coco-Glucoside, Panthenol, Salicylic Acid, Succinic Acid (5,000ppm), Butylene Glycol, Lauryl Hydroxysultaine, Polyglyceryl-4 Caprate, Sodium Cocoyl Isethionate, Sodium Citrate, Sodium Phytate, Hexylene Glycol, Ethylhexylglycerin, Citric Acid, Protease, Caprylic/Capric Triglyceride, Hydrogenated Lecithin, Ceramide NP, Dipropylene Glycol, Pentylene Glycol, Cholesterol, Fragence",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/480093947/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-OTH-ANU-001",
+    "brand": "Anua",
+    "name": "Ultra Thin Spot Cover Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "",
+    "ingredients": "",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/474496672/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-011",
+    "brand": "Anua",
+    "name": "Peach 77 Niacin Essence Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Persica (Peach) Fruit Extract (77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, -30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Ascorbyl Glucoside, Betaine Salicylate, Ascorbic Acid, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine , Cysteine, Methionine, Xanthan Gum, Fragrance",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459187138/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ANU-009",
+    "brand": "Anua",
+    "name": "Green Lemon Vitamin C Blemish Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "20 ml",
+    "ingredients": "Citrus Limon (Lemon) Fruit Extract (560,000 Ppm), Ascorbic Acid (200,000 Ppm), Propanediol, Butylene Glycol, Dipropylene Glycol, Cyclopentasiloxane, 1,2-Hexanediol, Cyclohexasiloxane, Sodium Hydroxide, C12-14 Alketh-12, Alpha-Bisabolol, Sodium Polyacryloyldimethyl Taurate, Water, Polyacrylate Crosspolymer-6, Dimethicone/_Vinyl Dimethicone Crosspolymer, Xanthan Gum, Ethylhexylglycerin, Allantoin, Glycerin, Glutathione, Citrus Aurantium Dulcis (Orange) Flower Oil, Litsea Cubeba Fruit Oil, Adenosine, Citrus Paradisi (Grapefruit) Peel Oil, Disodium EDTA, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Mentha Viridis (Spearmint) Leaf Oil, Tocopherol, Ferulic Acid, Barosma Betulina Leaf Extract, N-Butyl Alcohol, Hydrogenated Lecithin, Polyglyceryl-10 Stearate, Sorbitol, Panthenol, Beta-Glucan, Sodium Hyaluronate, Sodium Ascorbyl Phosphate, Caprylic/_Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, Hyaluronic Acid, Sucrose Stearate, Glyceryl Stearates, Beta-Carotene, Sodium Hyaluronate Crosspolymer, Niacinamide, Hydrolyzed Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Thioctic Acid, Lycopodium Clavatum Extract, Thioctic Acid, Lycopodium Clavatum Extract, Equisetum Arvense Extract, Sodium Acetylated Hyaluronate, Pyridoxine, Hydroxypropyltrimonium Hyaluronate, Folic Acid, Biotin, Ceramide NP, Ubiquinone, Cyanocobalamin, Thiamine Hcl, Riboflavin, Linoleic Acid, Hesperidin, Ergothioneine, Limonene, Linalool, Citral",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459174906/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تفتيح البقع الداكنة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-ANU-010",
+    "brand": "Anua",
+    "name": "Heartleaf Cream Mask Night Solution",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, Glycerin, Cetyl Ethylhexanoate, Panthenol, Butyrospermum Parkii (Shea) Butter, Phytosphingosine, Ceramide NP, Houttuynia Cordata Extract (1,000ppm), 1,2-Hexanediol, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Vegetable Oil, Glyceryl Stearate, Cetearyl Alcohol, Sodium Hyaluronate, Carbomer, Arginine, Hydroxyacetophenone, Caprylyl Glycol, Dipotassium Glycyrrhizate, Ethylhexylglycerin, Tocopherol, Sodium Phytate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199594/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-OTH-ANU-002",
+    "brand": "Anua",
+    "name": "Triple Acid Spot Care Microdart Patch",
+    "country": "Korea",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "",
+    "ingredients": "Sodium Hyaluronate, Zinc Lactate, Succinic Acid, Centella Asiatica Extract, Gluconolactone, Pentylene Glycol, Lactic Acid, Glycolic Acid, Madecassoside, Butylene Glycol, Sodium Glycolate, Sodium Lactate, Salicylic Acid, 1,2-Hexanediol, Sodium Salicylate",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/484059549/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-TON-ANU-012",
+    "brand": "Anua",
+    "name": "Birch Moisture Boosting Pad",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "160 ml",
+    "ingredients": "Water, Betula Platyphylla Japonica Juice(70,000ppm), Butylene Glycol, Glycerin, Dipropylene Glycol, Allantoin, Betaine, Cucumis Sativus (_Cucumber) Fruit Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Camellia Sinensis Leaf Extract, Mentha Rotundifolia Leaf Extract, Thymus Vulgaris (_Thyme) Flower/Leaf Extract, Propanediol, Oenothera Biennis (Evening Primrose) Flower Extract, Pinus Palustris Leaf Extract, Pueraria Lobata Root Extract, Ulmus Davidiana Root Extract, Gluconolactone, Chlorella Vulgaris Extract, Melia Azadirachta Branch/Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Althaea Rosea Flower Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Curcuma Longa (_Turmeric) Root Extract, 1,2-Hexanediol, Hydroxyacetophenone, Glucose, Ethylhexylglycerin, Caprylyl Glycol, Fructooligosaccharides, Fructose, Polyglyceryl-10 Laurate, Glyceryl Caprylate, Pentylene Glycol, Acetyl Glucosamine, Sodium Citrate, Cyanocobalamin, Tocopherol, Xanthan Gum, Disodium EDTA",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199680/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-007",
+    "brand": "Anua",
+    "name": "3 Ceramide Panthenol Moisture Barrier Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Panthenol, Butylene Glycol, Propanediol, Caprylic/Capric Triglyceride, Glycerin, Cetyl Ethylhexanoate, Behenyl Alcohol, Octyldodecanol, Phenyl Trimethicone, Vinyl Dimethicone, 1,2-Hexanediol, Bis-Diglyceryl Polyacyladipate-2, Pentylene Glycol, Centella Asiatica Extract, Sodium Hyaluronate, Hyaluronic Acid, Urtica Dioica Extract, Betaine, Caprylyl Methicone, Polyglyceryl-3 Diisostearate, Ceramide 5, Phytosterols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Hydrogenated Rice Bran Wax, C12-20 Alkyl Glucoside, Ammonium Polyacryloyldimethyl Taurate, Glyceryl Stearate, Dimethiconol, Glyceryl Caprylate, Sodium Stearoyl Glutamate, Hydrogenated Lecithin, Glyceryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Sodium Phytate, Polyglyceryl-10 Stearate, Ethylhexyl Olivate, Ethylhexylglycerin, Sodium Acrylates Copolymer, Polyglyceryl-4 Oleate, Dipropylene Glycol, Linolenic Acid, Polyglyceryl-10 Laurate, Sphingolipids, Phosphatidylcholine, 4-Terpineol, Allantoin, Ectoin, Squalane, Lecithin, Asiaticoside, Escin, Madecassic Acid, Asiatic Acid, Beta-Sitosterol, Ceramide, Ceramide EOP, Glycine, Glutamic Acid, Serine, Alanine, Lysine, Arginine, Proline, Threonine, Alcohol",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/493773699/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-008",
+    "brand": "Anua",
+    "name": "Birch 70% Moisture Boosting Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, Butylene Glycol, Betula Platyphylla Japonica Juice, Squalane, Caprylic/Capric Triglyceride, 1,2-Hexanediol, C12-16 Alcohols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyglyceryl-2 Stearate, Glyceryl Stearate, Palmitic Acid, Hydrogenated Lecithin, Stearyl Alcohol, Hydroxyacetophenone, Ethylhexylglycerin, Caprylyl Glycol, Sorbitan Isostearate, Disodium EDTA, Dextrin, Allantoin, Gluconolactone, Panthenol, Betaine, Gardenia Florida Fruit Extract, Ulmus Davidiana Root Extract, Pinus Palustris Leaf Extract, Pueraria Lobata Root Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Dipotassium Glycyrrhizate, Cucumis Sativus (Cucumber) Fruit Extract, Tocopherol, Malachite Extract",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459199587/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-009",
+    "brand": "Anua",
+    "name": "Peach 77 Niacin Conditioning Milk",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Prunus Persica (Peach) Fruit Extract (77%), Glycerin, Ethylhexyl Stearate, Dipropylene Glycol, Niacinamide (2%), Methyl Trimethicone, 1,2-Hexanediol, Lactobacillus Ferment, Polyglyceryl-3 Distearate, Cetearyl Alcohol, Hydrogenated Poly(C6) -12 Olefin), Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Glyceryl Stearates, Sodium Stearoyl Glutamate, Carbomer, Galactomyces Ferment Filtrate, Bifida Ferment Lysate, Water, Arginine, Glyceryl Stearate Citrate, Disodium EDTA, Adenosine, Methylpropanediol, Betaine Salicylate , Panthenol, Cyanocobalamin, Ceramide NP, Saccharomyces Ferment Filtrate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Fragrance, Hydroxyacetophenone, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/459187129/500x500x2/image.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-ANU-011",
+    "brand": "Anua",
+    "name": "Heartleaf Pore Clay Pack",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Kaolin(20%), Houttuynia Cordata Extract(10.1%), Glycerin, Propanediol, Butylene Glycol, Bentonite(35,000ppm), Hexylene Glycol, Zea Mays (Corn) Starch, 1,2-Hexanediol, Glyceryl Glucoside, Betaine, Decyl Glucoside, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Laminaria Japonica Extract, Eclipta Prostrata Leaf Extract, Sodium Hyaluronate, Hydrogenated Lecithin, Soluble Collagen, Potassium Cetyl Phosphate, Calamine, Houttuynia Cordata Powder(3,060ppm), Xanthan Gum, Dipropylene Glycol, Chlorella Vulgaris Powder, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Triethoxycaprylylsilane, Allantoin, Sorbitan Oleate, Caprylyl/Capryl Glucoside, Fructooligosaccharides, Protease, Beta-Glucan, Panthenol, Hydrolyzed Hyaluronic Acid, Ceramide NP, Quercetin(100ppb), Palmitoyl Tripeptide-5, Fragrance, Hydroxyacetophenone, Ethylhexylglycerin, Pentylene Glycol, Iron Oxide Yellow",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/461090583/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-LOT-ANU-010",
+    "brand": "Anua",
+    "name": "Heartleaf 70% Intense Calming Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Houttuynia Cordata Extract (70%), Cetearyl Alcohol, Glycerin, Cyclohexasiloxane, Butylene Glycol, 1,2-Hexanediol, Dicaprylyl Ether, Caprylic/_Capric Triglyceride, Hydrogenated Poly(C6-14 Olefin), Hydrogenated Polydecene, Glyceryl Stearate SE, Cetearyl Olivate, Sorbitan Olivate, Vegetable Oil, Panthenol, Hydrogenated Lecithin, Dipropylene Glycol, Behenyl Alcohol, Ammonium Acryloyldimethyltaurate/_VP Copolymer, Cetearyl Glucoside, Cholesterol, Xanthan Gum, Adenosine, Ceramide NP, Glucose, Water, Ethylhexylglycerin",
+    "image": "https://cdn.webshopapp.com/shops/326488/files/491908116/500x500x2/image.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
   }
-
 ]
