@@ -4756,7 +4756,7 @@
     },
     "quantity": "null",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
-    "image": "https://www.biolila.com/storage/product/7FKVQUxTJOKL1Onf6qWgOcGsW.webp",
+    "image": "https://www.biolila.com/storage/product/RQfBTc1VldTBc9kiFi2vQlcru.png",
     "marketingClaims": [],
     "price": {
       "min": 1100,
@@ -4886,7 +4886,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "100ml",
+    "quantity": "null",
     "ingredients": "ماء, كربونات ثنائي الكابريليل, سوربيتول, عطر, ديازوليدينيل يوريا, ثنائي ستيرات بنتاريثريتيل, دايميثيكون, بولي كواتيرنيوم-37, زيت الجزر, رباعي الصوديوم EDTA",
     "image": "https://inescosmetics.com/wp-content/uploads/2025/07/IMG_8803-scaled.webp",
     "marketingClaims": [],
@@ -16278,7 +16278,7 @@
       "بشرة حساسة"
     ]
   },
-  {
+    {
     "id": "US-LOT-NEU-002",
     "brand": "Neutrogena",
     "name": "Very Dry and Damaged Feet Cream 100ml",
@@ -27095,6 +27095,7 @@
     "price": null,
     "targetTypes": []
   },
+  
   {
     "id": "FR-TON-SVR-001",
     "brand": "SVR",
@@ -29323,7 +29324,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+    {
     "id": "FR-SSE-URI-001",
     "brand": "Uriage",
     "name": "Age Absolu Sérum Micro-Redensifiant Booster Collagène 30 ml",
@@ -40872,6 +40873,7 @@
     "price": null,
     "targetTypes": []
   },
+  
   {
     "id": "FR-LOT-AROM-001",
     "brand": "Aroma-Zone",
@@ -43163,7 +43165,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+    {
     "id": "FR-LOT-ARO-051",
     "brand": "Aroma-Zone",
     "name": "Organic Neroli Balm",
@@ -46825,7 +46827,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+    {
     "id": "DZ-SHA-MIS-001",
     "brand": "Miss Claire",
     "name": "Shampooing A L'Huile D'Argan Keratine Extreme",
@@ -46887,8 +46889,8 @@
       "حماية من الحرارة"
     ],
     "price": {
-      "min": 350,
-      "max": 350,
+      "min": 350.0,
+      "max": 350.0,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -46957,8 +46959,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 450,
-      "max": 450,
+      "min": 450.0,
+      "max": 450.0,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -47018,8 +47020,8 @@
     "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/5/5/555997443_18068746901243404_1727007346430341929_n_1_.png",
     "marketingClaims": [],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47043,8 +47045,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47069,8 +47071,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47098,8 +47100,8 @@
       "مكافحة التجعد"
     ],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47124,8 +47126,8 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 480,
-      "max": 480,
+      "min": 480.0,
+      "max": 480.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47848,4 +47850,5 @@
     },
     "targetTypes": []
   }
+
 ]
