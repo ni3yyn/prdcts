@@ -5415,25 +5415,6 @@
     "targetTypes": []
   },
   {
-    "id": "FR-XXX-EMB-001",
-    "brand": "EMBRYOLISSE LABORATOIRES",
-    "name": "LAIT-CREME CONCENTRE MULTI-FONCTIONS",
-    "country": "France",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "null",
-    "ingredients": "ماء, الزيت المعدني, حمض الستياريك, حمض البالمتيك, جليسريل ستيرات, ثلاثي إيثانولامين (TEA), شمع النحل, بالميتات السيتيل, زبدة الشيا, 1,2-هيكسانيديول, كابريليل جليكول, ستيريث-10, بولي أكريلاميد, عطر, لوريث-7, بروبيلين جلايكول, بروتين الصويا المهدرج",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1769820507/liyze8ws1shrda1lripg.jpg",
-    "marketingClaims": [
-      "مرطب للبشرة"
-    ],
-    "price": null,
-    "targetTypes": []
-  },
-  {
     "id": "DZ-CLE-SWA-002",
     "brand": "SWALIS",
     "name": "Gel NettoyantAnti-Acne",
@@ -49072,5 +49053,871 @@
       "بشرة حساسة",
       "بشرة جافة"
     ]
+  },
+    {
+    "id": "FR-SSE-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Anti-Blemish Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water). Pentylene Glycol. Propanediol. Polyacrylate Crosspolymer-6. Curcuma Longa (Turmeric) Root Extract. Glycerin. Caprylyl/Capryl Glucoside. Parfum (Fragrance). Levulinic Acid. Citric Acid. Melia Azadirachta (Neem) Seed Oil. Sodium Phytate. O-Cymen-5-Ol. Sodium Levulinate. Sodium Hydroxide. Polylysine.",
+    "image": "https://cdn1.costatic.com/img/product/400/6647378d7e9da/embryolisse-anti-blemish-p85593.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "FR-SUN-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Sun Stick SPF50+",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "15 g",
+    "ingredients": "Caprylic/Capric Triglyceride, Ricinus Communis (Castor) Seed Oil, Oryza Sativa Bran Cera (Rice Wax), Dicaprylyl Carbonate, Cera Alba (Beeswax), Diethylamino Hydroxybenzoyl Hexyl Benzoate, Hydrogenated Coconut Oil, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Hydrogenated Polyisobutene, Butyrospermum Parkii (Shea) Butter, Parfum (Fragrance), Helianthus Annuus (Sunflower) Seed Oil, Hydrogenated Castor Oil, Oryzanol, Tocopheryl Acetate, Mimosa Tenuiflora Bark Extract, Saccharin, Bixa Orellana Seed Extract, Tocopherol",
+    "image": "https://cdn1.costatic.com/img/product/400/6647376d5ad8f/embryolisse-sun-stick-p90827.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Secret de Maquilleurs Detoxifying Face Gel Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Polyglyceryl-6 Stearate, Butyrospermum Parkii (Shea) Butter, Pentylene Glycol, Carbomer, Parfum (Fragrance), Glyceryl Caprylate, Sodium Benzoate, Polyglyceryl-6 Behenate, Mica, Sodium Hydroxide, Ci 77491 (Iron Oxides), Tropaeolum Majus Flower/Leaf/Stem Extract, Helianthus Annuus (Sunflower) Seed Oil, Sodium Hyaluronate, Tocopherol, Ci 77163 (Bismuth Oxychloride), Astaxanthin, Riboflavin, 1,2-Hexanediol, Caprylyl Glycol, Limonene, Hydroxycitronellal",
+    "image": "https://cdn1.costatic.com/img/product/400/69dce281cb836/embryolisse-secret-de-p89085.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تنقية عميقة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-EMB-002",
+    "brand": "Embryolisse",
+    "name": "Complete Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua (Water), Cetyl Alcohol, Octyldodecanol, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetearyl Glucoside, 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Parfum (Fragrance), Tocopheryl Acetate, Oenothera Biennis (Evening Primrose) Oil, Maltodextrin, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Sodium Hyaluronate, Sodium Hydroxide, Nephelium Lappaceum Leaf extract, Tropolone, Plantago Lanceolata Leaf Extract, Limonene",
+    "image": "https://cdn1.costatic.com/img/product/400/67a5c69196739/embryolisse-complete-serum-p58290.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-002",
+    "brand": "Embryolisse",
+    "name": "Cicalisse Nutrition and Restoration of the Epidermis",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Acetamidicaproic Acid, Cetyl Alcohol, Glyceryl Stearate, Aluminium Starch Octenylsuccinate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Ammonium Acryloyldimethyltaurate VP Copolymer, Peg-75 Stearate, Alpha Glucan Oligosaccharide, Gossypium Herbaceum Cotton Seed Oil, Hydrogenated Sweet Almond Oil, Prunus Armeniaca (Apricot) Kernel Oil, Sodium Hydroxide, 1-2 Hexanediol, Caprylyl Glycol, Ceteth-20, Steareth-20, Hydrogenated Cottonseed Oil, Hydrogenated Apricot Kernel Oil, Sodium Hyaluronate, Tocopheryl Acetate, Disodium Edta, Citric Acid, Tropolone, Tocopherol, Sodium Benzoate, Aloe Barbadensis Leaf Extract, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/55f40d05324b0/embryolisse-cicalisse-nutrition-p90011.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-EMB-003",
+    "brand": "Embryolisse",
+    "name": "Cicalisse Mains et Ongles",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Butyrospermum Parkii (Shea) Butter, Pentylene Glycol, Glycerin, Sodium Acrylates Copolymer, Parfum (Fragrance), Lecithin, Polyglyceryl-3 Diisostearate, Citric Acid, O-cymen-5-ol",
+    "image": "https://cdn1.costatic.com/img/product/400/67090d79ad814/embryolisse-cicalisse-mains-p95985.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-EMB-004",
+    "brand": "Embryolisse",
+    "name": "Milk-Cream Sensitive",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Octyldodecanol, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Cetyl Phosphate, 1,2-Haxanediol, Caprylyl Glycol, Acryaltes/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Propylene Glycol, Tocopherol, Glycine Soja (Soybean) Oil, Hydrolyzed Soy Protein, Aloe Barbadensis Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/66d5b34b2ec2d/embryolisse-milk-cream-p83596.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-EMB-005",
+    "brand": "Embryolisse",
+    "name": "Lait-Crème Fluid+",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Octyldodecanol, Glycerin, Cetearyl Glucoside, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Sorbitan Olivate, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Cetearyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Hydrolyzed Soy Protein, Tocopherol, Tropolone, Glycine Soja (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6793564194b33/embryolisse-lait-creme-p89084.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-006",
+    "brand": "Embryolisse",
+    "name": "Anti-Aging 365 Cream Body Firming Treatment",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "20ml",
+    "ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Isodecyl Neopentanoate, Squalane, Butyrospermum Parkii (Shea) Butter, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Sodium Polyacrylate, Parfum (Fragance), 1,2-Hexanediol, Butylene Glycol, Caprylyl Glycol, Paullinia Cupana Seed Extract, Polyisobutene, Sodium Benzoate, Sodium Stearoyl Glutamate, Citric Acid, Cyclodextrin, Pisum Sativum (Pea) Extract, Polysorbate 60, Disodium Edta, Sorbitan Isostearate, Polysorbate 20, Sodium Hyaluronate, Sodium Hydroxide, Hydrolyzed Wheat Protein, Limonene, Hydroxycitronellal",
+    "image": "https://cdn1.costatic.com/img/product/400/664739b346b04/embryolisse-anti-aging-p83605.jpg",
+    "marketingClaims": [
+      "شد الجسم",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-007",
+    "brand": "Embryolisse",
+    "name": "Matifying Moisturizer",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "Aqua (Water), Coco-Caprylate/Caprate, Squalane, Glycerin, Caprylic/Capric Triglyceride, Pentylene Glycol, Glyceryl Stearate, Microcrystalline Cellulose, Carbomer, Sodium Stearoyl Glutamate, Parfum (Fragrance), Caprylyl Glycol, Curcuma Longa (Turmeric) Root Extract, Sodium Benzoate, Sodium Phytate, Xanthan Gum, Sodium Hydroxide, Citric Acid, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Polylysine",
+    "image": "https://cdn1.costatic.com/img/product/400/6647379d2e33e/embryolisse-matifying-moisturizer-p85591.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-LOT-EMB-008",
+    "brand": "Embryolisse",
+    "name": "Filaderme Emulsion for Dry to Very Dry Skins",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua (Water), Squalane, Caprylic/Capric Triglyceride, Glycerin, Cetearyl Glucoside, Cetearyl Alcohol, Brassica Campestris (Rapeseed) Sterols, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Sorbitan Olivate, Xanthan Gum, 1,2-Hexanediol, Caprylyl Glycol, Parfum (Fragrance), Sodium Polyacrylate, Citric Acid, Hydrolyzed Soy Protein, Tropolone, Aloe Barbadensis Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/67a5c6845be8f/embryolisse-filaderme-emulsion-p60428.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-EMB-009",
+    "brand": "Embryolisse",
+    "name": "Active-Peeling Night",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Glycerin, Coco-Caprylate/Caprate, C15-19 Alkane, Cetearyl Alcohol, Macadamia Ternifolia Seed Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Tridecyl Trimellitate, Argania Spinosa Kernel Oil, Tapioca Starch, Glyceryl Stearate, Pentylene Glycol, Cetearyl Glucoside, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Cera Alba (Beeswax), Hydroxyacetophenone, Sodium Stearoyl Glutamate, Parfum (Fragrance), Acrylates C10-30 Alkyl Acrylate Crosspolymer, Bisabolol, Tocopheryl Acetate, Polyglyceryl-6 Laurate, O-Cymen-5-Ol, Microcitrus Australasica Fruit Extract, Polyglycerin-6, Sorbitan Oleate, Sodium Hydroxide, Sorbitan Isostearate, Limonene",
+    "image": "https://cdn1.costatic.com/img/product/400/64c37bb6ba244/embryolisse-active-peeling-p83932.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Waterproof Make-up Remover Milk",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water), Coco-Caprylate/Caprate, Ethylhexyl Stearate, Glycerin, Butylene Glycol, Polyglyceryl-6 Distearate, Cetyl Alcohol, Sclerotium Gum, Hydroxyacetophoenone, Sodium Stearoyl Glutamate, Jojoba Esters, Citric Acid, 1,2-Hexanediol, Caprylyl Glycol, Polyglyceryl-3 Beeswax, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Boerhavia Diffusa Root Extract, Hydrolyzed Soy Protein, Caprylic/Capric Triglyceride, Aloe Barbadensis Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6647376a04f09/embryolisse-waterproof-make-p89770.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-010",
+    "brand": "Embryolisse",
+    "name": "Lift-Firmness Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Cetearyl Alcohol, Cetyl Alcohol, Hydrogenated Coconut Oil, Steareth-21, 1,2-Hexanediol, Butyrospermum Parkii (Shea) Butter, Steareth-2, Cetearyl Glucoside, Silica, Carbomer, Chlorphenesin, Caprylyl Glycol, Parfum (Fragrance), Oenothera Biennis (Evening Primrose) Oil, Tocopheryl Acetate, Sodium Hydroxide, Maltodextrin, Anigozanthos Flavidus Extract, Sodium Hyaluronate, Nephelium Lappaceum Leaf extract, Citric Acid, Tocopherol, Limonene",
+    "image": "https://cdn1.costatic.com/img/product/400/66473556eb8e1/embryolisse-lift-firmness-p83610.jpg",
+    "marketingClaims": [
+      "شد البشرة",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SSE-EMB-003",
+    "brand": "Embryolisse",
+    "name": "Anti-Spot Serum Radiance Capsules",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Pentylene Glycol, Glycerin, 1,2-Hexanediol, Brassica Campestris (Rapeseed) Seed Oil, Parfum (Fragrance), Palmaria Palmata Extract, Carbomer, Maltodextrin, Hydroxystearic Acid, Oryza Sativa (Rice) Bran Oil Extract, Punica Granatum Seed Oil, Sodium Hydroxide, Xanthan Gum, Ci 77891 (Titanium Dioxide), Alpinia Officinarum Root Extract, Caprylic/Capric/Succinic Triglyceride, Sodium Hyaluronate, Mica, Stearic Acid, Tocopherhyl Acetate, Tin Oxide",
+    "image": "https://cdn1.costatic.com/img/product/400/6960e0e90bf30/embryolisse-anti-spot-p114850.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-011",
+    "brand": "Embryolisse",
+    "name": "Lait-Crème Fluid+",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Octyldodecanol, Glycerin, Cetearyl Glucoside, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Sorbitan Olivate, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Cetearyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Hydrolyzed Soy Protein, Tocopherol, Tropolone, Glycine Soja (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/679356abbfb92/embryolisse-lait-creme-p89083.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OIB-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Beauty Oil With 4 Vegetable Oils",
+    "country": "France",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Caprylic/Capric Triglyceride, Propanediol, Dicaprylate, Dicaprylyl Ether, Butyrospermum Parkii (Shea) Butter Extract, Prunus Armeniaca (Apricot) Kernel Oil, Punica Granatum Seed Oil, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Limonene, Citrus Limon (Lemon) Fruit Extract, Hydroxycitronellal, Linalool",
+    "image": "https://cdn1.costatic.com/img/product/400/6647352f1aed5/embryolisse-beauty-oil-p83606.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-012",
+    "brand": "Embryolisse",
+    "name": "Lait-Crème Fluid+ Eco-Refill",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Octyldodecanol, Glycerin, Cetearyl Glucoside, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Sorbitan Olivate, Aloe Barbadensis Leaf Juice Powder, Xanthan Gum, Parfum (Fragrance), 1,2-Hexanediol, Caprylyl Glycol, Cetearyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Hydrolyzed Soy Protein, Tocopherol, Tropolone, Glycine Soja (Soybean) Oil",
+    "image": "https://cdn1.costatic.com/img/product/400/6793567f4d514/embryolisse-lait-creme-p89086.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-013",
+    "brand": "Embryolisse",
+    "name": "Secret de Maquilleurs SOS Anti-Redness Skin Care",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), C15-19 Alkane, Dicaprylyl Carbonate, Glycerin, Pentylene Glycol, Boron Nitride, Polyglyceryl-3 Distearate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylates Copolymer, Glyceryl Stearate, Potassium Cetyl Phosphate, Tribehenin, Sodium Hyaluronate, Cetearyl Alcohol, Lecithin, Glyceryl Stearate Citrate, Sodium Benzoate, CI77288 (Chromium Oxide Greens), Nelumbo Nucifera Flower Extract, Sodium Phytate, Citric Acid, Tocopherol, Sodium Hydroxyde",
+    "image": "https://cdn1.costatic.com/img/product/400/6870cb8bbef8b/embryolisse-secret-de-p101305.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Eau De Beauté Rosamélis",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua, Rosa Damascena Flower, Glycerin, Centaurea Cyanus Flower Water, Citrus Aurantium Amara Water, Hamamelis Virginiana Flower, Polyaminopropyl Biguanide, Sodium Hydroxyde, PPG-26 Buteth-26, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Parfum, CItric Acid, Sodium Benzoate, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/67a5c6729de63/embryolisse-eau-de-p32815.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-014",
+    "brand": "Embryolisse",
+    "name": "Concentrated Milk Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "Aqua (Water), Paraffinum Liquidum, Stearic Acid, Palmitic Acid, Glyceryl Stearate Se, Triethanolamine, Cera Alba (Beeswax), Cetyl Palmitate, Butyrospermum Parkii (Shea) Butter, 1-2 Hexanediol, Caprylyl Glycol, Steareth-10, Polyacrylamide, C13-14 Isoparaffin, Parfum (Fragrance), Laureth-7, Propylene Glycol, Tropolone, Hydrolyzed Soy Protein, Aloe Barbadensis Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/673cadd280a2b/embryolisse-concentrated-milk-p14415.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Intense Moisturising Mask",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Diisopropyl Sebacate, Carbomer, Hydroxyacetophenone, Propanediol, 1,2-Hexanediol, Caprylyl Glycol, Sodium Hydroxide, Parfim (Fragrance), Citric Acid, Sodium Hyaluronate, Sodium Phytate, Hydrolyzed Algin, Nymphea Alba Flower Extract, Maris Aqua (Sea Water), Chlorella Vulgaris Extract, Limonene, CI 42090 (Blue 1)",
+    "image": "https://cdn1.costatic.com/img/product/400/664737a5deaf0/embryolisse-intense-moisturising-p84723.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-015",
+    "brand": "Embryolisse",
+    "name": "Light Hydra-Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Tribehenin PEG-20 Esters, Isononyl Isononanoate, Myristyl Lactate, Sodium Hyaluronate, Nyphaea Alba Flower Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propanediol, Xanthan Gum, 1,2-Hexanediol, Carpylyl Glycol, Sodium Benzoate, Sodium Hydroxide, Parfum (Fragrance), Limonene",
+    "image": "https://cdn1.costatic.com/img/product/400/679368d78bd28/embryolisse-light-hydra-p83609.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Anti-Aging Smoothing Eye Contour Care",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua (Water), Glycerin, Triheptanoin, Lauryl Laurate, Cetearyl Alcohol, Pentylene Glycol, Glyceryl Behenate, Oleic Acid, Tocopheryl Acetate, Carbomer, Cetearyl Glucoside, 1,2-Hexanediol, Caprylyl Glycol, Terminalia Arjuna Extract, Helianthus Annuus (Sunflower) Seed Oil, Sodium Hydroxide, Retinyl Palmitate, Sodium Hyaluronate, Tocopherol, Lecithin, Tropolone, Rosa Damascena Flower Oil, Rosa Damascena Flower Water",
+    "image": "https://cdn1.costatic.com/img/product/400/69f20fc8e324f/embryolisse-anti-aging-p117587.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-016",
+    "brand": "Embryolisse",
+    "name": "Concentrated Milk-Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Paraffinum Liquidum, Stearic Acid, Palmitic Acid, Glyceryl Stearate Se, Triethanolamine, Cera Alba (Beeswax), Cetyl Palmitate, Butyrospermum Parkii (Shea) Butter, 1-2 Hexanediol, Caprylyl Glycol, Steareth-10, Polyacrylamide, C13-14 Isoparaffin, Parfum (Fragrance), Laureth-7, Propylene Glycol, Tropolone, Hydrolyzed Soy Protein, Aloe Barbadensis Leaf Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/646c75873c507/embryolisse-concentrated-milk-p83601.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-OTH-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Secret de Maquilleurs Lashes Booster Eyebrows and Eyelashes",
+    "country": "France",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "6.5ml",
+    "ingredients": "Aqua (Water), Alcohol Denat, Glycerin, PVP, Butylene Glycol, 1,2-Hexanediol, Carbomer, Sodium Hydroxide, Ricinus Communis (Castor) Seed Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, O-Cymen-5-Ol, Centella Asiatica Extract, Panthenol, Arginine, Biotinoyl Tripeptide-1",
+    "image": "https://cdn1.costatic.com/img/product/400/664734ac82000/embryolisse-secret-de-p83608.jpg",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-017",
+    "brand": "Embryolisse",
+    "name": "Secret de Maquilleurs Radiant Complexion Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Cetearyl Alcohol, Glycerin, Butyrospermum Parkii (Shea) Butter, Distarch Phosphate, Cera Alba (Beeswax), Albizia Julibrissin Bark Extract, Ethylhexylglycerin, Steareth-21, Carbomer, Cetearyl Glucoside, Levulinic Acid, Steareth-2, Mica, Sodium Hydroxide, CI 77491 (Iron Oxides), Parfum (Fragrance), Sodium Levulinate, P-Anisic Acid, Caprylyl Glycol, CI 77163 (Bismuth Oxychloride), Maltodextrin, Helianthus Annuus (Sunflower) Seed Oil, Sodium Hyaluronate, Tocopherol, Biosaccharide Gum-1, CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), Sodium Benzoate, Limonene",
+    "image": "https://cdn1.costatic.com/img/product/400/667a86910f42c/embryolisse-secret-de-p85183.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-EMB-002",
+    "brand": "Embryolisse",
+    "name": "3 in 1 Secret Paste",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua (Water). Illite. Calcium Carbonate. Glycerin. Kaolin. Decyl Glucoside. Glyceryl Stearate. Caprylic/Capric Triglyceride. Hydrolyzed Cicer Seed Extract. Pentylene Glycol. Sodium Polyacrylate. Myristyl Alcohol. Sodium Stearoyl Glutamate. Glyceryl Caprylate. Xanthan Gum. Cetearyl Alcohol. Parfum (Fragrance). Myristyl Glucoside. Ethylhexylglycerin. Coco-Glucoside. Curcuma Longa (Turmeric) Root Extract. O-Cymen-5-Ol. Tocopherol.",
+    "image": "https://cdn1.costatic.com/img/product/400/66473785038dc/embryolisse-3-in-p85592.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SCR-EMB-001",
+    "brand": "Embryolisse",
+    "name": "Exfoliating Milk Powder",
+    "country": "France",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "40g",
+    "ingredients": "Oryza Sativa (Rice) Starch, Zea Mays (Corn) Starch, Sodium Lauroyl Glutamate, Cocos Nucifera (Coconut) Fruit Powder, Cocos Nucifera (Coconut) Shell Powder. Citric Acid, Calcium Carbonate, Sodium Bicarbonate, Maltodextrin, Parfum (Fragrance), Cocos Nucifera (Coconut) Fruit Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6647375ccecae/embryolisse-exfoliating-milk-p82625.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-018",
+    "brand": "Embryolisse",
+    "name": "Energizing Hydra-Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water), Glycerin, Dicaprylyl Ether, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Myristyl Myristate, Euphorbia Cerifera Cera (Candelilla Wax), Dipentaerythrityl Hexacaprylate/Hexacaprate, Cetearyl Glucoside, Sorbitan Olivate, Illite, Sclerotium Gum, Tocopheryl Acetate, Glyceryl Stearate, Sodium Acrylates Copolymer, Parfum (Fragrance), Citric Acid, Sodium Stearoyl Glutamate, 1,2-Hexanediol, Caprylyl Glycol, Ci 15510 (Orange 4), Sodium Benzoate, Cetearyl Alcohol, Alcohol, Lecithin, Polygonum Bistorta Root Extract, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Sodium Hydroxide, Hippophae Rhamnoides (Seabuckthorn) Fruit Extract, Ceteareth-20, Ascorbyl Glucoside, Limonene, Hydroxycitronellal",
+    "image": "https://cdn1.costatic.com/img/product/400/679356f6307a9/embryolisse-energizing-hydra-p91905.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-MSK-EMB-003",
+    "brand": "Embryolisse",
+    "name": "Anti-Aging Comfort Mask",
+    "country": "France",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "60ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Jojoba Esters, Linoleic Acid, Cetyl Alcohol, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Camellia Oleifera Seed Oil, C10-18 Triglycerides, Cera Alba (Beeswax), Helianthus Annuus (Sunflower) Seed Wax, PEG-75 Stearate, Oleic Acid, Ceteth-20, Steareth-20, 1,2-Hexanediol, Caprylyl Glycol, Palmitic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Parfum (Fragrance), Stearic Acid, Tocopherol, Sodium Hyaluronate, Tocopheryl Acetate, Retinyl Palmitate, Sodium Hydroxide, Linolenic Acid, Tropolone",
+    "image": "https://cdn1.costatic.com/img/product/400/6647352446913/embryolisse-anti-aging-p58291.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-EMB-002",
+    "brand": "Embryolisse",
+    "name": "Lift-Intese Look Care",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "15ml",
+    "ingredients": "Aqua (Water), Isostearyl Isostearate, Glycerin, Cetyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Hydrogenated Coconut Oil, Fructose, Cetearyl Glucoside, 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Xanthan Gum, Aesculus Hippocastanum (Horse Chestnut) Extract, Sodium Hydroxide, Oenothera Biennis (Evening Primrose) Oil, Tocopheryl Acetate, Maltodextrin, Sodium Hyaluronate, Nephelium Lappaceum Leaf Extract, Tropolone, Potassium Sorbate, Citric Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/67a5c67be86e2/embryolisse-lift-intese-p58289.jpg",
+    "marketingClaims": [
+      "شد البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-EYE-EMB-003",
+    "brand": "Embryolisse",
+    "name": "Secret de Maquilleurs Radiant Eye",
+    "country": "France",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "4.5g",
+    "ingredients": "Aqua (Water), Sodium Stearate, Glycerin, Xylitylglucoside, Anhydroxylitol, Pentylene Glycol, Xylitol, Caprylyl Glycol, Saccharomyces Cerevisiae Extract, Aloe Baradensis Leaf Juice Powder, O-Cymen-5-Ol, 1,2-Hexanediol",
+    "image": "https://cdn1.costatic.com/img/product/400/6647377ce6020/embryolisse-secret-de-p83599.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-SUN-EMB-002",
+    "brand": "Embryolisse",
+    "name": "Multi-Protection Milk-Cream SPF20 PA+++",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (water), Glycerin, C12-15 Alkyl Benzoate, Dicaprylyl Carbonat, Diethylamino Hydroxybenzoyl Hexyl Benzoate. Steareth-21, Cetyl Palmitate, Phenylbenzimidazole Sulfonic Acid, Steareth-2, Hydroxypropyl Starch Phosphate, Ethylexyl Triazone, 1,2-hexanediol, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Cera Alba (beeswax), Ethylhexyl Palmitate, Pentaerythrityl Tetrabehenate, Glyceryl Stearate, Peg-100 Stearate, Cetyl Alcohol, Octyldodecanol, Tocopheryl Acetate, Xanthan Gum, Sodium Hydroxide, Chlorphenesin, Caprylyl Glycol, Butyrospermum Parkii (shea) Butter, Parfum (fragrance), Aloe Barbadensis Leaf Extract, Limonene, Tocopherol, Hydrolyzed Soy Protein",
+    "image": "https://cdn1.costatic.com/img/product/400/68148b4411d59/embryolisse-multi-protection-p86088.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-019",
+    "brand": "Embryolisse",
+    "name": "Lait-Crème Sensitive",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Octyldodecanol, Polyglyceryl-3 Methylglucose Distearate, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Jojoba Esters, Aloe Barbadensis Leaf Juice Powder, Helianthus Annuus (Sunflower) Seed Wax, Glyceryl Stearate, Xanthan Gum, 1,2-Hexanediol, Caprylyl Glycol, Sodium Hydroxide, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyglycerin-3, Acacia Decurrens Flower Wax, Tocopherol, Tropolone, Glycine Soja (Soybean) Oil, Hydrolyzed Soy Protein",
+    "image": "https://cdn1.costatic.com/img/product/400/6960e30bb0216/embryolisse-lait-creme-p114852.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-EMB-020",
+    "brand": "Embryolisse",
+    "name": "Nutri-Vitality Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "Aqua (Water), Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Glycerin, Isostearyl Isostearate, Glyceryl Stearate Citrate, Glyceryl Stearate, Macadamia Integrifolia Seed Oil, Cera Alba (Beeswax), Jojoba Esters, Sodium Polyacrylate, Sodium Stearoyl Glutamate, Safflower Oil/ Palm Oil Aminopropanediol Esters, Citric Acid, 1,2-Hexanediol, Caprylyl Glycol, Parfum (Fragrance), Xanthan Gum, Tocopherol, Sodium Hyaluronate, Sodium Hydroxide, Acer Rubrum Bark Extract, Tropolone, Limonene, Ceramide Np",
+    "image": "https://cdn1.costatic.com/img/product/400/6647350207425/embryolisse-nutri-vitality-p83603.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-021",
+    "brand": "Embryolisse",
+    "name": "Anti-Taches Night Cream Radiance Peel",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water), Coco-Caprylate/Caprate, Glycerin, Butyrospermum Parkii (Shea) Butter, Tridecyl Trimellitate, Helianthus Annuus (Sunflower) Seed Cera, Polyglyceryl-3 Distearate, Glyceryl Stearate, Pentylene Glycol, Algin, Brassica Campestris (Rapeseed) Seed Oil, Hydroxyacetophenone, Calcium Citrate, Palmaria Palmata Extract, Parfum (Fragrance), Maltodextrin, Sodium Stearoyl Glutamate, Oryza Sativa (Rice) Bran Oil Extract, Punica Granatum Seed Extract, O-Cymen-5-Ol, Alpinia Officinarum Root Extract, Caprylic/Capric/Succinic Triglyceride, Microcitrus Australasica Fruit Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/6960e16340633/embryolisse-anti-taches-p114851.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-CLE-EMB-002",
+    "brand": "Embryolisse",
+    "name": "Foaming Cream-Milk",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Glycol Distearate, Cocamidopropyl Betaine, Coco-Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Parfum (Fragance), Glycerin, Sodium Benzoate, Phospholipids, Glycine Soja (Soybean) Oil, Sodium Hydroxide, Potassium Sorbate, Ethylhexylglycerin, Glycolipids, Citric Acid, Opuntia Ficus-Indica Stem Extract, Glycine Soja (Soybean) Sterols",
+    "image": "https://cdn1.costatic.com/img/product/400/644a8c0de7223/embryolisse-foaming-cream-p83611.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-EMB-002",
+    "brand": "Embryolisse",
+    "name": "Micellar Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "100ml",
+    "ingredients": "Aqua (Water), Glycerin, PEG-6 Caprylic/Capric Glycerides, Polysorbate 20, Anthemis Nobilis, Flower Water, Centaurea Cyanus Flower Water, Hamamelis Virginiana (Witch Hazel) Leaf Water, Disodium EDTA, Cetrimonium Bromide, Parfum (Fragrance), Citric Acid, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/64a819260ce5e/embryolisse-micellar-lotion-p71843.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-TON-EMB-003",
+    "brand": "Embryolisse",
+    "name": "Micellar Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua (Water), Glycerin, PEG-6 Caprylic/Capric Glycerides, Polysorbate 20, Anthemis Nobilis, Flower Water, Centaurea Cyanus Flower Water, Hamamelis Virginiana (Witch Hazel) Leaf Water, Disodium EDTA, Cetrimonium Bromide, Parfum (Fragrance), Citric Acid, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate",
+    "image": "https://cdn1.costatic.com/img/product/400/67a5c68d5a583/embryolisse-micellar-lotion-p14447.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-022",
+    "brand": "Embryolisse",
+    "name": "Protective Nourishing Lips Stick Care",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "4.5g",
+    "ingredients": "Caprylic/Capric Triglyceride, Ricinus Communis (Castor) Seed Oil, Cera Alba (Beeswax), C10-18 Triglycerides, Apricot Kernel Oil Polyglyceryl-4 Esters, Butyrospermum Parkii (Shea) Butter, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Copernicia Cerifera (Carnauba) Wax, Hydrogenated Castor Oil, Parfum (Fragrance), Tocopheryl Acetate, Leontopodium Alpinum Extract",
+    "image": "https://cdn1.costatic.com/img/product/400/67473d96d48d0/embryolisse-protective-nourishing-p89533.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-EMB-023",
+    "brand": "Embryolisse",
+    "name": "Lait-Crème Rétinol-Like Multi-Fonctions",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 ml",
+    "ingredients": "Aqua (Water), Dicaprylyl Carbonate, Butyrospermum Parkii (Shea) Butter, Ethylhexyl Polyhydroxystearate, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera (Carnauba Wax), Glycerin, Prunus Armeniaca (Apricot) Kernel Oil, Cetearyl Glucoside, Sorbitan Olivate, Parfum (Fragrance), Xanthan Gum, Sodium Polyacrylate, 1,2-Hexanediol, Caprylyl Glycol, Citric Acid, Sodium Benzoate, Medicago Sativa (Alfalfa) Extract, Cetearyl Alcohol, Sodium Hydroxide, Limonene, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Hydroxycitronellal, Linalool",
+    "image": "https://cdn1.costatic.com/img/product/400/69550404a8301/embryolisse-lait-creme-p95986.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
