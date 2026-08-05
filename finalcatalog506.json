@@ -4889,9 +4889,15 @@
     "quantity": "null",
     "ingredients": "ماء, كربونات ثنائي الكابريليل, سوربيتول, عطر, ديازوليدينيل يوريا, ثنائي ستيرات بنتاريثريتيل, دايميثيكون, بولي كواتيرنيوم-37, زيت الجزر, رباعي الصوديوم EDTA",
     "image": "https://inescosmetics.com/wp-content/uploads/2025/07/IMG_8803-scaled.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الدهنية"
+    ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "OT-XXX-HEM-001",
@@ -16259,7 +16265,7 @@
       "بشرة حساسة"
     ]
   },
-    {
+  {
     "id": "US-LOT-NEU-002",
     "brand": "Neutrogena",
     "name": "Very Dry and Damaged Feet Cream 100ml",
@@ -27076,7 +27082,6 @@
     "price": null,
     "targetTypes": []
   },
-  
   {
     "id": "FR-TON-SVR-001",
     "brand": "SVR",
@@ -29305,7 +29310,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "FR-SSE-URI-001",
     "brand": "Uriage",
     "name": "Age Absolu Sérum Micro-Redensifiant Booster Collagène 30 ml",
@@ -40854,7 +40859,6 @@
     "price": null,
     "targetTypes": []
   },
-  
   {
     "id": "FR-LOT-AROM-001",
     "brand": "Aroma-Zone",
@@ -43146,7 +43150,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "FR-LOT-ARO-051",
     "brand": "Aroma-Zone",
     "name": "Organic Neroli Balm",
@@ -46808,7 +46812,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "DZ-SHA-MIS-001",
     "brand": "Miss Claire",
     "name": "Shampooing A L'Huile D'Argan Keratine Extreme",
@@ -46870,8 +46874,8 @@
       "حماية من الحرارة"
     ],
     "price": {
-      "min": 350.0,
-      "max": 350.0,
+      "min": 350,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -46940,8 +46944,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 450.0,
-      "max": 450.0,
+      "min": 450,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -47001,8 +47005,8 @@
     "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/5/5/555997443_18068746901243404_1727007346430341929_n_1_.png",
     "marketingClaims": [],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47026,8 +47030,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47052,8 +47056,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47081,8 +47085,8 @@
       "مكافحة التجعد"
     ],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47107,8 +47111,8 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 480.0,
-      "max": 480.0,
+      "min": 480,
+      "max": 480,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -49054,7 +49058,7 @@
       "بشرة جافة"
     ]
   },
-    {
+  {
     "id": "FR-SSE-EMB-001",
     "brand": "Embryolisse",
     "name": "Anti-Blemish Serum",
@@ -49919,5 +49923,232 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-AVU-001",
+    "brand": "AVURE",
+    "name": "Crème Soin de Jour Hydratant Lift & Repair",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792585/qlq0fhrs3hedoeqgxyl8.jpg",
+    "ingredients": "Lavandula Angustifolia (Lavender) Flower Water, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Argania Spinosa Kernel Oil, Allantoin, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Polysorbate 60, Lavandula Angustifolia (Lavender) Extract, Tocopherol, Dehydroacetic Acid, Benzyl Alcohol.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null",
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "normal_skin",
+      "oily_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-AVU-001",
+    "brand": "AVURE",
+    "name": "Gel Nettoyant Eclat Hydratant",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792995/dglvqpgemwochc55z8j5.jpg",
+    "ingredients": "AQUA (AND) LAVANDULA ANGUSTIFOLIA FLOWER WATER, SODIUM COCOYL ISETHIONATE, COCO-GLUCOSIDE, COCAMIDOPROPYL BETAINE, NIACINAMIDE, GLYCERIN, POLYSORBATE 20, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, SODIUM HYALURONATE, PHENOXYETHANOL, CAPRYLYL GLYCOL, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, MENTHA VIRIDIS (SPEARMINT) LEAF OIL, ALOE BARBADENSIS LEAF EXTRACT.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 1400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-EYE-AVU-001",
+    "brand": "AVURE",
+    "name": "Crème contour des Yeux anti-age",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792354/xitoxlhox6inenyupfen.jpg",
+    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, RETINOL, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL, TOCOPHEROL, DEHYDROACETIC ACID, BENZYL ALCOHOL",
+    "country": "Algeria",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 2850,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين"
+    ]
+  },
+  {
+    "id": "DZ-CLE-AVU-002",
+    "brand": "AVURE",
+    "name": "Calming Oil cleanser",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785791916/icsmxqnxdflnemg82d4y.jpg",
+    "ingredients": "Caprylic/Capric Triglyceride · Dicaprylyl Carbonate · Squalane · Simmondsia Chinensis (Jojoba) Seed Oil · Prunus Amygdalus Dulcis (Sweet Almond) Oil · Polyglyceryl-4 Oleate · PEG-40 Hydrogenated Castor Oil · Tocopherol · Bisabolol · Melaleuca Alternifolia (Tea Tree) Leaf Oil · Ceramide NP · Opuntia Ficus-Indica Stem Extract · Chamomilla Recutita (Matricaria) Flower Extract.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 2490,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "إزالة المكياج",
+      "مرطب للبشرة",
+      "مهدئ"
+    ]
+  },
+  {
+    "id": "DZ-OTH-AVU-001",
+    "brand": "AVURE",
+    "name": "Tonique Exfoliant à l'Acide Glycolique 7% - Tonique Illuminateur",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785793353/x1bhqr54e9huspiwqhza.jpg",
+    "ingredients": "AQUA, LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, GLYCOLIC ACID, GLYCERIN, POLYSORBATE 20, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL, TOCOPHEROL (VITAMIN E), DEHYDROACETIC ACID, BENZYL ALCOHOL.",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "220 ml",
+    "price": {
+      "min": 2750,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "تفتيح البشرة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-AVU-001",
+    "brand": "AVURE",
+    "name": "Retinol 2000 ppm - Anti-wrinkle Serum",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792800/f7d72n9lijyxsokc0izg.jpg",
+    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER,RETINOL, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL (Vitamine B5), DEHYDROACETIC ACID, BENZYL ALCOHOL, TOCOPHEROL(Vitamine E)",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 2500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-AVU-001",
+    "brand": "AVURE",
+    "name": "Gel crème SPF50+ UV Daily defense",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792124/yajjditn8n0w0am2eat2.jpg",
+    "ingredients": "Aqua, Dibutyl Adipate, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Zinc Oxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Ethylhexyl Methoxycinnamate, Cetearyl Alcohol, Disodium Cetearyl Sulfosuccinate, Glycerin, Sorbitol, Panthenol, Beta-Glucan, Lactobacillus Ferment Lysate, Chamomilla Recutita (Matricaria) Flower/Leaf Extract, Sodium Ascorbyl Phosphate, Propylene Glycol, Decyl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Tetrahydroxypropyl Ethylenediamine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin.",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 2950,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-AVU-002",
+    "brand": "AVURE",
+    "name": "Niacinamide 10% - Sérum Anti-imperfections",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785793153/wx3zffmd1xe26zbkzeqn.jpg",
+    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, PELARGONIUM GRAVEOLENS FLOWER WATER, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, SODIUM HYALURONATE, PANTHENOL, DEHYDROACETIC ACID, BENZYL ALCOHOL, TOCOPHEROL.",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 2850,
+      "currency": "DZD",
+      "max": null
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ]
   }
 ]
