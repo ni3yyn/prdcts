@@ -170,7 +170,7 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
                 price: 'السعر',
                 quantity: 'الحجم',
                 ingredients: 'المكونات',
-                marketingClaims: 'المميزات',
+                marketingClaims: 'الإدعاءات التسويقية',
                 targetTypes: 'الفئة المستهدفة',
                 country: 'البلد',
                 new_product: 'منتج جديد',
@@ -179,7 +179,7 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
             const message = {
                 to: pushToken,
                 sound: 'default',
-                title: '🎉 تمت مكافأتك!',
+                title: ' 🎉تمت مكافأتك، شكرا!',
                 body: `تم اعتماد مساهمتك للكتالوج في ${
                     fieldLabels[field] || 'المساهمة'
                 } وحصلت على ${points} نقطة!`,
