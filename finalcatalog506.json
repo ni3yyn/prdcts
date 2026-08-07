@@ -6663,7 +6663,10 @@
     "quantity": "30ml",
     "ingredients": "Water, Sodium Benzoate, Xanthan Gum, Glycerin, Sucrose Polystearate, Cetyl Palmitate, Sodium Stearoyl Glutamate, Butyrospermum Parkii (Shea) Butter, Vitamin C (Ascorbic Acid), Hydrogenated Vegetable Glycerides, Cetyl Alcohol, Caprylic/Capric Triglyceride, Parfum (Fragrance).",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768690795/zbz6dusjdefbti5aqwow.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
     "price": {
       "min": 1000,
       "max": 1000,
@@ -50217,6 +50220,31 @@
       "توحيد لون البشرة",
       "مرطب للبشرة",
       "توازن الدهون والزيوت"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SWA-001",
+    "brand": "Swalis",
+    "name": "Swalis Intense Care (Kératine + Jojoba) :",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1786134397/p3j8lnwimm9dqcjwn4y1.jpg",
+    "ingredients": "Aqua, Coco-Glucoside, Decyl Glucoside, Cocamidopropyl Betaine, Polyquaternium-7, Panthenol, Glycerin, PEG-7 Glyceryl Cocoate, Citric Acid, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Keratin, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Benzoate, Potassium Sorbate, Fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 330,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ],
+    "marketingClaims": [
+      "مخصص للشعر الجاف"
     ]
   }
 ]
