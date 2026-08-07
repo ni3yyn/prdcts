@@ -5162,13 +5162,19 @@
     "quantity": "null",
     "ingredients": "ماء, طين الإيليت (الطين الأخضر الفرنسي), عطر, ميثيل أيزوثيازولينون (MIT)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768675753/cauazcewo1r7vfmlmqsp.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنقية عميقة",
+      "تنقية المسام"
+    ],
     "price": {
       "min": 150,
       "max": 150,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SUN-ZOR-002",
