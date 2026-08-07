@@ -129,7 +129,9 @@
     "quantity": "265ml",
     "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum (Fragrance), Cocamide DEA, Polyquaternium-7, C12-15 Alkyl Lactate, Urea, Triethyl Citrate, lactic Acid, Sodium Lactate, Sodium Chloride, Disodium EDTA' Methylisothiazolinone (and) Methylchloroisothiazolone.",
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
     "price": {
       "min": 250,
       "max": 250,
@@ -4757,7 +4759,9 @@
     "quantity": "null",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://www.biolila.com/storage/product/RQfBTc1VldTBc9kiFi2vQlcru.png",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
     "price": {
       "min": 1100,
       "max": 1100,
@@ -5159,7 +5163,11 @@
     "ingredients": "ماء, طين الإيليت (الطين الأخضر الفرنسي), عطر, ميثيل أيزوثيازولينون (MIT)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768675753/cauazcewo1r7vfmlmqsp.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5198,7 +5206,7 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771932134/rilfbd6qkdcls9bueuj1.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 450,
+      "min": 400,
       "max": 450,
       "currency": "DZD"
     },
@@ -6752,7 +6760,11 @@
     "marketingClaims": [
       "deep_cleansing"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7761,8 +7773,13 @@
       "max": 400,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "تنظيف عميق"
+    ]
   },
   {
     "id": "DZ-CLE-VEN-004",
@@ -7828,7 +7845,8 @@
       "بشرة جافة"
     ],
     "marketingClaims": [
-      "sulfate_free"
+      "تنظيف لطيف",
+      "للبشرة الجافة"
     ]
   },
   {
@@ -7853,7 +7871,10 @@
       "بشرة مختلطة",
       "بشرة دهنية"
     ],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ]
   },
   {
     "id": "DZ-SUN-VEN-006",
@@ -7954,8 +7975,14 @@
     },
     "quantity": "50 ml",
     "price": null,
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الجافة"
+    ]
   },
   {
     "id": "DZ-SUN-VEN-001",
@@ -7975,8 +8002,15 @@
       "max": 650,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الدهنية"
+    ]
   },
   {
     "id": "DZ-CON-VEN-010",
@@ -9003,8 +9037,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "dry_skin",
-      "sensitive_skin"
+      "بشرة جافة",
+      "بشرة حساسة"
     ],
     "marketingClaims": [
       "مرطب للبشرة",
