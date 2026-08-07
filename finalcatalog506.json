@@ -130,7 +130,8 @@
     "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum (Fragrance), Cocamide DEA, Polyquaternium-7, C12-15 Alkyl Lactate, Urea, Triethyl Citrate, lactic Acid, Sodium Lactate, Sodium Chloride, Disodium EDTA' Methylisothiazolinone (and) Methylchloroisothiazolone.",
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
     "marketingClaims": [
-      "تنظيف لطيف"
+      "تنظيف لطيف",
+      "تنظيف عميق"
     ],
     "price": {
       "min": 250,
@@ -5565,7 +5566,10 @@
     "quantity": "null",
     "ingredients": "ماء, الجلسرين, كحول السيتريل, ترايميثيل سيلوكسي فينيل دايميثيكون, بي جي/بي بي جي-20/20 فينيل أيزوبروبيل كابريليل دايميثيكون, كلوريد سيتريمونيوم, سيتاريث-20, غليسيريل مونوستيرات (GMS), ميريستات الأيزوبروبيل, زيت الأفوكادو, زبدة الشيا, عطر, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, ترايديسيث-5, كحول بنزيلي, بي بي جي-2 ميثيل إيثر, برونوبول, أيودوبروبينيل بوتيل كاربامات",
     "image": "https://adibabeauty.com/cdn/shop/files/8ED87752-D387-4693-B5DF-AC7A51E6CE4C.jpg?v=1756498092&width=1200",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تنعيم الشعر"
+    ],
     "price": {
       "min": 400,
       "max": 450,
@@ -5586,13 +5590,19 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.goldencos.com/wp-content/uploads/2025/03/image_viber_2025-03-25_12-16-50-861.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "للبشرة الجافة",
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 300,
       "max": 300,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
   },
   {
     "id": "KR-CLE-ROU-002",
@@ -5884,9 +5894,15 @@
     "quantity": "null",
     "ingredients": "ماء, كوكو جلوكوسايد, كوكاميدوبروبيل بيتين (CAPB), ألكيل بولي غلوكوزيد (APG), PEG-150 بنتاريثريتيل تتراستيرات, بانثينول (بروفيتامين B5), فينوكسي إيثانول, كحول بنزيلي, سيترات الصوديوم, أحماض الحرير الأمينية, بروتين نباتي مهدرج, سوربيتول, بوتيل فينيل ميثيل بروبيونال (ليليال), الجلسرين, ليسيثين, كومارين, كابريليل جليكول, كيراتين مهدرج, سوربات البوتاسيوم, صمغ الزانثان, مستخلص أوراق الشاي الأخضر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772373531/kvru6yp9feuqndcvekfz.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "شعر متضرر"
+    ]
   },
   {
     "id": "OT-SHA-BION-001",
@@ -6026,7 +6042,10 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زبدة الشيا, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.pharmaly-dz.com/wp-content/uploads/2025/03/lisas-soft-creme-hydratante-visage-peaux-normales-a-seches-75ml.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
     "price": {
       "min": 300,
       "max": 300,
@@ -6193,7 +6212,9 @@
     "quantity": "null",
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, الجلسرين, كحول اللانولين, جليسريل ستيرات, زيت دوار الشمس, حمض اللاكتيك, ستيرات PEG-100, ستيرات السوربيتان, حمض الساليسيليك, دايميثيكون, كحول البوليفينيل (PVA), صمغ الزانثان, ميثيل بارابين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768859759/u8h9cpz295o5olm7orgw.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 250,
       "max": 250,
@@ -6214,7 +6235,10 @@
     "quantity": "null",
     "ingredients": "ماء, ميثيل بروبانيديول, ماء البابونج (هيدروسول), صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), صمغ الزانثان, عطر, رباعي الصوديوم EDTA, آلانتوين, زيت المكاديميا, ليمونين, هيدروكسيد الصوديوم, حمض الستريك, مستخلص زهور البابونج الألماني, بنزوات الصوديوم, سوربات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772132703/snabhaq6pquq4cxsewwe.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الحموضة"
+    ],
     "price": null,
     "targetTypes": []
   },
@@ -6614,7 +6638,11 @@
     "quantity": "null",
     "ingredients": "ماء, حمض الستياريك, شمع النحل, ميريستات الأيزوبروبيل, زيت جوز الهند, أكسيد الزنك, توكوفيرول (فيتامين E النقي), يوفينول أ بلس, آلانتوين, فينوكسي إيثانول",
     "image": "https://adibabeauty.com/cdn/shop/files/rn-image_picker_lib_temp_09e06d8b-ddb5-47da-a5e3-4e0848b21791.png?v=1776009795&width=1600",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 400,
       "max": 500,
