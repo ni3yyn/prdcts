@@ -129,10 +129,7 @@
     "quantity": "265ml",
     "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum (Fragrance), Cocamide DEA, Polyquaternium-7, C12-15 Alkyl Lactate, Urea, Triethyl Citrate, lactic Acid, Sodium Lactate, Sodium Chloride, Disodium EDTA' Methylisothiazolinone (and) Methylchloroisothiazolone.",
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
-    "marketingClaims": [
-      "تنظيف لطيف",
-      "تنظيف عميق"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 250,
       "max": 250,
@@ -1154,7 +1151,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "50 ml",
-    "ingredients": ": water, DIMETHICONE, ISODODECANE,  GLYCERIN, DISOSTEARYL MALATE, KAOLIN, DISTEARDIMONIUM HECTORITE, SALICYLIC ACID, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, SODIUM CHLORIDE, PHENOXYETHANOL, DIMETHICONE/POLYGLYCERIN-3 CROSSPOLYMER, PEG-10 DIMETHICONE, SODIUM HYDROXIDE, SODIUM DEHYDROACETATE, CHLORPHENESIN, DISODIUM STEAROYL GLUTAMATE, ACRYLATES COPOLYMER, ZINC GLUCONATE, TOCOPHEROL, ASCORBYL PALMITATE, ALUMINIUM HYDROXIDE, PEG-9, DIPROPYLENE GLYCOL, MORINGA PTERYGOSPERMA SEED EXTRACT, PARFUM/FRAGRANCE, [+/- MAY CONTAIN, CI 77891/ TITANIUM DIOXIDE, CI 77491, CI 77492/IRON OXIDES]. (F.I/L B170603/1)",
+    "ingredients": ": water, DIMETHICONE, ISODODECANE,  GLYCERIN, DISOSTEARYL MALATE, KAOLIN, DISTEARDIMONIUM HECTORITE, SALICYLIC ACID, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, SODIUM CHLORIDE, PHENOXYETHANOL, DIMETHICONE/POLYGLYCERIN-3 CROSSPOLYMER, PEG-10 DIMETHICONE, SODIUM HYDROXIDE, SODIUM DEHYDROACETATE, CHLORPHENESIN, DISODIUM STEAROYL GLUTAMATE, ACRYLATES COPOLYMER, ZINC GLUCONATE, TOCOPHEROL, ASCORBYL PALMITATE, ALUMINIUM HYDROXIDE, PEG-9, DIPROPYLENE GLYCOL, MORINGA PTERYGOSPERMA SEED EXTRACT, PARFUM/FRAGRANCE, CI 77891/ TITANIUM DIOXIDE, CI 77491, IRON OXIDES",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/053/8175/front_fr.7.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -2755,7 +2752,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "30 ml",
-    "ingredients": "AQUA / WATER, ISODODECANE, CYCLOPENTASILOXANE, GLYCERIN, CYCLOHEXASILOXANE, PEG-10 DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, BUTYLENE GLYCOL, DIMETHICONE, ISOEICOSANE, DISTEARDIMONIUM HECTORITE, BORON NITRIDE, PHENOXYETHANOL, CETYL PEG/PPG-10/1 DIMETHICONE, SODIUM CHLORIDE, POLYGLYCERYL-4 ISOSTEARATE, HEXYL LAURATE, ACRYLATES / AMMONIUM METHACRYLATE COPOLYMER, ISOSTEARYL NEOPENTANOATE, CAPRYLYL GLYCOL, TRIETHYL CITRATE, METHYLPARABEN, C9-15 FLUOROALCOHOL PHOSPHATES / C9-15 FLUOROALCOHOL, PHOSPHATE, TOCOPHEROL, PANTHENOL, [+/- MAY CONTAIN : CI 77891 / TITANIUM DIOXIDE, CI 77491, CI 77492, CI 77499 / IRON OXIDES]. (FIL B49725/1).",
+    "ingredients": "AQUA / WATER, ISODODECANE, CYCLOPENTASILOXANE, GLYCERIN, CYCLOHEXASILOXANE, PEG-10 DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, BUTYLENE GLYCOL, DIMETHICONE, ISOEICOSANE, DISTEARDIMONIUM HECTORITE, BORON NITRIDE, PHENOXYETHANOL, CETYL PEG/PPG-10/1 DIMETHICONE, SODIUM CHLORIDE, POLYGLYCERYL-4 ISOSTEARATE, HEXYL LAURATE, ACRYLATES / AMMONIUM METHACRYLATE COPOLYMER, ISOSTEARYL NEOPENTANOATE, CAPRYLYL GLYCOL, TRIETHYL CITRATE, METHYLPARABEN, C9-15 FLUOROALCOHOL PHOSPHATES / C9-15 FLUOROALCOHOL, PHOSPHATE, TOCOPHEROL, PANTHENOL, CI 77891 / TITANIUM DIOXIDE, CI 77491, CI 77492, CI 77499",
     "image": "https://images.openbeautyfacts.org/images/products/360/052/208/2651/front_fr.5.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -4760,9 +4757,7 @@
     "quantity": "null",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://www.biolila.com/storage/product/RQfBTc1VldTBc9kiFi2vQlcru.png",
-    "marketingClaims": [
-      "تنظيف لطيف"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 1100,
       "max": 1100,
@@ -4894,15 +4889,9 @@
     "quantity": "null",
     "ingredients": "ماء, كربونات ثنائي الكابريليل, سوربيتول, عطر, ديازوليدينيل يوريا, ثنائي ستيرات بنتاريثريتيل, دايميثيكون, بولي كواتيرنيوم-37, زيت الجزر, رباعي الصوديوم EDTA",
     "image": "https://inescosmetics.com/wp-content/uploads/2025/07/IMG_8803-scaled.webp",
-    "marketingClaims": [
-      "مرطب للبشرة",
-      "للبشرة الدهنية"
-    ],
+    "marketingClaims": [],
     "price": null,
-    "targetTypes": [
-      "بشرة دهنية",
-      "بشرة مختلطة"
-    ]
+    "targetTypes": []
   },
   {
     "id": "OT-XXX-HEM-001",
@@ -5163,19 +5152,9 @@
     "quantity": "null",
     "ingredients": "ماء, طين الإيليت (الطين الأخضر الفرنسي), عطر, ميثيل أيزوثيازولينون (MIT)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768675753/cauazcewo1r7vfmlmqsp.jpg",
-    "marketingClaims": [
-      "تنقية عميقة",
-      "تنقية المسام"
-    ],
-    "price": {
-      "min": 150,
-      "max": 150,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "بشرة دهنية",
-      "بشرة مختلطة"
-    ]
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
   },
   {
     "id": "DZ-SUN-ZOR-002",
@@ -5190,20 +5169,13 @@
     "quantity": "50ml",
     "ingredients": "ماء, الجلسرين, حمض الستياريك, ثاني أكسيد التيتانيوم، بروبيلين غليكول, بانثينول (بروفيتامين B5), صمغ الزانثان, كحول السيتيل, ثلاثي إيثانولامين (TEA), رباعي الصوديوم EDTA, حمض الستريك, مستخلص الألوفيرا, أفوبينزون, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), فينوكسي إيثانول",
     "image": "https://laplace7.dz/public/uploads/all/JfUe9XZYDev1Use5MWKOxVJdm9wtN5YrcP7stTEx.webp",
-    "marketingClaims": [
-      "حماية من الشمس",
-      "مرطب للبشرة",
-      "للبشرة الدهنية",
-      "حماية واسعة الطيف"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 700,
       "max": 700,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة دهنية"
-    ]
+    "targetTypes": []
   },
   {
     "id": "DZ-SSE-DERMA-001",
@@ -5220,7 +5192,7 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771932134/rilfbd6qkdcls9bueuj1.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 400,
+      "min": 450,
       "max": 450,
       "currency": "DZD"
     },
@@ -5346,8 +5318,7 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة مختلطة",
-      "بشرة حساسة"
+      "بشرة مختلطة"
     ]
   },
   {
@@ -5500,9 +5471,7 @@
       "max": 1500,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة دهنية"
-    ]
+    "targetTypes": []
   },
   {
     "id": "DZ-XXX-PROD-003",
@@ -5576,10 +5545,7 @@
     "quantity": "null",
     "ingredients": "ماء, الجلسرين, كحول السيتريل, ترايميثيل سيلوكسي فينيل دايميثيكون, بي جي/بي بي جي-20/20 فينيل أيزوبروبيل كابريليل دايميثيكون, كلوريد سيتريمونيوم, سيتاريث-20, غليسيريل مونوستيرات (GMS), ميريستات الأيزوبروبيل, زيت الأفوكادو, زبدة الشيا, عطر, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, ترايديسيث-5, كحول بنزيلي, بي بي جي-2 ميثيل إيثر, برونوبول, أيودوبروبينيل بوتيل كاربامات",
     "image": "https://adibabeauty.com/cdn/shop/files/8ED87752-D387-4693-B5DF-AC7A51E6CE4C.jpg?v=1756498092&width=1200",
-    "marketingClaims": [
-      "تلميع ولمعان",
-      "تنعيم الشعر"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 400,
       "max": 450,
@@ -5600,19 +5566,13 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.goldencos.com/wp-content/uploads/2025/03/image_viber_2025-03-25_12-16-50-861.jpg",
-    "marketingClaims": [
-      "للبشرة الجافة",
-      "مرطب للبشرة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 300,
       "max": 300,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة عادية",
-      "بشرة جافة"
-    ]
+    "targetTypes": []
   },
   {
     "id": "KR-CLE-ROU-002",
@@ -5904,19 +5864,9 @@
     "quantity": "null",
     "ingredients": "ماء, كوكو جلوكوسايد, كوكاميدوبروبيل بيتين (CAPB), ألكيل بولي غلوكوزيد (APG), PEG-150 بنتاريثريتيل تتراستيرات, بانثينول (بروفيتامين B5), فينوكسي إيثانول, كحول بنزيلي, سيترات الصوديوم, أحماض الحرير الأمينية, بروتين نباتي مهدرج, سوربيتول, بوتيل فينيل ميثيل بروبيونال (ليليال), الجلسرين, ليسيثين, كومارين, كابريليل جليكول, كيراتين مهدرج, سوربات البوتاسيوم, صمغ الزانثان, مستخلص أوراق الشاي الأخضر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772373531/kvru6yp9feuqndcvekfz.jpg",
-    "marketingClaims": [
-      "تنعيم الشعر",
-      "مرطب للشعر",
-      "مكافحة التجعد"
-    ],
-    "price": {
-      "min": 650,
-      "max": 650,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "شعر متضرر"
-    ]
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
   },
   {
     "id": "OT-SHA-BION-001",
@@ -6056,10 +6006,7 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زبدة الشيا, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.pharmaly-dz.com/wp-content/uploads/2025/03/lisas-soft-creme-hydratante-visage-peaux-normales-a-seches-75ml.webp",
-    "marketingClaims": [
-      "مرطب للبشرة",
-      "للبشرة الجافة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 300,
       "max": 300,
@@ -6226,9 +6173,7 @@
     "quantity": "null",
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, الجلسرين, كحول اللانولين, جليسريل ستيرات, زيت دوار الشمس, حمض اللاكتيك, ستيرات PEG-100, ستيرات السوربيتان, حمض الساليسيليك, دايميثيكون, كحول البوليفينيل (PVA), صمغ الزانثان, ميثيل بارابين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768859759/u8h9cpz295o5olm7orgw.jpg",
-    "marketingClaims": [
-      "مرطب للبشرة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 250,
       "max": 250,
@@ -6249,10 +6194,7 @@
     "quantity": "null",
     "ingredients": "ماء, ميثيل بروبانيديول, ماء البابونج (هيدروسول), صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), صمغ الزانثان, عطر, رباعي الصوديوم EDTA, آلانتوين, زيت المكاديميا, ليمونين, هيدروكسيد الصوديوم, حمض الستريك, مستخلص زهور البابونج الألماني, بنزوات الصوديوم, سوربات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772132703/snabhaq6pquq4cxsewwe.jpg",
-    "marketingClaims": [
-      "تنظيف عميق",
-      "توازن الحموضة"
-    ],
+    "marketingClaims": [],
     "price": null,
     "targetTypes": []
   },
@@ -6652,11 +6594,7 @@
     "quantity": "null",
     "ingredients": "ماء, حمض الستياريك, شمع النحل, ميريستات الأيزوبروبيل, زيت جوز الهند, أكسيد الزنك, توكوفيرول (فيتامين E النقي), يوفينول أ بلس, آلانتوين, فينوكسي إيثانول",
     "image": "https://adibabeauty.com/cdn/shop/files/rn-image_picker_lib_temp_09e06d8b-ddb5-47da-a5e3-4e0848b21791.png?v=1776009795&width=1600",
-    "marketingClaims": [
-      "حماية من الشمس",
-      "حماية واسعة الطيف",
-      "مرطب للبشرة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 400,
       "max": 500,
@@ -6677,10 +6615,7 @@
     "quantity": "30ml",
     "ingredients": "Water, Sodium Benzoate, Xanthan Gum, Glycerin, Sucrose Polystearate, Cetyl Palmitate, Sodium Stearoyl Glutamate, Butyrospermum Parkii (Shea) Butter, Vitamin C (Ascorbic Acid), Hydrogenated Vegetable Glycerides, Cetyl Alcohol, Caprylic/Capric Triglyceride, Parfum (Fragrance).",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768690795/zbz6dusjdefbti5aqwow.jpg",
-    "marketingClaims": [
-      "تفتيح البشرة",
-      "توحيد لون البشرة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 1000,
       "max": 1000,
@@ -6811,11 +6746,7 @@
     "marketingClaims": [
       "deep_cleansing"
     ],
-    "price": {
-      "min": 450,
-      "max": 450,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -7824,13 +7755,8 @@
       "max": 400,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة مختلطة",
-      "بشرة دهنية"
-    ],
-    "marketingClaims": [
-      "تنظيف عميق"
-    ]
+    "targetTypes": [],
+    "marketingClaims": []
   },
   {
     "id": "DZ-CLE-VEN-004",
@@ -7896,8 +7822,7 @@
       "بشرة جافة"
     ],
     "marketingClaims": [
-      "تنظيف لطيف",
-      "للبشرة الجافة"
+      "sulfate_free"
     ]
   },
   {
@@ -7922,10 +7847,7 @@
       "بشرة مختلطة",
       "بشرة دهنية"
     ],
-    "marketingClaims": [
-      "تنظيف عميق",
-      "تنقية المسام"
-    ]
+    "marketingClaims": []
   },
   {
     "id": "DZ-SUN-VEN-006",
@@ -8026,14 +7948,8 @@
     },
     "quantity": "50 ml",
     "price": null,
-    "targetTypes": [
-      "بشرة جافة"
-    ],
-    "marketingClaims": [
-      "حماية من الشمس",
-      "حماية واسعة الطيف",
-      "للبشرة الجافة"
-    ]
+    "targetTypes": [],
+    "marketingClaims": []
   },
   {
     "id": "DZ-SUN-VEN-001",
@@ -8053,15 +7969,8 @@
       "max": 650,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة مختلطة",
-      "بشرة دهنية"
-    ],
-    "marketingClaims": [
-      "حماية من الشمس",
-      "حماية واسعة الطيف",
-      "للبشرة الدهنية"
-    ]
+    "targetTypes": [],
+    "marketingClaims": []
   },
   {
     "id": "DZ-CON-VEN-010",
@@ -8375,11 +8284,7 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": {
-      "min": 120,
-      "max": 120,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8413,11 +8318,7 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": {
-      "min": 120,
-      "max": 120,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9096,8 +8997,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة جافة",
-      "بشرة حساسة"
+      "dry_skin",
+      "sensitive_skin"
     ],
     "marketingClaims": [
       "مرطب للبشرة",
@@ -11482,7 +11383,7 @@
       "icon": "shopping-bag"
     },
     "quantity": null,
-    "ingredients": "Cyclopentasiloxane, Aqua/Water/Eau, Caprylyl Methicone, Coconut Alkanes, Trimethylsiloxysilicate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Coco Caprylate/Caprate, Dimethicone/PEG-10/15 Crosspolymer, Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone, Dipropylene Glycol, Tocopherol, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Hectorite, Sodium Chloride, Hexyl Laurate, Dimethicone/Vinyl Dimethicone Crosspolymer, PEG-10 Dimethicone, Stearic Acid, Methyl Methacrylate Crosspolymer, Alumina, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin. May Contain [+/-]: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Tin Oxide, Aluminum Hydroxide, Bismuth Oxychloride (CI 77163), Mica, Magnesium Stearate, Triethoxycaprylylsilane.",
+    "ingredients": "Cyclopentasiloxane, Aqua/Water/Eau, Caprylyl Methicone, Coconut Alkanes, Trimethylsiloxysilicate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Coco Caprylate/Caprate, Dimethicone/PEG-10/15 Crosspolymer, Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone, Dipropylene Glycol, Tocopherol, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Hectorite, Sodium Chloride, Hexyl Laurate, Dimethicone/Vinyl Dimethicone Crosspolymer, PEG-10 Dimethicone, Stearic Acid, Methyl Methacrylate Crosspolymer, Alumina, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Tin Oxide, Aluminum Hydroxide, Bismuth Oxychloride (CI 77163), Mica, Magnesium Stearate, Triethoxycaprylylsilane.",
     "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw60f28d4c/Images/products/The%20Ordinary/Colours/rdn-serum-foundation-31-y-30ml.png?sw=900&sh=900&sm=fit",
     "marketingClaims": [
       "توحيد لون البشرة"
@@ -16358,7 +16259,7 @@
       "بشرة حساسة"
     ]
   },
-  {
+    {
     "id": "US-LOT-NEU-002",
     "brand": "Neutrogena",
     "name": "Very Dry and Damaged Feet Cream 100ml",
@@ -18237,7 +18138,7 @@
       "icon": "shopping-bag"
     },
     "quantity": "30ml",
-    "ingredients": "Bronze : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Trihydroxystearin, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Acetylated Glycol Stearate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin. May contain : CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides. - Chestnut : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Isobutane, Trihydroxystearin, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Acetylated Glycol Stearate, Pentaerithrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride, Copolymer, Ethylhexylglycerin. May contain : CI 77491, CI 77492, CI 77499/Iron Oxides. - Espresso : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Isobutane, Trihydroxystearin, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Acetylated Glycol Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin.May contain : CI 77491, CI 77492, CI 77499/Iron Oxides, CI 77891/Titanium Dioxide. - Gold, Nude, Porcelain : Aqua, Undecane, Dimethicone, Glycerin, Titanium Dioxide [Nano]/Titanium Dioxide, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Stearic Acid, Trihydroxystearin, Silica Silylate, Silica, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Vitreoscilla Ferment, Acetylated Glycol Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ethylhexylglycerin. May contain : CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides. - Vanilla : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Isobutane, Trihydroxystearin, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Acetylated Glycol Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin. May contain : CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides",
+    "ingredients": "Bronze : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Trihydroxystearin, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Acetylated Glycol Stearate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin, CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides.",
     "image": "https://cdn1.costatic.com/img/product/400/6a61c18220bad/vichy-dermablend-fluid-11945.jpg",
     "marketingClaims": [
       "توحيد لون البشرة"
@@ -18728,7 +18629,7 @@
       "icon": "shopping-bag"
     },
     "quantity": "30ml",
-    "ingredients": "Aqua/Water, Dimethicone, Glycerin, Synthetic Fluorphlogopite, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone Crosspolymer, Sorbitan Isostearate, Triethanolamine, Salicylic Acid, Aluminium Hydroxide, Phenoxyethanol, Disodium Stearoyl Glutamate, Eperua Falcata Bark Extract, Dextrin, Polysorbate 6. [+/- May Contain CI77891/Titanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides]",
+    "ingredients": "Aqua/Water, Dimethicone, Glycerin, Synthetic Fluorphlogopite, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone Crosspolymer, Sorbitan Isostearate, Triethanolamine, Salicylic Acid, Aluminium Hydroxide, Phenoxyethanol, Disodium Stearoyl Glutamate, Eperua Falcata Bark Extract, Dextrin, Polysorbate 6, CI77891/Titanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides]",
     "image": "https://cdn1.costatic.com/img/product/400/6512b268b930c/vichy-dermablend-3d-26279.jpg",
     "marketingClaims": [
       "توحيد لون البشرة",
@@ -27175,6 +27076,7 @@
     "price": null,
     "targetTypes": []
   },
+  
   {
     "id": "FR-TON-SVR-001",
     "brand": "SVR",
@@ -29403,7 +29305,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+    {
     "id": "FR-SSE-URI-001",
     "brand": "Uriage",
     "name": "Age Absolu Sérum Micro-Redensifiant Booster Collagène 30 ml",
@@ -33933,7 +33835,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "40ml",
-    "ingredients": "Aqua / Water / Eau, Glycerin, Isocetyl Stearate, Isopropyl Isostearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch / Rice Starch, Glyceryl Stearate Se, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Salicylic Acid, Silica Silylate, Poloxamer 338, Maltodextrin, Polysorbate 80, Mannose, Pentylene Glycol, Zinc Pca, Punica Granatum Pericarp Extract, Isohexadecane, 2-Oleamido-1,3-Octadecanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum / Fragrance, Sorbitan Oleate, Potassium Cetyl Phosphate, Vitreoscilla Ferment, Citric Acid. [+/- May Contain: Ci 77891 / Titanium Dioxide, Ci 77491, Ci 77492, Ci 77499 / Iron Oxides, Mica]",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isocetyl Stearate, Isopropyl Isostearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch / Rice Starch, Glyceryl Stearate Se, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Salicylic Acid, Silica Silylate, Poloxamer 338, Maltodextrin, Polysorbate 80, Mannose, Pentylene Glycol, Zinc Pca, Punica Granatum Pericarp Extract, Isohexadecane, 2-Oleamido-1,3-Octadecanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum / Fragrance, Sorbitan Oleate, Potassium Cetyl Phosphate, Vitreoscilla Ferment, Citric Acid. Ci 77891 / Titanium Dioxide, Ci 77491, Ci 77492, Ci 77499 / Iron Oxides, Mica",
     "image": "https://cdn1.costatic.com/img/product/400/67dd493ce9ef1/la-roche-posay-p93275.jpg",
     "marketingClaims": [
       "مضاد لحب الشباب",
@@ -35372,7 +35274,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "40ml",
-    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Methyl Methacrylate Crosspolymer, T-Butyl Alcohol, Sodium Hydroxide, Oleic Acid, Salicylic Acid, Silica Silylate, Poloxamer 338, Nylon-12, Polysorbate 80, Zinc PCA, Linoleic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Isohexadecane, 2-Oleamido-1, 3-Octanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum/Fragrance, Sorbitan Oleate, Disodium Edta, Potassium Cetyl Phosphate, Bht, Glyceryl Stearate SE, [+/- May contain CI77891/TItanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides, Mica]",
+    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Methyl Methacrylate Crosspolymer, T-Butyl Alcohol, Sodium Hydroxide, Oleic Acid, Salicylic Acid, Silica Silylate, Poloxamer 338, Nylon-12, Polysorbate 80, Zinc PCA, Linoleic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Isohexadecane, 2-Oleamido-1, 3-Octanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum/Fragrance, Sorbitan Oleate, Disodium Edta, Potassium Cetyl Phosphate, Bht, Glyceryl Stearate SE, CI77891/TItanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides, Mica",
     "image": "https://cdn1.costatic.com/img/product/400/69fb477a99280/la-roche-posay-p24722.jpg",
     "marketingClaims": [
       "مضاد لحب الشباب",
@@ -40952,6 +40854,7 @@
     "price": null,
     "targetTypes": []
   },
+  
   {
     "id": "FR-LOT-AROM-001",
     "brand": "Aroma-Zone",
@@ -43243,7 +43146,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+    {
     "id": "FR-LOT-ARO-051",
     "brand": "Aroma-Zone",
     "name": "Organic Neroli Balm",
@@ -46905,7 +46808,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+    {
     "id": "DZ-SHA-MIS-001",
     "brand": "Miss Claire",
     "name": "Shampooing A L'Huile D'Argan Keratine Extreme",
@@ -46967,8 +46870,8 @@
       "حماية من الحرارة"
     ],
     "price": {
-      "min": 350,
-      "max": 350,
+      "min": 350.0,
+      "max": 350.0,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -47037,8 +46940,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 450,
-      "max": 450,
+      "min": 450.0,
+      "max": 450.0,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -47098,8 +47001,8 @@
     "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/5/5/555997443_18068746901243404_1727007346430341929_n_1_.png",
     "marketingClaims": [],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47123,8 +47026,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47149,8 +47052,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47178,8 +47081,8 @@
       "مكافحة التجعد"
     ],
     "price": {
-      "min": 650,
-      "max": 650,
+      "min": 650.0,
+      "max": 650.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47204,8 +47107,8 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 480,
-      "max": 480,
+      "min": 480.0,
+      "max": 480.0,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -49151,7 +49054,7 @@
       "بشرة جافة"
     ]
   },
-  {
+    {
     "id": "FR-SSE-EMB-001",
     "brand": "Embryolisse",
     "name": "Anti-Blemish Serum",
@@ -50017,256 +49920,973 @@
     "price": null,
     "targetTypes": []
   },
+  
   {
-    "id": "DZ-LOT-AVU-001",
-    "brand": "AVURE",
-    "name": "Crème Soin de Jour Hydratant Lift & Repair",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792585/qlq0fhrs3hedoeqgxyl8.jpg",
-    "ingredients": "Lavandula Angustifolia (Lavender) Flower Water, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Argania Spinosa Kernel Oil, Allantoin, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Polysorbate 60, Lavandula Angustifolia (Lavender) Extract, Tocopherol, Dehydroacetic Acid, Benzyl Alcohol.",
-    "country": "Algeria",
+    "id": "KR-CLE-ARE-001",
+    "brand": "Arencia",
+    "name": "Fresh Green Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, Sodium Cocoyl Glycinate, 1,2-Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Oryza Sativa (Rice) Powder, Fragrance, Kaolin, Sodium Isethionate, Camellia Sinensis Leaf Powder, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Sodium Chloride, Dextrin, Ethylhexylglycerin, Gardenia Florida Fruit Extract, Camellia Sinensis Leaf Extract, Adansonia Digitata Fruit Extract, Artemisia Princeps Leaf Extract, Avena Sativa (Oat) Kernel Extract, Caulerpa Lentillifera Extract, Centella Asiatica Extract, Chamomilla Recutita (Matricaria) Flower Extract, Coffea Arabica (Coffee) Seed Extract, Eucalyptus Globulus Leaf Extract, Ficus Carica (Fig) Fruit Extract, Glycyrrhiza Uralensis (Licorice) Extract, Hamamelis Virginiana (Witch Hazel) Extract, Hyssopus Officinalis Extract, Lycium Chinense Fruit Extract, Melaleuca Alternifolia (Tea Tree) Extract, Nelumbo Nucifera Leaf Extract, Oryza Sativa (Rice) Extract, Panax Ginseng Root Extract, Portulaca Oleracea Extract, Saururus Chinensis Extract, Solanum Melongena (Eggplant) Fruit Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/19a70333-5c07-4222-90dc-02ed27aa6c0d/products/arencia-fresh-green-cleanser/arencia-fresh-green-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-002",
+    "brand": "Arencia",
+    "name": "Green Tea + Lha Deep Pore Rice Cake Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Xanthan Gum, Hydroxypropyl Starch Phosphate, Polyquaternium-67, Water, Disodium EDTA, Sodium Cocoyl Isethionate, Coconut Acid, Sodium Isethionate, Water, Sodium Cocoyl Glycinate, Glyceryl Stearate, Allantoin, Panthenol, Salicylic Acid, 1,2-Hexanediol, Ethylhexylglycerin, Theobroma Cacao (Cocoa) Seed Extract, Dextrin, Gardenia Florida Fruit Extract, Dextrin, Gardenia Florida Fruit Extract, Dextrin, Capryloyl Salicylic Acid, Water, Camellia Sinensis Leaf Extract, 1,2-Hexanediol, Water, 1,2-Hexanediol, Vigna Radiata Seed Extract, Water, 1,2-Hexanediol, Hyssopus Officinalis Extract, Ethylhexylglycerin, Bakuchiol, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, Rosmarinus Officinalis Leaf Oil, Houttuynia Cordata Powder, Prunus Armeniaca (Apricot) Kernel Oil, Water, Butylene Glycol, Asparagus Officinalis Extract, Water, Butylene Glycol, Oryza Sativa (Rice) Lees Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/a3146a5d-58e7-46c3-8dcf-2b43da942408/products/arencia-green-tea-lha-deep-pore-rice-cake-cleanser-2/arencia-green-tea-lha-deep-pore-rice-cake-cleanser-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "تقشير لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-SSE-ARE-001",
+    "brand": "Arencia",
+    "name": "Rice Mucin Glow Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Rice Ferment Filtrate (Sake), Water, 1,2-Hexanediol, Glycerin, Niacinamide, Saccharomyces/Rice Ferment Filtrate, Carbomer, Hydrolyzed Collagen, Cetearyl Olivate, Tromethamine, Butylene Glycol, Methylpropanediol, Pentylene Glycol, Pullulan, Sorbitan Olivate, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Caprylic/Capric Triglyceride, Oryza Sativa (Rice) Extract, Hydrogenated Lecithin, Sodium Polyacrylate, Garcinia Cambogia Fruit Extract, Adenosine, Polyglyceryl-10 Oleate, Polyglutamic Acid, Polyglyceryl-10 Stearate, Disodium EDTA, Xanthan Gum, Capryloyl Salicylic Acid, Polyglyceryl-4 Caprate, Malt Extract, Retinal, Panthenol, Kummerowia Striata Extract, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Cinchona Pubescens Bark Extract, Leptospermum Scoparium Leaf Extract, Dioscorea Japonica Root Extract, Beta-Glucan, Hydrolyzed Corn Starch, Glyceryl Linolenate, Glyceryl Arachidonate, Tranexamic Acid, Retinyl Palmitate, Biotin, Sucrose, Thiamine Hcl, Folic Acid, Pyridoxine, Cyanocobalamin, Sodium Chondroitin Sulfate",
+    "image": "https://incidecoder-content.storage.googleapis.com/435d716b-8184-4188-84fc-00a7bdd7b025/products/arencia-rice-mucin-glow-serum-30/arencia-rice-mucin-glow-serum-30_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-003",
+    "brand": "Arencia",
+    "name": "Green Artisan's Skin Boosting Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Sodium Cocoyl Isethionate, Water, Coconut Acid, Potassium Cocoyl Hydrolyzed Oat Protein, 1,2-Hexanediol, Prunus Amygdalus Dulcis (Sweet Almond) Seedcoat Powder, Oryza Sativa (Rice) Bran, Sodium Isethionate, Fragrance, Camellia Sinensis Leaf Powder, Kaolin, Ci 77288, Hydroxyethylcellulose, Sodium Phytate, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Glyceryl Caprylate, Olea Europaea (Olive) Leaf Extract, Hyssopus Officinalis Extract, Laminaria Japonica Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, Rosa Canina Fruit Extract, Ficus Carica (Fig) Fruit Extract, Hamamelis Virginiana (Witch Hazel) Extract, Oryza Sativa (Rice) Extract, Agaricus Bisporus (Mushroom) Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Prunus Salicina Fruit Extract, Petroselinum Sativum (Parsley) Extract, Vitis Vinifera (Grape) Fruit Extract, Helianthus Annuus (Sunflower) Seed Extract, Lycium Chinense Fruit Extract, Vigna Radiata Seed Extract, Camellia Sinensis Leaf Extract, Lactobacillus/Soybean Ferment Extract, Salvia Hispanica Seed Extract, Caulerpa Lentillifera Extract, Adansonia Digitata Fruit Extract, Centella Asiatica Extract, Saururus Chinensis Extract, Portulaca Oleracea Extract, Prunus Amygdalus Dulcis (Sweet Almond) Seed Extract, Nelumbo Nucifera Leaf Extract, Origanum Vulgare Leaf Extract, Cinnamomum Cassia Bark Extract, Sesamum Indicum (Sesame) Seed Extract, Anthemis Nobilis Flower Extract, Melaleuca Alternifolia Leaf Extract, Chamaecyparis Obtusa Leaf Extract, Lupinus Albus Seed Extract, Scutellaria Baicalensis Root Extract, Salix Alba (Willow) Bark Extract, Hexyl Cinnamal, Linalool, Limonene, Geraniol",
+    "image": "https://incidecoder-content.storage.googleapis.com/15612273-f131-4891-b0c6-b4193f5014cc/products/arencia-green-artisans-skin-boosting-cleanser/arencia-green-artisans-skin-boosting-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-004",
+    "brand": "Arencia",
+    "name": "Pore Melt Cleansing Oil Pad",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Cetyl Ethylhexanoate, Isododecane, Polyglyceryl-6 Dicaprate, Butylene Glycol, Glycerin, Zingiber Officinale (Ginger) Root Extract, Schisandra Chinensis Fruit Extract, Camellia Sinensis Leaf Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Caprylyl Glycol, Panthenol, Oryza Sativa (Rice) Bran Water, Camellia Japonica Flower Extract, Asiaticoside, Camellia Japonica Seed Oil, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Camellia Sinensis Leaf Water, Ethylhexylglycerin, Oryza Sativa (Rice) Bran Oil, Ceramide NP, Pentylene Glycol, Hydrogenated Lecithin, Pueraria Lobata Root Extract, Oenothera Biennis Flower Extract (Evening Primrose), Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Polyglyceryl-10 Myristate, Tocopherol",
+    "image": "https://incidecoder-content.storage.googleapis.com/0190c477-2239-4f60-a0b3-3c10e44ab20e/products/arencia-pore-melt-cleansing-oil-pad/arencia-pore-melt-cleansing-oil-pad_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-SSE-ARE-002",
+    "brand": "Arencia",
+    "name": "Holy Hyssop Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "Water, Butylene Glycol, Propanediol, Glycerin, 1,2-Hexanediol, Niacinamide, Methylpropanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Dextrin, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer, Adenosine, Pvm/Ma Copolymer, Gardenia Florida Fruit Extract, Sodium Hyaluronate, Hyssopus Officinalis Extract, 3-O-Ethyl Ascorbic Acid, Sodium Ascorbyl Phosphate, Ascorbic Acid, Ascorbyl Glucoside, Tocopherol, Panthenol, Pyridoxine, Linum Usitatissimum (Linseed) Seed Extract, Oryza Sativa (Rice) Extract, Hydrogenated Lecithin, Ceramide NP, Glycosphingolipids, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Pentylene Glycol, Sodium Acetylated Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/0d410a4c-08ca-45c2-9234-1ba807a5508d/products/arencia-holy-hyssop-serum-30/arencia-holy-hyssop-serum-30_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-LOT-ARE-001",
+    "brand": "Arencia",
+    "name": "Hyssop Blurring Cream",
+    "country": "Korea",
     "category": {
       "id": "lotion_cream",
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
-    "price": {
-      "min": null,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "normal_skin",
-      "oily_skin",
-      "dry_skin",
-      "combination_skin",
-      "sensitive_skin"
-    ],
+    "quantity": "",
+    "ingredients": "Water, Hydrogenated Coconut Oil, Isoamyl Laurate, Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Methyl Gluceth-20, 1,2-Hexanediol, Glyceryl Stearate, Niacinamide, Hydrogenated Vegetable Oil, Helianthus Annuus (Sunflower) Seed Oil, Betaine, Citrus Junos Peel Oil, PEG-100 Stearate, Glycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Methylpropanediol, C14-22 Alcohols, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hyssopus Officinalis Extract(3283Ppm), Pentylene Glycol, Hedera Helix (Ivy) Leaf/Stem Extract, Caprylic/Capric Triglyceride, Methyl Glucose Sesquistearate, Carbomer, Rosmarinus Officinalis (Rosemary) Leaf Extract, C12-20 Alkyl Glucoside, Tocopherol, Tromethamine, Iris Florentina Root Extract, Hydrogenated Lecithin, Polyglutamic Acid, Melia Azadirachta Leaf Extract, Adenosine, Melia Azadirachta Flower Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Disodium EDTA, Coccinia Indica Fruit Extract, Caprylyl Glycol, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Lithospermum Erythrorhizon Root Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Ocimum Sanctum Leaf Extract, Glucose, Soluble Collagen, Ethylhexylglycerin",
+    "image": "https://incidecoder-content.storage.googleapis.com/2a2dd8f6-208c-422f-bc47-d5fb8f7de970/products/arencia-hyssop-blurring-cream/arencia-hyssop-blurring-cream_front_photo_original.jpeg",
     "marketingClaims": [
       "مرطب للبشرة",
-      "ترطيب مكثف"
-    ]
-  },
-  {
-    "id": "DZ-CLE-AVU-001",
-    "brand": "AVURE",
-    "name": "Gel Nettoyant Eclat Hydratant",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792995/dglvqpgemwochc55z8j5.jpg",
-    "ingredients": "AQUA (AND) LAVANDULA ANGUSTIFOLIA FLOWER WATER, SODIUM COCOYL ISETHIONATE, COCO-GLUCOSIDE, COCAMIDOPROPYL BETAINE, NIACINAMIDE, GLYCERIN, POLYSORBATE 20, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, SODIUM HYALURONATE, PHENOXYETHANOL, CAPRYLYL GLYCOL, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, MENTHA VIRIDIS (SPEARMINT) LEAF OIL, ALOE BARBADENSIS LEAF EXTRACT.",
-    "country": "Algeria",
-    "category": {
-      "id": "cleanser",
-      "label": "غسول وجه",
-      "icon": "soap"
-    },
-    "quantity": "null",
-    "price": {
-      "min": 1400,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "oily_skin",
-      "normal_skin",
-      "dry_skin",
-      "combination_skin",
-      "sensitive_skin"
+      "توازن الدهون والزيوت",
+      "تفتيح البشرة"
     ],
-    "marketingClaims": [
-      "تنظيف لطيف",
-      "إزالة المكياج",
-      "للبشرة الحساسة"
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية",
+      "بشرة مختلطة"
     ]
   },
   {
-    "id": "DZ-EYE-AVU-001",
-    "brand": "AVURE",
-    "name": "Crème contour des Yeux anti-age",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792354/xitoxlhox6inenyupfen.jpg",
-    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, RETINOL, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL, TOCOPHEROL, DEHYDROACETIC ACID, BENZYL ALCOHOL",
-    "country": "Algeria",
-    "category": {
-      "id": "eye_cream",
-      "label": "كريم للعين",
-      "icon": "eye"
-    },
-    "quantity": "50 ml",
-    "price": {
-      "min": 2850,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [],
-    "marketingClaims": [
-      "مكافحة التجاعيد",
-      "تفتيح تحت العين"
-    ]
-  },
-  {
-    "id": "DZ-CLE-AVU-002",
-    "brand": "AVURE",
-    "name": "Calming Oil cleanser",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785791916/icsmxqnxdflnemg82d4y.jpg",
-    "ingredients": "Caprylic/Capric Triglyceride · Dicaprylyl Carbonate · Squalane · Simmondsia Chinensis (Jojoba) Seed Oil · Prunus Amygdalus Dulcis (Sweet Almond) Oil · Polyglyceryl-4 Oleate · PEG-40 Hydrogenated Castor Oil · Tocopherol · Bisabolol · Melaleuca Alternifolia (Tea Tree) Leaf Oil · Ceramide NP · Opuntia Ficus-Indica Stem Extract · Chamomilla Recutita (Matricaria) Flower Extract.",
-    "country": "Algeria",
+    "id": "KR-CLE-ARE-005",
+    "brand": "Arencia",
+    "name": "Hyssop Sebum Control Rice Cake Cleanser",
+    "country": "Korea",
     "category": {
       "id": "cleanser",
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "250 ml",
-    "price": {
-      "min": 2490,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [],
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, Sodium Cocoyl Glycinate, 1,2-Hexanediol, Glyceryl Stearate, Xanthan Gum, Houttuynia Cordata Powder, Dextrin, Ethylhexylglycerin, Polyquaternium-67, Geranium Maculatum Oil, Butylene Glycol, Gardenia Florida Fruit Extract, Olea Europaea (Olive) Fruit Oil, Anthemis Nobilis Flower Water, Oryza Sativa (Rice) Lees Extract, Bambusa Vulgaris Extract, Salix Alba (Willow) Bark Extract, Hyssopus Officinalis Extract, Camellia Sinensis Leaf Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/43e94e14-42e4-4505-963e-f79ea9ff8445/products/arencia-hyssop-sebum-control-rice-cake-cleanser/arencia-hyssop-sebum-control-rice-cake-cleanser_front_photo_original.jpeg",
     "marketingClaims": [
       "تنظيف عميق",
-      "إزالة المكياج",
-      "مرطب للبشرة",
-      "مهدئ"
-    ]
-  },
-  {
-    "id": "DZ-OTH-AVU-001",
-    "brand": "AVURE",
-    "name": "Tonique Exfoliant à l'Acide Glycolique 7% - Tonique Illuminateur",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785793353/x1bhqr54e9huspiwqhza.jpg",
-    "ingredients": "AQUA, LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, GLYCOLIC ACID, GLYCERIN, POLYSORBATE 20, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL, TOCOPHEROL (VITAMIN E), DEHYDROACETIC ACID, BENZYL ALCOHOL.",
-    "country": "Algeria",
-    "category": {
-      "id": "toner",
-      "label": "تونر / ميست",
-      "icon": "tint"
-    },
-    "quantity": "220 ml",
-    "price": {
-      "min": 2750,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "oily_skin",
-      "normal_skin",
-      "dry_skin",
-      "combination_skin",
-      "sensitive_skin"
+      "توازن الدهون والزيوت",
+      "تنقية المسام"
     ],
-    "marketingClaims": [
-      "تقشير لطيف",
-      "مرطب للبشرة",
-      "للبشرة الحساسة",
-      "تفتيح البشرة"
-    ]
-  },
-  {
-    "id": "DZ-SSE-AVU-001",
-    "brand": "AVURE",
-    "name": "Retinol 2000 ppm - Anti-wrinkle Serum",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792800/f7d72n9lijyxsokc0izg.jpg",
-    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER,RETINOL, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL (Vitamine B5), DEHYDROACETIC ACID, BENZYL ALCOHOL, TOCOPHEROL(Vitamine E)",
-    "country": "Algeria",
-    "category": {
-      "id": "skin_serum",
-      "label": "سيروم للبشرة",
-      "icon": "flask"
-    },
-    "quantity": "30 ml",
-    "price": {
-      "min": 2500,
-      "max": null,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": [
-      "oily_skin",
-      "normal_skin",
-      "dry_skin",
-      "combination_skin",
-      "sensitive_skin"
-    ],
-    "marketingClaims": [
-      "مكافحة التجاعيد",
-      "مرطب للبشرة",
-      "للبشرة الحساسة"
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
     ]
   },
   {
-    "id": "DZ-SUN-AVU-001",
-    "brand": "AVURE",
-    "name": "Gel crème SPF50+ UV Daily defense",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792124/yajjditn8n0w0am2eat2.jpg",
-    "ingredients": "Aqua, Dibutyl Adipate, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Zinc Oxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Ethylhexyl Methoxycinnamate, Cetearyl Alcohol, Disodium Cetearyl Sulfosuccinate, Glycerin, Sorbitol, Panthenol, Beta-Glucan, Lactobacillus Ferment Lysate, Chamomilla Recutita (Matricaria) Flower/Leaf Extract, Sodium Ascorbyl Phosphate, Propylene Glycol, Decyl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Tetrahydroxypropyl Ethylenediamine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin.",
-    "country": "Algeria",
+    "id": "KR-SUN-ARE-001",
+    "brand": "Arencia",
+    "name": "Deep Water Surge Sun Serum",
+    "country": "Korea",
     "category": {
       "id": "sunscreen",
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
-    "price": {
-      "min": 2950,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "sensitive_skin"
-    ],
+    "quantity": "",
+    "ingredients": "Water, Dibutyl Adipate, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Butylene Glycol, Niacinamide, Diisobutyl Adipate, Diethylhexyl Butamido Triazone, 1,2-Hexanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Caprylyl Methicone, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Panthenol, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Ceramide NP, Sodium Dna, Tripeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-9, Camellia Sinensis Leaf Extract, Oryza Sativa (Rice) Bran Extract, Chamomilla Recutita (Matricaria) Flower Extract, Pentylene Glycol, Behenyl Alcohol, Poly C10-30 Alkyl Acrylate, Silica, Polyglyceryl-6 Stearate, Decyl Glucoside, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate Crosspolymer-11, Sodium Stearoyl Glutamate, Polyglyceryl-6 Behenate, Ethylhexylglycerin, Adenosine, Glycerin, Xanthan Gum, Tocopherol, Hydrogenated Lecithin, PEG-10 Rapeseed Sterol, Dipropylene Glycol, Oryza Sativa (Rice) Extract, Glyceryl Stearate, Glycerol, Steareth-20, Lactobacillus/Rice Ferment, Caprylyl Glycol, Centella Asiatica Extract, Disodium EDTA, Bromelain, Oryzanol, Papain, Protease, Lipase, Kojic Dipalmitate",
+    "image": "https://incidecoder-content.storage.googleapis.com/d1fce6b1-7784-4a75-a9d4-74bbf8eb53e0/products/arencia-deep-water-surge-sun-serum/arencia-deep-water-surge-sun-serum_front_photo_original.jpeg",
     "marketingClaims": [
       "حماية من الشمس",
       "حماية واسعة الطيف",
-      "مرطب للبشرة",
-      "للبشرة الحساسة"
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
     ]
   },
   {
-    "id": "DZ-SSE-AVU-002",
-    "brand": "AVURE",
-    "name": "Niacinamide 10% - Sérum Anti-imperfections",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785793153/wx3zffmd1xe26zbkzeqn.jpg",
-    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, PELARGONIUM GRAVEOLENS FLOWER WATER, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, SODIUM HYALURONATE, PANTHENOL, DEHYDROACETIC ACID, BENZYL ALCOHOL, TOCOPHEROL.",
-    "country": "Algeria",
+    "id": "KR-SSE-ARE-003",
+    "brand": "Arencia",
+    "name": "Nad+ Booster Shot",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Dimethicone, Triethylhexanoin, Diphenyl Dimethicone, Methylpropanediol, Cetearyl Alcohol, Cetearyl Olivate, 1,2-Hexanediol, Niacinamide, Squalane, Hydrogenated Polydecene, Sorbitan Olivate, Glyceryl Stearate, Xylitol, Panthenol, Sodium Polyacrylate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Butylene Glycol, Hydroxypropyl Cyclodextrin, Polyisobutene, Ethylhexylglycerin, Guaiazulene, Adenosine, Coco-Caprylate/Caprate, Disodium EDTA, Resveratrol, Sorbitan Oleate, Cyanocobalamin, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Vitis Vinifera (Grape) Fruit Extract, Adenosine Triphosphate, Nicotinamide Adenine Dinucleotide(5,000 Ppb), Nicotinamide Mononucleotide, Caprylic/Capric Triglyceride, Adansonia Digitata Seed Oil, Ceramide NP, Hydrolyzed Elastin, Polyglyceryl-10 Laurate, Acetyl Hexapeptide-8, Ceramide NS, Collagen, Hydrolyzed Keratin, Ceramide AS, Tripeptide-1, Ceramide AP, Ceramide EOP, Sodium Hyaluronate, Copper Tripeptide-1, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-5, Hexapeptide-11, Hexapeptide-9, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tripeptide-5",
+    "image": "https://incidecoder-content.storage.googleapis.com/1ff125c7-f2ae-45f3-961b-d9518ec76549/products/arencia-nad-booster-shot/arencia-nad-booster-shot_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-006",
+    "brand": "Arencia",
+    "name": "Fresh Rosehip Rice Mochi Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Sodium Cocoyl Isethionate, Water, Sodium Cocoyl Glycinate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Powder, Aloe Barbadensis Leaf Extract, Rosa Canina Fruit Extract, Chamomilla Recutita (Matricaria) Extract, 1,2-Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Cellulose, Oryza Sativa (Rice) Powder, Sodium Isethionate, Pyrus Malus (Apple) Fiber, Glyceryl Stearates, Hydroxypropyl Starch Phosphate, Propanediol, Sodium Chloride, Xanthan Gum, Gardenia Florida Fruit Extract, Dextrin, Fragrance, Caprylyl Glycol, Ethylglycerin, Disodium EDTA, Sodium Cocoyl Apple Amino Acids, Hexylene Glycol, Tetrasodium Glutamate Diacetate",
+    "image": "https://incidecoder-content.storage.googleapis.com/1a7b19e7-518b-43f8-bc6e-b73dd6fc794a/products/arencia-fresh-rosehip-rice-mochi-cleanser/arencia-fresh-rosehip-rice-mochi-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-SSE-ARE-004",
+    "brand": "Arencia",
+    "name": "PDRN Booster Shot",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Methylpropanediol, Butylene Glycol, Propanediol, Niacinamide, Polyglycerin-3, Caprylic/Capric Triglyceride, Cetyl Ethylhexanoate, Hydrogenated Polydecene, 1,2-Hexanediol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Cetearyl Olivate, Hydroxyacetophenone, Sodium Polyacrylate, Sorbitan Olivate, Coptis Japonica Root Extract, Ethylhexylglycerin, Xanthan Gum, Adenosine, Disodium EDTA, Glyceryl Acrylate/Acrylic Acid Copolymer, Cyanocobalamin, Hydrolyzed Gardenia Florida Extract, Hydrolyzed Malt Extract, Hydrolyzed Viola Tricolor Extract, Sodium Dna, Panthenol, Glyceryl Glucoside, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Citrullus Lanatus (Watermelon) Fruit Extract, Ceramide NP, Hydrogenated Lecithin, Collagen, Hydroxypropyltrimonium Hyaluronate, Acetyl Hexapeptide-8, Copper Tripeptide-1, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Hexapeptide-9, Nonapeptide-1, Palmitoyl Hexapeptide-12, Palmitoyl Pentapeptide-4, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Tripeptide-5, Pentapeptide-3, Tripeptide-1, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/2bd4829e-6d80-4ee0-a5f7-63daa41937e5/products/arencia-pdrn-booster-shot/arencia-pdrn-booster-shot_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تهدئة البشرة",
+      "تفتيح البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-TON-ARE-001",
+    "brand": "Arencia",
+    "name": "PDRN Hyaluronic Deep Hydration Pad",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, Niacinamide, Glycerin, 1,2-Hexanediol, Ethylhexylglycerin, Xanthan Gum, Adenosine, Dextrin, Disodium EDTA, Gardenia Florida Fruit Extract, Zea Mays (Corn) Kernel Extract, Xylitol, Sodium Polyacrylate, Glyceryl Glucoside, Carthamus Tinctorius (Safflower) Flower Extract, Hyaluronic Acid, Camellia Sinensis Leaf Extract, Pantothenic Acid, Fructan, Glucose, Caffeine, Xylose, Beta-Glucan, Centella Asiatica Extract, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Epigallocatechin Gallate, Pinus Pinaster Bark Extract, Potassium Hyaluronate, Sodium Dna, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside",
+    "image": "https://incidecoder-content.storage.googleapis.com/1abca370-0760-4076-9909-60608647c6eb/products/arencia-pdrn-hyaluronic-deep-hydration-pad/arencia-pdrn-hyaluronic-deep-hydration-pad_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-007",
+    "brand": "Arencia",
+    "name": "Pore Melt Mochi Cleansing Oil",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Ethylhexyl Stearate, Sorbeth-30 Tetraoleate, Sorbitan Sesquioleate, Polyisobutene, Rosmarinus Officinalis (Rosemary) Leaf Oil, Ethylhexyl-Glycerin, Caprylyl Glycol, Persea Gratissima (Avoca Do) Oil, Lactobacillus Ferment Lysate, Butyrospermum Parkii (Shea) Butter Extract, Water, Butylene Glycol, Olea Europaea (Olive) Fruit Oil, Tocopherol, Glycerin, Caprylic/Capric Triglyceride, Houttuynia Cordata Extract, Vigna Radiata Seed Extract, Propanediol, Oryza Sativa (Rice) Lees Extract, Pentylene Glycol, Camellia Sinensis Leaf Extract, 1,2-Hexanediol, Ceramide NP, Hydrogenated Lecithin, Oryza Sativa (Rice) Extract, Artemisia Capillaris Extract, Centella Asiatica Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Rice Amino Acids",
+    "image": "https://incidecoder-content.storage.googleapis.com/7da94e70-b369-431a-ac47-fa6e7eb78015/products/arencia-pore-melt-mochi-cleansing-oil-2/arencia-pore-melt-mochi-cleansing-oil-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف عميق",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-008",
+    "brand": "Arencia",
+    "name": "Pore Melt Phyto PDRN Cleansing Balm",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Sorbeth-30 Tetraoleate, Cetyl Ethylhexanoate, Isopropyl Palmitate, Propylene Glycol Dicaprylate/Dicaprate, Triethylhexanoin, Synthetic Wax, Isohexadecane, Ethylhexyl Palmitate, Ethylhexyl Pelargonate, Zea Mays (Corn) Germ Oil, Silica Dimethyl Silylate, Butyrospermum Parkii (Shea) Butter, Water, Sorbitan Sesquioleate, Diisopropyl Sebacate, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Carthamus Tinctorius (Safflower) Flower Extract, Dextrin, Gardenia Florida Fruit Extract, Dimethyl Isosorbide, Artemisia Princeps Leaf Water, Camellia Sinensis Leaf Water, Butylene Glycol, Camellia Sinensis Leaf Extract, Sodium Dna, Ethylhexylglycerin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Benzotriazolyl Dodecyl P-Cresol, Malt Extract, Centella Asiatica Extract, Disodium EDTA, Houttuynia Cordata Extract, Protease, Ceramide NP, Panthenol, Glycerin, Beta-Glucan, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Mannitol, Papain, Bromelain",
+    "image": "https://incidecoder-content.storage.googleapis.com/916eaa3d-36bf-4b7f-b675-0e08cd4ae829/products/arencia-pore-melt-phyto-pdrn-cleansing-balm/arencia-pore-melt-phyto-pdrn-cleansing-balm_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-MSK-ARE-001",
+    "brand": "Arencia",
+    "name": "Blue Collagen Cryo Jello Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water/Aqua, Glycerin, Tripropylene Glycol, Cetyl Ethylhexanoate, Water/Aqua, Niacinamide, 1,2-Hexanediol, Ceratonia Siliqua (Carob) Gum, Chondrus Crispus Powder, Butylene Glycol, Propanediol, Hydroxyacetophenone, Trehalose, Chondrus Crispus Extract, Ethylhexyl Olivate, Cellulose Gum, Glyceryl Stearate, Xylitol, Sucrose, Sodium Acrylates Copolymer, Allantoin, Potassium Chloride, Panthenol, Glucomannan, Polyglyceryl-4 Oleate, Glyceryl Glucoside, Dextrin, Ethylhexylglycerin, Disodium EDTA, Adenosine, Methyl Diisopropyl Propionamide, Gardenia Florida Fruit Extract, Hydrolyzed Collagen, Squalane, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Hydrogenated Lecithin, Cetearyl Alcohol, Stearic Acid, Centella Asiatica Extract, Sodium Dna, Tocopherol, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Aloe Barbadensis Leaf Polysaccharides, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Ceramide NP, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate, Cholesterol, Phytosphingosine, Ceramide NG, Ceramide NS, Ceramide AP, Ceramide AS, Ceramide EOP",
+    "image": "https://incidecoder-content.storage.googleapis.com/946de184-9cf1-4820-ae93-931d5b8011f4/products/arencia-blue-collagen-cryo-jello-mask/arencia-blue-collagen-cryo-jello-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-TON-ARE-002",
+    "brand": "Arencia",
+    "name": "Pure Plant Extract Centella Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, 1,2-Hexanediol, Glycerin, Centella Asiatica Extract(8,987Ppm), Xanthan Gum, Sodium Phytate, Citric Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/70321fd6-5b73-45c4-a8e6-378b274716c0/products/arencia-pure-plant-extract-centella-toner/arencia-pure-plant-extract-centella-toner_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-009",
+    "brand": "Arencia",
+    "name": "Rice + Lha Pore Control Rice Cake Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Sodium Cocoyl Glycinate, Coconut Acid, Sodium Isethionate, Hydroxyacetophenone, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Xanthan Gum, Polyquaternium-67, Houttuynia Cordata Powder, Coptis Japonica Extract, Butylene Glycol, Ethylhexylglycerin, Disodium EDTA, Salicylic Acid, Allantoin, Panthenol, Niacinamide, Oryza Sativa (Rice) Bran Water (97Ppm), Theobroma Cacao (Cocoa) Seed Extract, Rice Ferment Filtrate (Sake) (60Ppm), Dextrin, Capryloyl Salicylic Acid (10Ppm), 1,2-Hexanediol, Oryza Sativa (Rice) Lees Extract (5Ppm), Oryza Sativa (Rice) Extract (3Ppm), Pearl Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/d5b3e750-0832-4efc-bd8a-48e9bdbcd303/products/arencia-rice-lha-pore-control-rice-cake-cleanser/arencia-rice-lha-pore-control-rice-cake-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تقشير لطيف",
+      "توازن الدهون والزيوت",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-SUN-ARE-002",
+    "brand": "Arencia",
+    "name": "Deep Water Surge Sun Serum SPF 50+ PA++++",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dibutyl Adipate, Propanediol, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Ethylhexyl Triazone, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Butylene Glycol, Niacinamide, Diisobutyl Adipate, Diethylhexyl Butamido Triazone, 1,2-Hexanediol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Caprylyl Methicone, C12-15 Alkyl Benzoate, Diisopropyl Sebacate, Panthenol, Sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Ceramide NP, Sodium Dna, Tripeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-9, Camellia Sinensis Leaf Extract, Oryza Sativa (Rice) Lees Extract, Anthemis Nobilis Flower Extract, Pentylene Glycol, Behenyl Alcohol, Poly C10-30 Alkyl Acrylate, Silica, Polyglyceryl-6 Stearate, Decyl Glucoside, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Polyacrylate Crosspolymer-11, Sodium Stearoyl Glutamate, Polyglyceryl-6 Behenate, Ethylhexylglycerin, Adenosine, Glycerin, Xanthan Gum, Tocopherol, Hydrogenated Lecithin, PEG-10 Rapeseed Sterol, Dipropylene Glycol, Oryza Sativa (Rice) Extract, Glyceryl Stearates, Glycereth-20, Lactobacillus/Rice Ferment, Caprylyl Glycol, Centella Asiatica Extract, Disodium EDTA, Bromelain, Oryzanol, Papain, Protease, Lipase, Kojic Dipalmitate",
+    "image": "https://incidecoder-content.storage.googleapis.com/5af028ee-424b-484f-b6f7-88baa3fe4ed4/products/arencia-deep-water-surge-sun-serum-2/arencia-deep-water-surge-sun-serum-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-LOT-ARE-002",
+    "brand": "Arencia",
+    "name": "Red Smoothie Lotion",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "5 ml",
+    "ingredients": "Water, Glycerin, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetyl Ethylhexanoate, Carbomer, C12-20 Alkyl Glucoside, Tromethamine, Adenosine, Eclipta Prostrata Extract, Butylene Glycol, Melia Azadirachta Leaf Extract, Avena Sativa (Oat) Kernel Extract, Moringa Oleifera Seed Oil, Polyglyceryl-10 Laurate, Hydrolyzed Collagen, Beta-Glucan, Punica Granatum Fruit Extract, Prunus Serotina (Wild Cherry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Ethylhexylglycerin, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-5, Copper Tripeptide-1, Hexapeptide-11, Hexapeptide-9, Palmitoyl Tripeptide-5",
+    "image": "https://incidecoder-content.storage.googleapis.com/46858283-6956-4449-9393-5e96e0b37aa2/products/arencia-red-smoothie-lotion-5/arencia-red-smoothie-lotion-5_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-EYE-ARE-001",
+    "brand": "Arencia",
+    "name": "Retinal Boosting Eye Patch With Peptides",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Dipropylene Glycol, Niacinamide, Ceratonia Siliqua (Carob) Gum, Methylpropanediol, Chondrus Crispus Powder, Betaine, Chondrus Crispus, Panthenol, Cellulose Gum, Hydroxyacetophenone, Sodium Polyacrylate, Caprylyl Glycol, Potassium Chloride, Polyglyceryl-10 Laurate, Allantoin, Sodium Phytate, Ethylhexylglycerin, Sucrose, Adenosine, Pantolactone, Dipotassium Glycyrrhizate, Ectoin, Caffeine, Dextrin, Gardenia Florida Fruit Extract, Theobroma Cacao (Cocoa) Extract, Retinal, Ceramide NP, Butylene Glycol, 1,2-Hexanediol, Oryza Sativa (Rice) Extract, Sodium Dna, Sodium Hyaluronate, Tripeptide-1, Hydrolyzed Rice Protein, Acetyl Tetrapeptide-2, Acetyl Tetrapeptide-5, Copper Tripeptide-1, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-11, Hexapeptide-9, Glycine, Glutamic Acid, Arginine, Collagen Extract, Palmitoyl Tripeptide-5",
+    "image": "https://incidecoder-content.storage.googleapis.com/e7fc4796-1eed-4b41-b120-ba49ae813ab2/products/arencia-retinal-boosting-eye-patch-with-peptides-for-dark-circles-puffiness-and-fine-lines/arencia-retinal-boosting-eye-patch-with-peptides-for-dark-circles-puffiness-and-fine-lines_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SUN-ARE-003",
+    "brand": "Arencia",
+    "name": "Cloud Sun Stick SPF 50+ PA++++",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Coco-Caprylate/Caprate, Methyl Methacrylate Crosspolymer, Synthetic Wax, Caprylyl Methicone, Dibutyl Adipate, Butyloctyl Salicylate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Microcrystalline Wax, Ethylhexyl Triazone, Tocopheryl Acetate, Ozokerite, Polysilicone-15, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Triethoxycaprylylsilane, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Bisabolol, Caprylyl Glycol, Glyceryl Caprylate, Ethylhexylglycerin, Tocopherol, Water, Panthenol, BHT, Hydrogenated Lecithin, Butylene Glycol, Ceramide NP, PEG-10 Rapeseed Sterol, 1,2-Hexanediol, Dipropylene Glycol, Oryza Sativa (Rice) Extract, Glyceryl Stearate, Glycereth-20, Glycerin, Camellia Sinensis Leaf Extract, Sodium Hyaluronate, Oryza Sativa (Rice) Lees Extract, Anthemis Nobilis Flower Extract, Lactobacillus/Rice Ferment, Centella Asiatica Extract, Sodium Dna, Hydrolyzed Hyaluronic Acid, Disodium EDTA, Sodium Acetylated Hyaluronate, Tripeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-9, Bromelain, Oryzanol, Papain, Protease, Lipase, Kojic Dipalmitate",
+    "image": "https://incidecoder-content.storage.googleapis.com/cae61dd7-d3d8-4d2f-8457-7d62814a6f4a/products/arencia-cloud-sun-stick/arencia-cloud-sun-stick_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ARE-005",
+    "brand": "Arencia",
+    "name": "Deep Water Surge Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "31 ml",
+    "ingredients": "Water, Propanediol, Glycereth-26, Glycerin, Sodium Hyaluronate, Niacinamide, 1,2-Hexanediol, Butylene Glycol, Ethylhexylglycerin, Polyglyceryl-10 Myristate, Adenosine, Polyglyceryl-10 Laurate, Dextrin, Panthenol, Betaine, Gardenia Florida Fruit Extract, Camellia Sinensis Leaf Extract, Oryza Sativa (Rice) Lees Extract, Aloe Barbadensis Extract, Salix Alba (Willow) Extract, Melissa Officinalis Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Pvm/Ma Copolymer, Caprylic/Capric Triglyceride, Hydrogenated Lecithin, Polyglyceryl-10 Oleate, Ceramide NP, Hydrolyzed Dna, Copper Tripeptide-1, Acetyl Hexapeptide-8, Glycosphingolipids, Sodium Ascorbyl Phosphate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Disodium EDTA, Pentylene Glycol, Palmitoyl Pentapeptide-4, Sodium Acetylated Hyaluronate, Tripeptide-1, Palmitoyl Tripeptide-1, Oligopeptide-1, Oligopeptide-2, Palmitoyl Tetrapeptide-7, Hexapeptide-9",
+    "image": "https://incidecoder-content.storage.googleapis.com/ebd23736-b247-446e-aad1-e14fbe3f7c62/products/arencia-deep-water-surge-serum-31/arencia-deep-water-surge-serum-31_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-SSE-ARE-006",
+    "brand": "Arencia",
+    "name": "Deep Water Surge Serum",
+    "country": "Korea",
     "category": {
       "id": "skin_serum",
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
     "quantity": "30 ml",
-    "price": {
-      "min": 2850,
-      "currency": "DZD",
-      "max": null
-    },
-    "targetTypes": [],
+    "ingredients": "Purified Water, Butylene Glycol, Glycerin, Propanediol, Niacinamide, 1,2-Hexanediol, Ammonium Acryloyldimethyl Taurate/VP Copolymer, Arginine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Green Tea Extract, Rice Lees Extract, Aloe Vera Extract, Licorice Extract, Ethylhexylglycerin, Polyglyceryl-10 Myristate, Adenosine, Polyglyceryl-10 Laurate, Sodium Hyaluronate, Dextrin, Glyceryl Acrylate/Acrylic Acid Copolymer, Pvm/Ma Copolymer, Panthenol, Betaine, Gardenia Extract, Caprylic/Capric Triglyceride, Hydrogenated Lecithin, Polyglyceryl-10 Oleate, Glycine, Ceramide NP, Serine, Glutamic Acid, Asparagine, Squalane, Hydrolyzed Dna, Aspartic Acid, Leucine, Copper Tripeptide-1, Acetyl Hexapeptide-8, Glycosphingolipids, Alanine, Lysine, Sodium Ascorbyl Phosphate, Tyrosine, Phenylalanine, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Threonine, Proline, Valine, Isoleucine, Disodium EDTA, Histidine, Methionine, Cysteine, Glutamine, Tryptophan, Pentylene Glycol, Palmitoyl Pentapeptide-4, Sodium Acetylated Hyaluronate, Tripeptide-1, Palmitoyl Tripeptide-1, Oligopeptide-1, Oligopeptide-2, Palmitoyl Tetrapeptide-7, Hexapeptide-9",
+    "image": "https://incidecoder-content.storage.googleapis.com/aeefb394-1fbb-4c84-a1f6-069a4cfc29e6/products/arencia-deep-water-surge-serum-30/arencia-deep-water-surge-serum-30_front_photo_original.jpeg",
     "marketingClaims": [
-      "توحيد لون البشرة",
       "مرطب للبشرة",
-      "توازن الدهون والزيوت"
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
     ]
   },
   {
-    "id": "DZ-SHA-SWA-001",
-    "brand": "Swalis",
-    "name": "Swalis Intense Care (Kératine + Jojoba) :",
-    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1786134397/p3j8lnwimm9dqcjwn4y1.jpg",
-    "ingredients": "Aqua, Coco-Glucoside, Decyl Glucoside, Cocamidopropyl Betaine, Polyquaternium-7, Panthenol, Glycerin, PEG-7 Glyceryl Cocoate, Citric Acid, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Keratin, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Benzoate, Potassium Sorbate, Fragrance.",
-    "country": "Algeria",
+    "id": "KR-SUN-ARE-004",
+    "brand": "Arencia",
+    "name": "Cloudy Sun Stick",
+    "country": "Korea",
     "category": {
-      "id": "shampoo",
-      "label": "شامبو",
-      "icon": "spa"
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
     },
-    "quantity": "250 ml",
-    "price": {
-      "min": 330,
-      "max": null,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "شعر جاف"
-    ],
+    "quantity": "",
+    "ingredients": "Coco-Caprylate/Caprate, Methyl Methacrylate Crosspolymer, Synthetic Wax, Caprylyl Methicone, Dibutyl Adipate, Butyloctyl Salicylate, Silica, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Microcrystalline Wax, Ethylhexyl Triazone, Tocopheryl Acetate, Polysilicone-15, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Ceramide NP, Sodium Dna, Tocopherol, Panthenol, Tripeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-9, Camellia Sinensis Leaf Extract, Oryza Sativa (Rice) Extract, Oryza Sativa (Rice) Lees Extract, Anthemis Nobilis (Chamomile) Flower Extract, Triethoxycaprylylsilane, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Alpha-Bisabolol, Caprylyl Glycol, Glyceryl Caprylate, Ethylhexylglycerin, Purified Water, BHT, Hydrogenated Lecithin, Butylene Glycol, Peg 10 Grape Seed Sterol, 1,2-Hexanediol, Dipropylene Glycol, Glyceryl Stearate, Glycereth-20, Glycerin, Lactobacillus/Rice Fermentation, Centella Asiatica Extract, Disodium EDTA, Bromelain, Oryzanol, Papain, Protease, Lipase, Kojic Dipalmitate",
+    "image": "https://incidecoder-content.storage.googleapis.com/460324f9-d84d-4a87-be90-4df63ca479ff/products/arencia-cloudy-sun-stick/arencia-cloudy-sun-stick_front_photo_original.jpeg",
     "marketingClaims": [
-      "مخصص للشعر الجاف"
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-ARE-010",
+    "brand": "Arencia",
+    "name": "Green Artisan's Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Sodium Cocoyl Isethionate, Hamamelis Virginiana (Witch Hazel) Extract, Water, Sodium Cocoyl Glycinate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Powder, 1,2-Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Cellulose, Oryza Sativa (Rice) Powder, Sodium Isethionate, Hydroxypropyl Starch Phosphate, Glyceryl Stearate, Propanediol, Sodium Chloride, Dextrin, Xanthan Gum, Camellia Sinensis Leaf Powder, Fragrance, Gardenia Florida Fruit Extract, Caprylyl Glycol, Ethylhexylglycerin, Disodium EDTA, Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Simmondsia Chinensis (Jojoba) Seed Oil, Olea Europaea (Olive) Fruit Oil, Portulaca Oleracea Extract, Camellia Sinensis Leaf Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Oryza Sativa (Rice) Extract, Centella Asiatica Extract, Vigna Radiata Seed Extract, Ficus Carica (Fig) Fruit Extract, Nelumbo Nucifera Leaf Extract, Saururus Chinensis Extract, Dipropylene Glycol, Lupinus Albus Seed Extract, Anthemis Nobilis Flower Extract, Sodium Hyaluronate, Adansonia Digitata Fruit Extract, Salix Alba (Willow) Bark Extract, Origanum Vulgare Leaf Extract, Chamaecyparis Obtusa Leaf Extract, Caulerpa Lentillifera Extract, Rosa Canina Fruit Extract, Scutellaria Baicalensis Root Extract, Lactobacillus/Soybean Ferment Extract, Cinnamomum Cassia Bark Extract, Lycium Chinense Fruit Extract, Tocopherol, Hexyl Cinnamal",
+    "image": "https://incidecoder-content.storage.googleapis.com/ec9396a4-3270-4aef-9499-53375572a57f/products/arencia-green-artisans-cleanser/arencia-green-artisans-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-ARE-011",
+    "brand": "Arencia",
+    "name": "Fresh Royal Rosehip Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Sodium Cocoyl Isethionate, Sodium Cocoyl Glycinate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, 1,2- Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Cellulose, Oryza Sativa (Rice) Powder, Sodium Isethionate, Pyrus Malus (Apple) Fiber, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Propanediol, Sodium Chloride, Xanthan Gum, Fragrance, Gardenia Florida Fruit Extract, Caprylyl Glycol, Dextrin, Ethylhexylglycerin, Disodium EDTA, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Extract, Rosa Canina Fruit Extract(55Ppm), Sodium Cocoyl Apple Amino Acids, Hexylene Glycol, Tetrasodium Glutamate Diacetate",
+    "image": "https://incidecoder-content.storage.googleapis.com/b90b0950-6303-4db1-b89a-46ba6a050436/products/arencia-fresh-royal-rosehip-cleanser-2/arencia-fresh-royal-rosehip-cleanser-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-MSK-ARE-002",
+    "brand": "Arencia",
+    "name": "Holy Hyssop Sheet Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Glycerin, Dipropylene Glycol, Niacinamide, 1,2-Hexanediol, Hydroxyacetophenone, Carbomer, Sodium Polyacrylate, Tromethamine, Glyceryl Acrylate/Acrylic Acid Copolymer, Adenosine, Xanthan Gum, Pvm/Ma Copolymer, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Hyssopus Officinalis Extract, Melia Azadirachta Flower Extract, Ethylhexylglycerin, 3-O-Ethyl Ascorbic Acid, Sodium Ascorbyl Phosphate, Ascorbic Acid, Ascorbyl Glucoside, Tocopherol, Panthenol, Pyridoxine, Corchorus Olitorius Leaf Extract, Angelica Keiskei Extract, Nelumbo Nucifera Root Extract, Hibiscus Esculentus Fruit Extract, Dioscorea Japonica Root Extract, Linum Usitatissimum (Linseed) Seed Extract, Oryza Sativa (Rice) Extract, Hydrogenated Lecithin, Ceramide NP, Glycosphingolipids, Acetyl Hexapeptide-8, Copper Tripeptide-1, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Pentylene Glycol, Sodium Acetylated Hyaluronate, Palmitoyl Pentapeptide-4, Oligopeptide-1, Oligopeptide-2",
+    "image": "https://incidecoder-content.storage.googleapis.com/21fc72fc-204e-4fd7-a04a-93d0e9056760/products/arencia-holy-hyssop-sheet-mask/arencia-holy-hyssop-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "تفتيح البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-012",
+    "brand": "Arencia",
+    "name": "Fresh Green Rice Mochi Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Sodium Cocoyl Glycinate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, 1,2-Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Cellulose, Oryza Sativa (Rice) Powder, Sodium Isethionate, Hamamelis Virginiana (Witch Hazel) Extract, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Propanediol, Sodium Chloride, Xanthan Gum, Camellia Sinensis Leaf Powder, Dextrin, Fragrance, Gardenia Florida Fruit Extract, Caprylyl Glycol, Hexyl Cinnamal, Ethylhexylglycerin, Disodium EDTA, Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Olea Europaea (Olive) Fruit Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Dipropylene Glycol, Lupinus Albus Seed Extract, Portulaca Oleracea Extract, Adansonia Digitata Fruit Extract, Centella Asiatica Extract, Sodium Hyaluronate, Origanum Vulgare Leaf Extract, Anthemis Nobilis Flower Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Chamaecyparis Obtusa Leaf Extract, Salix Alba (Willow) Bark Extract, Caulerpa Lentillifera Extract, Rosa Canina Fruit Extract, Camellia Sinensis Leaf Extract, Lactobacillus/Soybean Ferment Extract, Saururus Chinensis Extract, Nelumbo Nucifera Leaf Extract, Cinnamomum Cassia Bark Extract, Scutellaria Baicalensis Root Extract, Oryza Sativa (Rice) Extract, Ficus Carica (Fig) Fruit Extract, Lycium Chinense Fruit Extract, Vigna Radiata Seed Extract, Tocopherol",
+    "image": "https://incidecoder-content.storage.googleapis.com/7437a258-a8be-484e-95d0-a4fc888a0e5e/products/arencia-fresh-green-rice-mochi-cleanser/arencia-fresh-green-rice-mochi-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-ARE-013",
+    "brand": "Arencia",
+    "name": "Pore Melt Mochi Cleansing Oil",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Ethylhexyl Stearate, Sorbeth-30 Tetraoleate, Sorbitan Sesquioleate, Polyisobutene, Rosemary Leaf Oil, Ethylhexylglycerin, Caprylyl Glycol, Avocado Oil, Lactobacillus Ferment, Shea Butter Extract, Purified Water, Butylene Glycol, Olive Oil, Tocopherol, Glycerin, Caprylic/Capric Triglyceride, Medicinal Wheat Extract, Mung Bean Extract, Propanediol, Rice, Cabbage Extract, Pentylene Glycol, Green Tea Extract, 1,2-Hexanediol, Ceramide NP, Hydrogenated Lecithin, Rice Extract, Mugwort Extract, Centella Asiatica Extract, Tea Tree Leaf Extract, Rice Amino Acids",
+    "image": "https://incidecoder-content.storage.googleapis.com/0b9aa051-0f07-4481-97f6-bf7416147a57/products/arencia-pore-melt-mochi-cleansing-oil/arencia-pore-melt-mochi-cleansing-oil_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-014",
+    "brand": "Arencia",
+    "name": "L’aromatique Calendula Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Sodium Cocoyl Glycinate, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, 1,2- Hexanediol, Coconut Acid, Sodium Methyl Cocoyl Taurate, Cellulose, Oryza Sativa (Rice) Powder, Sodium Isethionate, Pyrus Malus (Apple) Fiber, Hamamelis Virginiana (Witch Hazel) Extract, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Sodium Chloride, Xanthan Gum, Fragrance, Gardenia Florida Fruit Extract, Ethylhexylglycerin, Dextrin, Disodium EDTA, Calendula Officinalis Extract(1Ppm), Houttuynia Cordata Extract, Opuntia Ficus-Indica Stem Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/4effc43e-8183-4879-a5fd-9f020a9245c6/products/arencia-laromatique-calendula-cleanser/arencia-laromatique-calendula-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-015",
+    "brand": "Arencia",
+    "name": "Rice Mucin Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Sodium Cocoyl Glycinate, Coconut Acid, Sodium Methyl Cocoyl Taurate, 1,2-Hexanediol, Oryza Sativa (Rice) Powder, Sodium Isethionate, Hydroxypropyl Starch Phosphate, Glyceryl Stearate, Sodium Chloride, Xanthan Gum, Polyquaternium-67, Propanediol, Coptis Japonica Extract, Ethylhexylglycerin, Butylene Glycol, Disodium EDTA, Theobroma Cacao (Cocoa) Seed Extract, Oryza Sativa (Rice) Extract, Snail Secretion Filtrate, Dextrin, Oryza Sativa (Rice) Bran Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/4dcb0a30-0593-4128-a0e1-91c19743e718/products/arencia-rice-mucin-cleanser/arencia-rice-mucin-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-SSE-ARE-007",
+    "brand": "Arencia",
+    "name": "Holy Hyssop Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "12 ml",
+    "ingredients": "Water, Butylene Glycol, Dipropylene Glycol, Niacinamide, Propanediol, Glycerin, Arbutin, 1,2-Hexanediol, Methylpropanediol, Arginine, Carbomer, Dextrin, Ethylhexylglycerin, Adenosine, Gardenia Florida Fruit Extract, Glyceryl Acrylate/Acrylic Acid Copolymer, Kojic Acid, Pvm/Ma Copolymer, Hyssopus Officinalis Extract, Sodium Hyaluronate, Linum Usitatissimum (Linseed) Seed Extract, Oryza Sativa (Rice) Extract, 3-O-Ethyl Ascorbic Acid, Sodium Ascorbyl Phosphate, Ascorbic Acid, Ascorbyl Glucoside, Tocopherol, Panthenol, Pyridoxine, Corchorus Olitorius Leaf Extract, Angelica Keiskei Extract, Nelumbo Nucifera Root Extract, Hibiscus Esculentus Fruit Extract, Dioscorea Japonica Root Extract, Hydrogenated Lecithin, Acetyl Hexapeptide-8, Copper Tripeptide-1, Ceramide NP, Glycosphingolipids, Palmitoyl Pentapeptide-4, Oligopeptide-1, Oligopeptide-2",
+    "image": "https://incidecoder-content.storage.googleapis.com/cb27dc09-36bd-4a71-bc7c-35c02847fb88/products/arencia-holy-hyssop-serum-12/arencia-holy-hyssop-serum-12_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ARE-008",
+    "brand": "Arencia",
+    "name": "Red Smoothie Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "8 ml",
+    "ingredients": "Water, Glycerin, Niacinamide, Butylene Glycol, Dipropylene Glycol, Isononyl Isononanoate, Arbutin, 1,2-Hexanediol, Polyglyceryl-10 Myristate, Polyglyceryl-10 Laurate, Arginine, Carbomer, Gardenia Florida Fruit Extract, Dextrin, Ethylhexylglycerin, Glyceryl Acrylate/Acrylic Acid Copolymer, Adenosine, Pvm/Ma Copolymer, Disodium EDTA, Allantoin, Xanthan Gum, Ferulic Acid, Saccharomyces/Rice Ferment Filtrate, Beta Vulgaris (Beet) Root Extract, Vaccinium Vitis-Idaea Fruit Extract, Panax Ginseng Berry Extract, Rosa Gallica Flower Extract, Hibiscus Sabdariffa Flower Extract, Rosa Canina Fruit Extract, Hexapeptide-2, Soluble Collagen, Hydrolyzed Dna, Biotin, 3-O-Ethyl Ascorbic Acid, Sodium Ascorbyl Phosphate, Ascorbic Acid, Ascorbyl Glucoside, Tocopherol, Panthenol, Pyridoxine",
+    "image": "https://incidecoder-content.storage.googleapis.com/a7af7d5f-2b92-458e-a9f8-6895babc0607/products/arencia-red-smoothie-serum-8/arencia-red-smoothie-serum-8_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-LOT-ARE-003",
+    "brand": "Arencia",
+    "name": "Deep Water Surge Soothing Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, C18-21 Alkane, 1,2-Hexanediol, Niacinamide, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-3 Methylglucose Distearate, Butylene Glycol, Panthenol, Sodium Carbomer, Hydroxyacetophenone, Ethylhexylglycerin, Adenosine, Trisodium Ethylenediamine Disuccinate, Hydrogenated Lecithin, Ceramide NP, Malachite Extract, Arginine, PEG-10 Rapeseed Sterol, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Dipropylene Glycol, Oryza Sativa (Rice) Extract, Glyceryl Stearate, Glycereth-20, Camellia Sinensis Leaf Extract, Oryza Sativa (Rice) Lees Extract, Anthemis Nobilis Flower Extract, Tocopherol, Hydrolyzed Hyaluronic Acid, Lactobacillus/Rice Ferment, Caprylyl Glycol, Centella Asiatica Extract, Sodium Dna, Sodium Acetylated Hyaluronate, Disodium EDTA, Tripeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-9, Bromelain, Oryzanol, Papain, Protease, Lipase, Kojic Dipalmitate",
+    "image": "https://incidecoder-content.storage.googleapis.com/b80e2d67-1b57-4840-b0af-43030f4ad211/products/arencia-deep-water-surge-soothing-cream/arencia-deep-water-surge-soothing-cream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-MSK-ARE-003",
+    "brand": "Arencia",
+    "name": "Honey Glazed Collagen Lip Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Diisostearyl Malate, Hydrogenated Polyisobutene, Polyisobutene, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate, Microcrystalline Wax, Euphorbia Cerifera (Candelilla) Wax, Caprylyl Glycol, Ethylhexylglycerin, Eclipta Prostrata Extract, Butylene/Ethylene/Styrene Copolymer, Fragrance, Melia Azadirachta Leaf Extract, Tocopherol, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Moringa Oleifera Seed Oil, Squalane, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Water, Rosa Canina Fruit Oil, Ceramide NP, Dipropylene Glycol, Hydrogenated Lecithin, 1,2-Hexanediol, Hydrolyzed Collagen, Ceramide NS, Ceramide AS, Ceramide AP, Cholesterol, Honey Extract, Ceramide EOP",
+    "image": "https://incidecoder-content.storage.googleapis.com/f59e09a7-dda4-4be9-b9ab-2ee40364d160/products/arencia-honey-glazed-collagen-lip-mask/arencia-honey-glazed-collagen-lip-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-CLE-ARE-016",
+    "brand": "Arencia",
+    "name": "Black Tea & Yuzu Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Prunus Amygdalus Dulcis (Sweet Aimond) Seed Meal, Sodium Cocoyl Glycinate, Charcoal Powder, Coconut Acid, Sodium Methyl Cocoyl Taurate, 1,2-Hexanediol, Kaolin, Sodium Isethionate, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Citrus Limon (Lemon) Peel Oil, Sodium Chloride, Xanthan Gum, Limonene, Ethylhexylglycerin, Butylene Glycol, Citrus Junos Fruit Extract (300Ppm), Camellia Sinensis Leaf Extract(10Ppm)",
+    "image": "https://incidecoder-content.storage.googleapis.com/429a672d-57cb-4014-81ba-610af7666a93/products/arencia-black-tea-yuzu-cleanser/arencia-black-tea-yuzu-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-TON-ARE-003",
+    "brand": "Arencia",
+    "name": "Eraser Shot Glycolic Acid Exfoliator",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycolic Acid, Propanediol, Sodium Hydroxide, Butylene Glycol, Glycerin, 1,2-Hexanediol, Hydroxyacetophenone, Glycereth-25 Pca Isostearate, Panthenol, Ethylhexylglycerin, Acacia Senegal Gum, Xanthan Gum, Allantoin, Hydrolyzed Gardenia Florida Extract, Hydrolyzed Malt Extract, Hydrolyzed Viola Tricolor Extract, Poloxamer 407, Centella Asiatica Leaf Water, Hamamelis Virginiana (Witch Hazel) Water, Theobroma Cacao (Cocoa) Seed Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Dextrin, Centella Asiatica Extract, Salicylic Acid, Asiaticoside, Madecassic Acid, Asiatic Acid, Houttuynia Cordata Extract, Sodium Hyaluronate Crosspolymer, Centella Asiatica Leaf Extract, Protease, Ascorbyl Glucoside, Glutathione, Niacinamide, Succinic Acid, Glucose, Papain, Madecassoside",
+    "image": "https://incidecoder-content.storage.googleapis.com/99633922-b6d9-42d6-ac87-dffd648584af/products/arencia-eraser-shot-glycolic-acid-exfoliator/arencia-eraser-shot-glycolic-acid-exfoliator_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-CLE-ARE-017",
+    "brand": "Arencia",
+    "name": "Fresh Lime Hibiscus Cleanser",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Water, Sodium Cocoyl Isethionate, Sodium Cocoyl Glycinate, Coconut Acid, 1,2-Hexanediol, Sodium Methyl Cocoyl Taurate, Sodium Isethionate, Hamamelis Virginiana (Witch Hazel) Extract, Glyceryl Stearate, Hydroxypropyl Starch Phosphate, Fragrance, Sodium Chloride, Xanthan Gum, Dextrin, Gardenia Florida Fruit Extract, Ethylhexylglycerin, Disodium EDTA, Lavandula Angustifolia (Lavender) Extract, Punica Granatum Fruit Extract, Hibiscus Sabdariffa Flower Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/7f846cc0-8bcd-4e94-b8c3-f8b124ee1829/products/arencia-fresh-lime-hibiscus-cleanser/arencia-fresh-lime-hibiscus-cleanser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ARE-009",
+    "brand": "Arencia",
+    "name": "Retinal Booster Shot",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Methylpropanediol, Butylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Cetyl Ethylhexanoate, Cetearyl Olivate, Polyglyceryl-3 Methylglucose Distearate, Diisostearyl Malate, Sodium Polyacrylate, Sorbitan Olivate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine, Macadamia Ternifolia Seed Oil, Hydrogenated Lecithin, Ethylhexylglycerin, Adenosine, Gardenia Florida Fruit Extract, Xanthan Gum, Cholesterol, Polyglyceryl-10 Laurate, Allantoin, Retinal(200Ppm), Silica, Brassica Campestris (Rapeseed) Sterols, Dextrin, Panthenol, Tocopherol, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Caffeine, Disodium EDTA, Ectoin, Bakuchiol, Ceramide NP, Centella Asiatica Extract, Glycosphingolipids, Palmitoyl Pentapeptide-4, Hexapeptide-2, Hexapeptide-9, Tripeptide-1, Pentapeptide-3, Palmitoyl Tripeptide-1, Palmitoyl Tripeptide-5, Acetyl Hexapeptide-8, Copper Tripeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/ff749d27-399c-4388-8327-ba402c99263e/products/arencia-retinal-booster-shot/arencia-retinal-booster-shot_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SCR-ARE-002",
+    "brand": "Arencia",
+    "name": "Cloud Body & Scalp Scrub",
+    "country": "Korea",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Sucrose, Sodium Cocoyl Isethionate, Water, Sodium Chloride, 1,2-Hexanediol, Coconut Acid, Potassium Cocoyl Hydrolyzed Oat Protein, Ricinus Communis (Castor) Seed Oil, Calamine, Fragrance, Hydroxypropyl Starch Phosphate, Sodium Isethionate, Hydrogenated Castor Oil, Coumarin, Linalool, Limonene, Geraniol, Olea Europaea (Olive) Leaf Extract, Glyceryl Caprylate",
+    "image": "https://incidecoder-content.storage.googleapis.com/c0ac0ab1-46d0-489d-94c3-7d5b886e7add/products/arencia-cloud-body-scalp-scrub/arencia-cloud-body-scalp-scrub_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية الفروة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "KR-SSE-ARE-010",
+    "brand": "Arencia",
+    "name": "Rice Mucin Glow Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Rice Ferment Filtrate (Sake), Water, 1, 2-Hexanediol, Glycerin, Niacinamide, Saccharomyces/Rice Ferment Filtrate, Carbomer, Hydrolyzed Collagen, Cetearyl Olivate, Tromethamine, Butylene Glycol, Methylpropanediol, Pentylene Glycol, Pullulan, Sorbitan Olivate, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Caprylic/Capric Triglyceride, Oryza Sativa (Rice) Extract, Hydrogenated Lecithin, Polyacrylate, Garcinia Cambogia Fruit Extract, Adenosine, Polyglyceryl-10 Oleate, Polyglutamic Acid, Polyglyceryl-10 Stearate, Disodium EDTA, Xanthan Gum, Capryloyl Salicylic Acid, Polyglyceryl-4 Caprate, Malt Extract, Retinal, Panthenol, Kummerowia Striata Extract, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Cinchona Pubescens Bark Extract, Leptospermum Scoparium Leaf Extract, Dioscorea Japonica Root Extract, Beta-Glucan, Hydrolyzed Corn Starch, Glyceryl Linolenate, Glyceryl Arachidonate, Tranexamic Acid, Retinyl Palmitate, Biotin, Sucrose, Thiamine Hcl, Folic Acid, Pyridoxine, Cyanocobalamin, Sodium Chondroitin Sulfate",
+    "image": "https://incidecoder-content.storage.googleapis.com/6358c237-5c67-49f6-839f-4a7fe404d029/products/arencia-rice-mucin-glow-serum/arencia-rice-mucin-glow-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
     ]
   }
 ]
