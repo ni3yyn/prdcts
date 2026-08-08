@@ -5346,7 +5346,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة مختلطة"
+      "بشرة مختلطة",
+      "بشرة حساسة"
     ]
   },
   {
@@ -5908,7 +5909,11 @@
       "مرطب للشعر",
       "مكافحة التجعد"
     ],
-    "price": null,
+    "price": {
+      "min": 650,
+      "max": 650,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر متضرر"
     ]
@@ -8370,7 +8375,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8404,7 +8413,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
