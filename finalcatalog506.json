@@ -5190,13 +5190,20 @@
     "quantity": "50ml",
     "ingredients": "ماء, الجلسرين, حمض الستياريك, ثاني أكسيد التيتانيوم، بروبيلين غليكول, بانثينول (بروفيتامين B5), صمغ الزانثان, كحول السيتيل, ثلاثي إيثانولامين (TEA), رباعي الصوديوم EDTA, حمض الستريك, مستخلص الألوفيرا, أفوبينزون, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), فينوكسي إيثانول",
     "image": "https://laplace7.dz/public/uploads/all/JfUe9XZYDev1Use5MWKOxVJdm9wtN5YrcP7stTEx.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة",
+      "للبشرة الدهنية",
+      "حماية واسعة الطيف"
+    ],
     "price": {
       "min": 700,
       "max": 700,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-SSE-DERMA-001",
@@ -5492,7 +5499,9 @@
       "max": 1500,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-XXX-PROD-003",
