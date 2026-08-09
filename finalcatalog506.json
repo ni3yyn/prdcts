@@ -7686,7 +7686,7 @@
     "quantity": "125 ml",
     "price": {
       "min": 100,
-      "max": 100,
+      "max": 300,
       "currency": "DZD"
     },
     "targetTypes": [],
@@ -8360,7 +8360,10 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنعيم الشعر"
+    ]
   },
   {
     "id": "DZ-SHA-VEN-024",
@@ -9110,7 +9113,7 @@
     "brand": "Swalis",
     "name": "Sérum Ultra Lissant Thermoactif",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774557308/m9ddc6jannusxrxammx0.jpg",
-    "ingredients": "سيكلوينتاسيلوكسان\nديميتيكونول\nاموديميتكون\nفنيل تريميتيكون\nعطر",
+    "ingredients": "سيكلوينتاسيلوكسان، ديميتيكونول، اموديميتكون، فنيل تريميتيكون، عطر",
     "country": "Algeria",
     "category": {
       "id": "hair_serum",
@@ -21151,7 +21154,7 @@
       "icon": "leaf"
     },
     "quantity": "30 ml",
-    "ingredients": "Très nourrissante, elle contribue à prévenir le dessèchement de la peau, l’apparition des rides, de la cellulite, des vergetures et des pattes d’oie. Elle combat aussi les signes du vieillissement cutané en activant la régénération cellulaire",
+    "ingredients": "Argan oil.",
     "image": "https://arveaporduction.s3.eu-west-3.amazonaws.com/arvea-nature.com/arvealab/product/c99fa7fdf1540611db8f733d2e7882a7.webp",
     "marketingClaims": [
       "مكافحة التجاعيد",
@@ -51237,7 +51240,7 @@
       "بشرة جافة"
     ]
   },
-   {
+  {
     "id": "KR-EYE-KSE-001",
     "brand": "K-Secret",
     "name": "Eye Cream: Retinal Liposome 4% + Fermented Bean",
@@ -52151,8 +52154,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 2750.0,
-      "max": 2750.0,
+      "min": 2750,
+      "max": 2750,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -52179,8 +52182,8 @@
       "تقشير لطيف"
     ],
     "price": {
-      "min": 2550.0,
-      "max": 2550.0,
+      "min": 2550,
+      "max": 2550,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -52208,8 +52211,8 @@
       "شد البشرة"
     ],
     "price": {
-      "min": 2850.0,
-      "max": 2850.0,
+      "min": 2850,
+      "max": 2850,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -52232,8 +52235,8 @@
       "تهدئة البشرة"
     ],
     "price": {
-      "min": 1650.0,
-      "max": 1650.0,
+      "min": 1650,
+      "max": 1650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -52261,8 +52264,8 @@
       "مكافحة التجاعيد"
     ],
     "price": {
-      "min": 4650.0,
-      "max": 4650.0,
+      "min": 4650,
+      "max": 4650,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -52287,8 +52290,8 @@
       "شد البشرة"
     ],
     "price": {
-      "min": 4950.0,
-      "max": 4950.0,
+      "min": 4950,
+      "max": 4950,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -52317,8 +52320,8 @@
       "مضاد لحب الشباب"
     ],
     "price": {
-      "min": 2550.0,
-      "max": 2550.0,
+      "min": 2550,
+      "max": 2550,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -52347,8 +52350,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 2250.0,
-      "max": 2250.0,
+      "min": 2250,
+      "max": 2250,
       "currency": "DZD"
     },
     "targetTypes": [
