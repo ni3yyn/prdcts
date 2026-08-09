@@ -51782,5 +51782,230 @@
       "بشرة معرضة للحبوب",
       "بشرة حساسة"
     ]
+  },
+  {
+    "id": "DZ-SUN-BEL-001",
+    "brand": "Belnco",
+    "name": "Centella Serum SPF 30",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Zinc Oxide, Chamomilla Recutita (Matricaria) Flower Water, Caprylic/Capric Triglyceride, Squalane, Centella Asiatica Extract, Glycerin, Xanthan Gum, Tocopherol (Vitamin E), Citric Acid, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/C0.png",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تهدئة البشرة",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 2750.0,
+      "max": 2750.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-BEL-001",
+    "brand": "Belnco",
+    "name": "Clarifying Serum",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Glycerin, Mentha Piperita (Peppermint) Flower Water, Salicylic Acid, Camellia Sinensis (Green Tea) Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Zinc PCA, Azelaic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Hydroxyethylcellulose, Citric Acid, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/CL-1.png",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "توازن الدهون والزيوت",
+      "تقشير لطيف"
+    ],
+    "price": {
+      "min": 2550.0,
+      "max": 2550.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-SSE-BEL-002",
+    "brand": "Belnco",
+    "name": "Retinol Complex Serum",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "Squalane, Rosa Canina Fruit Oil, Caprylic/Capric Triglyceride, Bakuchiol, Retinol, Centella Asiatica Extract, Tocopherol, Citric Acid, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/R0.png",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين",
+      "تفتيح البقع الداكنة",
+      "شد البشرة"
+    ],
+    "price": {
+      "min": 2850.0,
+      "max": 2850.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-BEL-001",
+    "brand": "Belnco",
+    "name": "Rich Moisturizer",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Butyrospermum Parkii Butter, Helianthus Annuus Seed Oil, Glycerin, Squalane, Cetearyl Alcohol, Cetearyl Glucoside, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Xanthan Gum, Tocopherol, Citric Acid, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/Rich-moisturizer-3_5fbb1f01-978e-46f3-9c19-0c309ea7f475.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": {
+      "min": 1650.0,
+      "max": 1650.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-BEL-002",
+    "brand": "Belnco",
+    "name": "Tinted Serum SPF 30",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Zinc Oxide, Glycerin, Butyloctyl Salicylate, Isoamyl Laurate, Niacinamide, Ascorbyl Glucoside, Peptide Complex, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate, Polyhydroxystearic Acid, Polyglyceryl-3 Ricinoleate, Polyglyceryl-3 Diisostearate, Xanthan Gum, Polyacrylate Crosspolymer-6, Silica, Allantoin, Aloe Barbadensis Leaf Juice Powder, Bisabolol, Tocopherol, Tetrasodium Glutamate Diacetate, Geogard® ECT, Iron Oxides (CI77491, CI77492, CI77499)",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/serum-teinte-1.png",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توحيد لون البشرة",
+      "تفتيح البشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": {
+      "min": 4650.0,
+      "max": 4650.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-OIB-BEL-001",
+    "brand": "Belnco",
+    "name": "100% Pure Prickly Pear Oil",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": null,
+    "ingredients": "Opuntia Ficus-Indica Seed Oil",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/pure-prickly-pear-oil.png",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "مكافحة التجاعيد",
+      "شد البشرة"
+    ],
+    "price": {
+      "min": 4950.0,
+      "max": 4950.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-CLE-BEL-001",
+    "brand": "Belnco",
+    "name": "Centella Cleansing Gel",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Aqua, Coco-Glucoside, Decyl Glucoside, Niacinamide, Centella Asiatica Extract, Glycerin, Sodium Pca, Betaine, Xanthan Gum, Citric Acid, Benzyl Alcohol, Salicylic Acid, Sorbic Acid",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/Gel-product.png",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "مضاد لحب الشباب"
+    ],
+    "price": {
+      "min": 2550.0,
+      "max": 2550.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-CLE-BEL-002",
+    "brand": "Belnco",
+    "name": "Centella Cleansing Oil",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "Caprylic/Capric Triglyceride, Ethylhexyl Stearate, Simmondsia Chinensis (Jojoba) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Polyglyceryl-10 Oleate, Centella Asiatica Extract, Panax Ginseng Root Extract, Bisabolol, Tocopherol, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "https://cdn.shopify.com/s/files/1/0589/4792/8255/files/Cleansing-OIL.png",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 2250.0,
+      "max": 2250.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
   }
 ]
