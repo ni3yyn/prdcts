@@ -50888,5 +50888,899 @@
     "targetTypes": [
       "بشرة جافة"
     ]
+  },
+   {
+    "id": "KR-EYE-KSE-001",
+    "brand": "K-Secret",
+    "name": "Eye Cream: Retinal Liposome 4% + Fermented Bean",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Butylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Hydrogenated Lecithin, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Propanediol, Glyceryl Stearate, Cholesterol, Polyglyceryl-10 Oleate, Ethylhexylglycerin, Adenosine, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Disodium EDTA, Aluminum/Magnesium Hydroxide Stearate, Lactobacillus/Panax Ginseng Root Ferment Filtrate, Lactobacillus/Rice Ferment, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Coix Lacryma-Jobi Ma-Yuen Seed Ferment Filtrate, Saccharomyces/Potato Extract Ferment Filtrate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hyaluronate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-O-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/e8ec7ad5-f8b2-400e-b7e4-bdd13ed1cedb/products/k-secret-seoul-1988-eye-cream-retinal-liposome-4-fermented-bean/k-secret-seoul-1988-eye-cream-retinal-liposome-4-fermented-bean_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-TON-KSE-001",
+    "brand": "K-Secret",
+    "name": "Calamine 30 Days Secret Toner",
+    "country": "Korea",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Water, Calamine, Alcohol, Dipropylene Glycol, Butylene Glycol, 1,2-Hexanediol, Glycerin, Niacinamide, PEG-40 Hydrogenated Castor Oil, PPG-26-Buteth-26, Citric Acid, Adenosine, Fragrance, Disodium EDTA, Allantoin, Hamamelis Virginiana (Witch Hazel) Bark/Leaf/Twig Extract, Aloe Barbadensis Leaf Extract, Centella Asiatica Extract, Scutellaria Baicalensis Root Extract, Polygonum Cuspidatum Root Extract, Hamamelis Virginiana (Witch Hazel) Extract, Lavandula Angustifolia (Lavender) Extract, Thymus Vulgaris (Thyme) Extract, Rosmarinus Officinalis (Rosemary) Extract, Origanum Vulgare Flower/Leaf/Stem Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Origanum Vulgare Leaf Extract, Salix Alba (Willow) Bark Extract, Camellia Sinensis Leaf Extract, Chamaecyparis Obtusa Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Portulaca Oleracea",
+    "image": "https://incidecoder-content.storage.googleapis.com/0794acf4-1c25-49fb-a158-f72f859c7278/products/k-secret-calamine-30-days-secret-toner/k-secret-calamine-30-days-secret-toner_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مهدئ",
+      "قابض للمسام",
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-001",
+    "brand": "K-Secret",
+    "name": "Serum: Retinal Liposome 2% + Black Ginseng",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Panax Ginseng Root Extract, Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Butylene Glycol, Methyl Gluceth-20, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Lecithin, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Betaine, Tocopherol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Adenosine, Disodium EDTA, Cholesterol, Polyglyceryl-10 Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1 Nonapeptide-29, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/ca477cc9-ff64-46f3-9519-4187f92345c3/products/k-secret-seoul-1988-serum-retinal-liposome-2-black-ginseng/k-secret-seoul-1988-serum-retinal-liposome-2-black-ginseng_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-002",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Serum: Retinal Liposome 2% + Black Ginseng",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Panax Ginseng Root Extract, Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Butylene Glycol, Methyl Gluceth-20, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Lecithin, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Betaine, Tocopherol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Adenosine, Disodium EDTA, Cholesterol, Polyglyceryl-10 Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2",
+    "image": "https://incidecoder-content.storage.googleapis.com/c7de9597-984a-4d3b-9354-9b6e4478d57f/products/ksecret-seoul-1988-seoul-1988-serum-retinal-liposome-2-black-ginseng/ksecret-seoul-1988-seoul-1988-serum-retinal-liposome-2-black-ginseng_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-LOT-KSE-001",
+    "brand": "K-Secret",
+    "name": "Hyaluronic Acid Secret Soothing Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Sea Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Water, Hydrogenated Didecene, 2,3-Butanediol, Caprylic/Capric Triglyceride, Carbomer, Cetearyl Alcohol, C14-22 Alcohols, Tromethamine, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C12-20 Alkyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, Xanthan Gum, Ethylhexylglycerin, Pvm/Ma Copolymer, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Allantoin, Disodium EDTA, Sorbitan Isostearate, Sodium Hyaluronate(102Ppm), Hydrolyzed Hyaluronic Acid(101Ppm), Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Hydroxypropyltrimonium Hyaluronate (10Ppm), Solanum Melongena (Eggplant) Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Sodium Acetylated Hyaluronate(1Ppm), Hyaluronic Acid(0.25Ppm), Sodium Hyaluronate Crosspolymer(0.1Ppm), Hydrolyzed Sodium Hyaluronate(0.1Ppm), Potassium Hyaluronate(0.02Ppm), Limonene, Linalool",
+    "image": "https://incidecoder-content.storage.googleapis.com/91d74fa7-4d45-44fb-aacf-fa45bd79cf7c/products/k-secret-hyaluronic-acid-secret-soothing-cream/k-secret-hyaluronic-acid-secret-soothing-cream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة حساسة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-003",
+    "brand": "K-Secret",
+    "name": "Essence: Snail Mucin 97% + Rice",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Snail Secretion Filtrate (970,0 00Ppm), Butylene Glycol, 1,2-Hexanediol, Ethyl Hexanediol, Allantoin, Phenoxyethanol, Sodium Polyacrylate, Sodium Hyaluronate, Carbomer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Panthenol, Water, Oryza Sativa (Rice) Seed Extract (130Ppm), Arginine, Oryza Sativa (Rice) Seed Water(30Ppm), Rice Ferment Filtrate (Sake)(30Ppm)",
+    "image": "https://incidecoder-content.storage.googleapis.com/90656d18-1997-4adf-91af-4581d895a566/products/k-secret-essence-snail-mucin-97-rice/k-secret-essence-snail-mucin-97-rice_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-004",
+    "brand": "K-Secret",
+    "name": "Advanced Shot: Retinal Liposome 12% + Black Rice",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Butylene Glycol, Caprylic/Capric Triglyceride, Glycerin, 1,2-Hexanediol, Niacinamide, Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Macadamia Ternifolia Seed Oil, Glyceryl Stearate, Behenyl Alcohol, Panthenol, Vinyl Dimethicone, Polyglyceryl-2 Stearate, Hydrogenated Lecithin, Stearyl Alcohol, Tocopherol, Cholesterol, Polyglyceryl-10 Oleate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Ethylhexylglycerin, Adenosine, Potassium Cetyl Phosphate, Hydrolyzed Sponge, Disodium EDTA, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Allantoin, Cynanchum Atratum Extract, Oryza Sativa (Rice) Extract, Sodium Hyaluronate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/68f5ec4d-e6f4-494b-8461-27fce74fb066/products/k-secret-seoul-1988-advanced-shot-retinal-liposome-12-black-rice/k-secret-seoul-1988-advanced-shot-retinal-liposome-12-black-rice_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-CLE-KSE-001",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Cleansing Oil Pine Cica 1% + Probiotics",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Ethylhexyl Palmitate, Sorbeth-30 Tetraoleate, Pinus Densiflora Leaf Extract, Centella Asiatica Extract, Butylene Glycol, Bifida Ferment Filtrate, Macadamia Ternifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Vitis Vinifera (Grape) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, 1,2-Hexanediol, Pentylene Glycol, Glycoproteins, Madecassoside, Madecassic Acid, Asiaticoside, Asiatic Acid, Water, Glycerin, Lactobacillus/Soybean Ferment Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/61b06496-c4c2-44dc-bc15-f6cf8225c3e7/products/ksecret-seoul-1988-cleansing-oil-pine-cica-1-probiotics/ksecret-seoul-1988-cleansing-oil-pine-cica-1-probiotics_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تنظيف عميق",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة",
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-005",
+    "brand": "K-Secret",
+    "name": "Real Vita C Ampoule",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Hippophae Rhamnoides Fruit Extract(310,000Ppm), Ascorbic Acid(140,000Ppm), Butylene Glycol, Propanediol, Alcohol, 2,3-Butanediol, Water, Diethoxyethyl Succinate, Bis-PEG-18 Methyl Ether Dimethyl Silane, Caragana Sinica Root Extract, Sambucus Williamsii Stem Extract, Dipropylene Glycol, Glycerin, Madecassoside, Ammonium Glycyrrhizate, Tremella Fuciformis Sporocarp Extract, Pinus Pinaster Bark Extract, Viscum Album (Mistletoe) Extract, Salix Alba (Willow) Bark Extract, Acer Nikoense Bark Extract, Capsicum Annuum Fruit Extract, Acanthopanax Sessiliflorus Bark Extract, Aloe Vera Leaf Extract, Centella Asiatica Extract, Hordeum Vulgare Sprout Extract, Cucurbita Pepo (Pumpkin) Fruit Extract, Myrciaria Dubia Fruit Extract, Cudrania Tricuspidata Fruit Extract, Rubus Coreanus Fruit Extract, Citrofortunella Microcarpa Fruit Extract, Vaccinium Myrtillus Fruit Extract, Cornus Officinalis Fruit Extract, Levan, Sodium Hyaluronate, Beta-Glucan, Glycine, Carnitine, Arginine, Panthenol, Polysorbate 60, Caffeic Acid, Ubiquinone, Hydroxycinnamic Acid, Ferulic Acid, Resveratrol, Gallic Acid, Glutathione, Tocopherol, Fullerenes, Xanthophylls, Astaxanthin, Caffeine, Allantoin, Octyldodeceth-16, Octyldodeceth-25, Decyltetradeceth-25, Oil Soluble Licorice(Glycyrrhiza) Extract, Adenosine, 1,2-Hexanediol, Sodium Hydroxide, Sodium Carbonate, Polyacrylate Crosspolymer-6, Ethylhexyl Salicylate, Caprylic/Capric Triglyceride, Polyglyceryl-10 Oleate, Haematococcus Pluvialis Extract, Polyglyceryl-10 Stearate, Lysolecithin, Tetrasodium EDTA, Sodium Metabisulfite, Carthamus Tinctorius (Safflower) Seed Oil, Ethylhexylglycerin, PVP, Fragrance, D-Limonene, Hydroxycitronellal",
+    "image": "https://incidecoder-content.storage.googleapis.com/e63b51f7-471b-41bf-91e3-2c3a947e8721/products/k-secret-real-vita-c-ampoule/k-secret-real-vita-c-ampoule_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-006",
+    "brand": "K-Secret",
+    "name": "Calamine Derma Secret Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Dipropylene Glycol, Niacinamide, Calamine, Hydrolyzed Sclerotium Gum, Hydroxyacetophenone, Sodium Citrate, Citric Acid, Caprylyl Glycol, Disodium EDTA, Fragrance, Adenosine, Panthenol, Butylene Glycol, Propanediol, Dipotassium Glycyrrhizate, Benzyl Glycol, Hydrolyzed Glycosaminoglycans, Glycerin, Sodium Hyaluronate, Madecassoside, Asiaticoside, Sodium Hyaluronate Crosspolymer, 1,2-Hexanediol, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Madecassic Acid, Asiatic Acid, Hydroxypropyltrimonium Hyaluronate, Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/f3dde0a4-3718-497a-899f-c546d50eea68/products/k-secret-calamine-derma-secret-serum/k-secret-calamine-derma-secret-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مهدئ",
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-EYE-KSE-002",
+    "brand": "K-Secret",
+    "name": "Advanced Regenerating Eye Gel Patches (Retinol)",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Carrageenan, Niacinamide, Butylene Glycol, Hydrogenated Lecithin, Glycine Soja (Soybean) Sterols, Hydroxydecyl Ubiquinone, Astaxanthin, Resveratrol, Ubiquinone, Oleoyl Pine Bark Extract, Acetyl Hexapeptide-8, Propanediol, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, PEG-60 Hydrogenated Castor Oil, Ceratonia Siliqua (Carob) Gum, Sucrose, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Synthetic Fluorphlogopite, Tin Oxide, Titanium Dioxide, Calcium Chloride, Allantoin, Cellulose Gum, Glycine Soja (Soybean) Oil, Retinol, BHT, Sodium Hyaluronate, Calcium Lactate, Adenosine, Disodium EDTA, Dipotassium Glycyrrhizate, Arginine, Ethylhexylglycerin, Ricinus Communis (Castor) Seed Oil, Caprylyl Glycol, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Fragrance",
+    "image": "https://incidecoder-content.storage.googleapis.com/16e1be5e-7339-4622-b3b8-dfe781090561/products/k-secret-advanced-regenerating-eye-gel-patches-retinol/k-secret-advanced-regenerating-eye-gel-patches-retinol_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-007",
+    "brand": "K-Secret",
+    "name": "Serum: Retinal Liposome 2% + Black Ginseng",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Cetyl Ethylhexanoate, Glycerin, Butylene Glycol, 1,2-Hexanediol, Niacinamide, Propanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Carbomer, Tromethamine, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Caprylic/Capric Triglyceride, Lactobacillus/Panax Ginseng Root Ferment Filtrate, Lactobacillus/Rice Ferment(1,000 Ppm), Lactobacillus/Soybean Ferment Extract, Macadamia Ternifolia Seed Oil, Saccharomyces/Coix Lacryma-Jobi Ma-Yuen Seed Ferment Filtrate, Saccharomyces/Potato Extract Ferment Filtrate, Xanthan Gum, Hydrogenated Lecithin, Disodium EDTA, Ethylhexylglycerin, Allantoin, Caprylyl Glycol, Adenosine, Glyceryl Acrylate/Acrylic Acid Copolymer, Caprylyl/Capryl Glucoside, Cholesterol, Polyglyceryl-10 Oleate, Sorbitan Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal(100 Ppm), Silica, Aluminum/Magnesium Hydroxide Stearate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/0755a21c-938e-4560-ae55-749274ff2cc8/products/k-secret-seoul-1988-serum-retinal-liposome-2-black-ginseng-2/k-secret-seoul-1988-serum-retinal-liposome-2-black-ginseng-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-008",
+    "brand": "K-Secret",
+    "name": "Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Panax Ginseng Root Extract, Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Butylene Glycol, Methyl Gluceth-20, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Lecithin, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Betaine, Tocopherol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Adenosine, Disodium EDTA, Cholesterol, Polyglyceryl-10 Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-23 Sp, Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/845c7efc-538f-4249-bd80-931c3abf8289/products/k-secret-seoul-1988-serum/k-secret-seoul-1988-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-CLE-KSE-002",
+    "brand": "K-Secret",
+    "name": "Cleansing Foam: Pine Cica 1% + Probiotics",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Myristic Acid, Glycerin, Potassium Hydroxide, Palmitic Acid, Stearic Acid, Coco-Betaine, Lauric Acid, Glyceryl Stearate, Sorbitan Olivate, Caprylyl Glycol, 1,2-Hexanediol, Sodium Chloride, Salicylic Acid, Butylene Glycol, Hydroxypropyl Starch Phosphate, Ethylhexylglycerin, Bifida Ferment Lysate, Synthetic Beeswax, Disodium EDTA, Pinus Densiflora Leaf Extract(100 Ppm), Centella Asiatica Extract(100 Ppm), Lactobacillus Ferment, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside, Bambusa Vulgaris Extract, Chamaecyparis Obtusa Leaf Extract, Thuja Orientalis Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/0d35a305-92e5-4752-b267-bd439bf0c53f/products/k-secret-seoul-1988-cleansing-foam-pine-cica-1-probiotics/k-secret-seoul-1988-cleansing-foam-pine-cica-1-probiotics_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-LOT-KSE-002",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Repair Cream: Niacica 20% + Mugwort",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Centella Asiatica Leaf Water, Propanediol, Glycerin, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Isopropyl Myristate, Coco-Caprylate/Caprate, Hydrogenated Poly(C6-14 Olefin), Cetearyl Alcohol, Polyglyceryl-6 Distearate, Behenyl Alcohol, Hydrogenated Polyisobutene, Vinyl Dimethicone, Candelilla/Jojoba/Rice Bran Polyglyceryl-3 Esters, 1,2-Hexanediol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Glyceryl Stearate, Cocos Nucifera (Coconut) Seed Butter, Hydroxyacetophenone, Coptis Japonica Root Extract, Butylene Glycol, Arginine, Carbomer, Ethylhexylglycerin, Sodium Stearoyl Glutamate, Xanthan Gum, Adenosine, Maltodextrin, Artemisia Capillaris Extract, Hydrolyzed Gardenia Florida Extract, Aloe Barbadensis Leaf Extract, Tocopherol, Hydrogenated Lecithin, Centella Asiatica Extract, Ficus Carica (Fig) Fruit Extract, Dipotassium Glycyrrhizate, Portulaca Oleracea Extract, Houttuynia Cordata Extract, Melaleuca Alternifolia (Tea Tree) Extract, Ceramide NP, Collagen Extract",
+    "image": "https://incidecoder-content.storage.googleapis.com/6ffbd39d-1ac4-456f-bd8c-8020f051aec2/products/ksecret-seoul-1988-repair-cream-niacica-20-mugwort-ps/ksecret-seoul-1988-repair-cream-niacica-20-mugwort-ps_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مضاد للالتهابات",
+      "مضاد لحب الشباب",
+      "تهدئة البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SUN-KSE-001",
+    "brand": "K-Secret",
+    "name": "Collagen Boosting Secret Sun Lotion",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Hydrolyzed Collagen(560,000Ppm), Dibutyl Adipate, Water, Propanediol, Isoamyl p-Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Terephthalylidene Dicamphor Sulfonic Acid, C12-15 Alkyl Benzoate, Niacinamide, Propylene Glycol Dicaprylate, Polyglyceryl-6 Stearate, Tromethamine, Cetearyl Alcohol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Dipropylene Glycol, Hydroxyacetophenone, Polyglyceryl-6 Behenate, Caprylyl Glycol, Sphingomonas Ferment Extract, Adenosine, Sorbitan Isostearate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Dipotassium Glycyrrhizate, Sodium Acetylated Hyaluronate, Hydrolyzed Glycosaminoglycans, 1,2-Hexanediol, Glycerin, Glutathione, Biotin, Ascorbyl Glucoside, Benzyl Glycol, Beta-Carotene, Soluble Collagen (0.1Ppm), Collagen Extract(0.1Ppm), Ethylhexylglycerin, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Oligopeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/daef580e-6f46-4cf7-88c9-ceb8c0559457/products/k-secret-collagen-boosting-secret-sun-lotion/k-secret-collagen-boosting-secret-sun-lotion_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-009",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Glow Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Niacinamide, Butylene Glycol, Glycerin, Glycereth-26, 1,2-Hexanediol, Caprylic/Capric Triglyceride, Pentylene Glycol, Macadamia Ternifolia Seed Oil, Ammonium Acryloyldimethyltaurate/VP Copolymer, Polyglyceryl-10 Laurate, Squalane, Panthenol, Hydrogenated Polydecene, Carbomer, Tromethamine, Hydrogenated Lecithin, Polyglyceryl-3 Methylglucose Distearate, Ethylhexylglycerin, Butyrospermum Parkii (Shea) Butter, Adenosine, Sodium Hyaluronate, Gellan Gum, Agar, Sodium Phytate, Beta-Glucan, Citrus Junos Fruit Oil, Glutathione, Helianthus Annuus (Sunflower) Seed Oil, Hydroxydecyl Ubiquinone, Melia Azadirachta Flower Extract, Ocimum Sanctum Leaf Extract, Melia Azadirachta Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Corallina Officinalis Extract, Tranexamic Acid, Xanthan Gum, Tocopherol, Sodium Ascorbyl Phosphate",
+    "image": "https://incidecoder-content.storage.googleapis.com/acd0b3a0-0fb6-41d8-9003-7217247651ca/products/ksecret-seoul-1988-glow-serum/ksecret-seoul-1988-glow-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SUN-KSE-002",
+    "brand": "K-Secret",
+    "name": "Vita Collagen Secret Whitening Sun Lotion",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Hydrolyzed Collagen, Dibutyl Adipate, Water, Propanediol, Isoamyl p-Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Terephthalylidene Dicamphor Sulfonic Acid, C12-15 Alkyl Benzoate, Niacinamide, Propylene Glycol Dicaprylate, Tromethamine, Polyglyceryl-6 Stearate, Cetearyl Alcohol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Dipropylene Glycol, Hydroxyacetophenone, Fragrance, Polyglyceryl-6 Behenate, Caprylyl Glycol, Sphingomonas Ferment Extract, Adenosine, Sorbitan Isostearate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Dipotassium Glycyrrhizate, Sodium Acetylated Hyaluronate, Hydrolyzed Glycosaminoglycans, 1,2-Hexanediol, Glycerin, Glutathione, Biotin, Ascorbyl Glucoside, Benzyl Glycol, Beta-Carotene, Soluble Collagen, Collagen Extract, Ethylhexylglycerin, Acetyl Hexapeptide-8, Copper Tripeptide-1, Palmitoyl Pentapeptide-4, Oligopeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/0b4d95ff-4d7f-482c-a347-94ec4706122b/products/k-secret-vita-collagen-secret-whitening-sun-lotion-2/k-secret-vita-collagen-secret-whitening-sun-lotion-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-MSK-KSE-001",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Sleeping Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Collagen Water ( Water, Collagen ), Glycerin, Butylene Glycol, Glycereth-26, Cetyl Ethylhexanoate, Niacinamide, 1,2-Hexanediol, Panthenol, Hydrolyzed Collagen, Betaine, Trehalose, Propanediol, Cetearyl Olivate, Hydroxyacetophenone, Polyacrylate-13, Tromethamine, Sorbitan Olivate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Zea Mays (Corn) Starch, Glyceryl Acrylate/Acrylic Acid Copolymer, Carbomer, Tocopheryl Acetate, Polyisobutene, Mannitol, Microcrystalline Cellulose, Phaseolus Angularis Seed Extract, Tocopherol, Caprylyl Methicone, Ethylhexylglycerin, Adenosine, Helianthus Annuus (Sunflower) Seed Oil, Disodium EDTA, Sodium Starch Octenylsuccinate, Polysorbate 20, Sorbitan Isostearate, Acacia Senegal Gum, Collagen Amino Acids, Ammonium Polyacryloyldimethyl Taurate, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Hydrogenated Lecithin, Haematococcus Pluvialis Extract, Collagen, Soluble Collagen, Collagen Extract, Atelocollagen, Potassium Cocoyl Hydrolyzed Collagen, Rosin Hydrolyzed Collagen, Soluble Collagen Crosspolymer",
+    "image": "https://incidecoder-content.storage.googleapis.com/eb0714a1-ec31-45d2-8c14-3aa276eb46f5/products/ksecret-seoul-1988-sleeping-mask/ksecret-seoul-1988-sleeping-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-010",
+    "brand": "K-Secret",
+    "name": "Hyaluronic Acid Secret Ampoule",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Sea Water, Butylene Glycol, Glycerin, Water, 1,2-Hexanediol, Dipropylene Glycol, Niacinamide, Panthenol, Propanediol, Polyglyceryl-10 Laurate, Carbomer, Tromethamine, Betaine, Allantoin, Hydrolyzed Hyaluronic Acid(1,002Ppm), Xanthan Gum, Glyceryl Acrylate/Acrylic Acid Copolymer, Ethylhexylglycerin, Adenosine, Malachite Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Pvm/Ma Copolymer, Sodium Hyaluronate(204Ppm), Disodium EDTA, Xylitol, Hydroxypropyltrimonium Hyaluronate(20Ppm), Sodium Acetylated Hyaluronate(2Ppm), Hyaluronic Acid(0.5Ppm), Sodium Hyaluronate Crosspolymer(0.2Ppm), Hydrolyzed Sodium Hyaluronate(0.2Ppm), Potassium Hyaluronate(0.04Ppm), Limonene, Linalool",
+    "image": "https://incidecoder-content.storage.googleapis.com/049d56b2-76dd-4062-8a3b-f6b623ffb398/products/k-secret-hyaluronic-acid-secret-ampoule/k-secret-hyaluronic-acid-secret-ampoule_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة حساسة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "KR-EYE-KSE-003",
+    "brand": "K-Secret",
+    "name": "Instant Relief Eye Gel Patches (Caffeine)",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Carrageenan, Niacinamide, Butylene Glycol, Camellia Sinensis Leaf Extract, Hydrogenated Lecithin, Glycine Soja (Soybean) Sterols, Hydroxydecyl Ubiquinone, Astaxanthin, Resveratrol, Ubiquinone, Oleoyl Pine Bark Extract, Propanediol, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, PEG-60 Hydrogenated Castor Oil, Ceratonia Siliqua (Carob) Gum, Sucrose, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Synthetic Fluorphlogopite, Tin Oxide, Titanium Dioxide, Calcium Chloride, Allantoin, Cellulose Gum, Caffeine, Sodium Hyaluronate, Calcium Lactate, Adenosine, Disodium EDTA, Dipotassium Glycyrrhizate, Arginine, Ricinus Communis (Castor) Seed Oil, Ethylhexylglycerin, Caprylyl Glycol, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Fragrance",
+    "image": "https://incidecoder-content.storage.googleapis.com/638a7de3-0273-47d4-8c35-207a1ecac689/products/k-secret-instant-relief-eye-gel-patches-caffeine/k-secret-instant-relief-eye-gel-patches-caffeine_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مضاد للأكسدة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-CLE-KSE-003",
+    "brand": "K-Secret",
+    "name": "Cleansing Oil: Pine Cica 1% + Probiotics",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Ethylhexyl Palmitate, Sorbeth-30 Tetraoleate, Macadamia Ternifolia Seed Oil, Olea Europaea (Olive) Fruit Oil, Vitis Vinifera (Grape) Seed Oil, Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Pinus Densiflora Leaf Extract, Centella Asiatica Extract, Butylene Glycol, 1,2-Hexanediol, Glycoproteins, Madecassoside, Madecassic Acid, Asiaticoside, Asiatic Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/7fe3be51-1999-47c9-8512-57d8b6faeb54/products/k-secret-seoul-1988-cleansing-oil-pine-cica-1-probiotics/k-secret-seoul-1988-cleansing-oil-pine-cica-1-probiotics_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تنظيف عميق",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة",
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SUN-KSE-003",
+    "brand": "K-Secret",
+    "name": "Sun: Collagen Complex 7 + Plum",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Water, Neopentyl Glycol Diheptanoate, Glycerin, C12-15 Alkyl Benzoate, Dibutyl Adipate, Propanediol, Niacinamide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Terephthalylidene Dicamphor Sulfonic Acid, Poly C10-30 Alkyl Acrylate, 1,2-Hexanediol, Polyglyceryl-6 Stearate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Tromethamine, Sodium Polyacryloyldimethyl Taurate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Butylene Glycol, Ammonium Acryloyldimethyltaurate/VP Copolymer, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Hydroxyacetophenone, Polyglyceryl-6 Behenate, Sphingomonas Ferment Extract, Ethylhexylglycerin, Hydrolyzed Collagen, Adenosine, Collagen Extract, Avena Sativa (Oat) Kernel Extract, Vigna Radiata Seed Extract, Lactobacillus Ferment, Coix Lacryma-Jobi Ma-Yuen Seed Extract, Prunus Salicina Fruit Extract, Soluble Collagen, Collagen, Collagen Amino Acids, Soluble Collagen Crosspolymer, Zinc Hydrolyzed Collagen",
+    "image": "https://incidecoder-content.storage.googleapis.com/c50eaf51-d019-4132-a9f2-1a2ec7e8dba9/products/k-secret-seoul-1988-sun-collagen-complex-7-plum/k-secret-seoul-1988-sun-collagen-complex-7-plum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-011",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Retinal Liposome 2% + Black Ginseng",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Panax Ginseng Root Extract, Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Butylene Glycol, Methyl Gluceth-20, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Lecithin, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Betaine, Tocopherol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Adenosine, Disodium EDTA, Cholesterol, Polyglyceryl-10 Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/71bc4a94-ad21-4b7c-b5e3-fb30cf823eec/products/ksecret-seoul-1988-retinal-liposome-2-black-ginseng/ksecret-seoul-1988-retinal-liposome-2-black-ginseng_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-LOT-KSE-003",
+    "brand": "K-Secret",
+    "name": "Cream: Snail Mucin 93% + Rice",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Snail Secretion Filtrate, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Cetearyl Alcohol, Dimethicone, Water, Cetearyl Olivate, Carbomer, Arginine, Benzyl Glycol, Sorbitan Olivate, Oryza Sativa (Rice) Bran Water, Allantoin, Sodium Polyacrylate, Ethylhexylglycerin, Disodium EDTA, Butylene Glycol, Oryza Sativa (Rice) Extract, Rice Ferment Filtrate (Sake), Panthenol, Ectoin, Sodium Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/12b354fb-a782-4cf9-9e8e-3c7a681cefc1/products/k-secret-seoul-1988-cream-snail-mucin-93-rice/k-secret-seoul-1988-cream-snail-mucin-93-rice_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-MSK-KSE-002",
+    "brand": "K-Secret",
+    "name": "Collagen Boosting Secret Sleeping Mask",
+    "country": "Korea",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Butylene Glycol, Glycereth-26, Cetyl Ethylhexanoate, Niacinamide, Panthenol, 1,2-Hexanediol, Betaine, Trehalose, Propanediol, Cetearyl Olivate, Hydroxyacetophenone, Polyacrylate-13, Tromethamine, Sorbitan Olivate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Zea Mays (Corn) Starch, Glyceryl Acrylate/Acrylic Acid Copolymer, Carbomer, Tocopheryl Acetate, Polyisobutene, Mannitol, Microcrystalline Cellulose, Tocopherol, Lavandula Angustifolia (Lavender) Oil, Ethylhexylglycerin, Caprylyl Methicone, Adenosine, Helianthus Annuus (Sunflower) Seed Oil, Disodium EDTA, Sodium Starch Octenylsuccinate, Polysorbate 20, Citrus Aurantium Dulcis (Orange) Peel Oil, Dipotassium Glycyrrhizate, Sorbitan Isostearate, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Hydrolyzed Collagen, Portulaca Oleracea Extract, Soluble Collagen, Dimethyl Isosorbide, Acacia Senegal Gum, Biosaccharide Gum-1, Glyceryl Glucoside, Hyaluronic Acid, Sodium Hyaluronate, Ammonium Polyacryloyldimethyl Taurate, Betula Alba Juice, Hydrolyzed Hyaluronic Acid, Hydrogenated Lecithin, Leontopodium Alpinum Callus Culture Extract, Pelargonium Graveolens Flower Oil, Hydroxyethylcellulose, Hydroxypinacolone Retinoate, Santalum Album (Sandalwood) Oil, Chamomilla Recutita (Matricaria) Flower Oil, Styrax Benzoin Gum, Rose Flower Oil, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Camellia Sinensis Leaf Extract, Hippophae Rhamnoides Extract, Myrciaria Dubia Fruit Extract, Rumex Crispus Root Extract, Thymus Serpyllum Extract, Fragaria Chiloensis (Strawberry) Fruit Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pueraria Lobata Root Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Euterpe Oleracea Fruit Extract, Atelocollagen, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Limonene, Linalool",
+    "image": "https://incidecoder-content.storage.googleapis.com/12c2ed2a-ef1d-4b96-a07f-6cedc75b8a6e/products/k-secret-collagen-boosting-secret-sleeping-mask/k-secret-collagen-boosting-secret-sleeping-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-012",
+    "brand": "K-Secret",
+    "name": "Serum",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Panax Ginseng Root Extract, Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Butylene Glycol, Methyl Gluceth-20, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Lecithin, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Betaine, Tocopherol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Adenosine, Disodium EDTA, Cholesterol, Polyglyceryl-10 Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/de47bb89-581e-4621-ba6a-ea4da636c360/products/k-secret-seoul-1988-serum-2/k-secret-seoul-1988-serum-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-EYE-KSE-004",
+    "brand": "K-Secret",
+    "name": "Extra Illuminating Eye Gel Patches (Vitamin C)",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Carrageenan, Niacinamide, Butylene Glycol, Ascorbic Acid, Calcium Pantothenate, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Pyridoxine Hcl, Maltodextrin, Sodium Starch Octenylsuccinate, Silica, Propanediol, Pentylene Glycol, Cocos Nucifera (Coconut) Fruit Extract, Pinus Sylvestris Leaf Extract, Hydrolyzed Elastin, Hydrolyzed Collagen, PEG-60 Hydrogenated Castor Oil, Ceratonia Siliqua (Carob) Gum, Sucrose, Potassium Chloride, Cyamopsis Tetragonoloba (Guar) Gum, Calcium Chloride, Allantoin, Synthetic Fluorphlogopite, Tin Oxide, Titanium Dioxide, Cellulose Gum, Sodium Hyaluronate, Calcium Lactate, Adenosine, Disodium EDTA, Dipotassium Glycyrrhizate, Arginine, Ethylhexylglycerin, Ricinus Communis (Castor) Seed Oil, Caprylyl Glycol, Ethyl Hexanediol, 1,2-Hexanediol, Chlorphenesin, Fragrance",
+    "image": "https://incidecoder-content.storage.googleapis.com/e726e8d7-9e66-4d0f-9a44-e6c69552836f/products/k-secret-extra-illuminating-eye-gel-patches-vitamin-c/k-secret-extra-illuminating-eye-gel-patches-vitamin-c_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "KR-EYE-KSE-005",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Eye Cream: Retinal Liposome 4% + Fermented Bean",
+    "country": "Korea",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Butylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Hydrogenated Lecithin, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Propanediol, Glyceryl Stearate, Cholesterol, Polyglyceryl-10 Oleate, Ethylhexylglycerin, Adenosine, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Disodium EDTA, Aluminum/Magnesium Hydroxide Stearate, Lactobacillus/Panax Ginseng Root Ferment Filtrate, Lactobacillus/Rice Ferment, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Coix Lacryma-Jobi Ma-Yuen Seed Ferment Filtrate, Saccharomyces/Potato Extract Ferment Filtrate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Sodium Hyaluronate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-O-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/d16cfcb2-e70f-4c64-9813-405c0ac9fa2a/products/ksecret-seoul-1988-eye-cream-retinal-liposome-4-fermented-bean/ksecret-seoul-1988-eye-cream-retinal-liposome-4-fermented-bean_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SUN-KSE-004",
+    "brand": "K-Secret",
+    "name": "Sun: Pine Tree + Ceramide SPF 50",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Water, Propanediol, Dibutyl Adipate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Butyloctyl Salicylate, Ethylhexyl Triazone, Niacinamide, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Polymethylsilsesquioxane, Coco-Caprylate/Caprate, Caprylyl Methicone, Diethylhexyl Butamido Triazone, Glycerin, Pinus Sylvestris Bud Extract(10,009Ppm), Butylene Glycol, 1,2-Hexanediol, Pentylene Glycol, Cardiospermum Halicacabum Flower/Leaf/Vine Extract, Hedychium Coronarium Root Extract, Echium Plantagineum Seed Oil, Behenyl Alcohol, Poly C10-30 Alkyl Acrylate, Polyglyceryl-3 Methylglucose Distearate, Octyldodecanol, Decyl Glucoside, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Stearoyl Glutamate, Polyacrylate Crosspolymer-6, Ethylhexylglycerin, Adenosine, Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables, Xanthan Gum, Glyceryl Caprylate, Tocopherol, Ceramide NP(100Ppm), Caprylyl Glycol, Nonapeptide-1, Acetyl Hexapeptide-8, Copper Tripeptide-1, Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Pentapeptide-4, Hexapeptide-9",
+    "image": "https://incidecoder-content.storage.googleapis.com/e6210e79-8224-4007-8e5c-fa476b912c8d/products/k-secret-seoul-1988-sun-pine-tree-ceramide-spf-50/k-secret-seoul-1988-sun-pine-tree-ceramide-spf-50_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-013",
+    "brand": "K-Secret",
+    "name": "SEOUL 1988 Serum: Retinal Liposome 2% + Black Ginseng",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Panax Ginseng Root Extract, Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Niacinamide, Butylene Glycol, Methyl Gluceth-20, Polyglyceryl-3 Methylglucose Distearate, Hydrogenated Lecithin, Sorbitan Stearate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Macadamia Ternifolia Seed Oil, Carbomer, Tromethamine, Betaine, Tocopherol, Ethylhexylglycerin, Helianthus Annuus (Sunflower) Seed Oil, Adenosine, Disodium EDTA, Cholesterol, Polyglyceryl-10 Oleate, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Arctium Lappa Root Extract, Cnidium Officinale Root Extract, Dioscorea Japonica Root Extract, Paeonia Suffruticosa Root Extract, Rehmannia Chinensis Root Extract, 3-0-Ethyl Ascorbic Acid, Bakuchiol, SH-Oligopeptide-1, SH-Oligopeptide-2, SH-Polypeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/39381c9e-fd8d-4896-ab59-9974250c4300/products/ksecret-seoul-1988-serum-retinal-liposome-2-black-ginseng-2/ksecret-seoul-1988-serum-retinal-liposome-2-black-ginseng-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تفتيح البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SUN-KSE-005",
+    "brand": "K-Secret",
+    "name": "Vita Collagen Secret Whitening Sun Lotion",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Hippophae Rhamnoides Water, Propanediol, Zinc Oxide, Dibutyl Adipate, Isoamyl p-Methoxycinnamate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Sorbitan Stearate, Cyclopentasiloxane, Niacinamide, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Polysilicone-15, Cyclohexasiloxane, Polysorbate 60, Silica, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyhydroxystearic Acid, Fragrance, Triethoxycaprylylsilane, Dipropylene Glycol, Hydroxyacetophenone, Dimethicone/Vinyl Dimethicone Crosspolymer, Bacillus/Soybean Ferment Extract, Sphingomonas Ferment Extract, Lactobacillus/Soymilk Ferment Filtrate, Lactobacillus/Rye Flour Ferment, Caprylyl Glycol, Tocopheryl Acetate, Hydrolyzed Collagen, Water, Potassium Cetyl Phosphate, Hydrogenated Palm Glycerides, Adenosine, Sorbitan Isostearate, Glycerin, 1,2-Hexanediol, Riboflavin, Cyanocobalamin, Thiamine Hcl, Pantothenic Acid, Folic Acid, Pyridoxine, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydroxypropyltrimonium Hyaluronate, Dipotassium Glycyrrhizate, Sodium Acetylated Hyaluronate, Glutathione, Biotin, Ascorbyl Glucoside, Beta-Carotene, Soluble Collagen, Caprylic/Capric Triglyceride, Polyglyceryl-10 Diisostearate, Hydrogenated Lecithin, Menadione",
+    "image": "https://incidecoder-content.storage.googleapis.com/df818400-a60d-4e5b-b9a7-594ebda9d1c1/products/k-secret-vita-collagen-secret-whitening-sun-lotion/k-secret-vita-collagen-secret-whitening-sun-lotion_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "KR-LOT-KSE-004",
+    "brand": "K-Secret",
+    "name": "Calamine Derma Secret Cream",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Niacinamide, Adenosine, Hyaluronic Acid, Dimethicone, Beeswax, Butyrospermum Parkii (Shea) Butter, Calamine, Glyceryl Stearate, Cetearyl Alcohol, Ceresin, Sorbitan Stearate, Carbomer, Centella Asiatica Extract, Salix Alba (Willow) Bark Extract, Lactobacillus/Soybean Ferment Extract, Portulaca Oleracea Extract, Origanum Vulgare Leaf Extract, Cinnamomum Cassia Bark Extract, Scutellaria Baicalensis Root Extract, Butylene Glycol",
+    "image": "https://incidecoder-content.storage.googleapis.com/38624f21-4c4c-4465-bbf1-6080e990a194/products/k-secret-calamine-derma-secret-cream/k-secret-calamine-derma-secret-cream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "KR-SSE-KSE-014",
+    "brand": "K-Secret",
+    "name": "Boosting Serum: Collagen Complex 7 + Red Ginseng",
+    "country": "Korea",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Collagen, Butylene Glycol, Propanediol, Glycerin, 1,2-Hexanediol, Glycereth-26, Niacinamide, Methylpropanediol, Pentylene Glycol, Squalane, Polyglycerin-3, Ammonium Acryloyldimethyltaurate/VP Copolymer, Carbomer, Cetearyl Olivate, Xanthan Gum, Sorbitan Olivate, Tromethamine, Caprylic/Capric Triglyceride, Ethylhexylglycerin, Adenosine, Atelocollagen, Desamido Collagen, Hydrogenated Lecithin, Disodium EDTA, Hydrolyzed Collagen, Sodium Hyaluronate, Panax Ginseng Root Extract, Coptis Japonica Root Extract, Cyanocobalamin, Soluble Collagen, Ceramide NP, Collagen, Collagen Amino Acids, Beta-Glucan, Ethyl Hexanediol, Procollagen, Cellulose, Tocopherol, Polyglutamic Acid, Polyglyceryl-10 Laurate, Glutathione, Hydrolyzed Elastin, SH-Oligopeptide-1",
+    "image": "https://incidecoder-content.storage.googleapis.com/8aef2079-6715-47c9-a18d-b09610e3e55e/products/k-secret-seoul-1988-boosting-serum-collagen-complex-7-red-ginseng/k-secret-seoul-1988-boosting-serum-collagen-complex-7-red-ginseng_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "KR-SUN-KSE-006",
+    "brand": "K-Secret",
+    "name": "Calamine Secret Sunblock",
+    "country": "Korea",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Water, Zinc Oxide, Butyloctyl Salicylate, Cyclopentasiloxane, Cetyl Ethylhexanoate, Cyclohexasiloxane, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Dimethicone, Niacinamide, Isononyl Isononanoate, Calamine, PEG-10 Dimethicone, Dimethicone/PEG-10/15 Crosspolymer, Magnesium Sulfate, Disteardimonium Hectorite, Titanium Dioxide(Ci 77891), Dimethicone Crosspolymer, Ethyl Hexanediol, Panthenol, PEG-30 Dipolyhydroxystearate, Triethoxycaprylylsilane, Ceresin, Silica Dimethyl Silylate, Fragrance, Stearic Acid, Glyceryl Caprylate, Silica, Lauroyl Lysine, Disodium EDTA, Adenosine, Iron Oxides(Ci 77491), Totarol, Aloe Barbadensis Leaf Extract, Centella Asiatica Extract, 1,2-Hexanediol, Caprylyl Glycol",
+    "image": "https://incidecoder-content.storage.googleapis.com/1b31885f-872d-405b-a622-665064e5f97a/products/k-secret-calamine-secret-sunblock/k-secret-calamine-secret-sunblock_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مهدئ",
+      "توازن الدهون والزيوت",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
   }
 ]
