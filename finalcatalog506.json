@@ -129,7 +129,10 @@
     "quantity": "265ml",
     "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum (Fragrance), Cocamide DEA, Polyquaternium-7, C12-15 Alkyl Lactate, Urea, Triethyl Citrate, lactic Acid, Sodium Lactate, Sodium Chloride, Disodium EDTA' Methylisothiazolinone (and) Methylchloroisothiazolone.",
     "image": "https://images.openbeautyfacts.org/images/products/613/054/801/7704/front_en.3.400.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنظيف عميق"
+    ],
     "price": {
       "min": 250,
       "max": 250,
@@ -1151,7 +1154,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "50 ml",
-    "ingredients": ": water, DIMETHICONE, ISODODECANE,  GLYCERIN, DISOSTEARYL MALATE, KAOLIN, DISTEARDIMONIUM HECTORITE, SALICYLIC ACID, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, SODIUM CHLORIDE, PHENOXYETHANOL, DIMETHICONE/POLYGLYCERIN-3 CROSSPOLYMER, PEG-10 DIMETHICONE, SODIUM HYDROXIDE, SODIUM DEHYDROACETATE, CHLORPHENESIN, DISODIUM STEAROYL GLUTAMATE, ACRYLATES COPOLYMER, ZINC GLUCONATE, TOCOPHEROL, ASCORBYL PALMITATE, ALUMINIUM HYDROXIDE, PEG-9, DIPROPYLENE GLYCOL, MORINGA PTERYGOSPERMA SEED EXTRACT, PARFUM/FRAGRANCE, CI 77891/ TITANIUM DIOXIDE, CI 77491, IRON OXIDES",
+    "ingredients": ": water, DIMETHICONE, ISODODECANE,  GLYCERIN, DISOSTEARYL MALATE, KAOLIN, DISTEARDIMONIUM HECTORITE, SALICYLIC ACID, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, SODIUM CHLORIDE, PHENOXYETHANOL, DIMETHICONE/POLYGLYCERIN-3 CROSSPOLYMER, PEG-10 DIMETHICONE, SODIUM HYDROXIDE, SODIUM DEHYDROACETATE, CHLORPHENESIN, DISODIUM STEAROYL GLUTAMATE, ACRYLATES COPOLYMER, ZINC GLUCONATE, TOCOPHEROL, ASCORBYL PALMITATE, ALUMINIUM HYDROXIDE, PEG-9, DIPROPYLENE GLYCOL, MORINGA PTERYGOSPERMA SEED EXTRACT, PARFUM/FRAGRANCE, [+/- MAY CONTAIN, CI 77891/ TITANIUM DIOXIDE, CI 77491, CI 77492/IRON OXIDES]. (F.I/L B170603/1)",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/053/8175/front_fr.7.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -2752,7 +2755,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "30 ml",
-    "ingredients": "AQUA / WATER, ISODODECANE, CYCLOPENTASILOXANE, GLYCERIN, CYCLOHEXASILOXANE, PEG-10 DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, BUTYLENE GLYCOL, DIMETHICONE, ISOEICOSANE, DISTEARDIMONIUM HECTORITE, BORON NITRIDE, PHENOXYETHANOL, CETYL PEG/PPG-10/1 DIMETHICONE, SODIUM CHLORIDE, POLYGLYCERYL-4 ISOSTEARATE, HEXYL LAURATE, ACRYLATES / AMMONIUM METHACRYLATE COPOLYMER, ISOSTEARYL NEOPENTANOATE, CAPRYLYL GLYCOL, TRIETHYL CITRATE, METHYLPARABEN, C9-15 FLUOROALCOHOL PHOSPHATES / C9-15 FLUOROALCOHOL, PHOSPHATE, TOCOPHEROL, PANTHENOL, CI 77891 / TITANIUM DIOXIDE, CI 77491, CI 77492, CI 77499",
+    "ingredients": "AQUA / WATER, ISODODECANE, CYCLOPENTASILOXANE, GLYCERIN, CYCLOHEXASILOXANE, PEG-10 DIMETHICONE, METHYL METHACRYLATE CROSSPOLYMER, BUTYLENE GLYCOL, DIMETHICONE, ISOEICOSANE, DISTEARDIMONIUM HECTORITE, BORON NITRIDE, PHENOXYETHANOL, CETYL PEG/PPG-10/1 DIMETHICONE, SODIUM CHLORIDE, POLYGLYCERYL-4 ISOSTEARATE, HEXYL LAURATE, ACRYLATES / AMMONIUM METHACRYLATE COPOLYMER, ISOSTEARYL NEOPENTANOATE, CAPRYLYL GLYCOL, TRIETHYL CITRATE, METHYLPARABEN, C9-15 FLUOROALCOHOL PHOSPHATES / C9-15 FLUOROALCOHOL, PHOSPHATE, TOCOPHEROL, PANTHENOL, [+/- MAY CONTAIN : CI 77891 / TITANIUM DIOXIDE, CI 77491, CI 77492, CI 77499 / IRON OXIDES]. (FIL B49725/1).",
     "image": "https://images.openbeautyfacts.org/images/products/360/052/208/2651/front_fr.5.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -4757,7 +4760,9 @@
     "quantity": "null",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://www.biolila.com/storage/product/RQfBTc1VldTBc9kiFi2vQlcru.png",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
     "price": {
       "min": 1100,
       "max": 1100,
@@ -4889,9 +4894,15 @@
     "quantity": "null",
     "ingredients": "ماء, كربونات ثنائي الكابريليل, سوربيتول, عطر, ديازوليدينيل يوريا, ثنائي ستيرات بنتاريثريتيل, دايميثيكون, بولي كواتيرنيوم-37, زيت الجزر, رباعي الصوديوم EDTA",
     "image": "https://inescosmetics.com/wp-content/uploads/2025/07/IMG_8803-scaled.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الدهنية"
+    ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "OT-XXX-HEM-001",
@@ -5152,9 +5163,19 @@
     "quantity": "null",
     "ingredients": "ماء, طين الإيليت (الطين الأخضر الفرنسي), عطر, ميثيل أيزوثيازولينون (MIT)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768675753/cauazcewo1r7vfmlmqsp.jpg",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "marketingClaims": [
+      "تنقية عميقة",
+      "تنقية المسام"
+    ],
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SUN-ZOR-002",
@@ -5169,13 +5190,20 @@
     "quantity": "50ml",
     "ingredients": "ماء, الجلسرين, حمض الستياريك, ثاني أكسيد التيتانيوم، بروبيلين غليكول, بانثينول (بروفيتامين B5), صمغ الزانثان, كحول السيتيل, ثلاثي إيثانولامين (TEA), رباعي الصوديوم EDTA, حمض الستريك, مستخلص الألوفيرا, أفوبينزون, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), فينوكسي إيثانول",
     "image": "https://laplace7.dz/public/uploads/all/JfUe9XZYDev1Use5MWKOxVJdm9wtN5YrcP7stTEx.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مرطب للبشرة",
+      "للبشرة الدهنية",
+      "حماية واسعة الطيف"
+    ],
     "price": {
       "min": 700,
       "max": 700,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-SSE-DERMA-001",
@@ -5192,7 +5220,7 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771932134/rilfbd6qkdcls9bueuj1.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 450,
+      "min": 400,
       "max": 450,
       "currency": "DZD"
     },
@@ -5318,7 +5346,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة مختلطة"
+      "بشرة مختلطة",
+      "بشرة حساسة"
     ]
   },
   {
@@ -5471,7 +5500,9 @@
       "max": 1500,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-XXX-PROD-003",
@@ -5545,7 +5576,10 @@
     "quantity": "null",
     "ingredients": "ماء, الجلسرين, كحول السيتريل, ترايميثيل سيلوكسي فينيل دايميثيكون, بي جي/بي بي جي-20/20 فينيل أيزوبروبيل كابريليل دايميثيكون, كلوريد سيتريمونيوم, سيتاريث-20, غليسيريل مونوستيرات (GMS), ميريستات الأيزوبروبيل, زيت الأفوكادو, زبدة الشيا, عطر, Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer, ترايديسيث-5, كحول بنزيلي, بي بي جي-2 ميثيل إيثر, برونوبول, أيودوبروبينيل بوتيل كاربامات",
     "image": "https://adibabeauty.com/cdn/shop/files/8ED87752-D387-4693-B5DF-AC7A51E6CE4C.jpg?v=1756498092&width=1200",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تنعيم الشعر"
+    ],
     "price": {
       "min": 400,
       "max": 450,
@@ -5566,13 +5600,19 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.goldencos.com/wp-content/uploads/2025/03/image_viber_2025-03-25_12-16-50-861.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "للبشرة الجافة",
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 300,
       "max": 300,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
   },
   {
     "id": "KR-CLE-ROU-002",
@@ -5864,9 +5904,19 @@
     "quantity": "null",
     "ingredients": "ماء, كوكو جلوكوسايد, كوكاميدوبروبيل بيتين (CAPB), ألكيل بولي غلوكوزيد (APG), PEG-150 بنتاريثريتيل تتراستيرات, بانثينول (بروفيتامين B5), فينوكسي إيثانول, كحول بنزيلي, سيترات الصوديوم, أحماض الحرير الأمينية, بروتين نباتي مهدرج, سوربيتول, بوتيل فينيل ميثيل بروبيونال (ليليال), الجلسرين, ليسيثين, كومارين, كابريليل جليكول, كيراتين مهدرج, سوربات البوتاسيوم, صمغ الزانثان, مستخلص أوراق الشاي الأخضر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772373531/kvru6yp9feuqndcvekfz.jpg",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": {
+      "min": 650,
+      "max": 650,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر متضرر"
+    ]
   },
   {
     "id": "OT-SHA-BION-001",
@@ -6006,7 +6056,10 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زبدة الشيا, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.pharmaly-dz.com/wp-content/uploads/2025/03/lisas-soft-creme-hydratante-visage-peaux-normales-a-seches-75ml.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
     "price": {
       "min": 300,
       "max": 300,
@@ -6173,7 +6226,9 @@
     "quantity": "null",
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, الجلسرين, كحول اللانولين, جليسريل ستيرات, زيت دوار الشمس, حمض اللاكتيك, ستيرات PEG-100, ستيرات السوربيتان, حمض الساليسيليك, دايميثيكون, كحول البوليفينيل (PVA), صمغ الزانثان, ميثيل بارابين",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768859759/u8h9cpz295o5olm7orgw.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 250,
       "max": 250,
@@ -6194,7 +6249,10 @@
     "quantity": "null",
     "ingredients": "ماء, ميثيل بروبانيديول, ماء البابونج (هيدروسول), صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), صمغ الزانثان, عطر, رباعي الصوديوم EDTA, آلانتوين, زيت المكاديميا, ليمونين, هيدروكسيد الصوديوم, حمض الستريك, مستخلص زهور البابونج الألماني, بنزوات الصوديوم, سوربات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772132703/snabhaq6pquq4cxsewwe.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الحموضة"
+    ],
     "price": null,
     "targetTypes": []
   },
@@ -6594,7 +6652,11 @@
     "quantity": "null",
     "ingredients": "ماء, حمض الستياريك, شمع النحل, ميريستات الأيزوبروبيل, زيت جوز الهند, أكسيد الزنك, توكوفيرول (فيتامين E النقي), يوفينول أ بلس, آلانتوين, فينوكسي إيثانول",
     "image": "https://adibabeauty.com/cdn/shop/files/rn-image_picker_lib_temp_09e06d8b-ddb5-47da-a5e3-4e0848b21791.png?v=1776009795&width=1600",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 400,
       "max": 500,
@@ -6615,7 +6677,10 @@
     "quantity": "30ml",
     "ingredients": "Water, Sodium Benzoate, Xanthan Gum, Glycerin, Sucrose Polystearate, Cetyl Palmitate, Sodium Stearoyl Glutamate, Butyrospermum Parkii (Shea) Butter, Vitamin C (Ascorbic Acid), Hydrogenated Vegetable Glycerides, Cetyl Alcohol, Caprylic/Capric Triglyceride, Parfum (Fragrance).",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768690795/zbz6dusjdefbti5aqwow.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة"
+    ],
     "price": {
       "min": 1000,
       "max": 1000,
@@ -6746,7 +6811,11 @@
     "marketingClaims": [
       "deep_cleansing"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -7755,8 +7824,13 @@
       "max": 400,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "تنظيف عميق"
+    ]
   },
   {
     "id": "DZ-CLE-VEN-004",
@@ -7822,7 +7896,8 @@
       "بشرة جافة"
     ],
     "marketingClaims": [
-      "sulfate_free"
+      "تنظيف لطيف",
+      "للبشرة الجافة"
     ]
   },
   {
@@ -7847,7 +7922,10 @@
       "بشرة مختلطة",
       "بشرة دهنية"
     ],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ]
   },
   {
     "id": "DZ-SUN-VEN-006",
@@ -7948,8 +8026,14 @@
     },
     "quantity": "50 ml",
     "price": null,
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الجافة"
+    ]
   },
   {
     "id": "DZ-SUN-VEN-001",
@@ -7969,8 +8053,15 @@
       "max": 650,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "للبشرة الدهنية"
+    ]
   },
   {
     "id": "DZ-CON-VEN-010",
@@ -8284,7 +8375,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8318,7 +8413,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8997,8 +9096,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "dry_skin",
-      "sensitive_skin"
+      "بشرة جافة",
+      "بشرة حساسة"
     ],
     "marketingClaims": [
       "مرطب للبشرة",
@@ -11383,7 +11482,7 @@
       "icon": "shopping-bag"
     },
     "quantity": null,
-    "ingredients": "Cyclopentasiloxane, Aqua/Water/Eau, Caprylyl Methicone, Coconut Alkanes, Trimethylsiloxysilicate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Coco Caprylate/Caprate, Dimethicone/PEG-10/15 Crosspolymer, Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone, Dipropylene Glycol, Tocopherol, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Hectorite, Sodium Chloride, Hexyl Laurate, Dimethicone/Vinyl Dimethicone Crosspolymer, PEG-10 Dimethicone, Stearic Acid, Methyl Methacrylate Crosspolymer, Alumina, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Tin Oxide, Aluminum Hydroxide, Bismuth Oxychloride (CI 77163), Mica, Magnesium Stearate, Triethoxycaprylylsilane.",
+    "ingredients": "Cyclopentasiloxane, Aqua/Water/Eau, Caprylyl Methicone, Coconut Alkanes, Trimethylsiloxysilicate, PEG-9 Polydimethylsiloxyethyl Dimethicone, Coco Caprylate/Caprate, Dimethicone/PEG-10/15 Crosspolymer, Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone, Dipropylene Glycol, Tocopherol, Polyglyceryl-3 Diisostearate, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Hectorite, Sodium Chloride, Hexyl Laurate, Dimethicone/Vinyl Dimethicone Crosspolymer, PEG-10 Dimethicone, Stearic Acid, Methyl Methacrylate Crosspolymer, Alumina, Trisodium Ethylenediamine Disuccinate, Phenoxyethanol, Chlorphenesin. May Contain [+/-]: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Tin Oxide, Aluminum Hydroxide, Bismuth Oxychloride (CI 77163), Mica, Magnesium Stearate, Triethoxycaprylylsilane.",
     "image": "https://theordinary.com/dw/image/v2/BFKJ_PRD/on/demandware.static/-/Sites-deciem-master/default/dw60f28d4c/Images/products/The%20Ordinary/Colours/rdn-serum-foundation-31-y-30ml.png?sw=900&sh=900&sm=fit",
     "marketingClaims": [
       "توحيد لون البشرة"
@@ -16259,7 +16358,7 @@
       "بشرة حساسة"
     ]
   },
-    {
+  {
     "id": "US-LOT-NEU-002",
     "brand": "Neutrogena",
     "name": "Very Dry and Damaged Feet Cream 100ml",
@@ -18138,7 +18237,7 @@
       "icon": "shopping-bag"
     },
     "quantity": "30ml",
-    "ingredients": "Bronze : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Trihydroxystearin, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Acetylated Glycol Stearate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin, CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides.",
+    "ingredients": "Bronze : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Trihydroxystearin, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Acetylated Glycol Stearate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin. May contain : CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides. - Chestnut : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Isobutane, Trihydroxystearin, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Acetylated Glycol Stearate, Pentaerithrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride, Copolymer, Ethylhexylglycerin. May contain : CI 77491, CI 77492, CI 77499/Iron Oxides. - Espresso : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Isobutane, Trihydroxystearin, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Acetylated Glycol Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin.May contain : CI 77491, CI 77492, CI 77499/Iron Oxides, CI 77891/Titanium Dioxide. - Gold, Nude, Porcelain : Aqua, Undecane, Dimethicone, Glycerin, Titanium Dioxide [Nano]/Titanium Dioxide, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Stearic Acid, Trihydroxystearin, Silica Silylate, Silica, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Vitreoscilla Ferment, Acetylated Glycol Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Ethylhexylglycerin. May contain : CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides. - Vanilla : Aqua, Undecane, Dimethicone, Glycerin, Tridecane, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Hexyl Laurate, Magnesium Sulfate, Disteardimonium Hectorite, Isobutane, Trihydroxystearin, Helianthus Annuus Seed Oil/Sunflower Seed Oil, Cellulose Gum, Aluminium Hydroxide, Disodium Stearoyl Glutamate, Tocopherol, Acetylated Glycol Stearate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Ethylhexylglycerin. May contain : CI 77891/Titanium Dioxide, CI 77491, CI 77492, CI 77499/Iron Oxides",
     "image": "https://cdn1.costatic.com/img/product/400/6a61c18220bad/vichy-dermablend-fluid-11945.jpg",
     "marketingClaims": [
       "توحيد لون البشرة"
@@ -18629,7 +18728,7 @@
       "icon": "shopping-bag"
     },
     "quantity": "30ml",
-    "ingredients": "Aqua/Water, Dimethicone, Glycerin, Synthetic Fluorphlogopite, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone Crosspolymer, Sorbitan Isostearate, Triethanolamine, Salicylic Acid, Aluminium Hydroxide, Phenoxyethanol, Disodium Stearoyl Glutamate, Eperua Falcata Bark Extract, Dextrin, Polysorbate 6, CI77891/Titanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides]",
+    "ingredients": "Aqua/Water, Dimethicone, Glycerin, Synthetic Fluorphlogopite, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone Crosspolymer, Sorbitan Isostearate, Triethanolamine, Salicylic Acid, Aluminium Hydroxide, Phenoxyethanol, Disodium Stearoyl Glutamate, Eperua Falcata Bark Extract, Dextrin, Polysorbate 6. [+/- May Contain CI77891/Titanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides]",
     "image": "https://cdn1.costatic.com/img/product/400/6512b268b930c/vichy-dermablend-3d-26279.jpg",
     "marketingClaims": [
       "توحيد لون البشرة",
@@ -27076,7 +27175,6 @@
     "price": null,
     "targetTypes": []
   },
-  
   {
     "id": "FR-TON-SVR-001",
     "brand": "SVR",
@@ -29305,7 +29403,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "FR-SSE-URI-001",
     "brand": "Uriage",
     "name": "Age Absolu Sérum Micro-Redensifiant Booster Collagène 30 ml",
@@ -33835,7 +33933,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "40ml",
-    "ingredients": "Aqua / Water / Eau, Glycerin, Isocetyl Stearate, Isopropyl Isostearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch / Rice Starch, Glyceryl Stearate Se, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Salicylic Acid, Silica Silylate, Poloxamer 338, Maltodextrin, Polysorbate 80, Mannose, Pentylene Glycol, Zinc Pca, Punica Granatum Pericarp Extract, Isohexadecane, 2-Oleamido-1,3-Octadecanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum / Fragrance, Sorbitan Oleate, Potassium Cetyl Phosphate, Vitreoscilla Ferment, Citric Acid. Ci 77891 / Titanium Dioxide, Ci 77491, Ci 77492, Ci 77499 / Iron Oxides, Mica",
+    "ingredients": "Aqua / Water / Eau, Glycerin, Isocetyl Stearate, Isopropyl Isostearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Oryza Sativa Starch / Rice Starch, Glyceryl Stearate Se, Sodium Hydroxide, Trisodium Ethylenediamine Disuccinate, Salicylic Acid, Silica Silylate, Poloxamer 338, Maltodextrin, Polysorbate 80, Mannose, Pentylene Glycol, Zinc Pca, Punica Granatum Pericarp Extract, Isohexadecane, 2-Oleamido-1,3-Octadecanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum / Fragrance, Sorbitan Oleate, Potassium Cetyl Phosphate, Vitreoscilla Ferment, Citric Acid. [+/- May Contain: Ci 77891 / Titanium Dioxide, Ci 77491, Ci 77492, Ci 77499 / Iron Oxides, Mica]",
     "image": "https://cdn1.costatic.com/img/product/400/67dd493ce9ef1/la-roche-posay-p93275.jpg",
     "marketingClaims": [
       "مضاد لحب الشباب",
@@ -35274,7 +35372,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "40ml",
-    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Methyl Methacrylate Crosspolymer, T-Butyl Alcohol, Sodium Hydroxide, Oleic Acid, Salicylic Acid, Silica Silylate, Poloxamer 338, Nylon-12, Polysorbate 80, Zinc PCA, Linoleic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Isohexadecane, 2-Oleamido-1, 3-Octanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum/Fragrance, Sorbitan Oleate, Disodium Edta, Potassium Cetyl Phosphate, Bht, Glyceryl Stearate SE, CI77891/TItanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides, Mica",
+    "ingredients": "Aqua/Water, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Methyl Methacrylate Crosspolymer, T-Butyl Alcohol, Sodium Hydroxide, Oleic Acid, Salicylic Acid, Silica Silylate, Poloxamer 338, Nylon-12, Polysorbate 80, Zinc PCA, Linoleic Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Isohexadecane, 2-Oleamido-1, 3-Octanediol, Capryloyl Salicylic Acid, Caprylyl Glycol, Piroctone Olamine, Myristyl Myristate, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Parfum/Fragrance, Sorbitan Oleate, Disodium Edta, Potassium Cetyl Phosphate, Bht, Glyceryl Stearate SE, [+/- May contain CI77891/TItanium Dioxide, CI77491, CI77492, CI77499/Iron Oxides, Mica]",
     "image": "https://cdn1.costatic.com/img/product/400/69fb477a99280/la-roche-posay-p24722.jpg",
     "marketingClaims": [
       "مضاد لحب الشباب",
@@ -40854,7 +40952,6 @@
     "price": null,
     "targetTypes": []
   },
-  
   {
     "id": "FR-LOT-AROM-001",
     "brand": "Aroma-Zone",
@@ -43146,7 +43243,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "FR-LOT-ARO-051",
     "brand": "Aroma-Zone",
     "name": "Organic Neroli Balm",
@@ -46808,7 +46905,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "DZ-SHA-MIS-001",
     "brand": "Miss Claire",
     "name": "Shampooing A L'Huile D'Argan Keratine Extreme",
@@ -46870,8 +46967,8 @@
       "حماية من الحرارة"
     ],
     "price": {
-      "min": 350.0,
-      "max": 350.0,
+      "min": 350,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -46940,8 +47037,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 450.0,
-      "max": 450.0,
+      "min": 450,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -47001,8 +47098,8 @@
     "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/5/5/555997443_18068746901243404_1727007346430341929_n_1_.png",
     "marketingClaims": [],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47026,8 +47123,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47052,8 +47149,8 @@
       "تغذية الشعر"
     ],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47081,8 +47178,8 @@
       "مكافحة التجعد"
     ],
     "price": {
-      "min": 650.0,
-      "max": 650.0,
+      "min": 650,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -47107,8 +47204,8 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 480.0,
-      "max": 480.0,
+      "min": 480,
+      "max": 480,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -49054,7 +49151,7 @@
       "بشرة جافة"
     ]
   },
-    {
+  {
     "id": "FR-SSE-EMB-001",
     "brand": "Embryolisse",
     "name": "Anti-Blemish Serum",
@@ -49920,7 +50017,258 @@
     "price": null,
     "targetTypes": []
   },
-  
+  {
+    "id": "DZ-LOT-AVU-001",
+    "brand": "AVURE",
+    "name": "Crème Soin de Jour Hydratant Lift & Repair",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792585/qlq0fhrs3hedoeqgxyl8.jpg",
+    "ingredients": "Lavandula Angustifolia (Lavender) Flower Water, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Argania Spinosa Kernel Oil, Allantoin, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Polysorbate 60, Lavandula Angustifolia (Lavender) Extract, Tocopherol, Dehydroacetic Acid, Benzyl Alcohol.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null",
+    "price": {
+      "min": null,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "normal_skin",
+      "oily_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-AVU-001",
+    "brand": "AVURE",
+    "name": "Gel Nettoyant Eclat Hydratant",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792995/dglvqpgemwochc55z8j5.jpg",
+    "ingredients": "AQUA (AND) LAVANDULA ANGUSTIFOLIA FLOWER WATER, SODIUM COCOYL ISETHIONATE, COCO-GLUCOSIDE, COCAMIDOPROPYL BETAINE, NIACINAMIDE, GLYCERIN, POLYSORBATE 20, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, SODIUM HYALURONATE, PHENOXYETHANOL, CAPRYLYL GLYCOL, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, MENTHA VIRIDIS (SPEARMINT) LEAF OIL, ALOE BARBADENSIS LEAF EXTRACT.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 1400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-EYE-AVU-001",
+    "brand": "AVURE",
+    "name": "Crème contour des Yeux anti-age",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792354/xitoxlhox6inenyupfen.jpg",
+    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, RETINOL, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL, TOCOPHEROL, DEHYDROACETIC ACID, BENZYL ALCOHOL",
+    "country": "Algeria",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 2850,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تفتيح تحت العين"
+    ]
+  },
+  {
+    "id": "DZ-CLE-AVU-002",
+    "brand": "AVURE",
+    "name": "Calming Oil cleanser",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785791916/icsmxqnxdflnemg82d4y.jpg",
+    "ingredients": "Caprylic/Capric Triglyceride · Dicaprylyl Carbonate · Squalane · Simmondsia Chinensis (Jojoba) Seed Oil · Prunus Amygdalus Dulcis (Sweet Almond) Oil · Polyglyceryl-4 Oleate · PEG-40 Hydrogenated Castor Oil · Tocopherol · Bisabolol · Melaleuca Alternifolia (Tea Tree) Leaf Oil · Ceramide NP · Opuntia Ficus-Indica Stem Extract · Chamomilla Recutita (Matricaria) Flower Extract.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 2490,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "إزالة المكياج",
+      "مرطب للبشرة",
+      "مهدئ"
+    ]
+  },
+  {
+    "id": "DZ-OTH-AVU-001",
+    "brand": "AVURE",
+    "name": "Tonique Exfoliant à l'Acide Glycolique 7% - Tonique Illuminateur",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785793353/x1bhqr54e9huspiwqhza.jpg",
+    "ingredients": "AQUA, LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, GLYCOLIC ACID, GLYCERIN, POLYSORBATE 20, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL, TOCOPHEROL (VITAMIN E), DEHYDROACETIC ACID, BENZYL ALCOHOL.",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "220 ml",
+    "price": {
+      "min": 2750,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "تفتيح البشرة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-AVU-001",
+    "brand": "AVURE",
+    "name": "Retinol 2000 ppm - Anti-wrinkle Serum",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792800/f7d72n9lijyxsokc0izg.jpg",
+    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER,RETINOL, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, PANTHENOL (Vitamine B5), DEHYDROACETIC ACID, BENZYL ALCOHOL, TOCOPHEROL(Vitamine E)",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 2500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "oily_skin",
+      "normal_skin",
+      "dry_skin",
+      "combination_skin",
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-AVU-001",
+    "brand": "AVURE",
+    "name": "Gel crème SPF50+ UV Daily defense",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785792124/yajjditn8n0w0am2eat2.jpg",
+    "ingredients": "Aqua, Dibutyl Adipate, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Zinc Oxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone, Ethylhexyl Methoxycinnamate, Cetearyl Alcohol, Disodium Cetearyl Sulfosuccinate, Glycerin, Sorbitol, Panthenol, Beta-Glucan, Lactobacillus Ferment Lysate, Chamomilla Recutita (Matricaria) Flower/Leaf Extract, Sodium Ascorbyl Phosphate, Propylene Glycol, Decyl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Tetrahydroxypropyl Ethylenediamine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin.",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 2950,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "sensitive_skin"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-AVU-002",
+    "brand": "AVURE",
+    "name": "Niacinamide 10% - Sérum Anti-imperfections",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1785793153/wx3zffmd1xe26zbkzeqn.jpg",
+    "ingredients": "LAVANDULA ANGUSTIFOLIA (LAVENDER) FLOWER WATER, PELARGONIUM GRAVEOLENS FLOWER WATER, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, SODIUM HYALURONATE, PANTHENOL, DEHYDROACETIC ACID, BENZYL ALCOHOL, TOCOPHEROL.",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 2850,
+      "currency": "DZD",
+      "max": null
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SWA-001",
+    "brand": "Swalis",
+    "name": "Swalis Intense Care (Kératine + Jojoba) :",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1786134397/p3j8lnwimm9dqcjwn4y1.jpg",
+    "ingredients": "Aqua, Coco-Glucoside, Decyl Glucoside, Cocamidopropyl Betaine, Polyquaternium-7, Panthenol, Glycerin, PEG-7 Glyceryl Cocoate, Citric Acid, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Hydrolyzed Keratin, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Benzoate, Potassium Sorbate, Fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 330,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف"
+    ],
+    "marketingClaims": [
+      "مخصص للشعر الجاف"
+    ]
+  },
   {
     "id": "KR-CLE-ARE-001",
     "brand": "Arencia",
