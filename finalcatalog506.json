@@ -8814,7 +8814,12 @@
     "quantity": "40 ml",
     "price": null,
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة",
+      "تقشير لطيف"
+    ]
   },
   {
     "id": "FR-SHA-ACM-001",
@@ -8948,7 +8953,9 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تفتيح البشرة"
+    ]
   },
   {
     "id": "FR-BWA-ACM-001",
