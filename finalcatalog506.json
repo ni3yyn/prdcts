@@ -5402,8 +5402,21 @@
     "ingredients": "ماء, كاربومير, ثلاثي إيثانولامين (TEA), سوربيتول, بروبيلين غليكول, مستخلص الألوفيرا, PEG-7 جليسيريل كوكوات, بانثينول (بروفيتامين B5), زيت الخروع المهدرج PEG-40, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772054590/lepjay9ahl142564or0n.jpg",
     "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر مصبوغ",
+      "شعر جاف",
+      "شعر متضرر",
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة",
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ]
   },
   {
     "id": "DZ-XXX-VAL-001",
@@ -5597,7 +5610,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "75ml",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://www.goldencos.com/wp-content/uploads/2025/03/image_viber_2025-03-25_12-16-50-861.jpg",
     "marketingClaims": [
@@ -6202,7 +6215,7 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "50ml",
     "ingredients": "ماء, أوكتوكريلين, يوفينول تي 150, أفوبينزون, أوليات الديسيل, أكسيد الزنك, ثلاثي جليسريد الكابريليك/الكابريك, كحول السيتيل, سيتاريث-20, النياسيناميد (فيتامين B3), حمض الهيالورونيك, سينتيلا أسياتيكا (عشبة النمر), توكوفيرول (فيتامين E النقي), فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768859825/s8c3avtq1yb5inecf5sx.jpg",
     "marketingClaims": [
@@ -6659,7 +6672,7 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "180ml",
     "ingredients": "ماء, حمض الستياريك, شمع النحل, ميريستات الأيزوبروبيل, زيت جوز الهند, أكسيد الزنك, توكوفيرول (فيتامين E النقي), يوفينول أ بلس, آلانتوين, فينوكسي إيثانول",
     "image": "https://adibabeauty.com/cdn/shop/files/rn-image_picker_lib_temp_09e06d8b-ddb5-47da-a5e3-4e0848b21791.png?v=1776009795&width=1600",
     "marketingClaims": [
@@ -8655,7 +8668,11 @@
       "icon": "pump-soap"
     },
     "quantity": "400 ml",
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
