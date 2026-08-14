@@ -5433,7 +5433,9 @@
     "image": "https://genie-flowers.com/wp-content/uploads/2024/12/Valeria-Glyceri-1x1-Clear.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "FR-XXX-ACM-003",
@@ -6673,16 +6675,18 @@
       "icon": "sun"
     },
     "quantity": "180ml",
-    "ingredients": "ماء, حمض الستياريك, شمع النحل, ميريستات الأيزوبروبيل, زيت جوز الهند, أكسيد الزنك, توكوفيرول (فيتامين E النقي), يوفينول أ بلس, آلانتوين, فينوكسي إيثانول",
+    "ingredients": "AQUA, STEARIC ACID, emulgin b2, CETEARETH-20, PROPYLENE GLYCOL, ISOPROPYL MYRISTATE, COCOS NUCIFERA OIL, ZINC OXIDE,, vitamin E, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, PHENOXYETHANOL.",
     "image": "https://adibabeauty.com/cdn/shop/files/rn-image_picker_lib_temp_09e06d8b-ddb5-47da-a5e3-4e0848b21791.png?v=1776009795&width=1600",
     "marketingClaims": [
       "حماية من الشمس",
       "حماية واسعة الطيف",
-      "مرطب للبشرة"
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مقاوم للماء"
     ],
     "price": {
       "min": 400,
-      "max": 500,
+      "max": 550,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -9344,8 +9348,8 @@
     },
     "quantity": "300 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1100,
+      "max": 1100,
       "currency": "DZD"
     },
     "targetTypes": [
