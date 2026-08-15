@@ -1140,7 +1140,11 @@
     "ingredients": "water, SODIUM LAURETH SULFATE, PEG-8, COCO-BETAINE, HEXYLENE GLYCOL, SODIUM CHLORIDE, CAPRYLYL GLYCOL, CITRIC ACID, GLYCERIN, MORINGA PTERYGOSPERMA SEED EXTRACT, PEG-120 METHYL GLUCOSE DIOLEATE, PHENOXYETHANOL, SODIUM BENZOATE, SODIUM HYDROXIDE, ZINC PCA, PARFUM",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/055/0030/front_fr.9.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -2083,7 +2087,11 @@
     "ingredients": "water, SODIUM LAURETH SULFATE, Coco-Betaine, Glycerin, Sodium Chloride, Mentha Piperita Extract / Peppermint EXTRACT, PPG-5-CETETH-20, SODIUM HYDROXIDE, PAULLINIA CUPANA SEED EXTRACT, ASCORBYL GLUCOSIDE, PROPYLENE GLYCOL, CITRIC ACID, MENTHOL, PENTYLENE GLYCOL, POLYQUATERNIUM-7, SODIUM BENZOATE, SALICYLIC ACID, CI 16035 / RED 40, CI 19140 / YELLOW 5, LINALOOL, LIMONENE, PARFUM / FRAGRANCE. (F.I.L. B222163/1). *Vitamin C derivative",
     "image": "https://images.openbeautyfacts.org/images/products/360/052/371/8269/front_es.3.400.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
