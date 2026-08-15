@@ -54804,5 +54804,342 @@
       "بشرة معرضة للحبوب",
       "بشرة مختلطة"
     ]
+  },
+    {
+    "id": "TR-SSE-BIO-001",
+    "brand": "Bionnex",
+    "name": "Retinol 1% Serum",
+    "country": "Sweden",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Caprylic/Capric Triglyceride, Persea Gratissima Oil, Prunus Amygdalus Dulcis Oil, Retinol, Tocopherol, Bisabolol",
+    "image": "https://incidecoder-content.storage.googleapis.com/e8b4a065-e91a-4433-91bf-3a9b65e0db63/products/bionnex-retinol-1-serum/bionnex-retinol-1-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "TR-SUN-BIO-001",
+    "brand": "Bionnex",
+    "name": "Preventiva Dry Touch Sunscreen Fluid",
+    "country": "Sweden",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Octocrylene, Ethylhexyl Methoxycinnamate, C12-15 Alkyl Benzoate, Ethylhexyl Palmitate, Butyl Methoxydibenzoylmethane, Zinc Oxide, Tapioca Starch Polymethylsilsesquioxane, Ceteareth-25, VP/Hexadecene Copolymer, Glycerin, Dimethicone, Glyceryl Stearate SE, Cetyl Alcohol, Titanium Dioxide, Butylene Glycol, Silica, Ammonium Polyacrylate, Cyclopentasiloxane, PTFE, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, UNMAN GUM, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/ecec7299-365d-488c-9b4e-546fcef7d013/products/bionnex-preventiva-dry-touch-sunscreen-fluid/bionnex-preventiva-dry-touch-sunscreen-fluid_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "TR-LOT-BIO-001",
+    "brand": "Bionnex",
+    "name": "Repairing & Sebum Control (oily & Acne Prone Skin)",
+    "country": "Sweden",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Butylene Glycol, Cetearyl Olivate, Sorbitan Olivate, Empetrum Nigrum Fruit Juice, C12-13 Alkyl Ethylhexanoate, Propylene Glycol, Persea Gratissima Oil/Avocado Oil, Coco-Caprylate/Caprate, Salicylic Acid, Oleanolic Acid, Nordihydroguaiaretic Acid, PEG-60 Almond Glycerides, Caprylyl Glycol, Carbomer, Phenoxyethanol, Ethylhexylglycerin, Allantoin, Parfum, Tocopherol, Panthenol, Bisabolol, Xanthan Gum, Cucumis Sativus Seed Extract, Ginkgo Biloba Leaf Extract, Chamomilla Recutita Flower Extract, Tetrasodium Glutamate Diacetate",
+    "image": "https://incidecoder-content.storage.googleapis.com/0cb6bbde-ce60-4abe-b909-ef4fd117b9c7/products/bionnex-repairing-sebum-control-oily-acne-prone-skin/bionnex-repairing-sebum-control-oily-acne-prone-skin_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-SUN-BIO-002",
+    "brand": "Bionnex",
+    "name": "Preventiva Sunscreen Cream Kids",
+    "country": "Sweden",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Ethylhexyl Salicylate, Titanium Dioxide, Butyl Methoxydibenzoylmethane, Octocrylene, C12-15 Alkyl Benzoate, Ethylhexyl Palmitate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Glycerin, VP/Hexadecene Copolymer, Hordeum Vulgare Seed Flour, Butylene Glycol, Silica, Ammonium Polyacrylate, Dimethicone, Phenoxyethanol, Ethylhexylglycerin, Microcrystalline Cellulose, Tocopherol, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/07a1297b-d750-45d6-9d8e-9f2310cba5cc/products/bionnex-preventiva-sunscreen-cream-kids/bionnex-preventiva-sunscreen-cream-kids_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TR-LOT-BIO-002",
+    "brand": "Bionnex",
+    "name": "Whitexpert",
+    "country": "Sweden",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Cetearyl Alcohol, Caprylic/Capric Triglyceride Hexza Natural Complex : Diacetyl Boldine, Arbutin, 1-Methylhydantoin-2-Imide, Ascorbic Acid, Sodium Metabisulfite, Niacinamide, Glycerin, Dimethicone, C12-13 Alkyl Ethylhexanoate, Propylene Glycol, Avocado Oil, Ceteareth-25, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Xanthan Gum, Carbomer, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/5f1be5b8-e5e6-40a4-9d9a-471ff93fbf5d/products/bionnex-whitexpert/bionnex-whitexpert_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "TR-CLE-BIO-001",
+    "brand": "Bionnex",
+    "name": "Rensaderm Cleansing Gel",
+    "country": "Sweden",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Cocoamphoacetate, Empetrum Nigrum Fruit Juice, Polysorbate 20, PEG-150 Distearate, Copper Sulfate, Propylene Glycol, Parfum, Sodium Benzoate, Sodium Chloride, Butylene Glycol, PEG-60 Almond Glycerides, Caprylyl Glycol, Glycerin, Carbomer, Nordihydroguaiaretic Acid, Oleanolic Acid, Salicylic Acid, Cucumis Sativus Seed Extract, Ginkgo Biloba Leaf Extract, Chamomilla Recutita Flower Extract, Disodium EDTA, Citric Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/22b024c0-1d7a-4b1f-a8cb-f5bed0b27446/products/bionnex-rensaderm-cleansing-gel/bionnex-rensaderm-cleansing-gel_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-SSE-BIO-002",
+    "brand": "Bionnex",
+    "name": "Nord Salicylic Acid",
+    "country": "Sweden",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Allantoin, Cetraria Islandica Thallus Extract, Propylene Glycol, Triethanolamine, Salicylic Acid, Polysorbate 20, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTA, Xanthan Gum",
+    "image": "https://incidecoder-content.storage.googleapis.com/c76316d2-3a26-46a4-b4d4-0fcc8f50a7f1/products/bionnex-nord-salicylic-acid/bionnex-nord-salicylic-acid_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تقشير لطيف",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-SUN-BIO-003",
+    "brand": "Bionnex",
+    "name": "Preventiva Sunscreen Cream SPF 100+",
+    "country": "Sweden",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Ethylhexyl Salicylate, Titanium Dioxide, Butyl Methoxydibenzoylmethane, Octocrylene, C12-15 Alkyl Benzoate, Ethylhexyl Palmitate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Glycerin, VP/Hexadecene Copolymer, Hordeum Vulgare Seed Flour, Butylene Glycol, Silica, Ammonium Polyacrylate, Disiloxane, Dimethicone, Phenoxyethanol, Ethylhexylglycerin, Microcrystalline Cellulose, Xanthan Gum, Tocopherol, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/42d0969c-8204-4a31-bab4-3130258ce5c8/products/bionnex-preventiva-sunscreen-cream-spf-100/bionnex-preventiva-sunscreen-cream-spf-100_front_photo_original.jpeg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TR-LOT-BIO-003",
+    "brand": "Bionnex",
+    "name": "Perfederm Ultra Moisturizing Face Cream",
+    "country": "Sweden",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Brassica Campestris (Rapeseed] Seed Oil, Helianthus Annuus Isunflower) Seed Oil, Dicaprylyl Carbonate, Caprylic/Capric Triglyceride, Cetearyl Olivate, Sorbitan Olivate, Isostearyl Isostearate, Cetyl Alcohol, Stearic Acid, Palmitoyl Tripeptide-1, Laminaria Ochroleuca Extract, Vaccinium Myrtillus Fruit Extract, Ethylhexyl Cocoate, Mannitol, Xylitol, Propanediol, Phenethyl Alcohol, Undecyl Alcohol, Tocopherol",
+    "image": "https://incidecoder-content.storage.googleapis.com/23d597d2-92e8-40e6-8f50-e10ede5c2ade/products/bionnex-perfederm-ultra-moisturizing-face-cream/bionnex-perfederm-ultra-moisturizing-face-cream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "ترطيب مكثف",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "TR-LOT-BIO-004",
+    "brand": "Bionnex",
+    "name": "Whitexpert",
+    "country": "Sweden",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Cetearyl Alcohol, Caprylic/Capric Triglyceride Hexza Natural Complex : Diacetyl Boldine, Arbutin, 1-Methylhydantoin-2-Imide, Ascorbic Acid, Sodium Metabisulfite, Niacinamide, Glycerin, Dimethicone, C12-13 Alkyl Ethylhexanoate, Propylene Glycol, Avocado Oil, Ceteareth-25, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Xanthan Gum, Carbomer, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/f15eaaaa-34b7-4326-bcbf-d3a1673f938c/products/bionnex-whitexpert-2/bionnex-whitexpert-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "TR-TON-BIO-001",
+    "brand": "Bionnex",
+    "name": "Rensaderm Revitalizing Toner For Oily & Acne-prone Skin",
+    "country": "Sweden",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Alcohol Denat, Polyglyceryl-4 Laurate/Sebacate, Polyglyceryl-6 Caprylate/Caprate, Empetrum Nigrum Fruit Juice, Propylene Glycol, Butylene Glycol, PEG-60 Almond Glycerides, Caprylyl Glycol, Glycerin, Carbomer, Salicylic Acid, Nordihydroguaiaretic Acid, Oleanolic Acid, Phenoxyethanol, Ethylhexylglycerin, Parfum, Panthenol, Allantoin, Tocopherol, Bisabolol, Cucumis Sativus Seed Extract, Ginkgo Biloba Leaf Extract, Chamomilla Recutita Flower Extract, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/d443361f-8c83-41d8-bb17-41d5e46a5374/products/bionnex-rensaderm-revitalizing-toner-for-oily-acne-prone-skin/bionnex-rensaderm-revitalizing-toner-for-oily-acne-prone-skin_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-SSE-BIO-003",
+    "brand": "Bionnex",
+    "name": "Hyaluronic Acid 2% + Arctic Algae + B5 Serum",
+    "country": "Sweden",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Butylene Glycol, Saccharina Longicruris Extract, Propylene Glycol, Sodium Hyaluronate, Phenoxyethanol, Ethylhexylglycerin, Xanthan Gum, Panthenol, Lactic Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/440002eb-f12a-4dcc-a272-fec3e6a3a8a6/products/bionnex-hyaluronic-acid-2-arctic-algae-b5-serum/bionnex-hyaluronic-acid-2-arctic-algae-b5-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "TR-SSE-BIO-004",
+    "brand": "Bionnex",
+    "name": "The Nordea Retinol 1% Serum",
+    "country": "Sweden",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Caprylic/Capric Triglyceride, Persea Gratissima Oil, Prunus Amygdalus Dulcis Oil, Bisabolol, Tocopherol, Diisopropyl Adipate, Hydroxypinacolone Retinoate",
+    "image": "https://incidecoder-content.storage.googleapis.com/99af1677-9661-4aea-ad4f-a660aab56ecb/products/bionnex-the-nordea-retinol-1-serum/bionnex-the-nordea-retinol-1-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "TR-TON-BIO-002",
+    "brand": "Bionnex",
+    "name": "The Nordea Glycolic Acid 8% + Aloe Vera + Birch Toner",
+    "country": "Sweden",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycolic Acid (8%), Glycerin, Aloe Barbadensis Leaf Extract, Propylene Glycol, Phenoxyethanol, Ethylhexylglycerin, Panthenol, Triethanolamine",
+    "image": "https://incidecoder-content.storage.googleapis.com/2f7274f5-470f-4dbe-8359-db70af3359ac/products/bionnex-the-nordea-glycolic-acid-8-aloe-vera-birch-toner/bionnex-the-nordea-glycolic-acid-8-aloe-vera-birch-toner_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "توحيد لون البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   }
 ]
