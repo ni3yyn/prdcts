@@ -56316,5 +56316,28 @@
     "targetTypes": [
       "بشرة دهنية"
     ]
+  },
+  {
+    "id": "DZ-LOT-SYM-001",
+    "brand": "Symbiose",
+    "name": "BIAFIDERM",
+    "image": "https://kadisse.com/wp-content/uploads/2021/03/biafiderm1b.jpg",
+    "ingredients": "Distearyl Ethylene Glycol, Citric Acid, Cetyl Palmitate, Solid Paraffin, Liquid Paraffin, Persea Gratissima (Avocado) Oil, Trolamine, Propylene Glycol, Potassium Sorbate, Sodium Methylparaben, Sodium Propylparaben, Aqua",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 g",
+    "price": {
+      "currency": "DZD",
+      "max": null,
+      "min": 245
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "توحيد لون البشرة"
+    ]
   }
 ]
