@@ -53622,5 +53622,300 @@
       "بشرة عادية",
       "بشرة مختلطة"
     ]
+  },
+    {
+    "id": "FR-LOT-DER-001",
+    "brand": "Dermagor",
+    "name": "Atopicalm Nourishing Body Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua (Water), Parafinum Liquidum (Mineral Oil), Glycerin, Propanediol, Prunus Armeniaca (Apricot) Kernel Oil, Hydroxyethyl, Acrylate/Sodium, Acryloyldimethyl Taurate Copolymer, 1,2 Hexanediol, Isopentyldiol, Parfum (Fragrance), Polysobutene, Sodium Benzoate, Sorbitan Isostearate, Polysorbate 60, Trimethylolpropane Coconut Ether, Lactic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/610ba6aca9e39/dermagor-atopicalm-nourishing-p40636.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DER-002",
+    "brand": "Dermagor",
+    "name": "My Essentials Moisturisation Face Cream 24H Rich",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40 ml",
+    "ingredients": "Aqua (Water), Prunus Armeniaca (Apricot) Kernel Oil, Glycereth-26, Propanediol, Polyacrylate-13, Polyisobutene, Saccharide, Isomerate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, 1,2 Hexanediol, Parfum (Fragrance), Sodium Benzoate, Glycerin, Trehalose, Urea, Sorbitan Isostearate, Polysorbate 20, Lactic Acid, Serine, Pentylene Glycol, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, PEG-7 Trimethylolpropane Coconut Ether, Algin, Caprylyl Glycol, Disodium Phosphate, Glyceryl Polyacrylate, Pullulan, Sodium Hyaluronate, Citric Acid, Sodium Citrate, Soluble Collagen, Potassium Phosphate, Benzoic Acid, Sorbic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/610ba79b7e999/dermagor-my-essentials-p40634.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "FR-TON-DER-001",
+    "brand": "Dermagor",
+    "name": "Erycalm Soothing Micellar Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Methyl Propanediol, Polysorbate 80, 1-2 Hexanediol, Sodium Cocamphoacetate, Hydroxyacetophenone, Parfum, Sodium Chloride, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Disodium Edta, Sodium Glycolate",
+    "image": "https://cdn1.costatic.com/img/product/400/5fc6062b246b5/dermagor-erycalm-soothing-35715.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DER-003",
+    "brand": "Dermagor",
+    "name": "Mes Essentiels 24H Light Face Moisturising Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Ethylhexyl Palmitate, Isopropyl Myristate, Helianthus Annus (Sunflower) Seed Oil, Glycerin, Hydrogenated Coconut Oil, Pentaerythrityl Distearate, Prunus Armeniaca (Apricot) Kernel Oil, 1-2 Hexanediol, Cera Alba (Beeswax), Methylpropanediol, Cetearyl Alcohol, Hydroxyacetophenone, Sodium Stearoyl Glutamate, Sodium Polyacrylate, Parfum (Fragrance), Xanthan Gum, Methylsilanol Mannuronate, Soluble Collagen, Benzoic Acid, Sorbic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/610ba73cc9219/dermagor-mes-essentiels-p39585.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DER-001",
+    "brand": "Dermagor",
+    "name": "Matiderm Purifying Gel",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Lauryl Glucoside, Cocamidopropyl, Hydroxysultaine, Disodium Cocoamphodiacetate, Caprylyl/Capryl Glucoside, Glycerin, Coco-Glucoside, Citric Acid, Glyceryl Oleate, 1,2 Hexanediol, Parfum/Fragrance, Sodium Benzoate, Propylene Glycol, Citrus Grandis (Grapefruit) Fruit Extract, Zinc Gluconate, Sodium Citrate, Copper Gluconate, Pyridoxine HCL, Tocopherol, Hydrogenated Palm Glycerides Citrate, Lecithin, Ascorbyl Palmitate",
+    "image": "https://cdn1.costatic.com/img/product/400/610ba8358d41f/dermagor-matiderm-purifying-p41123.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DER-004",
+    "brand": "Dermagor",
+    "name": "Skin Plast Anti-Aging Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Cetearyl Ethylhexanoate, Isopropyl Myristate, Glyceryl Stearate, Peg-100 Stearate, Glycerin, Ethylhexyl Palmitate, Prunus Armeniaca (Apricot) Kernel Oil, Cetearyl Alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Benzyl Alcohol, Parfum (Fragrance), Sodium Hydroxymethylglycinate, Lactic Acid, Trihydroxystearin, Disodium Edta, Dehydroacetic Acid, Zinc Acetylmethionate, Copper Acetylmethionate, Sodium Hyaluronate, Sodium Benzoate, Glucomannan",
+    "image": "https://cdn1.costatic.com/img/product/400/691c8cb88e11d/dermagor-skin-plast-p40633.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-DER-005",
+    "brand": "Dermagor",
+    "name": "Atopicalm Nourishing Body Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250ml",
+    "ingredients": "Aqua, Parafinum Liquidum, Glycerin, Prunus Armeniaca Kernel Oil, Polyacrylamide, C13-14 Isoparaffin, Butylene Glycol, Laureth-7, Parfum, Methylparaben, Disodium Edta, Ethylparaben, Hexyl Cinnamal, Lactic Acid, Propylparaben, Linalool, Limonene, Citronellol, Geraniol, Benzyl Benzoate, Alpha Isomethyl Ionone",
+    "image": "https://cdn1.costatic.com/img/product/400/610ba6bf13381/dermagor-atopicalm-nourishing-p40630.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-TON-DER-002",
+    "brand": "Dermagor",
+    "name": "Erycalm Soothing Micellar Lotion",
+    "country": "France",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "400ml",
+    "ingredients": "Aqua, Methyl Propanediol, Polysorbate 80, 1-2 Hexanediol, Sodium Cocamphoacetate, Hydroxyacetophenone, Parfum, Sodium Chloride, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Disodium Edta, Sodium Glycolate",
+    "image": "https://cdn1.costatic.com/img/product/400/5e75069f75ee6/dermagor-erycalm-soothing-34245.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-SSE-DER-001",
+    "brand": "Dermagor",
+    "name": "Skin Plast Firmness Serum",
+    "country": "France",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "Aqua, Glycerin, Isopropyl Myristate, Methylsilanol Mannuronate, Acrylates Copolymer, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Phenoxyethanol, Isohexadecane, Acacia Senegal Gum, Xanthan Gum, Lactic Acid, Parfum (Fragrance), Polysorbate 60, Ethylhexylglycerin, Sorbitan Isostearate, Tocopheryl Acetate, VP/Polycarbamyl Polyglycol Ester, Hydrolyzed Sesame Protein, PG-Propyl Methylsilanediol, Retinyl Palmitate, Arachis Hypogaea (Peanut) Oil, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Amyl Cinnamal, Sorbic Acid, Linalool, Citronellol, Hydroxycitronellal, BHA, BHT",
+    "image": "https://cdn1.costatic.com/img/product/400/610ba9188b3c8/dermagor-skin-plast-p16940.jpg",
+    "marketingClaims": [
+      "شد البشرة",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "FR-LOT-DER-006",
+    "brand": "Dermagor",
+    "name": "Atopicalm Cool Cream Dry Skin",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "ingredients": "Aqua, Palmitic Acid, Stearic Acid, Cetearyl Ethylhexanoate, Isopropyl Myristate, Cetearyl Alcohol, Paraffinum Liquidum (Mineral Oil), Capryloyl Glycine, Polysorbate 80, Cera Alba (Beeswax), Peg-8, Triethanolamine, Sodium Lauryl Sulfate, Sodium Cetearyl Sulfate, Parfum (Fragrance) Disodium Phosphate, Dipotassium Phosphate",
+    "image": "https://cdn1.costatic.com/img/product/400/64a5628574540/dermagor-atopicalm-cool-p85554.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DER-007",
+    "brand": "Dermagor",
+    "name": "Atopicalm Nourishing Face Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua (Water), Paraffinum (Liquidum Mineral Oi), Glycerin, Propanediol, Prunus Armeniaca (Apricot) Kernel Oi, Hydroxyethyl Acrylate/Sodium Acryloydimethyl, Taurate Copolymer, 1,2-Hexanediol, Isopentyldiol, Parfum (Fragrance) Polyisobutene, Sodium Benzoate, Sorbitan Isostearate, Polysorbate 60, PEG-7, Trimethylolpropane Coconut Ether, Lactic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/6437def8ccfa0/dermagor-atopicalm-nourishing-p82230.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-CLE-DER-002",
+    "brand": "Dermagor",
+    "name": "Atopicalm Ultra-Rich Soap Dry Skins",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150g",
+    "ingredients": "Sodium Tallowate, Sodium Cocoate, Aqua (Water), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glycerin, Fragrance, Sodium Chloride, Sodium Lauroyl Oat Amino Acids, CI77891/Titanium Dioxide, Sodium Hydroxide, Etidronic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/68ff2ba254b16/dermagor-atopicalm-ultra-p41886.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DER-008",
+    "brand": "Dermagor",
+    "name": "Matiderm Matifying And Seboregulating Cream",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "40ml",
+    "ingredients": "Aqua, Simmondsia Chinensis Seed Oil, Cetearyl Alcohol, Glyceryl Stearate, Butylene Glycol, Potassium Palmitoyl Hydrolyzed Wheat Protein, Benzyl Alcohol, Methyl Methacrylate Crosspolymer, Parfum, Paraffinum Liquidum, Enantia Chlorantha Bark Extract, Lactic Acid, Dehydroacetic Acid, Disodium Edta, Silica, Oleanoleic Acid",
+    "image": "https://cdn1.costatic.com/img/product/400/623048a489f5d/dermagor-matiderm-matifying-p28399.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   }
 ]
