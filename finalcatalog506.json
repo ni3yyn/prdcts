@@ -4747,7 +4747,11 @@
     "ingredients": "ماء, كحول السيتيل, كحول السيتريل, سيتيث-20, توكوفيرول (فيتامين E النقي), الكولاجين المهدرج, بروبيلين جلايكول, بنزوات الصوديوم, أوكتينوكسات, توكوفيريل أسيتات, زيت الجزر (المنقوع), زيت اللوز الحلو, زيت جوز الهند, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768930568/hcympfyvr3zcmvhnlkjz.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 670,
+      "max": 670,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -4901,7 +4905,11 @@
       "مرطب للبشرة",
       "للبشرة الدهنية"
     ],
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة"
@@ -5023,7 +5031,11 @@
       "للبشرة الجافة",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 800,
+      "max": 800,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة جافة"
@@ -5398,7 +5410,11 @@
     "ingredients": "ماء, كاربومير, ثلاثي إيثانولامين (TEA), سوربيتول, بروبيلين غليكول, مستخلص الألوفيرا, PEG-7 جليسيريل كوكوات, بانثينول (بروفيتامين B5), زيت الخروع المهدرج PEG-40, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772054590/lepjay9ahl142564or0n.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5415,7 +5431,11 @@
     "ingredients": "ماء, الجلسرين, كحول السيتريل, بارافين سائل (زيت معدني), زبدة الشيا, شمع النحل, بنزوات البوتاسيوم, بانثينول (بروفيتامين B5), عطر",
     "image": "https://genie-flowers.com/wp-content/uploads/2024/12/Valeria-Glyceri-1x1-Clear.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 200,
+      "max": 200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6783,7 +6803,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "150ml",
     "ingredients": "ماء, الجلسرين, الفازلين (بترولاتوم), زيت البارافين (زيت معدني), غليسيريل مونوستيرات (GMS), دايميثيكون, أكريلات/سي 10-30 ألكيل أكريلات كروس بوليمر, إيميدازوليدينيل يوريا",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772133983/lfyxz6u4w7edxxbcnihu.jpg",
     "marketingClaims": [
