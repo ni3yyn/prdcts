@@ -654,7 +654,8 @@
       "icon": "hand-holding-water"
     },
     "quantity": "50 ml",
-    "ingredients": "AQUA, GLYCERIN, COCO-CAPRYLATE/CAPRATE, METHYLPROPANEDIOL, BETAINE, STEARYL ALCOHOL, SQUALANE (VEGETABLE SQUALANE), CENTAUREA CYANUS FLOWER WATER (CORNFLOWER FLOWER WATER), BUTYLENE GLYCOL, ARACHIDYL ALCOHOL, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER (SHEA BUTTER), SORBITAN STEARATE, PYRUS MALUS FRUIT EXTRACT (APPLE PECTIN HYDROLYSATE), APHLOIA THEIFORMIS LEAF EXTRACT (APHLOIA LEAF EXTRACT), BEHENYL ALCOHOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), ARACHIDYL GLUCOSIDE, SODIUM POLYACRYLATE, RETINYL PALMITATE, ETHYL LINOLEATE, CAESALPINIA SPINOSA GUM (TARA GUM), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SORBIC ACID, XANTHAN GUM, TOCOPHERYL ACETATE, TETRASODIUM EDTA, ECHINACEA ANGUSTIFOLIA MERISTEM CELL CULTURE (ECHINACEA NATIVE PLANT CELLS), MALTODEXTRIN, SODIUM HYDROXIDE, PANAX GINSENG ROOT EXTRACT (GINSENG ROOT EXTRACT), SODIUM BENZOATE, POTASSIUM SORBATE, SILICA, CITRIC ACID, TOCOPHEROL, PROPYL GALLATE, 1463v0",    "image": "https://images.openbeautyfacts.org/images/products/366/000/514/8038/front_fr.8.400.jpg",
+    "ingredients": "AQUA, GLYCERIN, COCO-CAPRYLATE/CAPRATE, METHYLPROPANEDIOL, BETAINE, STEARYL ALCOHOL, SQUALANE (VEGETABLE SQUALANE), CENTAUREA CYANUS FLOWER WATER (CORNFLOWER FLOWER WATER), BUTYLENE GLYCOL, ARACHIDYL ALCOHOL, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER (SHEA BUTTER), SORBITAN STEARATE, PYRUS MALUS FRUIT EXTRACT (APPLE PECTIN HYDROLYSATE), APHLOIA THEIFORMIS LEAF EXTRACT (APHLOIA LEAF EXTRACT), BEHENYL ALCOHOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), ARACHIDYL GLUCOSIDE, SODIUM POLYACRYLATE, RETINYL PALMITATE, ETHYL LINOLEATE, CAESALPINIA SPINOSA GUM (TARA GUM), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SORBIC ACID, XANTHAN GUM, TOCOPHERYL ACETATE, TETRASODIUM EDTA, ECHINACEA ANGUSTIFOLIA MERISTEM CELL CULTURE (ECHINACEA NATIVE PLANT CELLS), MALTODEXTRIN, SODIUM HYDROXIDE, PANAX GINSENG ROOT EXTRACT (GINSENG ROOT EXTRACT), SODIUM BENZOATE, POTASSIUM SORBATE, SILICA, CITRIC ACID, TOCOPHEROL, PROPYL GALLATE, 1463v0",
+    "image": "https://images.openbeautyfacts.org/images/products/366/000/514/8038/front_fr.8.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
     ],
@@ -4044,7 +4045,10 @@
       "مرطب للبشرة"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "FR-BWA-MIX-001",
@@ -4789,7 +4793,7 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 300,
+      "min": 250,
       "max": 300,
       "currency": "DZD"
     },
@@ -5122,7 +5126,14 @@
     "quantity": "null",
     "ingredients": "ماء, كوكاميد DEA, الكبريت الغروي, عطر, بنزوات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772392451/wmikdn5ssih7d6zven39.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "للبشرة الدهنية",
+      "للبشرة الحساسة",
+      "تنقية المسام",
+      "مضاد لحب الشباب",
+      "تفتيح البشرة"
+    ],
     "price": {
       "min": 380,
       "max": 450,
@@ -6238,7 +6249,11 @@
       "تنظيف عميق",
       "توازن الحموضة"
     ],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6278,6 +6293,7 @@
     "marketingClaims": [],
     "price": null,
     "targetTypes": [
+      "بشرة مختلطة",
       "بشرة جافة"
     ]
   },
@@ -6576,7 +6592,9 @@
       "max": 850,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "KR-CLE-INN-002",
@@ -52400,7 +52418,7 @@
       "بشرة جافة"
     ]
   },
-    {
+  {
     "id": "KR-SSE-PUR-001",
     "brand": "Purito Seoul",
     "name": "Bakuchiol Timeless Bloom Revitalizing Serum",
@@ -53606,7 +53624,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "FR-LOT-DER-001",
     "brand": "Dermagor",
     "name": "Atopicalm Nourishing Body Cream",
@@ -53901,7 +53919,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "OT-LOT-PRI-001",
     "brand": "PS... (PRIMAK)",
     "name": "Vitamin E And Jojoba Oil Nourishing Lip Balm",
@@ -54788,7 +54806,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "SW-SSE-BIO-001",
     "brand": "Bionnex",
     "name": "Retinol 1% Serum",
@@ -55125,7 +55143,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "UK-SHA-SUN-001",
     "brand": "Sunsilk",
     "name": "Nourishing Soft & Smooth Shampoo",
@@ -55825,7 +55843,7 @@
     "price": null,
     "targetTypes": []
   },
-   {
+  {
     "id": "TR-SUN-BIO-001",
     "brand": "Bioxcin",
     "name": "Sun Care Melatone SPF50+ Tinted",
