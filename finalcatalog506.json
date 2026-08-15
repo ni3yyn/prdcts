@@ -55824,5 +55824,479 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+   {
+    "id": "TR-SUN-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Sun Care Melatone SPF50+ Tinted",
+    "country": "Turkey",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Ethylhexyl Methoxycinnamate, Titanium Dioxidė, Cyclopentasiloxane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ceteareth-20, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dimethicone, Isopropyl Palmitate, Octocrylene, Ci 77492, Glyceryl Stearate, Niacinamide, PEG-100 Stearate, Cetearyl Alcohol, Phenoxyethanol, Ci 77491, Parfum/Fragrance, Silica, Ci 77499, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Vp/Eicosene Copolymer, Silybum Marianum Seed Extract, Solanum Lycopersicum Fruit Extract, Hyaluronic Acid, Hydrolyzed Collagen, Alpha-Arbutin, Camellia Sinensis Leaf Extract, Glycerin, Allantoin, Thermal Water, Tocopheryl Acetate, Panthenol, Petrosélinum Sativum Extract, Viola Tricólor Flower/Leaf/Stem Water, Vicia Sativa Extract, Benzyl Alcohol",
+    "image": "",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "TR-SUN-BIO-002",
+    "brand": "Bioxcin",
+    "name": "Akneye Eğilimli Ciltler Için Güneş Kremi 50+ SPF",
+    "country": "Turkey",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Octocrylene, Titanium Dioxide, Glyceryl Stearate, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Glycerin, C12-15 Alkyl Benzoate, Niacinamide, Hydrolyzed Collagen, Sodium Hyaluronate (Hyaluronic Acid), Panthenol, Tocopheryl Acetate (Vitamin E), Silica, Vp/Eicosene Copolymer, Phenoxyethanol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Thermal Water, Melaleuca Alternifolia Leaf Oil (Tea Tree), Curcuma Longa Root Extract (Turmeric), Chamomilla Recutita Flower Extract (Chamomile), Stellaria Media Extract (Chickweed), Malva Sylvestris Leaf Extract (Mallow), Camellia Sinensis Leaf Extract (Green Tea), Solanum Lycopersicum Fruit Extract (Lycopene), Silybum Marianum Seed Extract (Silymarin), Althaea Officinalis Root Extract, Parfum (Fragrance)",
+    "image": "",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-LOT-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Atopicare Face Cream",
+    "country": "Turkey",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, C12-15 Alkyl Benzoate, Paraffinum Liquidum, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Prunus Amygdalus Dulcis Oil, Isopropyl Palmitate, Coco-Caprylate, Squalane, Aqua Water (Thermal Water), Allantoin, Olea Europaea Fruit Oil, Panthenol, Avena Sativa Kernel Flour, Niacinamide, Zinc Sulfate, Sodium Lauroyl Lactylate, Alpha-Glucan Oligosaccharide, Polymnia Sonchifolia Root Juice, Ceramide NP, Maltodextrin, Ceramide AP, Phytosphingosine, Cholesterol, Carbomer, Xanthan Gum, Chamomilla Recutita Flower Extract, Lactobacillus, Ceramide EOP, Magnesium Stearate, Caprylic Capric Triglyceride, Cucumis Sativus Oil, Sodium Polyacrylate, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TR-BWA-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Atopicare Cleansing Shower Oil",
+    "country": "Turkey",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Glycerin, PEG-7 Glyceryl Cocoate, Disodium Cocoamphodiacetate, Lauryl Glucoside, PEG-150 Distearate, Coco-Glucoside, Aqua/Water(Thermal Water), Niacinamide, Glyceryl Oleate, Alpha-Glucan Oligosaccharide, Polymnia Sonchifolia Root Juice, Maltodextrin, Panthenol, Lactobacillus, Sodium Lauroyl Lactylate, Ceramide NP, Urea, Allantoin, Avena Sativa Kernel Flour, Ceramide AP, Phytosphingosine, Cholesterol, Carbomer, Xanthan Gum, Ethylhexylglycerin, Zinc Gluconate, Chamomilla Recutita Flower Extract, Cucumis Sativus Oil, Phenoxyethanol, Ceramide EOP, Ethylhexylglycerin",
+    "image": "",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TR-SUN-BIO-003",
+    "brand": "Bioxcin",
+    "name": "Sun Care Çok Yüksek Korumalı Yağlı Ciltler Için Güneş Kremi",
+    "country": "Turkey",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Ethylhexyl Methoxycinnamate, Titanium Dioxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Cyclopentasiloxane, Ceteareth-20, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Octocrylene, Glyceryl Stearate, Dimethicone, PEG-100 Stearate, Ci 77492, Vp/Eicosene Copolymer, Cetearyl Alcohol, Aqua/Water (Thermal Water), Tocopheryl Acetate, Panthenol, Silybum Marianum Seed Extract, Solanum Lycopersicum Fruit Extract, Hyaluronic Acid, Hydrolyzed Collagen, Camellia Sinensis Leaf Extract, Glycerin, Phenoxyethanol, Parfum/Fragrance, Ci 77491, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Silica, Ci 77499, Allantoin",
+    "image": "",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "TR-CLE-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Acnium Yüz Yıkama Jeli",
+    "country": "Turkey",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water (Thermal Water), Glycerin, Propylene Glycol, Sodium Laureth Sulfate, Niacinamide, Cocamidopropyl Betaine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Methyl Gluceth-20, Pentylene Glycol, Phenoxyethanol, Sodium PCA, Alcohol, Benzoic Acid, Curcuma Longa Root Extract, Chamomilla Recutita Flower Extract, Euphrasia Officinalis Extract, Malva Sylvestris Leaf Extract, Dehydroacetic Acid, Benzyl Alcohol, Tetrasodium EDTA, Cucumis Sativus Fruit Extract, Rosa Canina Fruit Extract, Camellia Sinensis Leaf Extract, Rosa Damascena Flower Extract",
+    "image": "",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-OIB-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Keratin & Argan Repairing Hair Oil",
+    "country": "Turkey",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "",
+    "ingredients": "Cyclopentasiloxane, Dimethiconol, Isopropyl Palmitate, Parfum/Fragrance, Argania Spinosa Kernel Oil, Tocopheryl Acetate, Biocomplex2 ( Euterpe Oleracea (Acai), Citrus Limon (Lemon), Malpighia Glabra (Barbados Cherry), Emblica Officinalis (Indian Gooseberry), Adansonia Digitata (Baobab), Myrciaria Dubia (Camu Camu), Daucus Carota Sativa (Carrot), Cocos Nucifera (Coconut) Water, Lycium Barbarum (Goji) Berry, Tapioca Starch (From Cassava Root), Thioctic Acid (Alpha Lipoic Acid), Ubiquinone (Coenzyme Q10) ), Euterpe Oleracea (Acai), Citrus Limon (Lemon), Malpighia Glabra (Barbados Cherry), Emblica Officinalis (Indian Gooseberry), Adansonia Digitata (Baobab), Myrciaria Dubia (Camu Camu), Daucus Carota Sativa (Carrot), Cocos Nucifera (Coconut) Water, Lycium Barbarum (Goji) Berry, Tapioca Starch (From Cassava Root), Thioctic Acid (Alpha Lipoic Acid), Ubiquinone (Coenzyme Q10), Urtica Urens Leaf Extract, Urtica Dioica Root Extract, Chamomilla Recutita Flower Extract, Achillea Millefolium Extract, Ceratonia Siliqua Fruit Extract, Equisetum Arvense Leaf Extract, Linalool, Hydrolyzed Keratin, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Citronellol, Coumarin",
+    "image": "",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "TR-SUN-BIO-004",
+    "brand": "Bioxcin",
+    "name": "Sun Care Sunscreen For Dry And Normal Skin Types",
+    "country": "Turkey",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ceteareth-20, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Octocrylene, Isopropyl Palmitate, Caprylic/Capric Triglyceride, Dicaprylyl Carbonate, Cetearyl Alcohol, Aqua/Water (Thermal Water), Vp/Eicosene Copolymer, Phenoxyethanol, Hydrolyzed Collagen, Hyaluronic Acid, Solanum Lycopersicum Fruit Extract, Silybum Marianum Fruit Extract, Camellia Sinensis Leaf Extract, Tocopheryl Acetate, Sodium Polyacrylate, Parfum/Fragrance, Panthenol, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, BHT, Tetrasodium EDTA, Allantoin, Glycerin, Benzyl Alcohol",
+    "image": "",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "TR-SHA-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Quantum Bio-active Shampoo",
+    "country": "Turkey",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "Thiamine, Retinol, Riboflavin, Pantothenic Acid, Folic Acid, Kaempferol, Apigenin, Myricetin, Linoleic Acid, Oleic Acid, Matricaria Chamomilla Extract, Urtica Dioica Extract, Achillea Millefolium Extract, Equisetum Arvense Extract, Ceratonia Siliqua Extract, Zinc, Copper, Calcium, Iron Powder",
+    "image": "",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "TR-SUN-BIO-005",
+    "brand": "Bioxcin",
+    "name": "Sun Care SPF 50+ Çok Yüksek Korumalı Güneş Kremi - Yağlı Cilt",
+    "country": "Turkey",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ceteareth-20, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Dicaprylyl Carbonate, Phenoxyethanol, Aqua/Water(Thermal Water), Sodium Polyacrylate, Parfum/Fragrance, Panthenol, Hydrolyzed Collagen, Silybum Marianum Seed Extract, Solanum Lycopersicum Fruit Extract, Hyaluronic Acid, Camellia Sinensis Leaf Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Tocopheryl Acetate, Allantoin, Vp/Eicosene Copolymer, Glycerin",
+    "image": "",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "TR-SSE-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Acnium Konsantre Bakım Serumu",
+    "country": "Turkey",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water (Thermal Water), Propylene Glycol, Glycerin, Niacinamide, Brassica Oleracea Italica Extract, Brassica Oleracea Botrytis Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Phenoxyethanol, Melaleuca Alternifolia Leaf Oil, Trideceth-9, Curcuma Longa Root Extract, Chamomilla Recutita Flower Extract, Euphrasia Officinalis Extract, Malva Sylvestris Leaf Extract, PEG-40 Hydrogenated Castor Oil, Salicylic Acid, Glycolic Acid, Hydroxyethylcellulose, Benzyl Alcohol, Alcohol, Tetrasodium EDTA, Benzoic Acid, Dehydroacetic Acid",
+    "image": "",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-CLE-BIO-002",
+    "brand": "Bioxcin",
+    "name": "Face Wash Gel Oily Skin",
+    "country": "Turkey",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water (Thermal Water), Sodium Laureth Sulfate, Brassica Oleracea Botrytis Extract, Glycerin, Brassica Oleracea Italica Extract, Cocamidopropyl Betaine, Niacinamide, Sodium Chloride, Parfum/Fragrance, Benzyl Alcohol, PEG/Ppg-120/10 Trimethylolpropane Trioleate, Laureth-2, Tetrasodium EDTA, Propylene Glycol, Piroctone Olamine, Alcohol, Zinc Sulfate, Allantoin, Curcuma Longa Root Extract, Salicylic Acid, Glycolic Acid, Chamomilla Recutita Flower Extract, Malva Sylvestris Leaf Extract, Euphrasia Officinalis Extract, Methylchloroisothiazolinone, Melaleuca Alternifolia Leaf Oil, Methylisothiazolinone",
+    "image": "",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-HSE-BIO-001",
+    "brand": "Bioxcin",
+    "name": "Kaş Kirpik Serumu",
+    "country": "Turkey",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "",
+    "ingredients": "Aqua/Water, Hedera Helix Leaf Extract, Biocomplex2 ( Euterpe Oleracea (Acai), Citrus Limon (Lemon), Malpighia Glabra (Barbados Cherry), Emblica Officinalis (Indian Gooseberry), Adansonia Digitata (Baobab), Myrciaria Dubia (Camu Camu), Daucus Carota Sativa (Carrot), Cocos Nucifera (Coconut) Water, Lycium Barbarum (Goji) Berry, Tapioca Starch (From Cassava Root), Thioctic Acid (Alpha Lipoic Acid), Ubiquinone (Coenzyme Q10) ), Euterpe Oleracea (Acai), Citrus Limon (Lemon), Malpighia Glabra (Barbados Cherry), Emblica Officinalis (Indian Gooseberry), Adansonia Digitata (Baobab), Myrciaria Dubia (Camu Camu), Daucus Carota Sativa (Carrot), Cocos Nucifera (Coconut) Water, Lycium Barbarum (Goji) Berry, Tapioca Starch (From Cassava Root), Thioctic Acid (Alpha Lipoic Acid), Ubiquinone (Coenzyme Q10), Urtica Urens Leaf Extract, Urtica Dioica Root Extract, Chamomilla Recutita Flower Extract, Achillea Millefolium Extract, Ceratonia Siliqua Fruit Extract, Equisetum Arvense Leaf Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Hydrolyzed Collagen, Hyaluronic Acid, Sodium PCA, Sodium Lactate, Arginine, Aspartic Acid, Pca, PPG-26-Buteth-26, Glycine, Alanine, Serine, Valine, Proline, Threonine, Isoleucine, Histidine, Phenylalanine, Glycerin, Apigenin, Oleanolic Acid, Biotinoyl Tripeptide-1, Butylené, PEG-40 Hydrogenated Castor Oil, Cetrimonium Bromide, Glycol, Tetrasodium EDTA, Benzyl Alcohol",
+    "image": "",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "TR-LOT-BIO-005",
+    "brand": "Bioxcin",
+    "name": "Acnium Clinical Sebum Regulating Moisturizing Cream",
+    "country": "Turkey",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glyceryl Stearate, Dicaprylyl Carbonate, Brassica Oleracea Botrytis Extract, Cetearyl Alcohol, Niacinamide, PEG-100 Stearate, Brassica Oleracea Italica Extract, Glycerin, Dimethicone, Ethylhexyl Stearate, Phenoxyethanol, Parfum, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tetrasodium EDTA, Benzoic Acid, Allantoin, Panthenol, Dehydroacetic Acid, Propylene Glycol, Alcohol, Zinc Gluconate, Salicylic Acid, Melaleuca Alternifolia Leaf Oil, Curcuma Longa Root Extract, Glycolic Acid, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Benzyl Alcohol, Chamomilla Recutita Flower Extract, Malva Sylvestris Leaf Extract, Euphrasia Officinalis Extract, Polysorbate 80",
+    "image": "https://storage.skinsort.com/011emtcq7gfj4iwyqbvxqsq605js",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مضاد لحب الشباب",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-LOT-BIO-006",
+    "brand": "Bioxcin",
+    "name": "Nourishing Face Cream",
+    "country": "Turkey",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Water, C12-15 Alkyl Benzoate, Paraffinum Liquidum, Glycerin, Urea, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Prunus Amygdalus Dulcis Oil, Isopropyl Palmitate, Coco-Caprylate, Squalane, Allantoin, Olea Europaea Fruit Oil, Panthenol, Avena Sativa Kernel Flour, Niacinamide, Zinc Sulfate, Sodium Lauroyl Lactylate, Alpha-Glucan Oligosaccharide, Polymnia Sonchifolia Root Juice, Ceramide NP, Maltodextrin, Ceramide AP, Phytosphingosine, Cholesterol, Carbomer, Xanthan Gum, Chamomilla Recutita Flower Extract, Lactobacillus, Ceramide EOP, Magnesium Stearate, Caprylic/Capric Triglyceride, Cucumis Sativus Oil, Sodium Polyacrylate, Phenoxyethanol, Ethylhexylglycerin",
+    "image": "https://storage.skinsort.com/3ue8n4tm9a3n2mpnu9m5rvjttecr",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "TR-OIB-BIO-002",
+    "brand": "Bioxcin",
+    "name": "Keratin & Argan Repairing Hair Care Oil",
+    "country": "Turkey",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "",
+    "ingredients": "Cyclopentasiloxane, Dimethiconol, Isopropyl Palmitate, Parfum, Argania Spinosa Kernel Oil, Tocopheryl Acetate, Urtica Urens Leaf Extract, Urtica Dioica Root Extract, Chamomilla Recutita Extract, Achillea Millefolium Extract, Ceratonia Siliqua Fruit Extract, Equisetum Arvense Leaf Extract, Linalool, Hydrolyzed Keratin, Benzyl Salicylate, Limonene, Alpha-Isomethyl Ionone, Citronellol, Coumarin",
+    "image": "https://storage.skinsort.com/5ca1hj89ws73fc09rso9n1wfx8st",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "TR-CLE-BIO-002",
+    "brand": "Bioxsine",
+    "name": "Sebum Regulating Face Washing Gel",
+    "country": "Turkey",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Propylene Glycol, Sodium Laureth Sulfate, Niacinamide, Cocamidopropyl Betaine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Methyl Gluceth-20, Pentylene Glycol, Phenoxyethanol, Sodium PCA, Alcohol, Benzoic Acid, Curcuma Longa Root Extract, Chamomilla Recutita Flower Extract, Euphrasia Officinalis Extract, Malva Sylvestris Leaf Extract, Dehydroacetic Acid, Benzyl Alcohol, Tetrasodium EDTA, Cucumis Sativus Fruit Extract, Rosa Canina Fruit Extract, Camellia Sinensis Leaf Extract, Rosa Damascena Flower Extract",
+    "image": "https://storage.skinsort.com/ueqy5dwsyqprl5hqp2myi86xwid8",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الدهون والزيوت",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "TR-HSE-BIO-002",
+    "brand": "Bioxcin",
+    "name": "Eyelash And Eyebrow Serum",
+    "country": "Turkey",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "",
+    "ingredients": "Water, Hedera Helix Leaf Extract, Abn Complex, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Panthenol, Hydrolyzed Collagen, Hyaluronic Acid, Sodium PCA, Sodium Lactate, Arginine, Aspartic Acid, PCA, PPG-26-Buteth-26, Glycine, Alanine, Serine, Valine, Proline, Threonine, Isoleucine, Histidine, Phenylalanine, Glycerin, Apigenin, Oleanolic Acid, Biotinoyl Tripeptide-1, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, Cetrimonium Bromide, Glycol, Tetrasodium EDTA, Benzyl Alcohol",
+    "image": "https://storage.skinsort.com/h8e3vab9mhf2mwtrbmiacgcepzfs",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "TR-SSE-BIO-002",
+    "brand": "Bioxsine",
+    "name": "Pure & White Dark Spot Whitening Concentrated Gel",
+    "country": "Turkey",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Water, Glycerin, Niacinamide, Alpha-Arbutin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Titanium Dioxide, Phenoxyethanol, Panthenol, Polysorbate 20, Parfum, Sodium Metabisulfite, Tetrasodium EDTA, Benzoic Acid, Dehydroacetic Acid, Petroselinum Sativum Extract, Viola Tricolor Flower/Leaf/Stem Water, Vicia Sativa Extract, Benzyl Alcohol, Allantoin, Resveratrol, Lecithin, Ascorbic Acid, Tocopheryl Acetate",
+    "image": "https://storage.skinsort.com/gamvu2cklfnd7mgwvfkuyhtmygyg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "TR-SHA-BIO-002",
+    "brand": "Bioxcin",
+    "name": "Herbal Shampoo For Hair Loss",
+    "country": "Turkey",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "",
+    "ingredients": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Potassium Olivoyl (Alanine/Arginine/Asparagine/Aspartic Acid/Glutamic Acid/ Glycine/Isoleucine/Leucine/Lysine/Methionine/Phenylalanine/Proline/Serine/Threonine/Tryptophan/Tyrosine/Valine), Glycerin, Parfum, Benzyl Alcohol, PEG/PPG-120/10 Trimethylolpropane Trioleate, Laureth-2, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Amodimethicone, Tetrasodium EDTA, Menthol, Mel, Panthenol, C11-15 Pareth-7, Laureth-9, Sodium PCA, Butylphenyl Methylpropional, Trideceth-12, Coumarin, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Vitis Vinifera Seed Extract, Methylchloroisothiazolinone, Niacinamide, Pyridoxine Hcl, Panax Ginseng Root Extract, Methylisothiazolinone",
+    "image": "https://storage.skinsort.com/5pva5neselszbak8sa8wtj7m91vl",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تقوية الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "TR-SUN-BIO-006",
+    "brand": "Bioxcin",
+    "name": "Sun Cream for Oily Skin SPF 50+",
+    "country": "Turkey",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "Water, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ceteareth-20, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Dicaprylyl Carbonate, Phenoxyethanol, Sodium Polyacrylate, Parfum, Panthenol, Hydrolyzed Collagen, Silybum Marianum Seed Extract, Solanum Lycopersicum Fruit Extract, Hyaluronic Acid, Camellia Sinensis Leaf Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Tocopheryl Acetate, Allantoin, Vp/Eicosene Copolymer, Glycerin",
+    "image": "https://storage.skinsort.com/3zeumjy29xa93i4bvvyyg9dpi53x",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "توازن الدهون والزيوت",
+      "حماية واسعة الطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   }
 ]
