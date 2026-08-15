@@ -53917,5 +53917,892 @@
       "بشرة دهنية",
       "بشرة مختلطة"
     ]
+  },
+    {
+    "id": "OT-LOT-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Vitamin E And Jojoba Oil Nourishing Lip Balm",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Petrolatum, Caprylic/Capric Triglyceride, Cera Microcristallina (Microcrystalline Wax), Paraffin, Paraffinum Liquidum (Mineral Oil), Ethylhexyl Palmitate, Synthetic Beeswax, Parfum (Fragrance), Butyrospermum Parkii (Shea) Butter, Phenoxyethanol, Simmondsia Chinensis (Jojoba) Seed Oil, Tocopheryl Acetate, Benzyl Alcohol",
+    "image": "https://incidecoder-content.storage.googleapis.com/9c68915a-c8b2-4cb1-8689-1f0e5b453159/products/ps-primark-vitamin-e-and-jojoba-oil-nourishing-lip-balm/ps-primark-vitamin-e-and-jojoba-oil-nourishing-lip-balm_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "OT-EYE-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Skin Vitamin C Brightening Eye Gel",
+    "country": "Ireland",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Butylene Glycol, Dimethicone, Polyacrylate Crosspolymer-6, 3-0-Ethyl Ascorbic Acid, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Tocopheryl Acetate, Sodium Citrate, Chlorphenesin, Hydrogenated Ethylhexyl Olivate, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Citric Acid, Squalane, Glycerin, Disodium EDTA, Isododecane, Neopentyl Glycol Diheptanoate, Polysorbate 60, Hydrogenated Olive Oil Unsaponifiables, Chamomilla Recutita (Matricaria) Flower Extract, Potassium Sorbate",
+    "image": "https://incidecoder-content.storage.googleapis.com/a98e641b-21dd-4c75-9713-44b8eadd5587/products/ps-skin-vitamin-c-brightening-eye-gel/ps-skin-vitamin-c-brightening-eye-gel_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Firming Lotus+white Tea+mulberry Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Methylpropanediol, Butylene Glycol, 1,2-Hexanediol, Hydroxyacetophenone, PEG-60 Hydrogenated Castor Oil, Carbomer, Allantoin, Panthenol , Tromethamine, Xanthan Gum, Disodium EDTA, Parfum (Fragrance), Sodium Hyaluronate, Morus Alba (White Mulberry) Bark Extract, Phenoxyethanol, Camellia Sinensis (White Tea) Leaf Extract, Nelumbo Nucifera (Lotus) Root Extract, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Sodium Acetylated Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/e8a7dcf6-8a9f-4e28-9f81-19e3e75dc8bf/products/ps-primark-firming-lotus-white-tea-mulberry-sheet-mask/ps-primark-firming-lotus-white-tea-mulberry-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "شد البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-002",
+    "brand": "PS... (PRIMAK)",
+    "name": "Skin Super Booster Daily Brightening Moisturizer With Vitamin C",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycol, Cetearyl Alcohol, Polysorbate 60, Phenoxyethanol, Sorbitan Stearate, Dimethicone, Parfum (Fragrance), Carbomer, Sodium Ascorbyl Phosphate, Betaine, Sodium Hydroxide, Ethylhexylglycerin, Polyacrylate Crosspolymer-6, Potassium Cetyl Phosphate, Caprylyl Glycol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Squalane, Disodium EDTA, Tocopheryl Acetate, Citrus Paradisi (Grapefruit) Fruit Extract, Sorbitan Isostearate, Hydroxyacetophenone, 1,2-Hexanediol, Citral, Citronellol, Ci 19140 (Yellow 5), Ci 14700 (Red 4)",
+    "image": "https://incidecoder-content.storage.googleapis.com/967be909-3123-40ab-b522-303789bde52f/products/ps-skin-super-booster-daily-brightening-moisturizer-with-vitamin-c/ps-skin-super-booster-daily-brightening-moisturizer-with-vitamin-c_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-TON-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Prep & Perfect Prime And Infuse Watermelon Priming Spray",
+    "country": "Ireland",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Glycerin, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Aloe Barbadensis, Aloe Vera Leaf Juice, Citrullus Lanatus (Watermelon) Seed Oil, Disodium EDTA, Ethylhexylglycerin, Parfum, Hydrolyzed Hyaluronic Acid, Citric Acid, Potassium Sorbate, Sodium Benzoate, Benzyl Benzoate",
+    "image": "https://incidecoder-content.storage.googleapis.com/00336bdd-5bf4-4331-8843-8275030a3d69/products/ps-primark-prep-perfect-prime-and-infuse-watermelon-priming-spray/ps-primark-prep-perfect-prime-and-infuse-watermelon-priming-spray_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-002",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Probiotic + Shea Butter Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Methylpropanediol, Glycerin, Caprylic/Capric Triglyceride, Butylene Glycol, Lactobacillus/Hibiscus Sabdariffa Flower Ferment Filtrate, 1,2-Hexanediol, Polyglyceryl-3 Methylglucose Distearate, Hydroxyacetophenone, Panthenol , Cetearyl Alcohol, Sorbitan Sesquioleate, Allantoin, Butyrospermum Parkii (Shea) Butter, Carbomer, Xanthan Gum, Sodium Polyacrylate, Tromethamine, Phenoxyethanol, Sodium Hyaluronate, Parfum (Fragrance), Argania Spinosa (Argan) Kernel Oil, Aspergillus/Rice Ferment Extract, Cocos Nucifera (Coconut) Oil, Lactobacillus/Soybean Ferment Extract, Tocopheryl Acetate (Vitamin E), Ethylhexylglycerin, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/4a004c0f-003a-4b38-8301-49f81d571148/products/ps-cosmetics-probiotic-shea-butter-sheet-mask/ps-cosmetics-probiotic-shea-butter-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-003",
+    "brand": "PS... (PRIMAK)",
+    "name": "Skin Retinol Lip Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Caprylic/Capric Triglyceride, Hydrogenated Styrene/Isoprene Copolymer, Paraffinum Liquidum (Mineral Oil), Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Retinyl Palmitate, Tocopherol, Tocopheryl Acetate, Tridecyl Trimellitate",
+    "image": "https://incidecoder-content.storage.googleapis.com/a691ea26-0a37-487f-a90c-c1f624af46fa/products/ps-skin-retinol-lip-serum/ps-skin-retinol-lip-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-003",
+    "brand": "PS... (PRIMAK)",
+    "name": "Glass Skin Overnight Peel Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua(Water), Polyvinyl Alcohol, Squalane, Glycerin, Pentaerythrityl Tetraethylhexanoate, 1,2-Hexanediol, Methyl Hydrogenated Rosinate, Polysorbate 60, Parfum (Fragrance), Glyceryl Stearate, Polysorbate 20, Polysorbate 80, Sorbitan Sesquioleate, Coco-Caprylate/Caprate, Soluble Collagen, Microcrystalline Cellulose, Tocopheryl Acetate (Vitamin E), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Cellulose Gum, Xanthan Gum, Ethylhexylglycerin, Polyhydroxystearic Acid, Glucose, Mannose, Citric Acid, Sodium Citrate, Tetramethyl Acetyloctahydronaphthalenes, Menthol, Rose Ketone-4, Geranyl Acetate, Ci 77891 Titanium Dioxide, Ci 17200 Red 33, Cl 42090 Blue 1",
+    "image": "https://incidecoder-content.storage.googleapis.com/26ff449a-d4d6-439e-ba0e-52dbeb06123e/products/ps-primark-glass-skin-overnight-peel-mask/ps-primark-glass-skin-overnight-peel-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير",
+      "مرطب للبشرة",
+      "تحفيز الكولاجين"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Multi Peptide",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Propylene Glycol, Propanediol, Butylene Glycol, Phenoxyethanol, Polyacrylate Crosspolymer-6, Chlorphenesin, Niacinamide, Xanthan Gum, Carbomer, Sodium Lactate, Sodium Citrate, Polysorbate 20, Centella Asiatica Extract, Trisodium Ethylenediamine Disuccinate, Sodium Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/f560f92a-afc5-4d5a-acfe-d2e4945d2906/products/ps-primark-multi-peptide/ps-primark-multi-peptide_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-TON-PRI-002",
+    "brand": "PS... (PRIMAK)",
+    "name": "Ceramide Toner",
+    "country": "Ireland",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Betaine, Propylene Glycol, Phenoxyethanol, Polyglyceryl-3 Diisostearate, Trilaureth-4 Phosphate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Chlorphenesin, Sodium Hydroxide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Sodium Lauroyl Lactylate, Avena Sativa (Oat) Kernel Extract, Lactobacillus Ferment, Trisodium Ethylenediamine Disuccinate, Sodium Hyaluronate, Ceramide NP, Sodium Benzoate, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Carbomer, Ethylhexylglycerin, Potassium Sorbate, Ceramide EOP",
+    "image": "https://incidecoder-content.storage.googleapis.com/d32d41f9-1977-48cb-83bc-555456a5146b/products/ps-primark-ceramide-toner/ps-primark-ceramide-toner_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "OT-TON-PRI-003",
+    "brand": "PS... (PRIMAK)",
+    "name": "Skin Hyaluronic Acid Replenishing Toner",
+    "country": "Ireland",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "1,2-Hexanediol, Aqua (Water), Butylene Glycol, Camellia Sinensis Leaf Extract, Citric Acid, Glycerin, Linolenic Acid, Methylpropanediol, Oleic Acid, Panthenol, Phenoxyethanol, Polyglyceryl-3 Diisostearate, Polymethylsilsesquioxane, Potassium Sorbate, Propanediol, Propylene Glycol, Sodium Hyaluronate, Sodium Hydroxide, Stearic Acid, Tapioca Starch, Trilaureth-4 Phosphate",
+    "image": "https://incidecoder-content.storage.googleapis.com/e00b931d-2671-4be2-97a9-a838cfd53da7/products/ps-skin-hyaluronic-acid-replenishing-toner/ps-skin-hyaluronic-acid-replenishing-toner_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-004",
+    "brand": "PS... (PRIMAK)",
+    "name": "Retinol Night Cream",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Paraffinum Liquidum (Mineral Oil), Cetearyl Alcohol, Caprylic/Capric Triglyceride, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, PEG-100 Stearate, Dimethicone, Phenoxyethanol, Carbomer, Polysorbate 60, Sorbitan Stearate, Retinol, Xanthan Gum, Helianthus Annuus (Sunflower) Seed Oil, Triethyl Citrate, Sodium Hydroxide, Tocopherol, Ethylhexylglycerin, O-Cymen-5-Ol, Bisabolol, Disodium EDTA, Linoleic Acid, Butylene Glycol, Chlorogenic Acids, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7",
+    "image": "https://incidecoder-content.storage.googleapis.com/696953ba-d2e9-470f-9249-bdd662dee7c9/products/ps-primark-retinol-night-cream/ps-primark-retinol-night-cream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-004",
+    "brand": "PS... (PRIMAK)",
+    "name": "Hydrating Priming Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Methylpropanediol, 1,2-Hexanediol, Hydroxyacetophenone, Panthenol , Trehalose, Allantoin, PEG-60 Hydrogenated Castor Oil, Hydroxyethylcellulose, Carbomer, Butylene Glycol, Sodium Hyaluronate, Tromethamine, Imperata Cylindrica (Cogon Grass) Root Extract, Disodium EDTA, Parfum (Fragrance), PEG-8, Hydrolyzed Hyaluronic Acid, Nelumbo Nucifera (Lotus) Root Extract, Phenoxyethanol, Sodium Acetylated Hyaluronate, Linalool",
+    "image": "https://incidecoder-content.storage.googleapis.com/03d077b5-7e67-4f8b-a8f2-21f5a8857af5/products/ps-primark-hydrating-priming-sheet-mask/ps-primark-hydrating-priming-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-OIB-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Retinol 0.5 Complex Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "",
+    "ingredients": "Helianthus Annuus Seed Oil, Prunus Amygdalus Dulcis Oil, Vegetable Oil, Caprylic/Capric Triglyceride, Retinyl Palmitate, Tocopheryl Acetate, Tocopherol, Olea Europaea Fruit Oil, Sesamum Indicum Seed Oil, Simmondsia Chinensis Seed Oil, Rosa Canina Fruit Oil",
+    "image": "https://incidecoder-content.storage.googleapis.com/80390939-eb7e-4b65-865d-5976d186976d/products/ps-primark-retinol-0-5-complex-serum/ps-primark-retinol-0-5-complex-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-005",
+    "brand": "PS... (PRIMAK)",
+    "name": "Ceramide Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol Dicaprylate Dicaprate, 1,2-Hexanediol, Xylitol, Cetearyl Alcohol, Hydroxyacetophenonę, Cetearyl Olivate, Caprylic/Capric Triglyceride, Sorbitan Olivate, Palmitic Acid, Stearic Acid, Cetyl Ethyl Hexanoate, Panthenol , Allantoin, Carbomer, Arginine, Hydrogenated Lecithin, Hydroxypropyl Methylcellulose, Xanthan Gum, Glyceryl Acrylate/Acrylic Acid Copolymer, Parfum (Fragrance), Propylene Glycol, Ceramide NP, Disodium EDTA, Phenoxyethanol, Pvm Ma Copolymer, Sodium Hyaluronate, Myristic Acid, Xylitylglucoside, Anhydroxylitol, Hydrolyzed Corn Starch, Hydrolyzed Hyaluronic Acid, Caramel, Glucose, Sodium Acetylated Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/b3c6ae62-df6b-46b8-a678-9fd72e14a1d8/products/ps-primark-ceramide-sheet-mask/ps-primark-ceramide-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-002",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Niacinamide Booster Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Niacinamide, Propylene Glycol, Glycerin, 1,2-Hexanediol, Propanediol, PEG-20, Zinc Pca, Phenoxyethanol, Sodium Hyaluronate, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Panthenol, Citric Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/e6759b12-d32e-4bef-a80f-309ca4a34a8d/products/ps-cosmetics-niacinamide-booster-serum/ps-cosmetics-niacinamide-booster-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "تفتيح البشرة",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-003",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Hyaluronic Acid Booster Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Propylene Glycol, Propanediol, Sodium Hyaluronate, Citric Acid, 1,2-Hexanediol, Sodium Hydroxide, Phenoxyethanol, Butylene Glycol, Trisodium Ethylenediamine Disuccinate, Panthenol",
+    "image": "https://incidecoder-content.storage.googleapis.com/fbd37cf6-82bb-4dad-98aa-25a6b8c0991b/products/ps-cosmetics-hyaluronic-acid-booster-serum/ps-cosmetics-hyaluronic-acid-booster-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-TON-PRI-004",
+    "brand": "PS... (PRIMAK)",
+    "name": "AHA & PHA Toner - 5% Lactic Acid 1% PHA",
+    "country": "Ireland",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Propylene Glycol, Lactic Acid, Propanediol, Sodium Hydroxide, 1,2-Hexanediol, Gluconolactone, Phenoxyethanol, Betaine, Butylene Glycol, Trisodium Ethylenediamine Disuccinate, Sodium Hyaluronate, Panthenol",
+    "image": "https://incidecoder-content.storage.googleapis.com/64c9b73a-897c-4358-b5c1-669a1a1a8b4f/products/ps-primark-aha-pha-toner-5-lactic-acid-1-pha/ps-primark-aha-pha-toner-5-lactic-acid-1-pha_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-004",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Lactic Acid Booster Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Lactic Acid, Propylene Glycol, Sodium Hydroxide, Propanediol, 1,2-Hexanediol, Sodium Hydroxide, Phenoxyethanol, Butylene Glycol, Trisodium Ethylenediamine Disuccinate, Panthenol",
+    "image": "https://incidecoder-content.storage.googleapis.com/8149bc66-d311-4c3e-808f-18e143a9c268/products/ps-cosmetics-lactic-acid-booster-serum/ps-cosmetics-lactic-acid-booster-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-005",
+    "brand": "PS... (PRIMAK)",
+    "name": "Lip Butter Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Polyisobutene, Ethylhexyl Palmitate, Isododecane, Cera Microcristallina (Microcrystalline Wax), Silica Dimethyl Silylate, Caprylic/Capric Triglyceride, Parfum (Fragrance), Butyrospermum Parkii (Shea) Butter, Astrocaryum Murumuru Seed Butter, Phenoxyethanol, Simmondsia Chinensis (Jojoba) Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Mangifera Indica (Mango) Seed Butter, Tocopherol, Benzyl Alcohol, Benzyl Salicylate, Hexyl Cinnamal, Hydroxycitronellal",
+    "image": "https://incidecoder-content.storage.googleapis.com/40f1d69f-21a2-48b5-ba4a-bd8e86691103/products/ps-primark-lip-butter-mask/ps-primark-lip-butter-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-006",
+    "brand": "PS... (PRIMAK)",
+    "name": "Peach & Lime Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Glycerin, Aqua (Water), Methylpropanediol, 1,2-Hexanediol, Butylene Glycol, Hydroxyacetophenone, Panthenol , PEG-60 Hydrogenated Castor Oil",
+    "image": "https://incidecoder-content.storage.googleapis.com/ca282e6c-40f2-4f19-bf10-f7fffba35b0b/products/ps-primark-peach-lime-sheet-mask/ps-primark-peach-lime-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-006",
+    "brand": "PS... (PRIMAK)",
+    "name": "Skin Anti-chafe Body Balm",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Petrolatum, Caprylic/Capric Triglyceride, Isopropyl Palmitate, Cera Microcristallina, Polybutene, Synthetic Beeswax, Ozokerite, Synthetic Wax, Dimethicone, Vitis Vinifera (Grape) Seed Oil, Parfum (Fragrance), Tocopheryl Acetate (Vitamin E), Benzyl Benzoate, Geraniol, Limonene",
+    "image": "https://incidecoder-content.storage.googleapis.com/59870daa-5738-4383-8dc3-c61d693e1ca6/products/ps-skin-anti-chafe-body-balm/ps-skin-anti-chafe-body-balm_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-005",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Tiger Grass Facial Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Propanediol, PEG-40 Hydrogenated Castor Oil, Betaine, Phenoxyethanol, Alpha-Glucan Oligosaccharide, Polyacrylate Crosspolymer-6, Tocopheryl Acetate, Bisabolol, Musa Sapientum Flower Extract, Allantoin, Chlorphenesin, Sodium Hydroxide, Sodium Benzoate, Centella Asiatica Extract, Sodium Hyaluronate, Trisodium Ethylenediamine Disuccinate, Citric Acid, Potassium Sorbate",
+    "image": "https://incidecoder-content.storage.googleapis.com/02a484a8-056a-4927-a062-a3c13d0164ef/products/ps-cosmetics-tiger-grass-facial-serum-2/ps-cosmetics-tiger-grass-facial-serum-2_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-007",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Detoxifying Avocado Cream Mask With Vitamin Complex",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Kaolin, Bentonite, Glyceryl Stearate SE, Glycerin, Polysorbate 20, Persea Gratissima Fruit Extract, Magnesium Aluminum Silicate, Chlorphenesin, Xanthan Gum, Glyceryl Stearate, PEG-100 Stearate, Phenoxyethanol, Butylene Glycol, Parfum, Caprylyl Glycol, Lactic Acid, Oryza Sativa Bran Extract, 1,2-Hexanediol, Propanediol, Panthenol, Illicium Verum Fruit Extract, Ascorbic Acid, Ascorbyl Tetraisopalmitate, Biotin, Linoleic Acid, Magnesium Ascorbyl Phosphate, Menadione, Niacinamide, Pyridoxine, Pyridoxine Hcl, Riboflavin, Salix Alba Bark Extract, Sodium Ascorbate, Thiamine Hcl, Tocopheryl Acetate, Ethylhexylglycerin, Folic Acid, Sodium Ascorbyl Phosphate, Cyanocobalamin, Ci 77288",
+    "image": "https://incidecoder-content.storage.googleapis.com/1b2d217c-49b5-4b9b-8c87-70807b1487a9/products/ps-cosmetics-detoxifying-avocado-cream-mask-with-vitamin-complex/ps-cosmetics-detoxifying-avocado-cream-mask-with-vitamin-complex_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-006",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Milky Serum - Watermelon Dream",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Aloe Barbadensis (Aloe Vera) Leaf Juice, Glycerin, Polysorbate 20, Simmondsia Chinensis (Jojoba) Seed Oil, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Propanediol, Phospholipids, Sodium Hyaluronate, Xanthan Gum, Glyceryl Undecylenate, Glyceryl Caprylate, C13-14 Alkane, Laureth-7, Phenoxyethanol, Parfum (Fragrance), Citrullus Lanatus (Watermelon) Seed Oil, Fragaria Ananassa (Strawberry) Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract, Potassium Sorbate, Sodium Benzoate, Ethylhexylglycerin, Sodium Gluconate, Benzyl Salicylate, Ci 16035 (Red 40)",
+    "image": "https://incidecoder-content.storage.googleapis.com/37020963-47ef-4deb-ae2c-01d3900b0f56/products/ps-cosmetics-milky-serum-watermelon-dream/ps-cosmetics-milky-serum-watermelon-dream_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-CLE-PRI-001",
+    "brand": "PS... (PRIMAK)",
+    "name": "Creamy Face Wash",
+    "country": "Ireland",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Sodium Chloride, Acrylates Copolymer, Parfum (Fragrance), Phenoxyethanol, Styrene/Acrylates Copolymer, Prunus Amygdalus Dulcis (Sweet Almond) Oil, PEG-150 Distearate, Rosa Damascena Flower Water, Tocopheryl Acetate, Chlorphenesin, Ethylhexylglycerin, Sodium Hydroxide, Disodium EDTA, Tocopherol, Phytic Acid, Linoleic Acid, Linalool, Ci 77891 (Titanium Dioxide)",
+    "image": "https://incidecoder-content.storage.googleapis.com/7e7dba9a-341e-4a94-b810-9c354b3d87d7/products/ps-primark-creamy-face-wash/ps-primark-creamy-face-wash_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-007",
+    "brand": "PS... (PRIMAK)",
+    "name": "Glass Skin Gel Moisturiser",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Butylene Glycol, Dimethicone, Dipropylene Glycol, Niacinamide (Vitamin B3), Phenyl Trimethicone, Lactobacillus Ferment Lysate, Aspergillus Ferment, Aureobasidium Pullulans Ferment, Bacillus Ferment, Bifida Ferment Lysate, Centaurea Cyanus (Cornflower) Flower Extract, Cholesterol, Lactobacillus Ferment, Lactococcus Ferment, Phytosphingosine, Saccharomyces Ferment Filtrate, Ceramide NG, Ceramide NP, Ceramide AP, Ceramide AS, Fructooligosaccharides, Hydrolyzed Extensin, Ceramide EOP, Cetearyl Olivate, 1,2-Hexanediol, Xylitylglucoside, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyacetophenone, Sorbitan Olivate, Anhydroxylitol, Allantoin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Silica, Xylitol, Glucose, Xanthan Gum, Hydrogenated Lecithin, Adenosine, Cetearyl Alcohol, Citric Acid, Parfum (Fragrance), Stearic Acid, Sorbitan Isostearate, Sodium Hyaluronate, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Pentylene Glycol, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Fructan, Maltodextrin, Sorbitol, Tetramethyl Acetyloctahydronaphthalenes",
+    "image": "https://incidecoder-content.storage.googleapis.com/6e872cef-8df7-4871-8df0-2366a55e889c/products/ps-primark-glass-skin-gel-moisturiser/ps-primark-glass-skin-gel-moisturiser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-008",
+    "brand": "PS... (PRIMAK)",
+    "name": "Soothing Hydrogel Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua Water, Methylpropanediol, Glycerin, Butylene Glycol, Acrylates Copolymer, 1,2-Hexanediol, Centella Asiatica Extract, Helianthus Annuus Seed Oil, NAGHAMDE OSAMDE NESUDIUM, Hyaluronan, Chondrus Crispus, Chondrus Crispus Extract, Candida Bombicola/Glucose Methyl Rapeseedate Ferment, Ceratonia Siliqua Gum, Glucomannan, Xanthan Gum, Allantoin, Maltodextrin, Sodium Citrate, Caprylic/Capric Triglyceride, Dipropylene Glycol, Polyglyceryl-6 Caprylate, Polyglyceryl-4 Caprate, Potassium Chloride",
+    "image": "https://incidecoder-content.storage.googleapis.com/062dba7d-eb3c-415b-a7f7-0c0c608bef2b/products/ps-primark-soothing-hydrogel-mask/ps-primark-soothing-hydrogel-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-TON-PRI-005",
+    "brand": "PS... (PRIMAK)",
+    "name": "Micellar Cleansing Water",
+    "country": "Ireland",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "Aqua(Water), Polysorbate 20, Betaine, PEG-6 Caprylic/Capric Glycerides, Hexylene Glycol, Glycerin, Rosa Damascena Flower Water, Decyl Glucoside, Phenoxyethanol, Caprylyl Glycol, Panthenol, Tetrasodium Glutamate Diacetate, Tocopheryl Acetate, Citric Acid, Sodium Hydroxide",
+    "image": "https://incidecoder-content.storage.googleapis.com/1a3caaf4-3c29-4e66-a1f5-8fe3450042ff/products/ps-primark-micellar-cleansing-water/ps-primark-micellar-cleansing-water_front_photo_original.jpeg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-009",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Prep+ Perfect Illuminating Priming Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, PEG/PPG-17/6 Copolymer, Butylene Glycol, Panthenol , Phenoxyethanol, Methylparaben, PEG-60 Hydrogenated Castor Oil, Xanthan Gum, Camellia Sinensis (Green Tea) Leaf Extract, Hydroxyethylcellulose, 1,2-Hexanediol, Illicium Verum (Anise) Fruit Extract, PEG-14M, Hamamelis Virginiana (Witch Hazel) Water, Sodium Hyaluronate, Allantoin, Carica Papaya (Papaya) Fruit Extract, Disodium EDTA, Erythritol, Parfum (Fragrance), Tocopheryl Acetate (Vitamin E), Alcohol, Hydrolyzed Hyaluronic Acid, Silica, Ethylhexylglycerin, Dipotassium Glycyrrhizate, Natto Gum, Sodium Acetylated Hyaluronate",
+    "image": "https://incidecoder-content.storage.googleapis.com/4b728619-e4f4-454d-8ad2-ec2900725e7c/products/ps-cosmetics-prep-perfect-illuminating-priming-sheet-mask/ps-cosmetics-prep-perfect-illuminating-priming-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-007",
+    "brand": "PS... (PRIMAK)",
+    "name": "CBD Serum With Calming Hemp Seed Oil And Aloe Vera",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Cannabis Sativa (Hemp) Seed Oil, Glycerin, Polysorbate 20, Potassium Cetyl Phosphate, Olea Europaea (Olive) Fruit Oil, Shea Butter Ethyl Esters, Cannabidiol, Sodium Hyaluronate, Phenoxyethanol, Sodium Stearoyl Glutamate, Fructooligosaccharides, Polyglyceryl-3 Cocoate, Polyacrylate Crosspolymer-6, Beta Vulgaris (Beet) Root Extract, Aloe Barbadensis (Aloe Vera) Leaf Juice, Ethylhexylglycerin, Potassium Lactate, Citric Acid, Sodium Gluconate, Lactic Acid",
+    "image": "https://incidecoder-content.storage.googleapis.com/31a53459-57df-44fa-9b01-a71476deee8c/products/ps-primark-cbd-serum-with-calming-hemp-seed-oil-and-aloe-vera/ps-primark-cbd-serum-with-calming-hemp-seed-oil-and-aloe-vera_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-010",
+    "brand": "PS... (PRIMAK)",
+    "name": "Plumping Vitamin E Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, PEG/PPG-17/6 Copolymer, Panthenol , Xanthan Gum, Phenoxyethanol, Methylparaben, PEG-60 Hydrogenated Castor Oil, 1,2-Hexanediol, Hydroxyethylcellulose, Butylene Glycol, PEG-14M, Sodium Hyaluronate, Tocopherol (Vitamin E), Allantoin, Disodium EDTA, Erythritol, Parfum (Fragrance), Tocopheryl Acetate (Vitamin E), Helianthus Annuus (Sunflower) Seed Oil, Hydrolyzed Hyaluronic Acid, Camellia Sinensis (Green Tea) Leaf Extract, Dipotassium Glycyrrhizate, Illicium Verum (Anise) Fruit Extract, Natto Gum, Silica, Hamamelis Virginiana (Witch Hazel) Water, Sodium Acetylated Hyaluronate, Ethylhexylglycerin, Carica Papaya (Papaya) Fruit Extract, Alcohol",
+    "image": "https://incidecoder-content.storage.googleapis.com/dbc1c6e3-7197-4af0-8979-c207f4344907/products/ps-primark-plumping-vitamin-e-sheet-mask/ps-primark-plumping-vitamin-e-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-008",
+    "brand": "PS... (PRIMAK)",
+    "name": "Niacinamide Moisturiser",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Propylene Glycol, Niacinamide, Polymethyl Methacrylate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Glycerin, Polyacrylamide, C13-14 Isoparaffin, Phenoxyethanol, Isopropyl Palmitate, Sodium Hyaluronate, Squalane, Tocopheryl Acetate, Polysorbate 60, Sorbitan Isostearate, Laureth-7, Chlorphenesin, Disodium EDTA",
+    "image": "https://incidecoder-content.storage.googleapis.com/d9ba2806-a8e1-40e8-b317-71b218048160/products/ps-primark-niacinamide-moisturiser/ps-primark-niacinamide-moisturiser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-008",
+    "brand": "PS... (PRIMAK)",
+    "name": "Clear + Cool Blemish Gel",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua, Alcohol Denat, Triethanolamine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Glycerin, PEG-40, Hydrogenated Castor Oil, Phenoxyethanol, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Ethylhexylglycerin, Hamamelis Virginiana (Witch Hazel), Water, Limonene, 1,2-Hexanediol, Denatonium Benzoate",
+    "image": "https://incidecoder-content.storage.googleapis.com/88cf2d5c-3478-4b1f-988c-330e0827078d/products/ps-primark-clear-cool-blemish-gel/ps-primark-clear-cool-blemish-gel_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-LOT-PRI-009",
+    "brand": "PS... (PRIMAK)",
+    "name": "Ceramide Moisturiser",
+    "country": "Ireland",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Cetyl Alcohol, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Propylene Glycol, Glyceryl Stearate, PEG-100 Stearate, Polysorbate 60, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate SE, Carbomer, Dimethicone, Chlorphenesin, Sodium Lauroyl Lactylate, Sodium Hydroxide, Avena Sativa (Oat) Kernel Extract, Lactobacillus Ferment, Xanthan Gum, Ceramide NP, Trisodium Ethylenediamine Disuccinate, Ceramide AP",
+    "image": "https://incidecoder-content.storage.googleapis.com/39745c48-b080-4b46-9c4f-7eb0542cb96d/products/ps-primark-ceramide-moisturiser/ps-primark-ceramide-moisturiser_front_photo_original.jpeg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "OT-MSK-PRI-011",
+    "brand": "PS... (PRIMAK)",
+    "name": "Revitalise, Glow & Protect Turmeric Sheet Mask",
+    "country": "Ireland",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Methylpropanediol, Butylene Glycol, 1,2-Hexanediol, Hydroxyacetophenone, Panthenol , Curcuma Longa (Turmeric) Root Extract, PEG-60 Hydrogenated Castor Oil, Carbomer, Allantoin, Tromethamine, Xanthan Gum, Sodium Hyaluronate, Disodium EDTA, Parfum (Fragrance), Tocopheryl Acetate (Vitamin E), Zingiber Officinale (Ginger) Root Extract, Hydrolyzed Hyaluronic Acid, Angelica Gigas (Korean Angelica) Root Extract, Phenoxyethanol, Sodium Acetylated Hyaluronate, Ethylhexylglycerin",
+    "image": "https://incidecoder-content.storage.googleapis.com/65291b5b-254e-4125-a673-786b9ae7df86/products/ps-primark-revitalise-glow-protect-turmeric-sheet-mask/ps-primark-revitalise-glow-protect-turmeric-sheet-mask_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "OT-SSE-PRI-009",
+    "brand": "PS... (PRIMAK)",
+    "name": "Cosmetics Salicylic Acid Booster Serum",
+    "country": "Ireland",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "",
+    "ingredients": "Aqua (Water), Glycerin, Coco-Caprylate/Caprate, Propanediol, Salicylic Acid, PEG-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Phenoxyethanol, Allantoin, Sodium Hydroxide, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Salix Nigra (Willow) Bark Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vegetable Oil, Propylene Glycol, Lavandula Angustifolia (Lavender) Oil, Trisodium Ethylenediamine Disuccinate, Niacinamide, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Faex (Yeast Extract), Ammonium Glycyrrhizate, Tocopherol, Panthenol, Zinc Gluconate, Sodium Citrate, Caffeine, Citric Acid, Biotin, Linalool",
+    "image": "https://incidecoder-content.storage.googleapis.com/ff826678-23ed-4725-b083-c658d6392cae/products/ps-cosmetics-salicylic-acid-booster-serum/ps-cosmetics-salicylic-acid-booster-serum_front_photo_original.jpeg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "مضاد لحب الشباب",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة مختلطة"
+    ]
   }
 ]
