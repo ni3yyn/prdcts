@@ -5318,9 +5318,18 @@
     "quantity": "null",
     "ingredients": "ماء, بروبيلين غليكول, النياسيناميد (فيتامين B3), حمض الهيالورونيك, الجلسرين, توكوفيرول (فيتامين E النقي), حمض الساليسيليك, رباعي الصوديوم EDTA, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772293874/h6wumqefyder51tuwryo.jpg",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "marketingClaims": [
+      "توحيد لون البشرة"
+    ],
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-BWA-UNK-002",
@@ -6237,7 +6246,11 @@
     "ingredients": "ماء, النياسيناميد (فيتامين B3), زنك PCA, حمض الهيالورونيك, كوبر PCA (النحاس الأزرق), صمغ البيوسكاريد-1, الجلسرين, حمض الليفولينيك, ليفولينات الصوديوم, كابريلات الجليسريل, أنيسات الصوديوم, هيدروكسيد الصوديوم, رباعي صوديوم جلوتامات ثنائي الأسيتات",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768860019/j0fnszvambwwgtqj3ag7.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
