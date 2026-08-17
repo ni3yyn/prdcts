@@ -654,7 +654,8 @@
       "icon": "hand-holding-water"
     },
     "quantity": "50 ml",
-    "ingredients": "AQUA, GLYCERIN, COCO-CAPRYLATE/CAPRATE, METHYLPROPANEDIOL, BETAINE, STEARYL ALCOHOL, SQUALANE (VEGETABLE SQUALANE), CENTAUREA CYANUS FLOWER WATER (CORNFLOWER FLOWER WATER), BUTYLENE GLYCOL, ARACHIDYL ALCOHOL, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER (SHEA BUTTER), SORBITAN STEARATE, PYRUS MALUS FRUIT EXTRACT (APPLE PECTIN HYDROLYSATE), APHLOIA THEIFORMIS LEAF EXTRACT (APHLOIA LEAF EXTRACT), BEHENYL ALCOHOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), ARACHIDYL GLUCOSIDE, SODIUM POLYACRYLATE, RETINYL PALMITATE, ETHYL LINOLEATE, CAESALPINIA SPINOSA GUM (TARA GUM), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SORBIC ACID, XANTHAN GUM, TOCOPHERYL ACETATE, TETRASODIUM EDTA, ECHINACEA ANGUSTIFOLIA MERISTEM CELL CULTURE (ECHINACEA NATIVE PLANT CELLS), MALTODEXTRIN, SODIUM HYDROXIDE, PANAX GINSENG ROOT EXTRACT (GINSENG ROOT EXTRACT), SODIUM BENZOATE, POTASSIUM SORBATE, SILICA, CITRIC ACID, TOCOPHEROL, PROPYL GALLATE, 1463v0",    "image": "https://images.openbeautyfacts.org/images/products/366/000/514/8038/front_fr.8.400.jpg",
+    "ingredients": "AQUA, GLYCERIN, COCO-CAPRYLATE/CAPRATE, METHYLPROPANEDIOL, BETAINE, STEARYL ALCOHOL, SQUALANE (VEGETABLE SQUALANE), CENTAUREA CYANUS FLOWER WATER (CORNFLOWER FLOWER WATER), BUTYLENE GLYCOL, ARACHIDYL ALCOHOL, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER (SHEA BUTTER), SORBITAN STEARATE, PYRUS MALUS FRUIT EXTRACT (APPLE PECTIN HYDROLYSATE), APHLOIA THEIFORMIS LEAF EXTRACT (APHLOIA LEAF EXTRACT), BEHENYL ALCOHOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), ARACHIDYL GLUCOSIDE, SODIUM POLYACRYLATE, RETINYL PALMITATE, ETHYL LINOLEATE, CAESALPINIA SPINOSA GUM (TARA GUM), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SORBIC ACID, XANTHAN GUM, TOCOPHERYL ACETATE, TETRASODIUM EDTA, ECHINACEA ANGUSTIFOLIA MERISTEM CELL CULTURE (ECHINACEA NATIVE PLANT CELLS), MALTODEXTRIN, SODIUM HYDROXIDE, PANAX GINSENG ROOT EXTRACT (GINSENG ROOT EXTRACT), SODIUM BENZOATE, POTASSIUM SORBATE, SILICA, CITRIC ACID, TOCOPHEROL, PROPYL GALLATE, 1463v0",
+    "image": "https://images.openbeautyfacts.org/images/products/366/000/514/8038/front_fr.8.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
     ],
@@ -6275,7 +6276,10 @@
     "quantity": "null",
     "ingredients": "ماء, الجلسرين, كحول السيتريل, ثلاثي إيثانولامين (TEA), بروبيلين جلايكول, كاربومير, رباعي الصوديوم EDTA, فينوكسي إيثانول, كلورفينيسين, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768763815/iktbwnstdu1yb5r2tsms.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
     "price": null,
     "targetTypes": [
       "بشرة جافة"
@@ -9340,7 +9344,7 @@
     "brand": "Bioxine",
     "name": "Bioxine",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1776075393/gbzycncie4znxbmcrhgp.jpg",
-    "ingredients": "",
+    "ingredients": "ماء (Aqua)، مركب Biocomplex B11 (مستخلص أوراق وأصول القراص، مستخلص زهور البابونج الألماني، مستخلص اليارو/الأخيلية، مستخلص ثمار الخروب، مستخلص أوراق ذيل الحصان)، صوديوم لوريث سلفات، كوكاميدو بروبيل بيتين، نياسيناميد، كوكاميد ميا، كلوريد الصوديوم، بروبيلين غليكول، كحول بنزيلي، عطر، بانثينول، هيدروكسي بروبيل غوار هيدروكسي بروبيل تريمونيوم كلوريد، تترا صوديوم إيديتات، منثول، ملوخية/مستخلص أوراق الزيتون، مستخلص ثمار/أوراق التين، بولي كواتيرنيوم-7، بيروكتون أولامين، ليسيثين، بيريدوكسين هيدروكلوريد، صوديوم PCA، مستخلص بذور العنب، عسل، كومارين، ألفا إيزوميثيل يونون، ميثيل كلورو إيزوثيازولينون، ميثيل إيزوثيازولينون.",
     "country": "Turkey",
     "category": {
       "id": "shampoo",
@@ -47016,7 +47020,7 @@
       "icon": "spa"
     },
     "quantity": "500 ml",
-    "ingredients": "AQUA, GLYCERIN, PARAFFINUM LIQUIDUM, DISTEARYLDIMONIUM CHLORIDE, POLYQUATERNIUM-32, LANOLIN OIL, BEHENTRIMONIUM METHOSULFATE, OLIVE OIL, CETYL ALCOHOL, SMDM HYDANTOIN, CETEARYL ALCOHOL, PHENYL TRIMETHICONE, PARFUM, DEMITHICONE PEG-8 LAURATE, ORIGANO OIL",
+    "ingredients": "AQUA, GLYCERIN, PARAFFINUM LIQUIDUM, DISTEARYLDIMONIUM CHLORIDE, POLYQUATERNIUM-32, LANOLIN OIL, BEHENTRIMONIUM METHOSULFATE, OLIVE OIL, CETYL ALCOHOL, DMDM HYDANTOIN, CETEARYL ALCOHOL, PHENYL TRIMETHICONE, PARFUM, DEMITHICONE PEG-8 LAURATE, OREGANO OIL",
     "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/w/h/whatsapp_image_2026-05-24_at_3.01.24_pm.jpeg",
     "marketingClaims": [
       "تغذية الشعر",
@@ -52461,7 +52465,7 @@
       "بشرة جافة"
     ]
   },
-    {
+  {
     "id": "KR-SSE-PUR-001",
     "brand": "Purito Seoul",
     "name": "Bakuchiol Timeless Bloom Revitalizing Serum",
@@ -53667,7 +53671,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "FR-LOT-DER-001",
     "brand": "Dermagor",
     "name": "Atopicalm Nourishing Body Cream",
@@ -53962,7 +53966,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "OT-LOT-PRI-001",
     "brand": "PS... (PRIMAK)",
     "name": "Vitamin E And Jojoba Oil Nourishing Lip Balm",
@@ -54849,7 +54853,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "SW-SSE-BIO-001",
     "brand": "Bionnex",
     "name": "Retinol 1% Serum",
@@ -55186,7 +55190,7 @@
       "بشرة مختلطة"
     ]
   },
-    {
+  {
     "id": "UK-SHA-SUN-001",
     "brand": "Sunsilk",
     "name": "Nourishing Soft & Smooth Shampoo",
@@ -55886,7 +55890,7 @@
     "price": null,
     "targetTypes": []
   },
-   {
+  {
     "id": "TR-SUN-BIO-001",
     "brand": "Bioxcin",
     "name": "Sun Care Melatone SPF50+ Tinted",
