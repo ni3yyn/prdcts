@@ -654,8 +654,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "50 ml",
-    "ingredients": "AQUA, GLYCERIN, COCO-CAPRYLATE/CAPRATE, METHYLPROPANEDIOL, BETAINE, STEARYL ALCOHOL, SQUALANE (VEGETABLE SQUALANE), CENTAUREA CYANUS FLOWER WATER (CORNFLOWER FLOWER WATER), BUTYLENE GLYCOL, ARACHIDYL ALCOHOL, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER (SHEA BUTTER), SORBITAN STEARATE, PYRUS MALUS FRUIT EXTRACT (APPLE PECTIN HYDROLYSATE), APHLOIA THEIFORMIS LEAF EXTRACT (APHLOIA LEAF EXTRACT), BEHENYL ALCOHOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), ARACHIDYL GLUCOSIDE, SODIUM POLYACRYLATE, RETINYL PALMITATE, ETHYL LINOLEATE, CAESALPINIA SPINOSA GUM (TARA GUM), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SORBIC ACID, XANTHAN GUM, TOCOPHERYL ACETATE, TETRASODIUM EDTA, ECHINACEA ANGUSTIFOLIA MERISTEM CELL CULTURE (ECHINACEA NATIVE PLANT CELLS), MALTODEXTRIN, SODIUM HYDROXIDE, PANAX GINSENG ROOT EXTRACT (GINSENG ROOT EXTRACT), SODIUM BENZOATE, POTASSIUM SORBATE, SILICA, CITRIC ACID, TOCOPHEROL, PROPYL GALLATE, 1463v0",
-    "image": "https://images.openbeautyfacts.org/images/products/366/000/514/8038/front_fr.8.400.jpg",
+    "ingredients": "AQUA, GLYCERIN, COCO-CAPRYLATE/CAPRATE, METHYLPROPANEDIOL, BETAINE, STEARYL ALCOHOL, SQUALANE (VEGETABLE SQUALANE), CENTAUREA CYANUS FLOWER WATER (CORNFLOWER FLOWER WATER), BUTYLENE GLYCOL, ARACHIDYL ALCOHOL, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER (SHEA BUTTER), SORBITAN STEARATE, PYRUS MALUS FRUIT EXTRACT (APPLE PECTIN HYDROLYSATE), APHLOIA THEIFORMIS LEAF EXTRACT (APHLOIA LEAF EXTRACT), BEHENYL ALCOHOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), ARACHIDYL GLUCOSIDE, SODIUM POLYACRYLATE, RETINYL PALMITATE, ETHYL LINOLEATE, CAESALPINIA SPINOSA GUM (TARA GUM), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SORBIC ACID, XANTHAN GUM, TOCOPHERYL ACETATE, TETRASODIUM EDTA, ECHINACEA ANGUSTIFOLIA MERISTEM CELL CULTURE (ECHINACEA NATIVE PLANT CELLS), MALTODEXTRIN, SODIUM HYDROXIDE, PANAX GINSENG ROOT EXTRACT (GINSENG ROOT EXTRACT), SODIUM BENZOATE, POTASSIUM SORBATE, SILICA, CITRIC ACID, TOCOPHEROL, PROPYL GALLATE, 1463v0",    "image": "https://images.openbeautyfacts.org/images/products/366/000/514/8038/front_fr.8.400.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
     ],
@@ -1140,11 +1139,7 @@
     "ingredients": "water, SODIUM LAURETH SULFATE, PEG-8, COCO-BETAINE, HEXYLENE GLYCOL, SODIUM CHLORIDE, CAPRYLYL GLYCOL, CITRIC ACID, GLYCERIN, MORINGA PTERYGOSPERMA SEED EXTRACT, PEG-120 METHYL GLUCOSE DIOLEATE, PHENOXYETHANOL, SODIUM BENZOATE, SODIUM HYDROXIDE, ZINC PCA, PARFUM",
     "image": "https://images.openbeautyfacts.org/images/products/360/055/055/0030/front_fr.9.400.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 1200,
-      "max": 1200,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -2087,11 +2082,7 @@
     "ingredients": "water, SODIUM LAURETH SULFATE, Coco-Betaine, Glycerin, Sodium Chloride, Mentha Piperita Extract / Peppermint EXTRACT, PPG-5-CETETH-20, SODIUM HYDROXIDE, PAULLINIA CUPANA SEED EXTRACT, ASCORBYL GLUCOSIDE, PROPYLENE GLYCOL, CITRIC ACID, MENTHOL, PENTYLENE GLYCOL, POLYQUATERNIUM-7, SODIUM BENZOATE, SALICYLIC ACID, CI 16035 / RED 40, CI 19140 / YELLOW 5, LINALOOL, LIMONENE, PARFUM / FRAGRANCE. (F.I.L. B222163/1). *Vitamin C derivative",
     "image": "https://images.openbeautyfacts.org/images/products/360/052/371/8269/front_es.3.400.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 1000,
-      "max": 1000,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -4053,10 +4044,7 @@
       "مرطب للبشرة"
     ],
     "price": null,
-    "targetTypes": [
-      "بشرة حساسة",
-      "بشرة مختلطة"
-    ]
+    "targetTypes": []
   },
   {
     "id": "FR-BWA-MIX-001",
@@ -4755,11 +4743,7 @@
     "ingredients": "ماء, كحول السيتيل, كحول السيتريل, سيتيث-20, توكوفيرول (فيتامين E النقي), الكولاجين المهدرج, بروبيلين جلايكول, بنزوات الصوديوم, أوكتينوكسات, توكوفيريل أسيتات, زيت الجزر (المنقوع), زيت اللوز الحلو, زيت جوز الهند, عطر",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768930568/hcympfyvr3zcmvhnlkjz.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 670,
-      "max": 670,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -4805,7 +4789,7 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 230,
+      "min": 300,
       "max": 300,
       "currency": "DZD"
     },
@@ -4913,11 +4897,7 @@
       "مرطب للبشرة",
       "للبشرة الدهنية"
     ],
-    "price": {
-      "min": 120,
-      "max": 120,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة"
@@ -5039,11 +5019,7 @@
       "للبشرة الجافة",
       "مرطب للبشرة"
     ],
-    "price": {
-      "min": 800,
-      "max": 800,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": [
       "بشرة حساسة",
       "بشرة جافة"
@@ -5146,14 +5122,7 @@
     "quantity": "null",
     "ingredients": "ماء, كوكاميد DEA, الكبريت الغروي, عطر, بنزوات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772392451/wmikdn5ssih7d6zven39.jpg",
-    "marketingClaims": [
-      "تنظيف عميق",
-      "للبشرة الدهنية",
-      "للبشرة الحساسة",
-      "تنقية المسام",
-      "مضاد لحب الشباب",
-      "تفتيح البشرة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 380,
       "max": 450,
@@ -5177,16 +5146,8 @@
     "ingredients": "ماء, كحول السيتريل, الجلسرين, غليسيريل مونوستيرات (GMS), ميريستات الأيزوبروبيل, بروبيلين غليكول, amodimethicone, سيكلوبنتاسيلوكسان (D5), ميثوسلفات البيهينتريمونيوم (BTMS), كحول السيتيل, بولي كواتيرنيوم-37, كلوريد سيتريمونيوم, ثنائي ميثيكونول, عطر, بيوتيلين جلايكول, ترايديسيث-12, بنزوات الصوديوم, ألانين, أرجينين, حمض الأسبارتيك, كحول بنزيلي, جلايسين, هيستيدين, بروتين الحليب المتحلل, آيزوليوسين, حمض البيروغلوتاميك (PCA), فينوكسي إيثانول, فينيل ألانين, سوربات البوتاسيوم, برولين, سيرين, لاكتات الصوديوم, بيروغلوتامات الصوديوم (Sodium PCA), ثريونين, توكوفيرول (فيتامين E النقي), فالين, حمض الستريك, نترات المغنيسيوم, ميثيل إيزوثيازولينون (MI), كلوريد المغنيسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772449493/hnqz3cmxtj9di99xaztb.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 580,
-      "max": 600,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "شعر جاف",
-      "شعر متضرر",
-      "شعر مصبوغ"
-    ]
+    "price": null,
+    "targetTypes": []
   },
   {
     "id": "DZ-XXX-MAR-001",
@@ -5318,18 +5279,9 @@
     "quantity": "null",
     "ingredients": "ماء, بروبيلين غليكول, النياسيناميد (فيتامين B3), حمض الهيالورونيك, الجلسرين, توكوفيرول (فيتامين E النقي), حمض الساليسيليك, رباعي الصوديوم EDTA, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772293874/h6wumqefyder51tuwryo.jpg",
-    "marketingClaims": [
-      "توحيد لون البشرة"
-    ],
-    "price": {
-      "min": 1000,
-      "max": 1000,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "بشرة مختلطة",
-      "بشرة دهنية"
-    ]
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
   },
   {
     "id": "DZ-BWA-UNK-002",
@@ -5434,16 +5386,8 @@
     "quantity": "null",
     "ingredients": "ماء, كاربومير, ثلاثي إيثانولامين (TEA), سوربيتول, بروبيلين غليكول, مستخلص الألوفيرا, PEG-7 جليسيريل كوكوات, بانثينول (بروفيتامين B5), زيت الخروع المهدرج PEG-40, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772054590/lepjay9ahl142564or0n.jpg",
-    "marketingClaims": [
-      "مرطب للبشرة",
-      "للبشرة الحساسة",
-      "مهدئ"
-    ],
-    "price": {
-      "min": 400,
-      "max": 400,
-      "currency": "DZD"
-    },
+    "marketingClaims": [],
+    "price": null,
     "targetTypes": []
   },
   {
@@ -5460,11 +5404,7 @@
     "ingredients": "ماء, الجلسرين, كحول السيتريل, بارافين سائل (زيت معدني), زبدة الشيا, شمع النحل, بنزوات البوتاسيوم, بانثينول (بروفيتامين B5), عطر",
     "image": "https://genie-flowers.com/wp-content/uploads/2024/12/Valeria-Glyceri-1x1-Clear.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 200,
-      "max": 200,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -5522,21 +5462,9 @@
     "quantity": "null",
     "ingredients": "ماء, إيثيل هكسيل ميثوكسي سينامات (أوكتينوكسات), إيثانول, سيكلوميثيكون, بولي جليسريل-4 لوريت, الجلسرين, بروبيلين غليكول, بنزوفينون-3 (أوكسي بنزون), أوكتيسالات, CI 77891 (ثاني أكسيد التيتانيوم), بارافين سائل (زيت معدني), كحول سيتوستيريل, صمغ الزانثان, ثلاثي إيثانولامين (TEA), بروبيل بارابين, ميثيل بارابين, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772445898/ie3fkhsqa9dnilxihxnx.jpg",
-    "marketingClaims": [
-      "حماية من الشمس",
-      "حماية واسعة الطيف",
-      "مقاوم للماء"
-    ],
-    "price": {
-      "min": 650,
-      "max": 650,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "بشرة دهنية",
-      "بشرة عادية",
-      "بشرة مختلطة"
-    ]
+    "marketingClaims": [],
+    "price": null,
+    "targetTypes": []
   },
   {
     "id": "DZ-XXX-PHA-001",
@@ -6246,11 +6174,7 @@
     "ingredients": "ماء, النياسيناميد (فيتامين B3), زنك PCA, حمض الهيالورونيك, كوبر PCA (النحاس الأزرق), صمغ البيوسكاريد-1, الجلسرين, حمض الليفولينيك, ليفولينات الصوديوم, كابريلات الجليسريل, أنيسات الصوديوم, هيدروكسيد الصوديوم, رباعي صوديوم جلوتامات ثنائي الأسيتات",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768860019/j0fnszvambwwgtqj3ag7.jpg",
     "marketingClaims": [],
-    "price": {
-      "min": 3500,
-      "max": 3500,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -6314,11 +6238,7 @@
       "تنظيف عميق",
       "توازن الحموضة"
     ],
-    "price": {
-      "min": 1200,
-      "max": 1200,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": []
   },
   {
@@ -6358,7 +6278,6 @@
     "marketingClaims": [],
     "price": null,
     "targetTypes": [
-      "بشرة مختلطة",
       "بشرة جافة"
     ]
   },
@@ -6651,17 +6570,13 @@
     "quantity": "100ml",
     "ingredients": "ماء, هيبتيل أنديسيلينات, كحول السيتيل, كحول السيتريل, زيت اللوز الحلو, مسحوق عصير أوراق الألوفيرا, عطر, زيت فول الصويا, توكوفيرول (فيتامين E النقي), كحول بنزيلي, هيدروكسيد البوتاسيوم (في الصابون السائل), حمض الستريك, حمض ديهيدروأسيتيك, سوربات البوتاسيوم, بنزوات الصوديوم, لينالول, ليمونين, سيترال, جيرانيول, سيترونيلول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772138414/ih9rtfmd5azp8zpbtbca.jpg",
-    "marketingClaims": [
-      "مرطب للبشرة"
-    ],
+    "marketingClaims": [],
     "price": {
       "min": 850,
       "max": 850,
       "currency": "DZD"
     },
-    "targetTypes": [
-      "بشرة مختلطة"
-    ]
+    "targetTypes": []
   },
   {
     "id": "KR-CLE-INN-002",
@@ -6850,7 +6765,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "150ml",
+    "quantity": "null",
     "ingredients": "ماء, الجلسرين, الفازلين (بترولاتوم), زيت البارافين (زيت معدني), غليسيريل مونوستيرات (GMS), دايميثيكون, أكريلات/سي 10-30 ألكيل أكريلات كروس بوليمر, إيميدازوليدينيل يوريا",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772133983/lfyxz6u4w7edxxbcnihu.jpg",
     "marketingClaims": [
@@ -9201,7 +9116,7 @@
     "targetTypes": [
       "oily_hair",
       "dry_hair",
-      "damaged_hair",
+      "شعر متضرر",
       "colored_hair"
     ],
     "marketingClaims": [
@@ -9261,7 +9176,39 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "damaged_hair",
+      "شعر متضرر",
+      "فروة حساسة",
+      "شعر جاف"
+    ],
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "ترطيب مكثف",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تقوية الشعر",
+      "مرطب للشعر"
+    ]
+  },
+  {
+    "id": "DZ-HMA-MIS-001",
+    "brand": "Miss Claire",
+    "name": "Hair Mayonnaise",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1774557595/rxiahsd1kz1wpnrhvnas.jpg",
+    "ingredients": "Water (Aqua)\n​Glycerin\n​Olea Europaea Fruit Oil (Olive Oil)\n​Petrolatum\n​Paraffinum Liquidum (Mineral Oil)\n​Cetearyl Alcohol\n​Cocos Nucifera Oil (Coconut Oil)\n​Butyrospermum Parkii Butter (Shea Butter)\n​Cetrimonium Chloride (Conditioning agent/Anti-static)\n​Guar Hydroxypropyltrimonium Chloride (Conditioning agent/Thickener)\n​Fragrance\n​Conservateur (Preservative)\n​CI 15985 (Yellow 6 dye)\n​CI 45430 (Red 3 dye)",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "Hair Mask",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "500 g",
+    "price": {
+      "min": 800,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر متضرر",
       "فروة حساسة",
       "شعر جاف"
     ],
@@ -9407,7 +9354,7 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "damaged_hair"
+      "شعر متضرر"
     ],
     "marketingClaims": [
       "تكثيف الشعر"
@@ -9585,7 +9532,7 @@
       "max": null
     },
     "targetTypes": [
-      "damaged_hair"
+      "شعر متضرر"
     ],
     "marketingClaims": [
       "تغذية الشعر",
@@ -9702,7 +9649,7 @@
     },
     "targetTypes": [
       "dry_hair",
-      "damaged_hair"
+      "شعر متضرر"
     ],
     "marketingClaims": [
       "تعزيز النمو",
@@ -47059,9 +47006,38 @@
     ]
   },
   {
+    "id": "DZ-SHA-MIS-007",
+    "brand": "Miss Claire",
+    "name": "Shampooing Hair Mayonnaise",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "500 ml",
+    "ingredients": "AQUA, GLYCERIN, PARAFFINUM LIQUIDUM, DISTEARYLDIMONIUM CHLORIDE, POLYQUATERNIUM-32, LANOLIN OIL, BEHENTRIMONIUM METHOSULFATE, OLIVE OIL, CETYL ALCOHOL, SMDM HYDANTOIN, CETEARYL ALCOHOL, PHENYL TRIMETHICONE, PARFUM, DEMITHICONE PEG-8 LAURATE, ORIGANO OIL",
+    "image": "https://hiind.net/media/catalog/product/cache/0db5f8b4f6c37c4f6bd4a645d2777464/w/h/whatsapp_image_2026-05-24_at_3.01.24_pm.jpeg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تقوية الشعر",
+      "تلميع ولمعان",
+      "تنعيم الشعر"
+    ],
+    "price": {
+      "min": 550,
+      "max": 500,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
     "id": "DZ-HMA-MIS-001",
     "brand": "Miss Claire",
-    "name": "Hair Mayonnaise",
+    "name": "Hair Mayonnaise Mask",
     "country": "Algeria",
     "category": {
       "id": "hair_mask",
@@ -52485,7 +52461,7 @@
       "بشرة جافة"
     ]
   },
-  {
+    {
     "id": "KR-SSE-PUR-001",
     "brand": "Purito Seoul",
     "name": "Bakuchiol Timeless Bloom Revitalizing Serum",
@@ -53691,7 +53667,7 @@
       "بشرة مختلطة"
     ]
   },
-  {
+    {
     "id": "FR-LOT-DER-001",
     "brand": "Dermagor",
     "name": "Atopicalm Nourishing Body Cream",
@@ -53986,7 +53962,7 @@
       "بشرة مختلطة"
     ]
   },
-  {
+    {
     "id": "OT-LOT-PRI-001",
     "brand": "PS... (PRIMAK)",
     "name": "Vitamin E And Jojoba Oil Nourishing Lip Balm",
@@ -54873,7 +54849,7 @@
       "بشرة مختلطة"
     ]
   },
-  {
+    {
     "id": "SW-SSE-BIO-001",
     "brand": "Bionnex",
     "name": "Retinol 1% Serum",
@@ -55210,7 +55186,7 @@
       "بشرة مختلطة"
     ]
   },
-  {
+    {
     "id": "UK-SHA-SUN-001",
     "brand": "Sunsilk",
     "name": "Nourishing Soft & Smooth Shampoo",
@@ -55910,7 +55886,7 @@
     "price": null,
     "targetTypes": []
   },
-  {
+   {
     "id": "TR-SUN-BIO-001",
     "brand": "Bioxcin",
     "name": "Sun Care Melatone SPF50+ Tinted",
@@ -56382,29 +56358,6 @@
     "price": null,
     "targetTypes": [
       "بشرة دهنية"
-    ]
-  },
-  {
-    "id": "DZ-LOT-SYM-001",
-    "brand": "Symbiose",
-    "name": "BIAFIDERM",
-    "image": "https://kadisse.com/wp-content/uploads/2021/03/biafiderm1b.jpg",
-    "ingredients": "Distearyl Ethylene Glycol, Citric Acid, Cetyl Palmitate, Solid Paraffin, Liquid Paraffin, Persea Gratissima (Avocado) Oil, Trolamine, Propylene Glycol, Potassium Sorbate, Sodium Methylparaben, Sodium Propylparaben, Aqua",
-    "country": "Algeria",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "50 g",
-    "price": {
-      "currency": "DZD",
-      "max": null,
-      "min": 245
-    },
-    "targetTypes": [],
-    "marketingClaims": [
-      "توحيد لون البشرة"
     ]
   }
 ]
