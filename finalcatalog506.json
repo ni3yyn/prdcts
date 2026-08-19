@@ -56862,5 +56862,107 @@
       "بشرة جافة",
       "بشرة عادية"
     ]
+  },
+    {
+    "id": "DZ-TON-BIO-001",
+    "brand": "Biotanys",
+    "name": "Toner à la Niacinamide",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "MENTHA PIPERITA WATER, LAVANDULA ANGUSTIFOLIA WATER, NIACINAMIDE, GLYCERIN, BENZYL ALCOHOL, DEHYDROACETIC ACID, AQUA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072944/algerian_cosmetics/biotanys_toner_%C3%A0_la_niacinamide_200_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تنقية المسام",
+      "توازن الدهون والزيوت",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-TON-BIO-002",
+    "brand": "Biotanys",
+    "name": "Eau Micellaire de Rose",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "ROSA DAMASCENA FLOWER WATER, GLYCERIN, COCO GLUCOSIDE, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072947/algerian_cosmetics/biotanys_eau_micellaire_de_rose_200_ml.webp",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-BIO-001",
+    "brand": "Biotanys",
+    "name": "Sérum Visage à la Vitamine C",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "CYMBOPOGON CITRATUS WATER, ROSA DAMASCENA FLOWER WATER, GLYCERIN, ASCORBIC ACID, BENZYL ALCOHOL, DEHYDROACETIC ACID, AQUA, HYALURONIC ACID, XANTHAN GUM, SODIUM HYDROXIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072949/algerian_cosmetics/biotanys_s%C3%A9rum_visage_%C3%A0_la_vitamine_c_30_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-BIO-001",
+    "brand": "Biotanys",
+    "name": "Gel Nettoyant Visage à l'Huile Essentielle d'Arbre à Thé",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200 ml",
+    "ingredients": "CYMBOPOGON CITRATUS WATER, COCO GLUCOSIDE, COCAMIDOPROPYL BETAINE, ALOE BARBADENSIS EXTRACT, GLYCERIN, XANTHAN GUM, CITRIC ACID, SODIUM BENZOATE, MELALEUCA ALTERNIFOLIA LEAF OIL, LAVANDULA ANGUSTIFOLIA OIL, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072951/algerian_cosmetics/biotanys_gel_nettoyant_visage_%C3%A0_lhuile_essentielle_darbre_%C3%A0_.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
   }
 ]
