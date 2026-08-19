@@ -56847,7 +56847,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "500 ml",
-    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 61570",
+    "ingredients": "EAU, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 61570",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072924/algerian_cosmetics/pharmamil_lotion_corporelle_pure_and_soft_vitamine_e_500_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -57081,9 +57081,9 @@
     "name": "Huile Non Grasse - Soin Thalasso",
     "country": "Algeria",
     "category": {
-      "id": "oil_blend",
-      "label": "زيت (شعر/بشرة)",
-      "icon": "leaf"
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
     },
     "quantity": null,
     "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, DIMETHICONOL, HELIANTHUS ANNUUS SEED OIL, ARGANIA SPINOSA KERNEL OIL, DAUCUS CAROTA SATIVA ROOT EXTRACT, DAUCUS CAROTA SATIVA SEED OIL, BETA-CAROTENE, ASCORBYL PALMITATE, PARFUM, LINALOOL, HEXYL CINNAMAL",
@@ -57096,5 +57096,145 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+   {
+    "id": "DZ-LOT-MAN-001",
+    "brand": "Maneva",
+    "name": "Lait Corporel Bombshell",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETEARETH-20, STEARIC ACIDE, SWEET ALMOND OIL, ISOPROPYL MYRISTATE, GLYCERIN, PERFUME, SODIUM BENZOATE, POTASSIUM SORBATE, VITAMINE E, VITAMINE B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072964/algerian_cosmetics/maneva_lait_corporel_bombshell_200_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-TON-MAN-001",
+    "brand": "Maneva",
+    "name": "Brume Parfumée Diamond Corps & Cheveux",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, ALCOHOL (ETHANOL), PARFUM/FRAGRANCE, PEG-40 HYDROGENATED, PEG/PPG, VITAMINE E",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072966/algerian_cosmetics/maneva_brume_parfum%C3%A9e_diamond_corps_cheveux_250_ml.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-MAN-002",
+    "brand": "Maneva",
+    "name": "Creme Hydratante pour Visage à la Centella Asiatica",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50ml",
+    "ingredients": "EAU, STEARIQUE ACIDE, GLYCOL DISTEARATE, ALCOOL STEARYLIQUE, BEURRE DE KARITE, LAURYL GLUCOSIDE, POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE, GLYCERIN, SODIUM POLYACRYLATE, COCO-CAPRYLATE, ISOPROPYL MYRISTATE, VITAMINE B5, VITAMINE E, DICAPRYLYL CARBONATE, HUILE D'ARGAN, CENTELLA ASIATICA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072968/algerian_cosmetics/maneva_creme_hydratante_pour_visage_%C3%A0_la_centella_asiatica_5.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-MAN-001",
+    "brand": "Maneva",
+    "name": "Huile nettoyante Madagascar Centella",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, DECYL GLUCOSIDE, PEG-7 GLYCERYL COCOATE, PEG/PPG, ISOPROPYL MYRISTATE, HYDROGENATED CASTOR OIL, COCO-BETAINE, ALLANTOIN, PROPYLENE GLYCOL, CITRIC ACID, PANTHENOL, PHENOXYETHANOL, CENTELLA ASIATICA EXTRACT, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072970/algerian_cosmetics/maneva_huile_nettoyante_madagascar_centella_200_ml.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تنقية المسام",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-MAN-001",
+    "brand": "Maneva",
+    "name": "Madagascar Centella Sérum",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "EAU, GOMME XANTHANE, CARBOXY METHYL CELLULOSE, HYALURONIC ACID, CENTELLA ASIATICA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072972/algerian_cosmetics/maneva_madagascar_centella_s%C3%A9rum_30_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-CON-MAN-001",
+    "brand": "Maneva",
+    "name": "Après Shampoing Lisse Extreme Kératine & Argan",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, STEARIC ACID, COCO-BETAINE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CI 77891, HYDROLYZED KERATIN, ARGANIA SPINOSA KERNEL OIL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072974/algerian_cosmetics/maneva_apr%C3%A8s_shampoing_lisse_extreme_k%C3%A9ratine_argan_400_ml.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف",
+      "شعر مجعد"
+    ]
   }
 ]
