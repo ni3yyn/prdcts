@@ -57236,5 +57236,525 @@
       "شعر جاف",
       "شعر مجعد"
     ]
+  },
+   {
+    "id": "DZ-CLE-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Intimate Gel",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, CAPRYLYL/CAPRYL GLUCOSIDE, LACTIC ACID, XANTHAN GUM, LAVANDULA ANGUSTIFOLIA OIL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072986/algerian_cosmetics/niall_cosm%C3%A9tique_intimate_gel_150_ml.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الحموضة",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-TON-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Lotion Tonique l'Eau de Rose",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "260ml",
+    "ingredients": "ROSA DAMASCENA FLOWER WATER, POLYQUATERNIUM-7, PROPYLENE GLYCOL, CITRIC ACID, SODIUM CHLORIDE, DISODIUM EDTA, SODIUM BENZOATE, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072988/algerian_cosmetics/niall_cosm%C3%A9tique_lotion_tonique_leau_de_rose_260_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مهدئ",
+      "قابض للمسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-NIA-002",
+    "brand": "Niall Cosmétique",
+    "name": "Facial Toner Milky Skin Booster",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "110ml",
+    "ingredients": "AQUA, GLYCERIN, PRUNUS ARMENIACA KERNEL OIL, ALLANTOIN, CETEARYL ALCOHOL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072990/algerian_cosmetics/niall_cosm%C3%A9tique_facial_toner_milky_skin_booster_110_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "تفتيح البشرة",
+      "شد البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-NIA-002",
+    "brand": "Niall Cosmétique",
+    "name": "Gel Nettoyant Concombre",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "260ml",
+    "ingredients": "AQUA, SODIUM COCO-GLUCOSIDE TARTRATE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, COCAMIDOPROPYL BETAINE, COCO-CAPRYLATE, CITRIC ACID, SODIUM CHLORIDE, CUCUMIS SATIVUS FRUIT EXTRACT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072992/algerian_cosmetics/niall_cosm%C3%A9tique_gel_nettoyant_concombre_260_ml.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-TON-NIA-003",
+    "brand": "Niall Cosmétique",
+    "name": "تونر للوجه بفيتامين سي",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "260ml",
+    "ingredients": "AQUA, GLYCERIN, ASCORBIC ACID, CITRIC ACID, PARFUM, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072993/algerian_cosmetics/niall_cosm%C3%A9tique_%D8%AA%D9%88%D9%86%D8%B1_%D9%84%D9%84%D9%88%D8%AC%D9%87_%D8%A8%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86_%D8%B3%D9%8A_260_%D9%85%D9%84.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Masque Purifiant Visage à Base d'Argile Blanche",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, KAOLIN, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, CETEARETH-20, BUTYROSPERMUM PARKII (SHEA) BUTTER, PHENOXYETHANOL, PROPYLENE GLYCOL, SORBITOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072995/algerian_cosmetics/niall_cosm%C3%A9tique_masque_purifiant_visage_%C3%A0_base_dargile_blan.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنقية عميقة",
+      "توازن الدهون والزيوت",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-NIA-002",
+    "brand": "Niall Cosmétique",
+    "name": "Masque pour Visage",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "TREATED WATER, CETYL ALCOHOL, CETEARETH-20, PHENOXYETHANOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072997/algerian_cosmetics/niall_cosm%C3%A9tique_masque_pour_visage.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-BWA-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Shower Gel Savon Dzair",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "WATER (AQUA), SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, GLYCERIN, SODIUM CHLORIDE, PARFUM, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072999/algerian_cosmetics/niall_cosm%C3%A9tique_shower_gel_savon_dzair_400_ml.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-NIA-002",
+    "brand": "Niall Cosmétique",
+    "name": "Shower Gel Moisturizing & Revitalizing Dandelions",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "800ml",
+    "ingredients": "WATER (AQUA), SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, GLYCERIN, SODIUM CHLORIDE, PARFUM, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073001/algerian_cosmetics/niall_cosm%C3%A9tique_shower_gel_moisturizing_revitalizing_dandel.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-CON-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Après-shampooing Pro sans Sulfate aux Protéines de Soie pour Cheveux Abîmés et Traités",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "1L",
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, STEARIC ACID, CETRIMONIUM CHLORIDE, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLISOTHIAZOLINONE, PANTHENOL, HYDROLYZED SILK PROTEIN, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073003/algerian_cosmetics/niall_cosm%C3%A9tique_apr%C3%A8sshampooing_pro_sans_sulfate_aux_prot%C3%A9i.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Shampooing Pro sans sulfate aux protéines de soie pour cheveux abîmés et traités",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "1L",
+    "ingredients": "AQUA, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, PEG/PPG, POLYQUATERNIUM-10, PANTHENOL, METHYLISOTHIAZOLINONE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED SILK PROTEIN, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073005/algerian_cosmetics/niall_cosm%C3%A9tique_shampooing_pro_sans_sulfate_aux_prot%C3%A9ines_d.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-NIA-002",
+    "brand": "Niall Cosmétique",
+    "name": "Après-shampooing sans sulfate cheveux colorés et traités",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "500ml",
+    "ingredients": "AQUA (WATER), CETEARYL ALCOHOL, GLYCERYL STEARATE, CETRIMONIUM CHLORIDE, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TOCOPHERYL ACETATE (VITAMIN E), POLYQUATERNIUM-59, METHYLISOTHIAZOLINONE, PANTHENOL, SODIUM BICARBONATE, PARFUM (FRAGRANCE)",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073007/algerian_cosmetics/niall_cosm%C3%A9tique_apr%C3%A8sshampooing_sans_sulfate_cheveux_color%C3%A9.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-NIA-003",
+    "brand": "Niall Cosmétique",
+    "name": "Après-shampooing familial à l'huile de ricin pour tous types de cheveux",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "1L",
+    "ingredients": "AQUA, CETYL ALCOHOL, STEARETH-20, CETRIMONIUM CHLORIDE, DICAPRYLYL CARBONATE, POLYQUATERNIUM-10, TOCOPHEROL, PANTHENOL, METHYLISOTHIAZOLINONE, CITRIC ACID, PRUNUS AMYGDALUS DULCIS OIL, RICINUS COMMUNIS SEED OIL, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073009/algerian_cosmetics/niall_cosm%C3%A9tique_apr%C3%A8sshampooing_familial_%C3%A0_lhuile_de_ricin_.jpg",
+    "marketingClaims": [
+      "تعزيز النمو",
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SUN-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Sun Protection Cream SPF 50+",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "DISTILLED WATER, CETYL ALCOHOL, CETEARETH-20, MICA, TITANIUM DIOXIDE, SILICA, COCOS NUCIFERA OIL, COCOS NUCIFERA BUTTER, GLYCERYL STEARATE, ZINC OXIDE, ETHYLHEXYL TRIAZONE, DISODIUM EDTA, GLYCERIN, PHENOXYETHANOL, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073011/algerian_cosmetics/niall_cosm%C3%A9tique_sun_protection_cream_spf_50_50_ml.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-CLE-NIA-003",
+    "brand": "Niall Cosmétique",
+    "name": "جل منظف سكين بوستر ميلكي",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, PROPANEDIOL, GLYCERIN, SODIUM METHYL COCOYL TAURATE, COCO-GLUCOSIDE, BETAINE, COCO-CAPRYLATE, PHENOXYETHANOL, ALLANTOIN, SODIUM CHLORIDE, POLYQUATERNIUM-7, PANTHENOL, COCAMIDE DEA, DISODIUM EDTA, BUTYLENE GLYCOL, COLLAGEN, HYALURONIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073013/algerian_cosmetics/niall_cosm%C3%A9tique_%D8%AC%D9%84_%D9%85%D9%86%D8%B8%D9%81_%D8%B3%D9%83%D9%8A%D9%86_%D8%A8%D9%88%D8%B3%D8%AA%D8%B1_%D9%85%D9%8A%D9%84%D9%83%D9%8A_250_%D9%85%D9%84.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "شد البشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SSE-NIA-001",
+    "brand": "Niall Cosmétique",
+    "name": "Sérum au Curcuma",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "110ml",
+    "ingredients": "TREATED WATER, DISODIUM EDTA, CURCUMA LONGA ROOT POWDER, SODIUM POLYACRYLATE, PANTHENOL, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073015/algerian_cosmetics/niall_cosm%C3%A9tique_s%C3%A9rum_au_curcuma_110_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-SHA-NIA-002",
+    "brand": "Niall Cosmétique",
+    "name": "Shampooing Sans Sulfate Cheveux Colorés et Traités",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "300ml",
+    "ingredients": "AQUA (WATER), DISODIUM 2-SULFOLAURATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, PEG/PPG, POLYQUATERNIUM-10, PANTHENOL, SALICYLIC ACID, METHYLISOTHIAZOLINONE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-59, HYDROLYZED SILK PROTEIN, PROPYLENE GLYCOL, COCAMIDE DEA, TOCOPHERYL ACETATE (VITAMIN E), PARFUM (FRAGRANCE)",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073017/algerian_cosmetics/niall_cosm%C3%A9tique_shampooing_sans_sulfate_cheveux_color%C3%A9s_et_.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-NIA-004",
+    "brand": "Niall Cosmétique",
+    "name": "Lumacara Salicylic Acid & Snail Mucin Cleansing Gel",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, PROPANEDIOL, GLYCERIN, SODIUM METHYL COCOYL TAURATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, SALICYLIC ACID, ZINC OXIDE, BETAINE, PHENOXYETHANOL, ALLANTOIN, SODIUM CHLORIDE, DISODIUM EDTA, PEG-7 GLYCERYL COCOATE, PEG/PPG, TOCOPHEROL, POLYQUATERNIUM-7, SNAIL SECRETION FILTRATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073018/algerian_cosmetics/niall_cosm%C3%A9tique_lumacara_salicylic_acid_snail_mucin_cleansi.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تنظيف عميق",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-TON-NIA-004",
+    "brand": "Niall Cosmétique",
+    "name": "Brume Parfumée Intime & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, PARFUM, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073020/algerian_cosmetics/niall_cosm%C3%A9tique_brume_parfum%C3%A9e_intime_corps_150_ml.jpg",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-NIA-003",
+    "brand": "Niall Cosmétique",
+    "name": "Shower Gel Musc Just Oud Retinol",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, GLYCERIN, SODIUM CHLORIDE, FRAGRANCE, RETINOL, CHLOROMETHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073022/algerian_cosmetics/niall_cosm%C3%A9tique_shower_gel_musc_just_oud_retinol_400_ml.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "شد الجسم",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-NIA-003",
+    "brand": "Niall Cosmétique",
+    "name": "Masque Purifiant Visage à Base d'Argile Blanche - Peaux Sèches et Sensibles",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, KAOLIN, ALOE BARBADENSIS LEAF JUICE, CETEARYL ALCOHOL, CETEARETH-20, BUTYROSPERMUM PARKII BUTTER, PHENOXYETHANOL, PROPYLENE GLYCOL, SORBITOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073024/algerian_cosmetics/niall_cosm%C3%A9tique_masque_purifiant_visage_%C3%A0_base_dargile_blan.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تهدئة البشرة",
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
   }
 ]
