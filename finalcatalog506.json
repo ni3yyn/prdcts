@@ -928,7 +928,12 @@
     "quantity": "90 ml",
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, DIMETHICONE, SODIUM CHLORIDE, COCO-BETAINE, GLYCOL DISTEARATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDE MIPA, SODIUM BENZOATE, HYDROXYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN, SODIUM COCOATE, SODIUM HYDROXIDE, ARGININE, SALICYLIC ACID, LIMONENE, LINALOOL, 2-OLEAMIDO-1, 3-OCTADECANEDIOL, CARBOMER, METHYL COCOATE, CITRIC ACID, HEXYLENE GLYCOL, HEXYL CINNAMAL, GLYCERYL LINOLEATE, GLYCERYL OLEATE, GLYCERYL LINOLENATE, PARFUM",
     "image": "https://images.openbeautyfacts.org/images/products/361/034/001/0248/front_fr.5.400.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تكثيف الشعر",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تلميع ولمعان"
+    ],
     "price": null,
     "targetTypes": []
   },
@@ -4823,16 +4828,22 @@
       "label": "مقشر / سكراب",
       "icon": "cookie"
     },
-    "quantity": "null",
+    "quantity": "50ml",
     "ingredients": "ماء, كحول السيتريل, الجلسرين, سيترات الصوديوم, كحول السيتيل, حجر الخفاف, زبدة الشيا, دايميثيكون, إيميدازوليدينيل يوريا, عطر, سيليكا, حمض الستريك, كلوريد المغنيسيوم, كومارين",
     "image": "https://adibabeauty.com/cdn/shop/files/20962AAD-A475-4370-BED8-3E30E13AEADE.png?v=1713690040&width=1200",
     "marketingClaims": [],
     "price": {
-      "min": 600,
+      "min": 500,
       "max": 600,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب",
+      ""
+    ]
   },
   {
     "id": "OT-XXX-KAR-001",
@@ -5146,7 +5157,12 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, الجلسرين, غليسيريل مونوستيرات (GMS), ميريستات الأيزوبروبيل, بروبيلين غليكول, amodimethicone, سيكلوبنتاسيلوكسان (D5), ميثوسلفات البيهينتريمونيوم (BTMS), كحول السيتيل, بولي كواتيرنيوم-37, كلوريد سيتريمونيوم, ثنائي ميثيكونول, عطر, بيوتيلين جلايكول, ترايديسيث-12, بنزوات الصوديوم, ألانين, أرجينين, حمض الأسبارتيك, كحول بنزيلي, جلايسين, هيستيدين, بروتين الحليب المتحلل, آيزوليوسين, حمض البيروغلوتاميك (PCA), فينوكسي إيثانول, فينيل ألانين, سوربات البوتاسيوم, برولين, سيرين, لاكتات الصوديوم, بيروغلوتامات الصوديوم (Sodium PCA), ثريونين, توكوفيرول (فيتامين E النقي), فالين, حمض الستريك, نترات المغنيسيوم, ميثيل إيزوثيازولينون (MI), كلوريد المغنيسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772449493/hnqz3cmxtj9di99xaztb.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "إصلاح التلف",
+      "مرطب للشعر",
+      "ترطيب مكثف"
+    ],
     "price": null,
     "targetTypes": []
   },
@@ -6832,7 +6848,7 @@
     "ingredients": "Aqua, Paraffinum Liquidum, PEELMOIST™ (Aqua, Glycerin, Maltodextrin, Calcium Pantothenate, Xanthan Gum, Caprylyl Glycol, Urea, Alanine, Proline, Serine, Magnesium Lactate, Potassium Lactate, Magnesium Chloride, Sodium Citrate, Papain, Tocopherol, Ethylhexylglycerin), Glycerin, Propylene Glycol, Butyrospermum Parkii (SHEA) Butter, Niacinamide, Cetyl Alcohol, Glyceryl Stearate, Cocos Nucifera (COCONUT) Oil, Linseed Oil/Palm Oil Amino Propanediol Esters, Cotton Seed Oil/Palm Oil Amino Propanediol Esters, Stearic Acid, Phenoxyethanol, Honey, Chamomilla Recutita Extract, Triethanolamine, Panthenol, Dimethicone, Tocopheryl Acetate, Ceramide AP, Menthol, Mentha Piperita Oil. Fragrance Free / Sans Parfum.",
     "country": "Egypt",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -6849,7 +6865,7 @@
     "ingredients": "Aqua, Propylene Glycol, Glycerin, PEELMOIST™ (Aqua, Glycerin, Maltodextrin, Calcium Pantothenate, Xanthan Gum, Caprylyl Glycol, Urea, Alanine, Proline, Serine, Magnesium Lactate, Potassium Lactate, Magnesium Chloride, Sodium Citrate, Papain, Tocopherol, Ethylhexylglycerin), Triethanolamine, Sodium Hyaluronate, Polysorbate 20,",
     "country": "Egypt",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -6883,7 +6899,7 @@
     "ingredients": "AQUA, GLYCERYL STEARATE, STEARIC ACID, CETYL ALCOHOL, OLEA EUROPAEA FRUIT OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCOS NUCIFERA (COCONUT) OIL, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, VITIS VINIFERA (GRAPE) SEED OIL, ARNICA MONTANA FLOWER EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, ALOE BARBADENSIS LEAF EXTRACT, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, CAMELLIA SINENSIS LEAF EXTRACT, PANTHENOL, NIACINAMIDE, GLYCERIN, PSEUDOALTEROMONAS FERMENT EXTRACT, XANTHAN GUM, ALANINE, PROLINE, SERINE, SODIUM PHOSPHATE, SODIUM HYDROXIDE, TOCOPHEROL, CAPRYLYL GLYCOL, POLYACRYLAMIDE, C14-13 ISOPARAFFIN, C11-9 PARETH-6, ALLANTOIN, TOCOPHERYL ACETATE, PHENOXYETHANOL, ETHYLHEXYL GLYCERIN, SODIUM BENZOATE, TRIETHANOLAMINE.",
     "country": "Egypt",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -6900,7 +6916,7 @@
     "ingredients": "AQUA,NIACINAMIDE, PSEUDOALTEROMONAS FERMENT EXTRACT, SALICYLIC ACID, COCAMIDOPROPYL DIMETHYLAMINE, TAZAROTENE, BISABOLOL, ALLANTOIN, PROPOLIS EXTRACT, ALOE BARBADENSIS LEAF EXTRACT , PANTHENOL, GLUCONOLACTONE , GLYCERIN, HONEY, PROPYLENE GLYCOL, CETYL ALCOHOL, STEARIC ACID, GLYCERYL STEARATE, PEG - GLYCERYL COCOATE , TRIETHANOLAMINE, GLYCOLIC ACID, LYSINE AZELATE, TOCOPHERYL ACETATE, XANTHAN GUM, POLYACRYLAMIDE, ISOPARAFFIN , PARETH , PHENOXYETHANOL, ETHYLHEXYL GLYCERIN , SODIUM BENZOATE",
     "country": "Egypt",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7146,7 +7162,7 @@
     "ingredients": "AQUA, CETYL ALCOHOL, STEARIC ACID, GLYCERYL STEARATE, KOJIC ACID, ALPHA-ARBUTIN, NIACINAMIDE, MAGNESIUM ASCORBYL PHOSPHATE, PHOSPHATIDYLCHOLINE, DIMETHYLMETHOXY CHROMANYL PALMITATE, TRANEXAMIC ACID, PANTHENOL, PROPOLIS EXTRACT, BISABOLOL, ALLANTOIN, HONEY, GLYCERIN, PROPYLENE GLYCOL,\nTITANIUM DIOXIDE , TOCOPHERYL ACETATE, XANTHAN GUM, TRIETHANOLAMINE, PHENOXYETHANOL, ETHYLHEXYL GLYCERIN.",
     "country": "Egypt",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7163,7 +7179,7 @@
     "ingredients": "AQUA, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, PANTHENOL, ALLANTOIN, SODIUM HYALURONATE, PROPOLIS EXTRACT, HONEY, PROPYLENE GLYCOL, PARAFFINUM LIQUIDUM, TRIFOLIUM PRATENSE (CLOVER) FLOWER EXTRACT, ALUMINUM STARCH OCTENYLSUCCINATE, CETYL ALCOHOL, GLYCERYL STEARATE, STEARIC ACID, TITANIUM DIOXIDE, CITRIC ACID, TOCOPHERYL ACETATE, POLYACRYLAMIDE- C13-14 ISOPARAFFIN- C9-11 PARETH-6, PSEUDOALTEROMONAS FERMENT EXTRACT, GLYCERIN, PHENOXYETHANOL, ETHYLHEXYL GLYCERIN, SODIUM BENZOATE.",
     "country": "Egypt",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7689,7 +7705,7 @@
     "ingredients": "Aqua, Paraffinum Liquidum, Decyl Oleate, Sorbitol, Polyglyceryl-2 Dipolhydroxystearate, Polyglyceryl-3 Diisostearate, Cera Alba, Silica Dimethyl Silyate, Magnesium Sulfate, Soluble collagen, Phenoxyethanol (and) Methyl Ethyl Propyl Butyl Isobutyl Parabens, Methylchloroisothiazolinone (and) Methylisothiazolinone, Parfum, Colorant.",
     "country": "Algeria",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7710,7 +7726,7 @@
     "ingredients": "Aqua, Isopropyle Palmitate, Propylene Glycol, Paraffinum Liquidum, PEG-6 Stearate, Glycerin, Dimethicone, Cetearyl Alcohol, Allantoin, pesea gratissima oil, Tocopheryl Acetate, steareth-20, Carbomer, Ceteth-20, parfum, Triethanolamine, Sodium EDTA, Methylchloroisothiazolinone (and) Methylisothiazolinone, phenoxyethanol (and) methylparaben (and) ethylparaben (and) butylparaben (and) propylparaben (and) isobutylparaben(and) isobutylparaben .",
     "country": "Algeria",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7731,7 +7747,7 @@
     "ingredients": "Aqua, Hydrogenated Polydecene, Hydrogenated Polyisobutene, Methyl Methacrylate Crosspolymer,Undecane, Niacinamide, Glycerin, Tridecane, Polyacrylate Crosspolymer-6,Alcohol Denat ,C14-22 Alcohols, Gluconolactone, Octyldodecanol, Glyceryl  Stearate, PEG-100 Stearate,Tocopheryl  Acetate, Propanediol, Acacia Senegal Gum, Sodium Benzoate, Xanthan Gum, Salicylic Acid,C12-20 Alkyl Glucoside, Ethyl Linoleate, Octyldodecyl  Xyloside, PEG-30 Dipolyhydroxystearate, Sodium Hydroxide Parfum, Alcohol, Copper PCA, Iris Florentina Root Extract, Retinyl Palmitate, Zinc Sulfate, Tocopherol, Xylose, Helianthus Annuus (Sunflower) Seed Oil",
     "country": "Algeria",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7748,7 +7764,7 @@
     "ingredients": "AQUA / WATER, CI 77891 / TITANIUM DIOXIDE, CAPRYLYL METHICONE, GLYCERIN, ISODODECANE, PEG-10 DIMETHICONE, TRIMETHYLSILOXYSILICATE, POLYPROPYLSILSESQUIOXANE, ISONONYL ISONONANOATE, CI 77492 / IRON OXIDES, SODIUM CHLORIDE, PHENOXYETHANOL, MICA, PARFUM, TRIETHOXYCAPRYLY SILANE, CI 77491 / IRON OXIDES, ETHYLENE/PROPYLENE/STYRENE COPOLYMER, SORBITAN OLEATE, AVENA SATIVA (OAT) KERNEL EXTRACT, ALOE BARBADENSIS LEAF JUICE POWDER, CITRIC ACID, ALUMINA, MAGNESIUM OXIDE, BHT, HEXYL CINNAMAL, ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, HYDROXYCITRONELLAL, CITRONELLOL, BENZYL BENZOATE, COUMARIN",
     "country": "Algeria",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7765,7 +7781,7 @@
     "ingredients": "AQUA / WATER, CI 77891 / TITANIUM DIOXIDE, CAPRYLYL METHICONE, GLYCERIN, ISODODECANE, PEG-10 DIMETHICONE, TRIMETHYLSILOXYSILICATE, ISONONYL ISONONANOATE, POLYPROPYLSILSESQUIOXANE, CI 77492 / IRON OXIDES, SODIUM CHLORIDE, PHENOXYETHANOL, MICA, PARFUM, CI 77491 / IRON OXIDES, TRIETHOXYCAPRYLYLSILANE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, CI 77499 / IRON OXIDES, PANTHENOL, ETHYLENE/PROPYLENE/STYRENE COPOLYMER, SORBITAN OLEATE, DISODIUM EDTA, ETHYLHEXYLGLYCERIN AVENA SATIVA (OAT) KERNEL EXTRACT, ALOE BARBADENSIS LEAF JUICE POWDER, CITRIC ACID, ALUMINA, MAGNESIUM OXIDE, BHT, HEXYL CINNAMAL, ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, HYDROXYCITRONELLAL, CITRONELLOL, BENZYL BENZOATE, COUMARIN",
     "country": "Algeria",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8855,7 +8871,7 @@
     "ingredients": "Aqua, Glycerin, Paraffinum Liquidum (Mineral Oil), Prunus Armeniaca (Apricot) Kernel Oil, Steareth-2, Butyrospermum Parkii (Shea) Butter, Sorbitan Caprylate, Steareth-21, Hydroxypropyl Starch Phosphate, Cera Alba (Beeswax), Cetyl Alcohol, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Lactate, Allantoin, Lactic Acid, Magnesium Sulfate Heptahydrate, Manganese Sulfate Monohydrate, Reseda Luteola Extract, Arctostaphylos Uva Ursi Leaf Extract, Carum Petroselinum (Parsley) Extract, Cera Microcristallina (Microcrystalline Wax), Dimethicone, Paraffin, Phenoxyethanol, Propylene Glycol, Xanthan Gum, Cyclopentasiloxane, Cyclohexasiloxane, Potassium Sorbate, Parfum (Fragrance)",
     "country": "France",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8872,7 +8888,7 @@
     "ingredients": "Aqua, Dicaprylyl Carbonate, Glycerin, Propylene Glycol Dicaprylate, Oryza Sativa (Rice) Starch, Polyglyceryl-6 Stearate, C10-18 Triglycerides, Glyceryl Stearate, Butyl Avocadate, Potassium Cetyl Phosphate, 1,2-Hexanediol, Cetyl Alcohol, Silica, Zinc Gluconate, Hydrolyzed Chenopodium Quinoa Seed, Maltodextrin, Cera Alba (Beeswax), Cocoglycerides, Capryloyl Glycine, Tocopherol, Xanthan Gum, Glyceryl Caprylate, Cetearyl Alcohol, Cetyl Palmitate, Polyglyceryl-6 Behenate, Sodium Hydroxide, Citric Acid, Parfum (Fragrance).",
     "country": "France",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8889,7 +8905,7 @@
     "ingredients": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Niacinamide, Squalane, Glycerin, Dimethicone, Hydroxyethyl Urea, Sodium Acrylates Copolymer, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cetyl Palmitate, Xylitol, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, C10-30 Cholesterol/Lanosterol Esters, Tocopherol, Sodium Levulinate, Glyceryl Stearate, Cholesterol, PEG-100 Stearate, Lecithin, Cetearyl Glucoside, Sodium Anisate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Ammonium Lactate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Phenoxyethanol, Carbomer, Ethylhexylglycerin.",
     "country": "France",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8955,7 +8971,7 @@
     "ingredients": "Aqua, Vitis Vinifera (Grape) Seed Oil, Propanediol, Glycerin, Behenyl Alcohol, C12-13 Alkyl Lactate, Hydrogenated Coconut Acid, Propylene Glycol, Glyceryl Stearate Se, Kojic Acid, Potassium Cetyl Phosphate, Magnesium Sulfate, Manganese Sulfate, Lactic Acid, Aluminum Silicate, Ascorbyl Methylsilanol Pectinate, Niacinamide, Reseda Luteola Extract, Arctostaphylos Uva Ursi Leaf Extract, Carum Petroselinum Herb Extract, Tocopherol, Polyacrylate Crosspolymer-6, 1,2-Hexanediol, Pentylene Glycol, Coco-Caprylate/Caprate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Disodium EDTA, Methylpropanediol, O-Cymen-5-Ol, Hexamidine Diisethionate, Sodium Metabisulfite, Polysorbate 80, T-Butyl Alcohol, Sorbitan Oleate",
     "country": "Algeria",
     "category": {
-      "id":"lotion_cream",
+      "id": "lotion_cream",
       "label": "رطب ",
       "icon": "droplet"
     },
@@ -9079,7 +9095,7 @@
     "country": "Algeria",
     "category": {
       "id": "lotion_cream",
-      "label":"lotion_cream",
+      "label": "lotion_cream",
       "icon": "hand-holding-water"
     },
     "quantity": "100 ml",
@@ -56369,7 +56385,7 @@
       "بشرة دهنية"
     ]
   },
-    {
+  {
     "id": "DZ-LOT-MAR-001",
     "brand": "Maryliss",
     "name": "Makhmariya Yara",
@@ -56575,7 +56591,7 @@
     "price": null,
     "targetTypes": []
   },
-    {
+  {
     "id": "DZ-BWA-PHA-001",
     "brand": "Pharmamil",
     "name": "Bubbles Shower Passion",
@@ -56593,8 +56609,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 140.0,
-      "max": 182.0,
+      "min": 140,
+      "max": 182,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -56619,7 +56635,7 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 145.0,
+      "min": 145,
       "max": 188.5,
       "currency": "DZD"
     },
@@ -56647,8 +56663,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 600.0,
-      "max": 600.0,
+      "min": 600,
+      "max": 600,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56674,8 +56690,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 700.0,
-      "max": 1100.0,
+      "min": 700,
+      "max": 1100,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56724,8 +56740,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 600.0,
-      "max": 1050.0,
+      "min": 600,
+      "max": 1050,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56751,7 +56767,7 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 600.0,
+      "min": 600,
       "max": 658.48,
       "currency": "DZD"
     },
@@ -56778,8 +56794,8 @@
       "تنظيف عميق"
     ],
     "price": {
-      "min": 650.0,
-      "max": 1050.0,
+      "min": 650,
+      "max": 1050,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -56802,8 +56818,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 600.0,
-      "max": 600.0,
+      "min": 600,
+      "max": 600,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56830,8 +56846,8 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 1050.0,
-      "max": 1100.0,
+      "min": 1050,
+      "max": 1100,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -56854,8 +56870,8 @@
       "مضاد للأكسدة"
     ],
     "price": {
-      "min": 600.0,
-      "max": 1050.0,
+      "min": 600,
+      "max": 1050,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56863,7 +56879,7 @@
       "بشرة عادية"
     ]
   },
-    {
+  {
     "id": "DZ-TON-BIO-001",
     "brand": "Biotanys",
     "name": "Toner à la Niacinamide",
@@ -56965,7 +56981,7 @@
       "بشرة معرضة للحبوب"
     ]
   },
-    {
+  {
     "id": "DZ-SSE-BIOL-001",
     "brand": "Biolina",
     "name": "Vitac+ Sérum Éclaircissant",
@@ -57097,7 +57113,7 @@
     "price": null,
     "targetTypes": []
   },
-   {
+  {
     "id": "DZ-LOT-MAN-001",
     "brand": "Maneva",
     "name": "Lait Corporel Bombshell",
@@ -57237,7 +57253,7 @@
       "شعر مجعد"
     ]
   },
-   {
+  {
     "id": "DZ-CLE-NIA-001",
     "brand": "Niall Cosmétique",
     "name": "Intimate Gel",
