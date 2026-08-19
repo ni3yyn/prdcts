@@ -56574,5 +56574,293 @@
     ],
     "price": null,
     "targetTypes": []
+  },
+    {
+    "id": "DZ-BWA-PHA-001",
+    "brand": "Pharmamil",
+    "name": "Bubbles Shower Passion",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "400 ml",
+    "ingredients": "AQUA, SORBITOL, SODIUM LAURETH SULFATE, VITAMIN E, PHENOXYETHANOL, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072902/algerian_cosmetics/pharmamil_bubbles_shower_passion_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 140.0,
+      "max": 182.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-PHA-001",
+    "brand": "Pharmamil",
+    "name": "Tonique Exfoliant à l'Acide Glycolique 7%",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "",
+    "ingredients": "AQUA, GLYCOLIC ACID, ALOE BARBADENSIS LEAF JUICE, PANTHENOL, ALLANTOIN, GLYCERIN, TRIETHANOLAMINE, TEA, UREA, PROPYLENE GLYCOL, POLYSORBATE 20, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072905/algerian_cosmetics/pharmamil_tonique_exfoliant_%C3%A0_lacide_glycolique_7.webp",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تنقية المسام",
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 145.0,
+      "max": 188.5,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PHA-001",
+    "brand": "Pharmamil",
+    "name": "Body Lotion Vit e",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 17200",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072908/algerian_cosmetics/pharmamil_body_lotion_vit_e_250_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 600.0,
+      "max": 600.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PHA-002",
+    "brand": "Pharmamil",
+    "name": "Body Lotion Bleu Crème Hydratante Bleu",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 42051",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072910/algerian_cosmetics/pharmamil_body_lotion_bleu_cr%C3%A8me_hydratante_bleu_250_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 700.0,
+      "max": 1100.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PHA-003",
+    "brand": "Pharmamil",
+    "name": "Makhmaria al Halib Body Lotion Vit e",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500 ml",
+    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 77742",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072913/algerian_cosmetics/pharmamil_makhmaria_al_halib_body_lotion_vit_e_500_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PHA-004",
+    "brand": "Pharmamil",
+    "name": "Pure and Soft Body Lotion Vit e",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500 ml",
+    "ingredients": "AQUA, STEARIC ACID, CERA ALBA, SORBITOL, PHENOXYETHANOL, TOCOPHEROL, FRAGRANCE, CI 19140",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072915/algerian_cosmetics/pharmamil_pure_and_soft_body_lotion_vit_e_500_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 600.0,
+      "max": 1050.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PHA-005",
+    "brand": "Pharmamil",
+    "name": "Body Lotion",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "",
+    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 17200",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072917/algerian_cosmetics/pharmamil_pharmamil_body_lotion.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 600.0,
+      "max": 658.48,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SCR-PHA-001",
+    "brand": "Pharmamil",
+    "name": "Gommage Magique Hawaï Effet Crémeux et Moussant",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "350 g",
+    "ingredients": "COUCHE-1,, COUCHE 2,",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072919/algerian_cosmetics/pharmamil_gommage_magique_hawa%C3%AF_effet_cr%C3%A9meux_et_moussant_35.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق"
+    ],
+    "price": {
+      "min": 650.0,
+      "max": 1050.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-PHA-006",
+    "brand": "Pharmamil",
+    "name": "Body Lotion Vit e",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500 ml",
+    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 77492",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072921/algerian_cosmetics/pharmamil_body_lotion_vit_e_500_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 600.0,
+      "max": 600.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-EYE-PHA-001",
+    "brand": "Pharmamil",
+    "name": "Crème Réparatrice Contour des Yeux",
+    "country": "Algeria",
+    "category": {
+      "id": "eye_cream",
+      "label": "كريم للعين",
+      "icon": "eye"
+    },
+    "quantity": "16 ml",
+    "ingredients": "EAU TRAITEE, SORBITOL 2, ACIDE STEARIQUE, ALPHA ARBUTINE, VITAMINE E, CAFFEINE, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072923/algerian_cosmetics/pharmamil_cr%C3%A8me_r%C3%A9paratrice_contour_des_yeux_16_ml.jpg",
+    "marketingClaims": [
+      "تفتيح تحت العين",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة"
+    ],
+    "price": {
+      "min": 1050.0,
+      "max": 1100.0,
+      "currency": "DZD"
+    },
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-PHA-007",
+    "brand": "Pharmamil",
+    "name": "Lotion corporelle Pure and Soft Vitamine E",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "500 ml",
+    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 61570",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072924/algerian_cosmetics/pharmamil_lotion_corporelle_pure_and_soft_vitamine_e_500_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": {
+      "min": 600.0,
+      "max": 1050.0,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
   }
 ]
