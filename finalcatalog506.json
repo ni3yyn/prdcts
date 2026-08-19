@@ -57756,5 +57756,1004 @@
       "بشرة جافة",
       "بشرة حساسة"
     ]
+  },
+  {
+    "id": "DZ-OTH-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Baume à Lèvres Parfum Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "11g",
+    "ingredients": "RICINUS COMMUNIS (CASTOR) SEED OIL, CERA MICROCRISTALLINA, HYDROGENATED VEGETABLE OIL, CERA ALBA, HYDROGENATED PALM ACID, STEARYL STEARATE, HYDROGENATED MICROCRYSTALLINE CERA, COPERNICIA CERIFERA CERA, BIS-DIGLYCERYL POLYACYLADIPATE-2, COCOS NUCIFERA (COCONUT) OIL, TOCOPHERYL ACETATE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073026/algerian_cosmetics/she_is_beautiful_baume_%C3%A0_l%C3%A8vres_parfum_vanille_11_g.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HMA-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Masque Nourrissant Réparateur Elixir",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCO-CAPRYLATE, GLYCINE SOJA (SOYBEAN) OIL, GOSSYPIUM HERBACEUM (COTTON) SEED OIL, MANGIFERA INDICA (MANGO) SEED BUTTER, OLEA EUROPAEA (OLIVE) FRUIT OIL, PERSEA GRATISSIMA (AVOCADO) OIL, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, THEOBROMA CACAO SEED BUTTER, PARFUM, DICOCOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM CHLORIDE, TOCOPHEROL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073028/algerian_cosmetics/she_is_beautiful_masque_nourrissant_r%C3%A9parateur_elixir_200_ml.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Masque Nourrissant Réparateur",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCO-CAPRYLATE, ALLIUM SATIVUM EXTRACT, HYDROLYZED KERATIN, PARFUM, DICOCOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TOCOPHEROL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073030/algerian_cosmetics/she_is_beautiful_masque_nourrissant_r%C3%A9parateur_200_ml.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-OTH-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Crème Dépilatoire Orchidée Cold Cream pour Peaux Sensibles",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CALCIUM THIOGLYCOLATE, CETEARETH-20, OCTYLDODECANOL, CALCIUM HYDROXIDE, SYNTHETIC BEESWAX, PARFUM, ORCHIS MASCULA EXTRACT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073031/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_d%C3%A9pilatoire_orchid%C3%A9e_cold_cream_pour_.jpg",
+    "marketingClaims": [
+      "للبشرة الحساسة",
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-ORE-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Intense Nourishing Leave-in Cream Huile d'Avocat et Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, COCO-CAPRYLATE, PROPYLENE GLYCOL, SODIUM BENZOATE, POTASSIUM SORBATE, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, PERSEA GRATISSIMA (AVOCADO) OIL, TOCOPHERYL ACETATE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073034/algerian_cosmetics/she_is_beautiful_intense_nourishing_leavein_cream_huile_davo.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Shampooing Nutrition Intense Milk and Honey - Cheveux Abîmés et Cassants",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HONEY EXTRACT, HYDROLYZED MILK PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073036/algerian_cosmetics/she_is_beautiful_shampooing_nutrition_intense_milk_and_honey.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Eau Micellaire",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "350ml",
+    "ingredients": "AQUA, 1,2-HEXANEDIOL, CAPRYLYL GLYCOL, GLYCERIN, CHAMOMILLA RECUTITA FLOWER EXTRACT, PEG-40 HYDROGENATED CASTOR OIL, TRIDECETH-9, PROPYLENE GLYCOL, PARFUM, TOCOPHERYL ACETATE, POLOXAMER 184, DISODIUM COCOYL GLUTAMATE, TETRASODIUM EDTA, POLYQUATERNIUM-10, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073038/algerian_cosmetics/she_is_beautiful_eau_micellaire_350_ml.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Shampooing Éclatet Brillance Argan",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED WHEAT PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, ARGANIA SPINOSA LEAF EXTRACT, TETRASODIUM EDTA, CITRIC ACID, CI 14700, CI 19140, CI 17200",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073039/algerian_cosmetics/she_is_beautiful_shampooing_%C3%A9clatet_brillance_argan.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-003",
+    "brand": "She is beautiful",
+    "name": "Shampooing Nutrition Intense Huile d'Avocat et Beurre de Karité Cheveux Très Secs ou Frisés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCOL DISTEARATE, LAURETH-4, COCAMIDE DEA, COCO-GLUCOSIDE, HYDROGENATED CASTOR OIL, SODIUM CHLORIDE, PEG-40 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-7, GLYCERYL OLEATE, PERSEA GRATISSIMA (AVOCADO) OIL, GLYCINE SOJA (SOYBEAN) OIL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, CARBOMER, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TETRASODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, CI 19140, CI 15985",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073041/algerian_cosmetics/she_is_beautiful_shampooing_nutrition_intense_huile_davocat_.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Creme Mains Hydratante Huile de Jojoba",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073043/algerian_cosmetics/she_is_beautiful_creme_mains_hydratante_huile_de_jojoba_100_.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HSE-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Double Serum Cheveux Secs - Ternes & Cassants Huile d'Argan",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "60ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, ISOPROPYL PALMITATE, ARGANIA SPINOSA KERNEL OIL, TOCOPHEROL, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073045/algerian_cosmetics/she_is_beautiful_double_serum_cheveux_secs_ternes_cassants_h.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "تلميع ولمعان",
+      "إصلاح الشعر المتضرر",
+      "حماية من الحرارة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Crème Hydratante des Pieds",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, PROPYLENE GLYCOL, ALOE BARBADENSIS LEAF JUICE POWDER, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073046/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_hydratante_des_pieds_100_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-CON-SHE-001",
+    "brand": "She is beautiful",
+    "name": "Après Shampooing Nutrition Intense Huile d'Avocat et Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "220ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, COCO-CAPRYLATE, HYDROGENATED VEGETABLE GLYCERIDES, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, DICAPRYLYL CARBONATE, LAURYL GLUCOSIDE, PERSEA GRATISSIMA (AVOCADO) OIL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID, CI 15985, CI 19140",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073048/algerian_cosmetics/she_is_beautiful_apr%C3%A8s_shampooing_nutrition_intense_huile_da.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "مكافحة التجعد",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-004",
+    "brand": "She is beautiful",
+    "name": "Shampooing Éclatet Brillance Argan Cheveux Fragiles",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "700ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED WHEAT PROTEIN, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE, TETRASODIUM EDTA, ARGANIA SPINOSA LEAF EXTRACT, CITRIC ACID, CI 14700, CI 19140, CI 17200",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073050/algerian_cosmetics/she_is_beautiful_shampooing_%C3%A9clatet_brillance_argan_cheveux_.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-003",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Marguerite Bleue",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, GLOBULARIA ALYPUM EXTRACT, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073052/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_marguerite_bleue.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-004",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Huile d'Argan",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, ARGANIA SPINOSA KERNEL OIL, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073054/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_huile_dargan.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-005",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Huiles d'Avocat et Olive",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, PERSEA GRATISSIMA (AVOCADO) OIL, PHYTOSTEROLS, OLEA EUROPAEA (OLIVE) FRUIT OIL, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073055/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_huiles_davocat_et_ol.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-006",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Huile d'Argan",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, ARGANIA SPINOSA KERNEL OIL, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073058/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_huile_dargan_100_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "للبشرة الجافة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-007",
+    "brand": "She is beautiful",
+    "name": "Creme Mains Hydratante Fleur de Cotton",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, BUTYLENE GLYCOL, GOSSYPIUM HERBACEUM (COTTON) SEED EXTRACT, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073060/algerian_cosmetics/she_is_beautiful_creme_mains_hydratante_fleur_de_cotton_100_.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-008",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Fleur d'Arnica",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, ARNICA MONTANA FLOWER EXTRACT, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073061/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_fleur_darnica_100_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للالتهابات"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-009",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Fleur de Magnolia",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, MAGNOLIA BIONDII BUD/FLOWER EXTRACT, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073063/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_fleur_de_magnolia.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-010",
+    "brand": "She is beautiful",
+    "name": "Crème Mains Hydratante Huile de Carotte",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, DICAPRYLYL CARBONATE, SORBITOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PENTAERYTHRITYL DISTEARATE, PARFUM, DIAZOLIDINYL UREA, METHYLPARABEN, PROPYLPARABEN, DIMETHICONE, POLYQUATERNIUM-37, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, BETA-CAROTENE (CI 40800), DAUCUS CAROTA SATIVA (CARROT) ROOT EXTRACT, TOCOPHEROL, TETRASODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073065/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_mains_hydratante_huile_de_carotte_100.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-HSE-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Double Serum Cheveux en Situation de Chute Huile d'Ail",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "60ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, ISOPROPYL PALMITATE, ALLIUM SATIVUM BULB OIL, TOCOPHEROL, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073067/algerian_cosmetics/she_is_beautiful_double_serum_cheveux_en_situation_de_chute_.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو",
+      "تكثيف الشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-005",
+    "brand": "She is beautiful",
+    "name": "Shampooing Nutrition Intense Huile d'Avocat et Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCOL DISTEARATE, LAURETH-4, COCAMIDE DEA, COCO-GLUCOSIDE, HYDROGENATED CASTOR OIL, SODIUM CHLORIDE, PEG-40 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-7, GLYCERYL OLEATE, PERSEA GRATISSIMA (AVOCADO) OIL, GLYCINE SOJA (SOYBEAN) OIL, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, CARBOMER, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TETRASODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, CI 19140, CI 15985",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073069/algerian_cosmetics/she_is_beautiful_shampooing_nutrition_intense_huile_davocat_.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مخصص للشعر الجاف",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-006",
+    "brand": "She is beautiful",
+    "name": "Shampooing Anti-chute Garlic & Keratine",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, POLYQUATERNIUM-7, COCAMIDE DEA, SODIUM CHLORIDE, HYDROLYZED KERATIN, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID, ALLIUM SATIVUM EXTRACT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073071/algerian_cosmetics/she_is_beautiful_shampooing_antichute_garlic_keratine.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-SHE-003",
+    "brand": "She is beautiful",
+    "name": "Serum Réparateur Anti-casse",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "60ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, TOCOPHEROL, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073073/algerian_cosmetics/she_is_beautiful_serum_r%C3%A9parateur_anticasse_60_ml.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "حماية من الحرارة",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-007",
+    "brand": "She is beautiful",
+    "name": "Shampooing Color - Vive Crystal Cheveux Colorés ou Méchés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PROPYLENE GLYCOL, QUARTZ, HYDROLYZED WHEAT PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073075/algerian_cosmetics/she_is_beautiful_shampooing_color_vive_crystal_cheveux_color.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Après Shampooing Éclatet Brillance Argan Conditioner",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, COCO-CAPRYLATE, HYDROGENATED VEGETABLE GLYCERIDES, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, ARGANIA SPINOSA LEAF EXTRACT, CI 14700, CI 19140, CI 17200, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073077/algerian_cosmetics/she_is_beautiful_apr%C3%A8s_shampooing_%C3%A9clatet_brillance_argan_co.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-SHE-003",
+    "brand": "She is beautiful",
+    "name": "Masque Nourrissant Réparateur Silk",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCO-CAPRYLATE, HYDROLYZED SILK, PARFUM, DICOCOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TOCOPHEROL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073079/algerian_cosmetics/she_is_beautiful_masque_nourrissant_r%C3%A9parateur_silk_200_ml.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-008",
+    "brand": "She is beautiful",
+    "name": "Shampooing Lisse et Soyeux Silk - Cheveux Indisciplinés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED SILK, HYDROLYZED WHEAT PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073081/algerian_cosmetics/she_is_beautiful_shampooing_lisse_et_soyeux_silk_cheveux_ind.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تلميع ولمعان",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-SHE-003",
+    "brand": "She is beautiful",
+    "name": "Après Shampooing Star Tendance Keratine Cheveux Ternes, Anti-chute",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, COCO-CAPRYLATE, HYDROGENATED VEGETABLE GLYCERIDES, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, DICAPRYLYL CARBONATE, LAURYL GLUCOSIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, HYDROLYZED KERATIN, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073083/algerian_cosmetics/she_is_beautiful_apr%C3%A8s_shampooing_star_tendance_keratine_che.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-009",
+    "brand": "She is beautiful",
+    "name": "Shampooing Antipelliculaire Citron Vert Detox Naturelle",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, SODIUM CHLORIDE, PEG-7 GLYCERYL COCOATE, PARFUM, PROPYLENE GLYCOL, CITRUS AURANTIFOLIA (LIME) JUICE, CLIMBAZOLE, SALICYLIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, POLYQUATERNIUM-7, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073085/algerian_cosmetics/she_is_beautiful_shampooing_antipelliculaire_citron_vert_det.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنقية عميقة",
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-CON-SHE-004",
+    "brand": "She is beautiful",
+    "name": "Après Shampooing Color-vive Crystal",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "220ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, ALCOHOL, COCO-CAPRYLATE, HYDROGENATED VEGETABLE GLYCERIDES, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, DICAPRYLYL CARBONATE, LAURYL GLUCOSIDE, PROPYLENE GLYCOL, QUARTZ, HYDROLYZED WHEAT PROTEIN, METHYLCHLOROISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073087/algerian_cosmetics/she_is_beautiful_apr%C3%A8s_shampooing_colorvive_crystal_220_ml.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-HMA-SHE-004",
+    "brand": "She is beautiful",
+    "name": "Masque Nourrissant Réparateur à Rincer Argan Extra",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETEARETH-20, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCO-CAPRYLATE, HYDROLYZED WHEAT PROTEIN, PARFUM, DICOCOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, PROPYLENE GLYCOL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TOCOPHEROL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, GLYCERIN, ARGANIA SPINOSA LEAF EXTRACT, CITRIC ACID, CI 14700, CI 19140, CI 17200",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073089/algerian_cosmetics/she_is_beautiful_masque_nourrissant_r%C3%A9parateur_%C3%A0_rincer_arga.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "تلميع ولمعان",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-010",
+    "brand": "She is beautiful",
+    "name": "Shampooing Nutrition Intense Milk and Honey",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HONEY EXTRACT, HYDROLYZED MILK PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073091/algerian_cosmetics/she_is_beautiful_shampooing_nutrition_intense_milk_and_honey.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-011",
+    "brand": "She is beautiful",
+    "name": "Shampooing Star Tendance Keratine",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, HYDROLYZED KERATIN, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073093/algerian_cosmetics/she_is_beautiful_shampooing_star_tendance_keratine_250_ml.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-SHE-005",
+    "brand": "She is beautiful",
+    "name": "Après Shampooing Lisse et Soyeux Silk",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "220ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, COCO-CAPRYLATE, HYDROGENATED VEGETABLE GLYCERIDES, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, DICAPRYLYL CARBONATE, LAURYL GLUCOSIDE, HYDROLYZED SILK, HYDROLYZED WHEAT PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073095/algerian_cosmetics/she_is_beautiful_apr%C3%A8s_shampooing_lisse_et_soyeux_silk_220_m.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-012",
+    "brand": "She is beautiful",
+    "name": "Shampooing Lisse et Soyeux Silk Cheveux Indisciplinés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, PEG-4 DISTEARYL ETHER, DISTEARYL ETHER, DICAPRYLYL ETHER, COCAMIDE DEA, SODIUM CHLORIDE, POLYQUATERNIUM-7, COCO-GLUCOSIDE, GLYCERYL OLEATE, PARFUM, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED SILK, HYDROLYZED WHEAT PROTEIN, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073097/algerian_cosmetics/she_is_beautiful_shampooing_lisse_et_soyeux_silk_cheveux_ind.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تلميع ولمعان",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-ORE-SHE-002",
+    "brand": "She is beautiful",
+    "name": "Crème Capillaire Nourrissante sans Rinçage - Huile d'Avocat et Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": "500ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, COCO-CAPRYLATE, PROPYLENE GLYCOL, SODIUM BENZOATE, POTASSIUM SORBATE, BUTYROSPERMUM PARKII (SHEA) BUTTER, PARFUM, POLYQUATERNIUM-37, PERSEA GRATISSIMA (AVOCADO) OIL, TOCOPHERYL ACETATE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073099/algerian_cosmetics/she_is_beautiful_cr%C3%A8me_capillaire_nourrissante_sans_rin%C3%A7age_.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-HMA-SHE-005",
+    "brand": "She is beautiful",
+    "name": "Masque Nourrissant Réparateur Crystal Cheveux Colorés",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, CETEARETH-20, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCO-CAPRYLATE, QUARTZ, PARFUM, DICOCOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TOCOPHEROL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073100/algerian_cosmetics/she_is_beautiful_masque_nourrissant_r%C3%A9parateur_crystal_cheve.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-SHE-006",
+    "brand": "She is beautiful",
+    "name": "Après-shampooing Crystal - Cheveux Colorés",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE, COCO-CAPRYLATE, BUTYROSPERMUM PARKII (SHEA) BUTTER, HYDROGENATED VEGETABLE GLYCERIDES, PARFUM, POLYQUATERNIUM-37, DICAPRYLYL CARBONATE, LAURYL GLUCOSIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, PROPYLENE GLYCOL, QUARTZ, HYDROLYZED WHEAT PROTEIN, TETRASODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073102/algerian_cosmetics/she_is_beautiful_apr%C3%A8sshampooing_crystal_cheveux_color%C3%A9s_200.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
   }
 ]
