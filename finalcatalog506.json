@@ -56964,5 +56964,137 @@
       "بشرة دهنية",
       "بشرة معرضة للحبوب"
     ]
+  },
+    {
+    "id": "DZ-SSE-BIOL-001",
+    "brand": "Biolina",
+    "name": "Vitac+ Sérum Éclaircissant",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "AQUA, SODIUM ASCORBYL PHOSPHATE (VITAMIN C), SODIUM HYALURONATE (HYALURONIC ACID), PANTHENOL (VITAMIN B5), FERULIC ACID, CITRIC ACID, TOCOPHEROL (VITAMIN E), LAVANDULA ANGUSTIFOLIA OIL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072953/algerian_cosmetics/biolina_vitac_s%C3%A9rum_%C3%A9claircissant_30_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SSE-BIOL-002",
+    "brand": "Biolina",
+    "name": "Vitac+ Sérum Vitamine C Sap",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, HYALURONIC ACID, VITAMIN C, NIACINAMIDE, POLYSORBATE 80, TOCOPHEROL, CAPRYLIC/CAPRIC TRIGLYCERIDE, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072955/algerian_cosmetics/biolina_vitac_s%C3%A9rum_vitamine_c_sap.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-BIOL-001",
+    "brand": "Biolina",
+    "name": "Vitac+ Toner Éclaircissant Vitamine C & B5 & Niacinamide",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, LAVANDULA ANGUSTIFOLIA FLOWER WATER, MENTHA SPICATA LEAF WATER, PROPYLENE GLYCOL, NIACINAMIDE, PANTHENOL, PEG-40 HYDROGENATED CASTOR OIL, POLYSORBATE 20, CAPRYLIC/CAPRIC TRIGLYCERIDE, TOCOPHEROL, ASCORBIC ACID, PHENOXYETHANOL, PARFUM (FRAGRANCE), DISODIUM EDTA, CITRIC ACID, SODIUM HYDROXIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072956/algerian_cosmetics/biolina_vitac_toner_%C3%A9claircissant_vitamine_c_b5_niacinamide.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مهدئ",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-BIOL-002",
+    "brand": "Biolina",
+    "name": "Skin Care Eau de Rose Graines de Figue de Barbarie Anti-age",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "110ml",
+    "ingredients": "ROSA DAMASCENA FLOWER WATER, OPUNTIA FICUS-INDICA SEED EXTRACT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072959/algerian_cosmetics/biolina_skin_care_eau_de_rose_graines_de_figue_de_barbarie_a.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مهدئ",
+      "مضاد للأكسدة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-OIB-BIOL-001",
+    "brand": "Biolina",
+    "name": "Huile de Pépins de Figue de Barbarie Extra Vierge",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "10ml",
+    "ingredients": "OPUNTIA FICUS-INDICA SEED OIL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072960/algerian_cosmetics/biolina_huile_de_p%C3%A9pins_de_figue_de_barbarie_extra_vierge_10.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة",
+      "تغذية الشعر",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-OIB-BIOL-002",
+    "brand": "Biolina",
+    "name": "Huile Non Grasse - Soin Thalasso",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": null,
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, DIMETHICONOL, HELIANTHUS ANNUUS SEED OIL, ARGANIA SPINOSA KERNEL OIL, DAUCUS CAROTA SATIVA ROOT EXTRACT, DAUCUS CAROTA SATIVA SEED OIL, BETA-CAROTENE, ASCORBYL PALMITATE, PARFUM, LINALOOL, HEXYL CINNAMAL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072962/algerian_cosmetics/biolina_huile_non_grasse_soin_thalasso.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تغذية الشعر",
+      "تلميع ولمعان",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
