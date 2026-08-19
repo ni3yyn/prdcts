@@ -5253,7 +5253,7 @@
     "country": "Algeria",
     "category": {
       "id": "hair_mask",
-      "label": "قناع شعر",
+      "label": "قناع للشعر",
       "icon": "hand-sparkles"
     },
     "quantity": "null",
@@ -6832,7 +6832,7 @@
     "ingredients": "Aqua, Paraffinum Liquidum, PEELMOIST™ (Aqua, Glycerin, Maltodextrin, Calcium Pantothenate, Xanthan Gum, Caprylyl Glycol, Urea, Alanine, Proline, Serine, Magnesium Lactate, Potassium Lactate, Magnesium Chloride, Sodium Citrate, Papain, Tocopherol, Ethylhexylglycerin), Glycerin, Propylene Glycol, Butyrospermum Parkii (SHEA) Butter, Niacinamide, Cetyl Alcohol, Glyceryl Stearate, Cocos Nucifera (COCONUT) Oil, Linseed Oil/Palm Oil Amino Propanediol Esters, Cotton Seed Oil/Palm Oil Amino Propanediol Esters, Stearic Acid, Phenoxyethanol, Honey, Chamomilla Recutita Extract, Triethanolamine, Panthenol, Dimethicone, Tocopheryl Acetate, Ceramide AP, Menthol, Mentha Piperita Oil. Fragrance Free / Sans Parfum.",
     "country": "Egypt",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -6849,7 +6849,7 @@
     "ingredients": "Aqua, Propylene Glycol, Glycerin, PEELMOIST™ (Aqua, Glycerin, Maltodextrin, Calcium Pantothenate, Xanthan Gum, Caprylyl Glycol, Urea, Alanine, Proline, Serine, Magnesium Lactate, Potassium Lactate, Magnesium Chloride, Sodium Citrate, Papain, Tocopherol, Ethylhexylglycerin), Triethanolamine, Sodium Hyaluronate, Polysorbate 20,",
     "country": "Egypt",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -6883,7 +6883,7 @@
     "ingredients": "AQUA, GLYCERYL STEARATE, STEARIC ACID, CETYL ALCOHOL, OLEA EUROPAEA FRUIT OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) BUTTER, COCOS NUCIFERA (COCONUT) OIL, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, VITIS VINIFERA (GRAPE) SEED OIL, ARNICA MONTANA FLOWER EXTRACT, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, ALOE BARBADENSIS LEAF EXTRACT, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, CAMELLIA SINENSIS LEAF EXTRACT, PANTHENOL, NIACINAMIDE, GLYCERIN, PSEUDOALTEROMONAS FERMENT EXTRACT, XANTHAN GUM, ALANINE, PROLINE, SERINE, SODIUM PHOSPHATE, SODIUM HYDROXIDE, TOCOPHEROL, CAPRYLYL GLYCOL, POLYACRYLAMIDE, C14-13 ISOPARAFFIN, C11-9 PARETH-6, ALLANTOIN, TOCOPHERYL ACETATE, PHENOXYETHANOL, ETHYLHEXYL GLYCERIN, SODIUM BENZOATE, TRIETHANOLAMINE.",
     "country": "Egypt",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -6900,7 +6900,7 @@
     "ingredients": "AQUA,NIACINAMIDE, PSEUDOALTEROMONAS FERMENT EXTRACT, SALICYLIC ACID, COCAMIDOPROPYL DIMETHYLAMINE, TAZAROTENE, BISABOLOL, ALLANTOIN, PROPOLIS EXTRACT, ALOE BARBADENSIS LEAF EXTRACT , PANTHENOL, GLUCONOLACTONE , GLYCERIN, HONEY, PROPYLENE GLYCOL, CETYL ALCOHOL, STEARIC ACID, GLYCERYL STEARATE, PEG - GLYCERYL COCOATE , TRIETHANOLAMINE, GLYCOLIC ACID, LYSINE AZELATE, TOCOPHERYL ACETATE, XANTHAN GUM, POLYACRYLAMIDE, ISOPARAFFIN , PARETH , PHENOXYETHANOL, ETHYLHEXYL GLYCERIN , SODIUM BENZOATE",
     "country": "Egypt",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7146,7 +7146,7 @@
     "ingredients": "AQUA, CETYL ALCOHOL, STEARIC ACID, GLYCERYL STEARATE, KOJIC ACID, ALPHA-ARBUTIN, NIACINAMIDE, MAGNESIUM ASCORBYL PHOSPHATE, PHOSPHATIDYLCHOLINE, DIMETHYLMETHOXY CHROMANYL PALMITATE, TRANEXAMIC ACID, PANTHENOL, PROPOLIS EXTRACT, BISABOLOL, ALLANTOIN, HONEY, GLYCERIN, PROPYLENE GLYCOL,\nTITANIUM DIOXIDE , TOCOPHERYL ACETATE, XANTHAN GUM, TRIETHANOLAMINE, PHENOXYETHANOL, ETHYLHEXYL GLYCERIN.",
     "country": "Egypt",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7163,7 +7163,7 @@
     "ingredients": "AQUA, NIACINAMIDE, ALOE BARBADENSIS LEAF EXTRACT, PANTHENOL, ALLANTOIN, SODIUM HYALURONATE, PROPOLIS EXTRACT, HONEY, PROPYLENE GLYCOL, PARAFFINUM LIQUIDUM, TRIFOLIUM PRATENSE (CLOVER) FLOWER EXTRACT, ALUMINUM STARCH OCTENYLSUCCINATE, CETYL ALCOHOL, GLYCERYL STEARATE, STEARIC ACID, TITANIUM DIOXIDE, CITRIC ACID, TOCOPHERYL ACETATE, POLYACRYLAMIDE- C13-14 ISOPARAFFIN- C9-11 PARETH-6, PSEUDOALTEROMONAS FERMENT EXTRACT, GLYCERIN, PHENOXYETHANOL, ETHYLHEXYL GLYCERIN, SODIUM BENZOATE.",
     "country": "Egypt",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7669,7 +7669,7 @@
     "country": "Algeria",
     "category": {
       "id": "face_mask",
-      "label": "قناع للوجه",
+      "label": "قناع وجه",
       "icon": "mask"
     },
     "quantity": "125 ml",
@@ -7689,7 +7689,7 @@
     "ingredients": "Aqua, Paraffinum Liquidum, Decyl Oleate, Sorbitol, Polyglyceryl-2 Dipolhydroxystearate, Polyglyceryl-3 Diisostearate, Cera Alba, Silica Dimethyl Silyate, Magnesium Sulfate, Soluble collagen, Phenoxyethanol (and) Methyl Ethyl Propyl Butyl Isobutyl Parabens, Methylchloroisothiazolinone (and) Methylisothiazolinone, Parfum, Colorant.",
     "country": "Algeria",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7710,7 +7710,7 @@
     "ingredients": "Aqua, Isopropyle Palmitate, Propylene Glycol, Paraffinum Liquidum, PEG-6 Stearate, Glycerin, Dimethicone, Cetearyl Alcohol, Allantoin, pesea gratissima oil, Tocopheryl Acetate, steareth-20, Carbomer, Ceteth-20, parfum, Triethanolamine, Sodium EDTA, Methylchloroisothiazolinone (and) Methylisothiazolinone, phenoxyethanol (and) methylparaben (and) ethylparaben (and) butylparaben (and) propylparaben (and) isobutylparaben(and) isobutylparaben .",
     "country": "Algeria",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7731,7 +7731,7 @@
     "ingredients": "Aqua, Hydrogenated Polydecene, Hydrogenated Polyisobutene, Methyl Methacrylate Crosspolymer,Undecane, Niacinamide, Glycerin, Tridecane, Polyacrylate Crosspolymer-6,Alcohol Denat ,C14-22 Alcohols, Gluconolactone, Octyldodecanol, Glyceryl  Stearate, PEG-100 Stearate,Tocopheryl  Acetate, Propanediol, Acacia Senegal Gum, Sodium Benzoate, Xanthan Gum, Salicylic Acid,C12-20 Alkyl Glucoside, Ethyl Linoleate, Octyldodecyl  Xyloside, PEG-30 Dipolyhydroxystearate, Sodium Hydroxide Parfum, Alcohol, Copper PCA, Iris Florentina Root Extract, Retinyl Palmitate, Zinc Sulfate, Tocopherol, Xylose, Helianthus Annuus (Sunflower) Seed Oil",
     "country": "Algeria",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7748,7 +7748,7 @@
     "ingredients": "AQUA / WATER, CI 77891 / TITANIUM DIOXIDE, CAPRYLYL METHICONE, GLYCERIN, ISODODECANE, PEG-10 DIMETHICONE, TRIMETHYLSILOXYSILICATE, POLYPROPYLSILSESQUIOXANE, ISONONYL ISONONANOATE, CI 77492 / IRON OXIDES, SODIUM CHLORIDE, PHENOXYETHANOL, MICA, PARFUM, TRIETHOXYCAPRYLY SILANE, CI 77491 / IRON OXIDES, ETHYLENE/PROPYLENE/STYRENE COPOLYMER, SORBITAN OLEATE, AVENA SATIVA (OAT) KERNEL EXTRACT, ALOE BARBADENSIS LEAF JUICE POWDER, CITRIC ACID, ALUMINA, MAGNESIUM OXIDE, BHT, HEXYL CINNAMAL, ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, HYDROXYCITRONELLAL, CITRONELLOL, BENZYL BENZOATE, COUMARIN",
     "country": "Algeria",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -7765,7 +7765,7 @@
     "ingredients": "AQUA / WATER, CI 77891 / TITANIUM DIOXIDE, CAPRYLYL METHICONE, GLYCERIN, ISODODECANE, PEG-10 DIMETHICONE, TRIMETHYLSILOXYSILICATE, ISONONYL ISONONANOATE, POLYPROPYLSILSESQUIOXANE, CI 77492 / IRON OXIDES, SODIUM CHLORIDE, PHENOXYETHANOL, MICA, PARFUM, CI 77491 / IRON OXIDES, TRIETHOXYCAPRYLYLSILANE, TOCOPHEROL, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, CI 77499 / IRON OXIDES, PANTHENOL, ETHYLENE/PROPYLENE/STYRENE COPOLYMER, SORBITAN OLEATE, DISODIUM EDTA, ETHYLHEXYLGLYCERIN AVENA SATIVA (OAT) KERNEL EXTRACT, ALOE BARBADENSIS LEAF JUICE POWDER, CITRIC ACID, ALUMINA, MAGNESIUM OXIDE, BHT, HEXYL CINNAMAL, ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, HYDROXYCITRONELLAL, CITRONELLOL, BENZYL BENZOATE, COUMARIN",
     "country": "Algeria",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8784,7 +8784,7 @@
     "country": "France",
     "category": {
       "id": "face_mask",
-      "label": "قناع للوجه",
+      "label": "قناع وجه",
       "icon": "mask"
     },
     "quantity": "40 ml",
@@ -8855,7 +8855,7 @@
     "ingredients": "Aqua, Glycerin, Paraffinum Liquidum (Mineral Oil), Prunus Armeniaca (Apricot) Kernel Oil, Steareth-2, Butyrospermum Parkii (Shea) Butter, Sorbitan Caprylate, Steareth-21, Hydroxypropyl Starch Phosphate, Cera Alba (Beeswax), Cetyl Alcohol, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Lactate, Allantoin, Lactic Acid, Magnesium Sulfate Heptahydrate, Manganese Sulfate Monohydrate, Reseda Luteola Extract, Arctostaphylos Uva Ursi Leaf Extract, Carum Petroselinum (Parsley) Extract, Cera Microcristallina (Microcrystalline Wax), Dimethicone, Paraffin, Phenoxyethanol, Propylene Glycol, Xanthan Gum, Cyclopentasiloxane, Cyclohexasiloxane, Potassium Sorbate, Parfum (Fragrance)",
     "country": "France",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8872,7 +8872,7 @@
     "ingredients": "Aqua, Dicaprylyl Carbonate, Glycerin, Propylene Glycol Dicaprylate, Oryza Sativa (Rice) Starch, Polyglyceryl-6 Stearate, C10-18 Triglycerides, Glyceryl Stearate, Butyl Avocadate, Potassium Cetyl Phosphate, 1,2-Hexanediol, Cetyl Alcohol, Silica, Zinc Gluconate, Hydrolyzed Chenopodium Quinoa Seed, Maltodextrin, Cera Alba (Beeswax), Cocoglycerides, Capryloyl Glycine, Tocopherol, Xanthan Gum, Glyceryl Caprylate, Cetearyl Alcohol, Cetyl Palmitate, Polyglyceryl-6 Behenate, Sodium Hydroxide, Citric Acid, Parfum (Fragrance).",
     "country": "France",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8889,7 +8889,7 @@
     "ingredients": "Aqua, Propanediol, Caprylic/Capric Triglyceride, Niacinamide, Squalane, Glycerin, Dimethicone, Hydroxyethyl Urea, Sodium Acrylates Copolymer, Cetearyl Alcohol, Butyrospermum Parkii (Shea) Butter, Cetyl Palmitate, Xylitol, Sodium Hyaluronate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, C10-30 Cholesterol/Lanosterol Esters, Tocopherol, Sodium Levulinate, Glyceryl Stearate, Cholesterol, PEG-100 Stearate, Lecithin, Cetearyl Glucoside, Sodium Anisate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Ammonium Lactate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Phenoxyethanol, Carbomer, Ethylhexylglycerin.",
     "country": "France",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "مرطب",
       "icon": "droplet"
     },
@@ -8955,7 +8955,7 @@
     "ingredients": "Aqua, Vitis Vinifera (Grape) Seed Oil, Propanediol, Glycerin, Behenyl Alcohol, C12-13 Alkyl Lactate, Hydrogenated Coconut Acid, Propylene Glycol, Glyceryl Stearate Se, Kojic Acid, Potassium Cetyl Phosphate, Magnesium Sulfate, Manganese Sulfate, Lactic Acid, Aluminum Silicate, Ascorbyl Methylsilanol Pectinate, Niacinamide, Reseda Luteola Extract, Arctostaphylos Uva Ursi Leaf Extract, Carum Petroselinum Herb Extract, Tocopherol, Polyacrylate Crosspolymer-6, 1,2-Hexanediol, Pentylene Glycol, Coco-Caprylate/Caprate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Disodium EDTA, Methylpropanediol, O-Cymen-5-Ol, Hexamidine Diisethionate, Sodium Metabisulfite, Polysorbate 80, T-Butyl Alcohol, Sorbitan Oleate",
     "country": "Algeria",
     "category": {
-      "id": "moisturizer",
+      "id":"lotion_cream",
       "label": "رطب ",
       "icon": "droplet"
     },
@@ -9002,7 +9002,7 @@
     "marketingClaims": [
       "تفتيج البقع الداكنة",
       "حماية من الشمس",
-      "broad_spectrum"
+      "حماية واسعة الطيف"
     ]
   },
   {
@@ -9029,8 +9029,7 @@
     ],
     "marketingClaims": [
       "حماية من الشمس",
-      "broad_spectrum",
-      "fragrance_free"
+      "حماية واسعة الطيف"
     ]
   },
   {
@@ -9080,7 +9079,7 @@
     "country": "Algeria",
     "category": {
       "id": "lotion_cream",
-      "label": "Moisturizer",
+      "label":"lotion_cream",
       "icon": "hand-holding-water"
     },
     "quantity": "100 ml",
@@ -9138,7 +9137,7 @@
     "country": "Korea",
     "category": {
       "id": "skin_serum",
-      "label": "Skin Serum",
+      "label": "سيروم للبشرة",
       "icon": "flask"
     },
     "quantity": "100 ml",
@@ -9170,7 +9169,7 @@
     "country": "Algeria",
     "category": {
       "id": "hair_mask",
-      "label": "Hair Mask",
+      "label": "قناع للشعر",
       "icon": "hand-sparkles"
     },
     "quantity": "500 g",
@@ -9202,7 +9201,7 @@
     "country": "Algeria",
     "category": {
       "id": "hair_mask",
-      "label": "Hair Mask",
+      "label": "قناع للشعر",
       "icon": "hand-sparkles"
     },
     "quantity": "500 g",
@@ -9342,7 +9341,7 @@
   {
     "id": "SW-SHA-BIOXI-001",
     "brand": "Bioxine",
-    "name": "Bioxine",
+    "name": "FORT Shampoo Anti Hairloss",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1776075393/gbzycncie4znxbmcrhgp.jpg",
     "ingredients": "ماء (Aqua)، مركب Biocomplex B11 (مستخلص أوراق وأصول القراص، مستخلص زهور البابونج الألماني، مستخلص اليارو/الأخيلية، مستخلص ثمار الخروب، مستخلص أوراق ذيل الحصان)، صوديوم لوريث سلفات، كوكاميدو بروبيل بيتين، نياسيناميد، كوكاميد ميا، كلوريد الصوديوم، بروبيلين غليكول، كحول بنزيلي، عطر، بانثينول، هيدروكسي بروبيل غوار هيدروكسي بروبيل تريمونيوم كلوريد، تترا صوديوم إيديتات، منثول، ملوخية/مستخلص أوراق الزيتون، مستخلص ثمار/أوراق التين، بولي كواتيرنيوم-7، بيروكتون أولامين، ليسيثين، بيريدوكسين هيدروكلوريد، صوديوم PCA، مستخلص بذور العنب، عسل، كومارين، ألفا إيزوميثيل يونون، ميثيل كلورو إيزوثيازولينون، ميثيل إيزوثيازولينون.",
     "country": "Turkey",
@@ -9361,7 +9360,8 @@
       "شعر متضرر"
     ],
     "marketingClaims": [
-      "تكثيف الشعر"
+      "تكثيف الشعر",
+      "مضاد لتساقط الشعر"
     ]
   },
   {
@@ -18946,7 +18946,7 @@
     "country": "France",
     "category": {
       "id": "hair_mask",
-      "label": "قناع شعر",
+      "label": "قناع للشعر",
       "icon": "hand-sparkles"
     },
     "quantity": "200ml",
@@ -56368,5 +56368,211 @@
     "targetTypes": [
       "بشرة دهنية"
     ]
+  },
+    {
+    "id": "DZ-LOT-MAR-001",
+    "brand": "Maryliss",
+    "name": "Makhmariya Yara",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "300 ml",
+    "ingredients": "EAU TRAITEE, STEARIC ACID, SORBITOL, BEURRE DE KARITE, HUILE DE PARAFFINE, VASELINE, VITAMINE E, CETEARETH 12, TRIETHANOLAMINE, TEA, METHYLIZOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072682/algerian_cosmetics/maryliss_makhmariya_yara_300_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-MAR-002",
+    "brand": "Maryliss",
+    "name": "Aoud Charki",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "300 ml",
+    "ingredients": "EAU TRAITEE, STEARIC ACID, SORBITOL, BEURRE DE KARITE, HUILE DE PARAFFINE, VASELINE, VITAMINE E, CETEARETH 12, TRIETHANOLAMINE, TEA, METHYLIZOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072684/algerian_cosmetics/maryliss_aoud_charki_300_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-MAR-001",
+    "brand": "Maryliss",
+    "name": "Brume Parfumée Yara",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "EAU TRAITEE, SORBITOL, BENZOATE DE SODIUM, SORBATE DE POTASSIUM, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072686/algerian_cosmetics/maryliss_brume_parfum%C3%A9e_yara_200_ml.jpg",
+    "marketingClaims": [
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SSE-MAR-001",
+    "brand": "Maryliss",
+    "name": "Sérum Visage à l'Acide Salicylique 2%",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "DICAPRYLYL CARBONATE, GLYCEROL, COCO-CAPRYLATE, SALICYLIC ACID, ALLANTOIN, ALOE BARBADENSIS LEAF EXTRACT, ISOPROPYL MYRISTATE, PEG-7 HYDROGENATED CASTOR OIL, PEG/PPG, TOCOPHEROL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072898/algerian_cosmetics/maryliss_s%C3%A9rum_visage_%C3%A0_lacide_salicylique_2_30_ml.webp",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تقشير لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-TON-MAR-002",
+    "brand": "Maryliss",
+    "name": "Eau de Rose Tonifiant Adoucissant",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "200 ml",
+    "ingredients": "EAU TRAITEE, EXTRAIT DE ROSE, SORBITOL, METHYLISOTIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072690/algerian_cosmetics/maryliss_eau_de_rose_tonifiant_adoucissant_200_ml.jpg",
+    "marketingClaims": [
+      "قابض للمسام",
+      "تهدئة البشرة",
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-OTH-MAR-001",
+    "brand": "Maryliss",
+    "name": "Poudre Adoucissante Parfumée Emotion",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "80 g",
+    "ingredients": "TALC, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072692/algerian_cosmetics/maryliss_poudre_adoucissante_parfum%C3%A9e_emotion_80_g.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-MAR-003",
+    "brand": "Maryliss",
+    "name": "Ameerat Bladi",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "300 ml",
+    "ingredients": "EAU TRAITEE, STEARIC ACID, SORBITOL, BEURRE DE KARITE, HUILE DE PARAFFINE, VASELINE, VITAMINE E, CETEARETH 12, TRIETHANOLAMINE, TEA, METHYLIZOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072697/algerian_cosmetics/maryliss_ameerat_bladi_300_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-MSK-MAR-001",
+    "brand": "Maryliss",
+    "name": "Masque à l'Argile Verte",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "",
+    "ingredients": "AQUA, ILLITE, PARFUM, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072900/algerian_cosmetics/maryliss_masque_%C3%A0_largile_verte.webp",
+    "marketingClaims": [
+      "تنقية عميقة",
+      "توازن الدهون والزيوت",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-MAR-004",
+    "brand": "Maryliss",
+    "name": "Lotion Corporelle Hydratante Parfumée Charme",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "AQUA, STEARIC ACID, ISOPROPYL MYRISTATE, GLYCERIN, CETEARETH-20, PARAFFINUM LIQUIDUM, PRUNUS AMYGDALUS DULCIS OIL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072700/algerian_cosmetics/maryliss_lotion_corporelle_hydratante_parfum%C3%A9e_charme_200_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-MAR-005",
+    "brand": "Maryliss",
+    "name": "Sabaya",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "130 ml",
+    "ingredients": "AQUA, STEARIC ACID, SORBITOL, PARAFFINUM LIQUIDUM, CETEARETH-12, TRIETHANOLAMINE, TEA, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072702/algerian_cosmetics/maryliss_sabaya_130_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
   }
 ]
