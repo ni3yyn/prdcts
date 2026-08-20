@@ -5404,7 +5404,11 @@
     "ingredients": "ماء, كاربومير, ثلاثي إيثانولامين (TEA), سوربيتول, بروبيلين غليكول, مستخلص الألوفيرا, PEG-7 جليسيريل كوكوات, بانثينول (بروفيتامين B5), زيت الخروع المهدرج PEG-40, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772054590/lepjay9ahl142564or0n.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
