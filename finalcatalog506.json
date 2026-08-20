@@ -6236,7 +6236,12 @@
       "max": 250,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-CLE-DERM-001",
@@ -7752,7 +7757,11 @@
       "icon": "droplet"
     },
     "quantity": "50 ml",
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8030,7 +8039,11 @@
       "icon": "sun"
     },
     "quantity": "50 ml",
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ],
@@ -8134,7 +8147,11 @@
       "icon": "leaf"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8240,7 +8257,11 @@
       "icon": "pump-soap"
     },
     "quantity": "300 ml",
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8401,7 +8422,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 130,
+      "max": 130,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9007,8 +9032,8 @@
     },
     "quantity": "50 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 2200,
+      "max": 2200,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -9035,8 +9060,8 @@
     },
     "quantity": "40 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1800,
+      "max": 2200,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56396,7 +56421,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "300 ml",
-    "ingredients": "EAU TRAITEE, STEARIC ACID, SORBITOL, BEURRE DE KARITE, HUILE DE PARAFFINE, VASELINE, VITAMINE E, CETEARETH 12, TRIETHANOLAMINE, TEA, METHYLIZOTHIAZOLINONE, PARFUM",
+    "ingredients": "water, stearic acid, sorbitol, shea butter, paraffin oil, petroleum jelly, vitamin E, ceteareth-12, triethanolamine (TEA), methylisothiazolinone, fragrance.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072682/algerian_cosmetics/maryliss_makhmariya_yara_300_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -56415,7 +56440,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "300 ml",
-    "ingredients": "EAU TRAITEE, STEARIC ACID, SORBITOL, BEURRE DE KARITE, HUILE DE PARAFFINE, VASELINE, VITAMINE E, CETEARETH 12, TRIETHANOLAMINE, TEA, METHYLIZOTHIAZOLINONE, PARFUM",
+    "ingredients": "water, stearic acid, sorbitol, shea butter, paraffin oil, petroleum jelly, vitamin E, ceteareth-12, triethanolamine (TEA), methylisothiazolinone, fragrance.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072684/algerian_cosmetics/maryliss_aoud_charki_300_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -56434,7 +56459,7 @@
       "icon": "tint"
     },
     "quantity": "200 ml",
-    "ingredients": "EAU TRAITEE, SORBITOL, BENZOATE DE SODIUM, SORBATE DE POTASSIUM, PARFUM",
+    "ingredients": "Treated water, sorbitol, sodium benzoate, potassium sorbate, fragrance.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072686/algerian_cosmetics/maryliss_brume_parfum%C3%A9e_yara_200_ml.jpg",
     "marketingClaims": [
       "تهدئة البشرة"
@@ -56453,7 +56478,7 @@
       "icon": "flask"
     },
     "quantity": "30 ml",
-    "ingredients": "DICAPRYLYL CARBONATE, GLYCEROL, COCO-CAPRYLATE, SALICYLIC ACID, ALLANTOIN, ALOE BARBADENSIS LEAF EXTRACT, ISOPROPYL MYRISTATE, PEG-7 HYDROGENATED CASTOR OIL, PEG/PPG, TOCOPHEROL, PHENOXYETHANOL",
+    "ingredients": "DICAPRYLYL CARBONATE, GLYCEROL, COCO-CAPRYLATE, SALICYLIC ACID, ALLANTOIN, ALOE BARBADENSIS LEAF EXTRACT, ISOPROPYL MYRISTATE, PEG-7 HYDROGENATED CASTOR OIL, TOCOPHEROL, PHENOXYETHANOL",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072898/algerian_cosmetics/maryliss_s%C3%A9rum_visage_%C3%A0_lacide_salicylique_2_30_ml.webp",
     "marketingClaims": [
       "مضاد لحب الشباب",
@@ -56478,7 +56503,7 @@
       "icon": "tint"
     },
     "quantity": "200 ml",
-    "ingredients": "EAU TRAITEE, EXTRAIT DE ROSE, SORBITOL, METHYLISOTIAZOLINONE",
+    "ingredients": "Treated water, rose extract, sorbitol, methylisothiazolinone.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072690/algerian_cosmetics/maryliss_eau_de_rose_tonifiant_adoucissant_200_ml.jpg",
     "marketingClaims": [
       "قابض للمسام",
@@ -56518,7 +56543,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "300 ml",
-    "ingredients": "EAU TRAITEE, STEARIC ACID, SORBITOL, BEURRE DE KARITE, HUILE DE PARAFFINE, VASELINE, VITAMINE E, CETEARETH 12, TRIETHANOLAMINE, TEA, METHYLIZOTHIAZOLINONE, PARFUM",
+    "ingredients": "Treated water, stearic acid, sorbitol, shea butter, paraffin oil, petroleum jelly, vitamin E, ceteareth-12, triethanolamine (TEA), methylisothiazolinone, fragrance.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072697/algerian_cosmetics/maryliss_ameerat_bladi_300_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -56656,7 +56681,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "250 ml",
-    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 17200",
+    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072908/algerian_cosmetics/pharmamil_body_lotion_vit_e_250_ml.webp",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -56683,7 +56708,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "250 ml",
-    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 42051",
+    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072910/algerian_cosmetics/pharmamil_body_lotion_bleu_cr%C3%A8me_hydratante_bleu_250_ml.webp",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -56710,7 +56735,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "500 ml",
-    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 77742",
+    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072913/algerian_cosmetics/pharmamil_makhmaria_al_halib_body_lotion_vit_e_500_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -56760,7 +56785,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "",
-    "ingredients": "EAU DEMINERALISEE, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL 2, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 17200",
+    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072917/algerian_cosmetics/pharmamil_pharmamil_body_lotion.webp",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -56838,7 +56863,7 @@
       "icon": "eye"
     },
     "quantity": "16 ml",
-    "ingredients": "EAU TRAITEE, SORBITOL 2, ACIDE STEARIQUE, ALPHA ARBUTINE, VITAMINE E, CAFFEINE, PHENOXYETHANOL",
+    "ingredients": "water, sorbitol 2, stearic acid, alpha-arbutin, vitamin E, caffeine, phenoxyethanol.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072923/algerian_cosmetics/pharmamil_cr%C3%A8me_r%C3%A9paratrice_contour_des_yeux_16_ml.jpg",
     "marketingClaims": [
       "تفتيح تحت العين",
@@ -56863,7 +56888,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "500 ml",
-    "ingredients": "EAU, ACIDE STEARIQUE, CIRE D'ABEILLE, SORBITOL, PHENOXYETHANOL, VIT E, FRAGRANCE, CI 61570",
+    "ingredients": "Water, stearic acid, beeswax, sorbitol, phenoxyethanol, vitamin E, fragrance, CI 61570.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072924/algerian_cosmetics/pharmamil_lotion_corporelle_pure_and_soft_vitamine_e_500_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة",
