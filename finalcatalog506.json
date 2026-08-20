@@ -56612,7 +56612,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "130 ml",
-    "ingredients": "AQUA, STEARIC ACID, SORBITOL, PARAFFINUM LIQUIDUM, CETEARETH-12, TRIETHANOLAMINE, TEA, METHYLISOTHIAZOLINONE, PARFUM",
+    "ingredients": "AQUA, STEARIC ACID, SORBITOL, PARAFFINUM LIQUIDUM, CETEARETH-12, TRIETHANOLAMINE, METHYLISOTHIAZOLINONE, PARFUM",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072702/algerian_cosmetics/maryliss_sabaya_130_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -56655,7 +56655,7 @@
       "icon": "tint"
     },
     "quantity": "",
-    "ingredients": "AQUA, GLYCOLIC ACID, ALOE BARBADENSIS LEAF JUICE, PANTHENOL, ALLANTOIN, GLYCERIN, TRIETHANOLAMINE, TEA, UREA, PROPYLENE GLYCOL, POLYSORBATE 20, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "ingredients": "AQUA, GLYCOLIC ACID, ALOE BARBADENSIS LEAF JUICE, PANTHENOL, ALLANTOIN, GLYCERIN, TRIETHANOLAMINE, UREA, PROPYLENE GLYCOL, POLYSORBATE 20, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072905/algerian_cosmetics/pharmamil_tonique_exfoliant_%C3%A0_lacide_glycolique_7.webp",
     "marketingClaims": [
       "تقشير لطيف",
@@ -56663,42 +56663,11 @@
       "مهدئ",
       "مرطب للبشرة"
     ],
-    "price": {
-      "min": 145,
-      "max": 188.5,
-      "currency": "DZD"
-    },
+    "price": null,
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة",
       "بشرة معرضة للحبوب"
-    ]
-  },
-  {
-    "id": "DZ-LOT-PHA-001",
-    "brand": "Pharmamil",
-    "name": "Body Lotion Vit e",
-    "country": "Algeria",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "250 ml",
-    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
-    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072908/algerian_cosmetics/pharmamil_body_lotion_vit_e_250_ml.webp",
-    "marketingClaims": [
-      "مرطب للبشرة",
-      "مضاد للأكسدة"
-    ],
-    "price": {
-      "min": 600,
-      "max": 600,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "بشرة جافة",
-      "بشرة عادية"
     ]
   },
   {
@@ -56712,7 +56681,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "250 ml",
-    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
+    "ingredients": "Water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072910/algerian_cosmetics/pharmamil_body_lotion_bleu_cr%C3%A8me_hydratante_bleu_250_ml.webp",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -56720,7 +56689,7 @@
     ],
     "price": {
       "min": 700,
-      "max": 1100,
+      "max": 700,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -56739,7 +56708,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "500 ml",
-    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
+    "ingredients": "Water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072913/algerian_cosmetics/pharmamil_makhmaria_al_halib_body_lotion_vit_e_500_ml.jpg",
     "marketingClaims": [
       "مرطب للبشرة",
@@ -56771,33 +56740,6 @@
     "price": {
       "min": 600,
       "max": 1050,
-      "currency": "DZD"
-    },
-    "targetTypes": [
-      "بشرة جافة",
-      "بشرة عادية"
-    ]
-  },
-  {
-    "id": "DZ-LOT-PHA-005",
-    "brand": "Pharmamil",
-    "name": "Body Lotion",
-    "country": "Algeria",
-    "category": {
-      "id": "lotion_cream",
-      "label": "مرطب",
-      "icon": "hand-holding-water"
-    },
-    "quantity": "",
-    "ingredients": "Demineralized water, stearic acid, beeswax, sorbitol 2, phenoxyethanol, vitamin E, fragrance, CI 17200.",
-    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072917/algerian_cosmetics/pharmamil_pharmamil_body_lotion.webp",
-    "marketingClaims": [
-      "مرطب للبشرة",
-      "مضاد للأكسدة"
-    ],
-    "price": {
-      "min": 600,
-      "max": 658.48,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -57176,7 +57118,7 @@
       "icon": "tint"
     },
     "quantity": "250ml",
-    "ingredients": "AQUA, ALCOHOL (ETHANOL), PARFUM/FRAGRANCE, PEG-40 HYDROGENATED, PEG/PPG, VITAMINE E",
+    "ingredients": "AQUA, ALCOHOL (ETHANOL), PARFUM/FRAGRANCE, PEG-40 HYDROGENATED, VITAMINE E",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072966/algerian_cosmetics/maneva_brume_parfum%C3%A9e_diamond_corps_cheveux_250_ml.jpg",
     "marketingClaims": [
       "تلميع ولمعان"
@@ -57220,7 +57162,7 @@
       "icon": "soap"
     },
     "quantity": "200ml",
-    "ingredients": "AQUA, DECYL GLUCOSIDE, PEG-7 GLYCERYL COCOATE, PEG/PPG, ISOPROPYL MYRISTATE, HYDROGENATED CASTOR OIL, COCO-BETAINE, ALLANTOIN, PROPYLENE GLYCOL, CITRIC ACID, PANTHENOL, PHENOXYETHANOL, CENTELLA ASIATICA EXTRACT, PARFUM",
+    "ingredients": "AQUA, DECYL GLUCOSIDE, PEG-7 GLYCERYL COCOATE, ISOPROPYL MYRISTATE, HYDROGENATED CASTOR OIL, COCO-BETAINE, ALLANTOIN, PROPYLENE GLYCOL, CITRIC ACID, PANTHENOL, PHENOXYETHANOL, CENTELLA ASIATICA EXTRACT, PARFUM",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787072970/algerian_cosmetics/maneva_huile_nettoyante_madagascar_centella_200_ml.jpg",
     "marketingClaims": [
       "إزالة المكياج",
@@ -57538,7 +57480,7 @@
       "icon": "spa"
     },
     "quantity": "1L",
-    "ingredients": "AQUA, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, PEG/PPG, POLYQUATERNIUM-10, PANTHENOL, METHYLISOTHIAZOLINONE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED SILK PROTEIN, PARFUM",
+    "ingredients": "AQUA, DISODIUM LAURETH SULFOSUCCINATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, POLYQUATERNIUM-10, PANTHENOL, METHYLISOTHIAZOLINONE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, HYDROLYZED SILK PROTEIN, PARFUM",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073005/algerian_cosmetics/niall_cosm%C3%A9tique_shampooing_pro_sans_sulfate_aux_prot%C3%A9ines_d.jpg",
     "marketingClaims": [
       "إصلاح الشعر المتضرر",
@@ -57692,7 +57634,7 @@
       "icon": "spa"
     },
     "quantity": "300ml",
-    "ingredients": "AQUA (WATER), DISODIUM 2-SULFOLAURATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, PEG/PPG, POLYQUATERNIUM-10, PANTHENOL, SALICYLIC ACID, METHYLISOTHIAZOLINONE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-59, HYDROLYZED SILK PROTEIN, PROPYLENE GLYCOL, COCAMIDE DEA, TOCOPHERYL ACETATE (VITAMIN E), PARFUM (FRAGRANCE)",
+    "ingredients": "AQUA (WATER), DISODIUM 2-SULFOLAURATE, COCAMIDOPROPYL BETAINE, PEG-7 GLYCERYL COCOATE, POLYQUATERNIUM-10, PANTHENOL, SALICYLIC ACID, METHYLISOTHIAZOLINONE, CITRIC ACID, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-59, HYDROLYZED SILK PROTEIN, PROPYLENE GLYCOL, COCAMIDE DEA, TOCOPHERYL ACETATE (VITAMIN E), PARFUM (FRAGRANCE)",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073017/algerian_cosmetics/niall_cosm%C3%A9tique_shampooing_sans_sulfate_cheveux_color%C3%A9s_et_.jpg",
     "marketingClaims": [
       "حماية اللون",
@@ -57718,7 +57660,7 @@
       "icon": "soap"
     },
     "quantity": "250ml",
-    "ingredients": "AQUA, PROPANEDIOL, GLYCERIN, SODIUM METHYL COCOYL TAURATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, SALICYLIC ACID, ZINC OXIDE, BETAINE, PHENOXYETHANOL, ALLANTOIN, SODIUM CHLORIDE, DISODIUM EDTA, PEG-7 GLYCERYL COCOATE, PEG/PPG, TOCOPHEROL, POLYQUATERNIUM-7, SNAIL SECRETION FILTRATE",
+    "ingredients": "AQUA, PROPANEDIOL, GLYCERIN, SODIUM METHYL COCOYL TAURATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, SALICYLIC ACID, ZINC OXIDE, BETAINE, PHENOXYETHANOL, ALLANTOIN, SODIUM CHLORIDE, DISODIUM EDTA, PEG-7 GLYCERYL COCOATE, TOCOPHEROL, POLYQUATERNIUM-7, SNAIL SECRETION FILTRATE",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073018/algerian_cosmetics/niall_cosm%C3%A9tique_lumacara_salicylic_acid_snail_mucin_cleansi.jpg",
     "marketingClaims": [
       "مضاد لحب الشباب",
@@ -60410,5 +60352,4137 @@
       "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
       "price": null,
       "targetTypes": []
-    }
+    },
+    {
+    "id": "DZ-TON-ZOR-001",
+    "brand": "Zorah Douce Nature",
+    "name": "Toner Vitamine C Anti-âge Éclaircissant",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "225ml",
+    "ingredients": "AQUA, GLYCERIN, BUTYLENE GLYCOL, ASCORBIC ACID, ALOE BARBADENSIS LEAF EXTRACT, POLYSORBATE 20, SODIUM BENZOATE, EDTA, PANTHENOL, ALLANTOIN, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073338/algerian_cosmetics/zorah_douce_nature_toner_vitamine_c_anti%C3%A2ge_%C3%A9claircissant_22.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-ZOR-001",
+    "brand": "Zorah Douce Nature",
+    "name": "Ultra Hydratante Crème Visage Légère Jour",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "85ml",
+    "ingredients": "AQUA, SODIUM ACRYLATES COPOLYMER, LECITHIN, PANTHENOL, GLYCERIN, PROPANEDIOL, HYALURONIC ACID, RETINOL, VITIS VINIFERA (GRAPE) SEED OIL, ALLANTOIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, ETHYLENEDIAMINETETRAACETIC ACID, EDTA, CITRIC ACID, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073339/algerian_cosmetics/zorah_douce_nature_ultra_hydratante_cr%C3%A8me_visage_l%C3%A9g%C3%A8re_jour.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-CLE-ZOR-001",
+    "brand": "Zorah Douce Nature",
+    "name": "Eau Micellaire Douceur 3 en 1 Visage - Yeux - Lèvres",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, HEXYLENE GLYCOL, GLYCERIN, POLOXAMER 184, DISODIUM EDTA, PANTHENOL, DISODIUM COCOAMPHODIACETATE, POLYAMINOPROPYL BIGUANIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073341/algerian_cosmetics/zorah_douce_nature_eau_micellaire_douceur_3_en_1_visage_yeux.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SUN-ZOR-001",
+    "brand": "Zorah Douce Nature",
+    "name": "Ecran Total Teinté SPF 50+",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "AQUA, GLYCERYL STEARATE, PHENOXYETHANOL, PANTHENOL, GLYCERIN, TITANIUM DIOXIDE (NANO), PROPYLENE GLYCOL, STEARIC ACID, ISOAMYL P-METHOXYCINNAMATE, EDTA, CETYL ALCOHOL, XANTHAN GUM, ALOE BARBADENSIS LEAF EXTRACT, CITRIC ACID, TRIETHANOLAMINE, ETHYLHEXYL TRIAZONE, BUTYL METHOXYDIBENZOYLMETHANE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073343/algerian_cosmetics/zorah_douce_nature_ecran_total_teint%C3%A9_spf_50_50_ml.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-ZOR-002",
+    "brand": "Zorah Douce Nature",
+    "name": "Eau Micellaire Fraîcheur 3 en 1",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, HEXYLENE GLYCOL, GLYCERIN, POLOXAMER 184, DISODIUM EDTA, PANTHENOL, DISODIUM COCOAMPHOACETATE, POLYAMINOPROPYL BIGUANIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073345/algerian_cosmetics/zorah_douce_nature_eau_micellaire_fra%C3%AEcheur_3_en_1_400_ml.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-ZOR-002",
+    "brand": "Zorah Douce Nature",
+    "name": "Ultra Hydratante Crème Visage Riche Nuit",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "85ml",
+    "ingredients": "AQUA, SODIUM ACRYLATES COPOLYMER, LECITHIN, PANTHENOL, GLYCERIN, PROPANEDIOL, CITRIC ACID, HYALURONIC ACID, NIACINAMIDE, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, ETHYLENEDIAMINETETRAACETIC ACID, EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073349/algerian_cosmetics/zorah_douce_nature_ultra_hydratante_cr%C3%A8me_visage_riche_nuit_.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-ZOR-003",
+    "brand": "Zorah Douce Nature",
+    "name": "Crème Mains Pétale d'Amour",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "AQUA, GLYCERIN, STEARIC ACID, GLYCERYL STEARATE, CETEARYL ALCOHOL, SODIUM ACRYLATES COPOLYMER, LECITHIN, PANTHENOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, TOCOPHEROL, PROPANEDIOL, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, ARGANIA SPINOSA KERNEL OIL, PERSEA GRATISSIMA (AVOCADO) OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ALLANTOIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, EDTA, CITRIC ACID, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073352/algerian_cosmetics/zorah_douce_nature_cr%C3%A8me_mains_p%C3%A9tale_damour_75_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-ZOR-004",
+    "brand": "Zorah Douce Nature",
+    "name": "Crème Mains Cerise Irrésistible",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75ml",
+    "ingredients": "AQUA, GLYCERIN, STEARIC ACID, GLYCERYL STEARATE, CETEARYL ALCOHOL, SODIUM ACRYLATES COPOLYMER, LECITHIN, PANTHENOL, BUTYROSPERMUM PARKII (SHEA) BUTTER, TOCOPHEROL, PROPANEDIOL, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, ARGANIA SPINOSA KERNEL OIL, PERSEA GRATISSIMA (AVOCADO) OIL, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ALLANTOIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, EDTA, CITRIC ACID, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073354/algerian_cosmetics/zorah_douce_nature_cr%C3%A8me_mains_cerise_irr%C3%A9sistible_75_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SSE-ZOR-001",
+    "brand": "Zorah Douce Nature",
+    "name": "Retinol Boost Multi-peptides Sérum Réactivateur Anti-rides",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30ml",
+    "ingredients": "AQUA, BUTYLENE GLYCOL, CELLULOSE GUM, MICROCRYSTALLINE CELLULOSE, SODIUM HYDROXIDE, PENTYLENE GLYCOL, LECITHIN, RETINOL, POLYSORBATE 20, POTASSIUM PHOSPHATE, TOCOPHEROL, ASCORBYL PALMITATE, BHT, BHA, TETRAPEPTIDE-21, GLYCERIN, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073356/algerian_cosmetics/zorah_douce_nature_retinol_boost_multipeptides_s%C3%A9rum_r%C3%A9activ.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "شد البشرة",
+      "تحفيز الكولاجين",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-ZOR-002",
+    "brand": "Zorah Douce Nature",
+    "name": "Crème solaire quotidienne à l'acide hyaluronique SPF 50+",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "AQUA, POLYGLYCERYL-6 STEARATE, POLYGLYCERYL-6 BEHENATE, GLYCERYL STEARATE, CETEARYL ALCOHOL, ISOAMYL LAURATE, DIETHYLHEXYL CARBONATE, HYALURONIC ACID, ZINC OXIDE (NANO), TITANIUM DIOXIDE (NANO), BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE, ETHYLHEXYL SALICYLATE, ETHYLHEXYL TRIAZONE, CAPRYLIC/CAPRIC TRIGLYCERIDE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, XANTHAN GUM, PHENYLBENZIMIDAZOLE SULFONIC ACID, ETHYLHEXYLGLYCERIN, TRISODIUM EDTA, EDTA, TROMETHAMINE, BENZYL ALCOHOL, CAPRYLYL GLYCOL, BENZOIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073358/algerian_cosmetics/zorah_douce_nature_cr%C3%A8me_solaire_quotidienne_%C3%A0_lacide_hyalur.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-ZOR-003",
+    "brand": "Zorah Douce Nature",
+    "name": "Gel Nettoyant Purifiant Visage & Corps Peau Sèche & Sensible",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "300ml",
+    "ingredients": "AQUA, PEG-7 GLYCERYL COCOATE, SODIUM COCO-GLUCOSIDE TARTRATE, LACTIC ACID, GLYCERIN, SODIUM BENZOATE, CITRIC ACID, PANTHENOL, CAPRYLYL GLYCOL, PARFUM, PROPYLENE GLYCOL, DECYL GLUCOSIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073363/algerian_cosmetics/zorah_douce_nature_gel_nettoyant_purifiant_visage_corps_peau.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية المسام",
+      "مهدئ",
+      "للبشرة الحساسة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-001",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps - Citron",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 19140",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073726/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_citron.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-FLU-002",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps Concombre",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 77288",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073728/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_concombre_250_ml.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-HMA-FLU-001",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire 5 Plantes Précieuses",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "200ml",
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, CITRUS LIMON FRUIT EXTRACT, URTICA DIOICA EXTRACT, LIPPIA CITRIODORA (VERBENA) OIL, EUCALYPTUS GLOBULUS LEAF OIL, RICINUS COMMUNIS SEED OIL, HYDROLYZED WHEAT PROTEIN, POLYQUATERNIUM-7, CETEARETH-20, GLYCERYL MONOSTEARATE, PARFUM, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073730/algerian_cosmetics/flux_care_masque_capillaire_5_plantes_pr%C3%A9cieuses_200_ml.webp",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-001",
+    "brand": "Flux Care",
+    "name": "Shampooing sans Sulfates Anti-chute Aminexil Resist Hair Filler",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, DIAMINOPYRIMIDINE OXIDE, ARGININE, AMINOMETHYL PROPANOL, BIOTIN, COCO-GLUCOSIDE, GLYCERIN, SODIUM HYDROXIDE, POLYQUATERNIUM-10, PARFUM, PIROCTONE OLAMINE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073732/algerian_cosmetics/flux_care_shampooing_sans_sulfates_antichute_aminexil_resist.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو",
+      "تغذية الشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-001",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Professionnel Color Fix",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "700ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, BENZOPHENONE-4, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073734/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_professionnel_color_fix_700_ml.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-002",
+    "brand": "Flux Care",
+    "name": "Après-shampooing sans Sulfates Anti-chute Aminexil Resist Hair Filler",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, GLYCERIN, DIAMINOPYRIMIDINE OXIDE, ARGININE, AMINOMETHYL PROPANOL, BIOTIN, CETEARETH-20, ISOPROPYL MYRISTATE, RICINUS COMMUNIS SEED OIL, PARAFFINUM LIQUIDUM, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073736/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_sans_sulfates_antichute_aminexil_r.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-001",
+    "brand": "Flux Care",
+    "name": "Miracle Hair Serum Réparation Intense Expert Bond Restore à l'Acide Citrique - Cheveux Abîmés",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, VP/VA COPOLYMER, HYDROXYETHYLCELLULOSE, CITRIC ACID, TOCOPHEROL, HYDROLYZED WHEAT PROTEIN, HYDROXYETHYL OLEYL DIMONIUM CHLORIDE, PARFUM, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073738/algerian_cosmetics/flux_care_miracle_hair_serum_r%C3%A9paration_intense_expert_bond_.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-002",
+    "brand": "Flux Care",
+    "name": "Shampooing Nourrissant Extraordinary Oil Boucles Sublimes - Cheveux Bouclés et Frisés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, CITRIC ACID, PROPYLENE GLYCOL, LAURYL/MYRISTYL POLYRICINOLEATE, PHYLLANTHUS EMBLICA EXTRACT, SIMMONDSIA CHINENSIS SEED OIL, PEG-40 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, PARFUM, SODIUM CHLORIDE, SODIUM BENZOATE, SALICYLIC ACID, SODIUM HYDROXIDE, PIROCTONE OLAMINE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073740/algerian_cosmetics/flux_care_shampooing_nourrissant_extraordinary_oil_boucles_s.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-002",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Anti-frisottis Fleurs de Camomille",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "125ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, CHAMOMILLA RECUTITA FLOWER EXTRACT, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073742/algerian_cosmetics/flux_care_perfect_hair_serum_antifrisottis_fleurs_de_camomil.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تلميع ولمعان",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-003",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Régénérant Figue Fraîche Cheveux Très Secs",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, FICUS CARICA FRUIT EXTRACT, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073744/algerian_cosmetics/flux_care_perfect_hair_serum_r%C3%A9g%C3%A9n%C3%A9rant_figue_fra%C3%AEche_cheveu.jpg",
+    "marketingClaims": [
+      "مخصص للشعر الجاف",
+      "إصلاح الشعر المتضرر",
+      "تلميع ولمعان",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-003",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Nourrissant Extraordinary Oil Boucles Sublimes - Cheveux Bouclés et Frisés",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, PHYLLANTHUS EMBLICA EXTRACT, SIMMONDSIA CHINENSIS SEED OIL, STARCH ACETATE, GLYCERIN, CETEARETH-20, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073746/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_nourrissant_extraordinary_oil_bouc.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مكافحة التجعد",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-004",
+    "brand": "Flux Care",
+    "name": "Miracle Hair Serum Revive Hyaluronique",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "AQUA, GLYCERIN, VP/VA COPOLYMER, HYDROXYETHYLCELLULOSE, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, TOCOPHEROL, HYDROLYZED WHEAT PROTEIN, HYDROXYETHYL OLEYL DIMONIUM CHLORIDE, PARFUM, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073748/algerian_cosmetics/flux_care_miracle_hair_serum_revive_hyaluronique_120_ml.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-002",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Aminexil Resist Hair Filler - Cheveux Fragiles, Tendance à Tomber",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, DIAMINOPYRIMIDINE OXIDE, ARGININE, AMINOMETHYL PROPANOL, BIOTIN, GLYCERYL STEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073750/algerian_cosmetics/flux_care_secret_de_soin_aminexil_resist_hair_filler_cheveux.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تغذية الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-005",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Anti-casse Huile d'Argan & Cranberry",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, ARGANIA SPINOSA KERNEL OIL, VACCINIUM MACROCARPON FRUIT EXTRACT, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073754/algerian_cosmetics/flux_care_perfect_hair_serum_anticasse_huile_dargan_cranberr.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-003",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps Summer Breeze Limited Edition",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 42051, CI 19140",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073756/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_summer_breeze_limited.webp",
+    "marketingClaims": [
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-FLU-003",
+    "brand": "Flux Care",
+    "name": "Shampooing Professionnel sans Silicone Huile d'Avocat & Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "900ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, PERSEA GRATISSIMA OIL, BUTYROSPERMUM PARKII BUTTER, PEG-40 HYDROGENATED CASTOR OIL, PROPYLENE GLYCOL, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDE DEA, GLYCOL CETEARATE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, CI 15985, EDTA, CI 19140, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073758/algerian_cosmetics/flux_care_shampooing_professionnel_sans_silicone_huile_davoc.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مخصص للشعر الجاف",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-004",
+    "brand": "Flux Care",
+    "name": "Shampooing Professionnel sans Sulfates Color Fix - Grand Format",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, GLYCERIN, GLYCOL DISTEARATE, PROPYLENE GLYCOL, POLYQUATERNIUM-10, SALICYLIC ACID, BENZOPHENONE-4, SODIUM HYDROXIDE, CITRIC ACID, PARFUM, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073759/algerian_cosmetics/flux_care_shampooing_professionnel_sans_sulfates_color_fix_g.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLD-001",
+    "brand": "Flux de passion",
+    "name": "Shampooing Complete Hair Care Lavande & Jasmin Cheveux Normaux",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "425ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLYCOL DISTEARATE, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, SODIUM CHLORIDE, PARFUM, PROPYLENE GLYCOL, LAVANDULA ANGUSTIFOLIA EXTRACT, JASMINUM OFFICINALE FLOWER EXTRACT, CITRIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073761/algerian_cosmetics/flux_de_passion_shampooing_complete_hair_care_lavande_jasmin.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-004",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Soin Régénérant Figue Fraîche & Sucre Doré",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, FICUS CARICA FRUIT EXTRACT, XYLITOL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073763/algerian_cosmetics/flux_care_secret_de_soin_soin_r%C3%A9g%C3%A9n%C3%A9rant_figue_fra%C3%AEche_sucre.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-005",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Nourrissant Secret de Soin Olive Divine - Cheveux Frisés à Crépus",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, OLEA EUROPAEA FRUIT OIL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073766/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_nourrissant_secret_de_soin_olive_d.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-001",
+    "brand": "Flux Care",
+    "name": "Dermasoufre Savon de Toilette",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "100g",
+    "ingredients": "VEGETABLE OIL, SULFUR, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073768/algerian_cosmetics/flux_care_dermasoufre_savon_de_toilette_100_g.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-001",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Oil Replacement Aminexil Resist Hair Filler Crème Anti-chute sans Rinçage sans Sulfate",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, PARFUM, DIAMINOPYRIMIDINE OXIDE, ARGININE, AMINOMETHYL PROPANOL, BIOTIN, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073770/algerian_cosmetics/flux_care_secret_de_soin_oil_replacement_aminexil_resist_hai.jpg",
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-003",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Extraordinary Boucles Sublimes - Enrichie à l'Huile d'Amla & Huile de Jojoba",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, PHYLLANTHUS EMBLICA EXTRACT, SIMMONDSIA CHINENSIS SEED OIL, STARCH ACETATE, GLYCERYL STEARATE, RICINUS COMMUNIS SEED OIL, COCOS NUCIFERA OIL, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073772/algerian_cosmetics/flux_care_secret_de_soin_extraordinary_boucles_sublimes_enri.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مكافحة التجعد",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-002",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Hyaluron Hydro Balance Hair Filler Crème Hydratante sans Rinçage - Racines Grasses, Longueurs Sèches",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, SALICYLIC ACID, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073774/algerian_cosmetics/flux_care_secret_de_soin_hyaluron_hydro_balance_hair_filler_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-003",
+    "brand": "Flux Care",
+    "name": "Oil Replacement Secret de Soin Extraordinary Oil Boucles Sublimes Crème Nourrissante sans Rinçage Cheveux Bouclés et Frisés",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, PHYLLANTHUS EMBLICA EXTRACT, SIMMONDSIA CHINENSIS SEED OIL, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073778/algerian_cosmetics/flux_care_oil_replacement_secret_de_soin_extraordinary_oil_b.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مكافحة التجعد",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SCR-FLU-001",
+    "brand": "Flux Care",
+    "name": "Purifiant 3en1 Masque Visage Nettoyant Exfoliant Masque Ocean Deep Minéraux Sel de Mer + Menthol",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ACRYLATES COPOLYMER, KAOLIN, SODIUM LAURETH SULFATE, SODIUM COCOYL GLUTAMATE, DIETHYLHEXYL SODIUM SULFOSUCCINATE, DECYL GLUCOSIDE, PERLITE, MARIS SAL, MENTHOL, SALICYLIC ACID, COCO-GLUCOSIDE, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073779/algerian_cosmetics/flux_care_purifiant_3en1_masque_visage_nettoyant_exfoliant_m.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تقشير",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-001",
+    "brand": "Flux Care",
+    "name": "Men Edition Anti-fatigue 3en1 Masque Visage Orange Energy Vitamine C + Extrait d'Orange",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ACRYLATES COPOLYMER, KAOLIN, SODIUM LAURETH SULFATE, SODIUM COCOYL GLUTAMATE, DIETHYLHEXYL SODIUM SULFOSUCCINATE, DECYL GLUCOSIDE, PERLITE, ASCORBYL GLUCOSIDE, CITRUS SINENSIS FRUIT EXTRACT, COCO-GLUCOSIDE, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073781/algerian_cosmetics/flux_care_men_edition_antifatigue_3en1_masque_visage_orange_.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تنظيف عميق",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-SCR-FLU-002",
+    "brand": "Flux Care",
+    "name": "Gommage Exfoliant Visage & Corps Secret de Soin Peaux Mixtes à Grasses",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "GLYCINE SOJA OIL, COCAMIDOPROPYL BETAINE, CHARCOAL POWDER, AQUA, SALICYLIC ACID, CETEARYL ALCOHOL, GLYCERYL STEARATE, CAMELLIA SINENSIS LEAF EXTRACT, CETEARETH-20, PARFUM, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, PUMICE, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073784/algerian_cosmetics/flux_care_gommage_exfoliant_visage_corps_secret_de_soin_peau.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-SUN-FLU-001",
+    "brand": "Flux Care",
+    "name": "Crème Solaire Anti-âge / Anti-taches SPF 50+",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50ml",
+    "ingredients": "AQUA, VITIS VINIFERA SEED OIL, PERSEA GRATISSIMA OIL, CETEARETH-25, HYDROGENATED ETHYLHEXYL OLIVATE, HYDROGENATED OLIVE OIL UNSAPONIFIABLES, ETHYLHEXYL METHOXYCINNAMATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, SESAMUM INDICUM SEED OIL, HELIANTHUS ANNUUS SEED OIL, ZINC OXIDE, TOCOPHEROL, THEOBROMA GRANDIFLORUM SEED BUTTER, MACADAMIA INTEGRIFOLIA SEED OIL, CARTHAMUS TINCTORIUS SEED OIL, ANTHEMIS NOBILIS FLOWER OIL, CAMELLIA SINENSIS LEAF EXTRACT, PHENOXYETHANOL, CUCUMIS SATIVUS FRUIT EXTRACT, EUPHORBIA CERIFERA CERA, LECITHIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073785/algerian_cosmetics/flux_care_cr%C3%A8me_solaire_anti%C3%A2ge_antitaches_spf_50_50_ml.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "تفتيح البقع الداكنة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-005",
+    "brand": "Flux Care",
+    "name": "Shampooing Hyaluron Hydro Balance Hair Filler - Racines Grasses, Longueurs Sèches",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, SALICYLIC ACID, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, POLYQUATERNIUM-10, PARFUM, SODIUM CHLORIDE, SODIUM BENZOATE, SODIUM HYDROXIDE, PIROCTONE OLAMINE, EDTA, CI 60730",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073787/algerian_cosmetics/flux_care_shampooing_hyaluron_hydro_balance_hair_filler_raci.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-006",
+    "brand": "Flux Care",
+    "name": "Perfect Long Shampooing Cheveux Longs Abîmés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCOYL METHYL GLUCAMIDE, GLYCERIN, RICINUS COMMUNIS SEED OIL, HYDROLYZED KERATIN, CAMELLIA OLEIFERA SEED OIL, POLYQUATERNIUM-10, TRIDECETH-9, PEG-40 HYDROGENATED CASTOR OIL, PARFUM, CITRIC ACID, DISODIUM EDTA, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073789/algerian_cosmetics/flux_care_perfect_long_shampooing_cheveux_longs_ab%C3%AEm%C3%A9s.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تعزيز النمو"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-004",
+    "brand": "Flux Care",
+    "name": "Masque Cheveux",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, HYDROLYZED KERATIN, CAMELLIA JAPONICA SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PARFUM, CITRIC ACID, BHT, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073790/algerian_cosmetics/flux_care_masque_cheveux.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-006",
+    "brand": "Flux Care",
+    "name": "Après-shampooing sans Silicone Pure Clay Hair Filler 3 Argiles Séborégulateur Cheveux Gras",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, GLYCERIN, CETEARETH-20, ISOPROPYL MYRISTATE, MAGNESIUM ALUMINUM SILICATE, MONTMORILLONITE, KAOLIN, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073792/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_sans_silicone_pure_clay_hair_fille.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني",
+      "تنقية عميقة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-007",
+    "brand": "Flux Care",
+    "name": "Shampooing sans Sulfates Revive Hyaluronique 7 en 1",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, GLYCERIN, GLYCOL DISTEARATE, POLYQUATERNIUM-10, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, PARFUM, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073794/algerian_cosmetics/flux_care_shampooing_sans_sulfates_revive_hyaluronique_7_en_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تنظيف لطيف",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-007",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Hyaluron Hydro Balance Hair Filler",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, SALICYLIC ACID, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, GLYCERIN, CETEARETH-20, ISOPROPYL MYRISTATE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, CI 60730",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073797/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_hyaluron_hydro_balance_hair_filler.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-008",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Pure Clay Hair Filler Après-shampooing 3 Argiles Cheveux Gras",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, GLYCERIN, CETEARETH-20, ISOPROPYL MYRISTATE, MAGNESIUM ALUMINUM SILICATE, MONTMORILLONITE, KAOLIN, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073799/algerian_cosmetics/flux_care_secret_de_soin_pure_clay_hair_filler_apr%C3%A8sshampooi.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني",
+      "تنقية عميقة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-008",
+    "brand": "Flux Care",
+    "name": "Perfect Long Shampooing Cheveux Longs Abîmés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCOYL METHYL GLUCAMIDE, GLYCERIN, RICINUS COMMUNIS SEED OIL, HYDROLYZED KERATIN, CAMELLIA JAPONICA SEED OIL, POLYQUATERNIUM-10, TRIDECETH-9, PEG-40 HYDROGENATED CASTOR OIL, PARFUM, CITRIC ACID, DISODIUM EDTA, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073800/algerian_cosmetics/flux_care_perfect_long_shampooing_cheveux_longs_ab%C3%AEm%C3%A9s_265_m.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تعزيز النمو",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-009",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Glycolic Glow Hair Filler",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, GLYCOLIC ACID, CETRIMONIUM CHLORIDE, GLYCERIN, CETEARETH-20, ISOPROPYL MYRISTATE, RICINUS COMMUNIS SEED OIL, PARAFFINUM LIQUIDUM, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, CI 45430",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073802/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_glycolic_glow_hair_filler.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-005",
+    "brand": "Flux Care",
+    "name": "Masque & Pré-shampooing Huile d'Avocat & Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PERSEA GRATISSIMA OIL, BUTYROSPERMUM PARKII BUTTER, PARFUM, CITRIC ACID, BHT, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073804/algerian_cosmetics/flux_care_masque_pr%C3%A9shampooing_huile_davocat_beurre_de_karit.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-006",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire Glycolic Glow Hair Filler",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, GLYCERIN, GLYCOLIC ACID, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, CI 45430",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073806/algerian_cosmetics/flux_care_masque_capillaire_glycolic_glow_hair_filler_265_ml.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-009",
+    "brand": "Flux Care",
+    "name": "Shampooing sans Sulfates Glycolic Glow Hair Filler",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, GLYCOLIC ACID, COCO-GLUCOSIDE, GLYCERIN, GLYCOL DISTEARATE, SODIUM HYDROXIDE, POLYQUATERNIUM-10, PARFUM, PIROCTONE OLAMINE, EDTA, CI 45430",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073808/algerian_cosmetics/flux_care_shampooing_sans_sulfates_glycolic_glow_hair_filler.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-010",
+    "brand": "Flux Care",
+    "name": "Shampooing Expert Bond Restore",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, CITRIC ACID, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, GLYCERIN, GLYCOL DISTEARATE, POLYQUATERNIUM-10, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073810/algerian_cosmetics/flux_care_shampooing_expert_bond_restore_265_ml.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-007",
+    "brand": "Flux Care",
+    "name": "Nouveau Masque Capillaire Hyaluron Hydro Balance Hair Filler Secret de Soin sans Silicone",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, SALICYLIC ACID, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, CI 60730",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073813/algerian_cosmetics/flux_care_nouveau_masque_capillaire_hyaluron_hydro_balance_h.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-011",
+    "brand": "Flux Care",
+    "name": "Shampooing Hydratant Eau de Coco & Aloe Vera - Tous Types de Cheveux",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, ALOE BARBADENSIS LEAF EXTRACT, COCOS NUCIFERA WATER, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073815/algerian_cosmetics/flux_care_shampooing_hydratant_eau_de_coco_aloe_vera_tous_ty.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-010",
+    "brand": "Flux Care",
+    "name": "Après-shampooing sans Sulfates Revive Hyaluronique 7en1",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, GLYCERIN, CETEARETH-20, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, ISOPROPYL MYRISTATE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073817/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_sans_sulfates_revive_hyaluronique_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-006",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Extrême Soin! Huile d'Avocat Nutrition + Protection Chaleur",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, PERSEA GRATISSIMA OIL, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073819/algerian_cosmetics/flux_care_perfect_hair_serum_extr%C3%AAme_soin_huile_davocat_nutr.jpg",
+    "marketingClaims": [
+      "حماية من الحرارة",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-012",
+    "brand": "Flux Care",
+    "name": "Shampooing Illuminant Camomille & Miel de Fleurs - Cheveux Blonds",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, MEL EXTRACT, CHAMOMILLA RECUTITA FLOWER EXTRACT, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073821/algerian_cosmetics/flux_care_shampooing_illuminant_camomille_miel_de_fleurs_che.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "حماية اللون"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-013",
+    "brand": "Flux Care",
+    "name": "Flu Care Men Edition Shampooing Antipelliculaire Tea Charcoal Détoxifiant",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, SODIUM CITRATE, PARFUM, PIROCTONE OLAMINE, CITRIC ACID, CHARCOAL POWDER, CAMELLIA SINENSIS LEAF WATER, ACRYLATES COPOLYMER, GLYCERIN, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM HYDROXIDE, PROPYLENE GLYCOL, DISODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073829/algerian_cosmetics/flux_care_flu_care_men_edition_shampooing_antipelliculaire_t.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنقية عميقة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-001",
+    "brand": "Flux Care",
+    "name": "Gel Intime à l'Extrait d'Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "245ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, PROPYLENE GLYCOL, GLYCERIN, COCO-GLUCOSIDE, C12-15 ALKYL LACTATE, ALOE BARBADENSIS EXTRACT, SODIUM BENZOATE, POTASSIUM SORBATE, PARFUM, LACTIC ACID, DISODIUM EDTA, SODIUM CHLORIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073832/algerian_cosmetics/flux_care_gel_intime_%C3%A0_lextrait_daloe_vera_245_ml.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-014",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Shampooing sans Sulfates Silver Shine aux Pigments Violets",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, GLYCERIN, ACID VIOLET 43, PROPYLENE GLYCOL, POLYQUATERNIUM-10, SALICYLIC ACID, PARFUM, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073836/algerian_cosmetics/flux_care_secret_de_soin_shampooing_sans_sulfates_silver_shi.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-015",
+    "brand": "Flux Care",
+    "name": "Shampooing Régénérant Figue Fraîche & Sucre Doré - Cheveux Très Secs",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, FICUS CARICA FRUIT EXTRACT, XYLITOL, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073842/algerian_cosmetics/flux_care_shampooing_r%C3%A9g%C3%A9n%C3%A9rant_figue_fra%C3%AEche_sucre_dor%C3%A9_che.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-008",
+    "brand": "Flux Care",
+    "name": "Secret de Soin 2 Usages Pré-shampooing & Masque",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, CITRIC ACID, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, PARFUM, BHT, SODIUM BENZOATE, HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, GUAR, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073844/algerian_cosmetics/flux_care_secret_de_soin_2_usages_pr%C3%A9shampooing_masque.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-011",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Color Fix - Cheveux Colorés ou Méchés",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, BENZOPHENONE-4, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073846/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_color_fix_cheveux_color%C3%A9s_ou_m%C3%A9ch%C3%A9.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-002",
+    "brand": "Flux Care",
+    "name": "Eau Micellaire à Base de Vitamine C et Extrait de Miel",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM PCA, DIGLYCERIN, UREA, HYDROLYZED RICE PROTEIN, SORBITOL, LYSINE, PCA, ALLANTOIN, LACTIC ACID, PPG-26-BUTETH-26, PEG-40 HYDROGENATED CASTOR OIL, MEL EXTRACT, ASCORBYL GLUCOSIDE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, OCTENIDINE HCL, PARFUM, DISODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073851/algerian_cosmetics/flux_care_eau_micellaire_%C3%A0_base_de_vitamine_c_et_extrait_de_.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تفتيح البشرة",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-009",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Masque Capillaire 2 Usages",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "370ml",
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, BENZOPHENONE-4, PARFUM, CITRIC ACID, BHT, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073853/algerian_cosmetics/flux_care_secret_de_soin_masque_capillaire_2_usages_370_ml.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "حماية اللون"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-002",
+    "brand": "Flux Care",
+    "name": "Gel Intime à l'Extrait de Lavande",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, PROPYLENE GLYCOL, GLYCERIN, COCO-GLUCOSIDE, C12-15 ALKYL LACTATE, LAVANDULA ANGUSTIFOLIA EXTRACT, SODIUM BENZOATE, POTASSIUM SORBATE, PARFUM, LACTIC ACID, DISODIUM EDTA, SODIUM CHLORIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073855/algerian_cosmetics/flux_care_gel_intime_%C3%A0_lextrait_de_lavande.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-003",
+    "brand": "Flux Care",
+    "name": "Gel Intime à l'Extrait de Cranberry",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "245ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, PROPYLENE GLYCOL, GLYCERIN, COCO-GLUCOSIDE, C12-15 ALKYL LACTATE, VACCINIUM MACROCARPON FRUIT EXTRACT, SODIUM BENZOATE, POTASSIUM SORBATE, PARFUM, LACTIC ACID, DISODIUM EDTA, SODIUM CHLORIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073864/algerian_cosmetics/flux_care_gel_intime_%C3%A0_lextrait_de_cranberry_245_ml.jpg",
+    "marketingClaims": [
+      "توازن الحموضة",
+      "تنظيف لطيف",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-016",
+    "brand": "Flux Care",
+    "name": "Shampooing Doux Huile d'Argan & Cranberry",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, ARGANIA SPINOSA KERNEL OIL, PEG-40 HYDROGENATED CASTOR OIL, VACCINIUM MACROCARPON FRUIT EXTRACT, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, CITRIC ACID, COCAMIDE DEA, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073871/algerian_cosmetics/flux_care_shampooing_doux_huile_dargan_cranberry_265_ml.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "حماية اللون",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-003",
+    "brand": "Flux Care",
+    "name": "Eau Micellaire à Base d'Extrait de Cranberry et Acide Glycolique Peeling Doux Peau Normale",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM PCA, DIGLYCERIN, UREA, HYDROLYZED RICE PROTEIN, SORBITOL, LYSINE, PCA, ALLANTOIN, LACTIC ACID, PPG-26-BUTETH-26, PEG-40 HYDROGENATED CASTOR OIL, VACCINIUM MACROCARPON FRUIT EXTRACT, GLYCOLIC ACID, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, OCTENIDINE HCL, PARFUM, DISODIUM EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073873/algerian_cosmetics/flux_care_eau_micellaire_%C3%A0_base_dextrait_de_cranberry_et_aci.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تقشير لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-004",
+    "brand": "Flux Care",
+    "name": "Color Fix Crème Protectrice Oil Replacement Cheveux Colorés ou Méchés",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZOPHENONE-4, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073877/algerian_cosmetics/flux_care_color_fix_cr%C3%A8me_protectrice_oil_replacement_cheveu.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-004",
+    "brand": "Flux Care",
+    "name": "Eau Micellaire Démaquillante le Rituel Beauté",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "400ml",
+    "ingredients": "AQUA, PANTHENOL, PPG-26-BUTETH-26, PEG-40 HYDROGENATED CASTOR OIL, GLYCERIN, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, CITRIC ACID, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073879/algerian_cosmetics/flux_care_eau_micellaire_d%C3%A9maquillante_le_rituel_beaut%C3%A9_400_.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-017",
+    "brand": "Flux Care",
+    "name": "Shampooing Antipelliculaire Men Edition Lime Freshness Sébo-régulateur",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, SODIUM CITRATE, PARFUM, PIROCTONE OLAMINE, CITRIC ACID, CITRUS LIMON FRUIT EXTRACT, MENTHA PIPERITA OIL, GLYCERIN, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM HYDROXIDE, PROPYLENE GLYCOL, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, DISODIUM EDTA",
+    "image": null,
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني",
+      "تنقية عميقة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-001",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Let's Go to Bali - Corps & Mains",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, PRUNUS AMYGDALUS DULCIS OIL, BUTYROSPERMUM PARKII BUTTER, PEG-40 STEARATE, CARBOMER, TOCOPHEROL, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073889/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_lets_go_to_bali_corps_mains.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-012",
+    "brand": "Flux Care",
+    "name": "Démêlant Reconstituant Ultimate Repair - Ceramide",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLUCOSYL CERAMIDES, PHOSPHOLIPIDS, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CHOLESTEROL, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BHT, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073891/algerian_cosmetics/flux_care_d%C3%A9m%C3%AAlant_reconstituant_ultimate_repair_ceramide.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-010",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Masque Capillaire Camomille & Miel de Fleurs Cheveux Blonds",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, CHAMOMILLA RECUTITA FLOWER EXTRACT, MEL EXTRACT, RICINUS COMMUNIS SEED OIL, HYDROLYZED WHEAT PROTEIN, POLYQUATERNIUM-7, CETEARETH-20, GLYCERYL MONOSTEARATE, PARFUM, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073893/algerian_cosmetics/flux_care_secret_de_soin_masque_capillaire_camomille_miel_de.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-002",
+    "brand": "Flux Care",
+    "name": "Lait pour le Corps Verveine & Citron Jaune",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "380ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETEARETH-20, STEARIC ACID, PRUNUS AMYGDALUS DULCIS OIL, ISOPROPYL MYRISTATE, GLYCERIN, VERBENA OFFICINALIS LEAF EXTRACT, CITRUS LIMON PEEL OIL, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, XANTHAN GUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073895/algerian_cosmetics/flux_care_lait_pour_le_corps_verveine_citron_jaune_380_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-011",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire Cheveux Abîmés et Endommagés Ceramide",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, GLUCOSYL CERAMIDES, PHOSPHOLIPIDS, CHOLESTEROL, PARFUM, CITRIC ACID, BHT, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073897/algerian_cosmetics/flux_care_masque_capillaire_cheveux_ab%C3%AEm%C3%A9s_et_endommag%C3%A9s_cer.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-012",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire Cheveux Déshydratés et Fatigués Acide Hyaluronique",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "370ml",
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, PARFUM, CITRIC ACID, BHT, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073902/algerian_cosmetics/flux_care_masque_capillaire_cheveux_d%C3%A9shydrat%C3%A9s_et_fatigu%C3%A9s_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-013",
+    "brand": "Flux Care",
+    "name": "Expert Bond Restore Après-shampooing Conditionneur à l'Acide Citrique",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, GLYCERIN, CETEARETH-20, HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, CITRIC ACID, ISOPROPYL MYRISTATE, HYDROXYPROPYL GUAR, METHYLISOTHIAZOLINONE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073904/algerian_cosmetics/flux_care_expert_bond_restore_apr%C3%A8sshampooing_conditionneur_.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-014",
+    "brand": "Flux Care",
+    "name": "Après-shampooing sans Sulfates Silver Shine aux Pigments Violets",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, ACID VIOLET 43, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073912/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_sans_sulfates_silver_shine_aux_pig.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-003",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Mains & Corps Stay Fresh Concombre",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER, TOCOPHEROL, CUCUMIS SATIVUS FRUIT EXTRACT, CARBOMER, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073913/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_mains_corps_stay_fresh_concombre.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-004",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Mains & Corps Stay Fresh Grenade",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER, PUNICA GRANATUM EXTRACT, TOCOPHEROL, CARBOMER, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073915/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_mains_corps_stay_fresh_grenade_150_.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-013",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Masque Capillaire Figue Fraîche & Sucre Doré",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER, TOCOPHEROL, CITRUS AURANTIUM AMARA FLOWER EXTRACT, RICINUS COMMUNIS SEED OIL, HYDROLYZED WHEAT PROTEIN, POLYQUATERNIUM-1, CETEARETH-20, GLYCERYL MONOSTEARATE, PARFUM, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073921/algerian_cosmetics/flux_care_secret_de_soin_masque_capillaire_figue_fra%C3%AEche_suc.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-015",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Après Shampooing Hydratant Eau de Coco & Aloe Vera Nutrition & Légèreté",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, ALOE BARBADENSIS LEAF EXTRACT, COCOS NUCIFERA WATER, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, BUTYLATED HYDROXYTOLUENE, PARFUM, METHYLISOTHIAZOLINONE, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073923/algerian_cosmetics/flux_care_secret_de_soin_apr%C3%A8s_shampooing_hydratant_eau_de_c.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-018",
+    "brand": "Flux Care",
+    "name": "Shampooing Fraîcheur Détox - 5 Plantes Précieuses",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, CITRUS LIMON FRUIT EXTRACT, URTICA DIOICA EXTRACT, LIPPIA CITRIODORA (VERBENA) OIL, EUCALYPTUS GLOBULUS LEAF OIL, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073925/algerian_cosmetics/flux_care_shampooing_fra%C3%AEcheur_d%C3%A9tox_5_plantes_pr%C3%A9cieuses.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "توازن الدهون والزيوت",
+      "مضاد للقشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-SCR-FLU-003",
+    "brand": "Flux Care",
+    "name": "Gommage Exfoliant Visage & Corps Peaux Sensibles à Ternes",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "GLYCINE SOJA OIL, COCAMIDOPROPYL BETAINE, AQUA, ASCORBIC ACID, CETEARYL ALCOHOL, GLYCERYL STEARATE, CETEARETH-20, MEL EXTRACT, PARFUM, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, PUMICE, BHT, CI 75130",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073928/algerian_cosmetics/flux_care_gommage_exfoliant_visage_corps_peaux_sensibles_%C3%A0_t.jpg",
+    "marketingClaims": [
+      "تقشير لطيف",
+      "تفتيح البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-014",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire Eau de Coco & Aloe Vera Nutrition & Légèreté",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCOS NUCIFERA WATER, ALOE BARBADENSIS LEAF EXTRACT, RICINUS COMMUNIS SEED OIL, HYDROLYZED WHEAT PROTEIN, POLYQUATERNIUM-7, CETEARETH-20, GLYCERYL MONOSTEARATE, PARFUM, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073930/algerian_cosmetics/flux_care_masque_capillaire_eau_de_coco_aloe_vera_nutrition_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-015",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire Huile de Monoï et Néroli - Cheveux Très Secs et Abîmés",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, ISOPROPYL MYRISTATE, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER, TOCOPHEROL, CITRUS AURANTIUM AMARA FLOWER EXTRACT, RICINUS COMMUNIS SEED OIL, HYDROLYZED WHEAT PROTEIN, POLYQUATERNIUM-7, CETEARETH-20, GLYCERYL MONOSTEARATE, PARFUM, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, SODIUM BENZOATE, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073932/algerian_cosmetics/flux_care_masque_capillaire_huile_de_mono%C3%AF_et_n%C3%A9roli_cheveux.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-016",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Nourrissant Olive Divine",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, OLEA EUROPAEA FRUIT OIL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073934/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_nourrissant_olive_divine.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SCR-FLU-004",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Gommage Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "GLYCINE SOJA OIL, COCAMIDOPROPYL BETAINE, ARGANIA SPINOSA KERNEL OIL, VACCINIUM MACROCARPON FRUIT EXTRACT, AQUA, CETEARYL ALCOHOL, GLYCERYL STEARATE, CETEARETH-20, PARFUM, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, ARGANIA SPINOSA SHELL POWDER, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073935/algerian_cosmetics/flux_care_secret_de_soin_gommage_corps.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "مرطب للبشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-019",
+    "brand": "Flux Care",
+    "name": "Shampooing Nourrissant Olive Divine",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, OLEA EUROPAEA FRUIT OIL, PEG-40 HYDROGENATED CASTOR OIL, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, CITRIC ACID, COCAMIDE DEA, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073937/algerian_cosmetics/flux_care_shampooing_nourrissant_olive_divine.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-016",
+    "brand": "Flux Care",
+    "name": "Masque Capillaire Cheveux Blonds, Gris ou Méchés aux Pigments Violets",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL MONOSTEARATE, RICINUS COMMUNIS SEED OIL, ISOPROPYL MYRISTATE, SIMMONDSIA CHINENSIS SEED OIL, COCOS NUCIFERA OIL, BEHENTRIMONIUM CHLORIDE, CETRIMONIUM CHLORIDE, ACID VIOLET 43, PARFUM, CITRIC ACID, BHT, SODIUM BENZOATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073939/algerian_cosmetics/flux_care_masque_capillaire_cheveux_blonds_gris_ou_m%C3%A9ch%C3%A9s_au.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-005",
+    "brand": "Flux Care",
+    "name": "Oil Replacement Crème Nourrissante Huile d'Avocat & Beurre de Karité Cheveux Secs Frisés ou Crépus",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, PERSEA GRATISSIMA OIL, BUTYROSPERMUM PARKII BUTTER, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073941/algerian_cosmetics/flux_care_oil_replacement_cr%C3%A8me_nourrissante_huile_davocat_b.jpg",
+    "marketingClaims": [
+      "مخصص للشعر الجاف",
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مكافحة التجعد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-020",
+    "brand": "Flux Care",
+    "name": "Shampooing Antipelliculaire Men Edition Sandalwood Anti-chute",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, GLYCOL DISTEARATE, SODIUM CITRATE, PARFUM, PIROCTONE OLAMINE, HYDROLYZED KERATIN, SANTALUM ALBUM OIL, CITRIC ACID, GLYCERIN, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM HYDROXIDE, PROPYLENE GLYCOL, DISODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": null,
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مضاد لتساقط الشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-006",
+    "brand": "Flux Care",
+    "name": "Revive Hyaluronique Crème Hydratante sans Rinçage",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, SODIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, LACTIC ACID, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073943/algerian_cosmetics/flux_care_revive_hyaluronique_cr%C3%A8me_hydratante_sans_rin%C3%A7age.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SCR-FLU-005",
+    "brand": "Flux Care",
+    "name": "Gommage Exfoliant Visage & Corps Secret de Soin Peaux à Imperfections",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "GLYCINE SOJA OIL, COCAMIDOPROPYL BETAINE, PERSEA GRATISSIMA OIL, AQUA, CETEARYL ALCOHOL, GLYCERYL STEARATE, CETEARETH-20, CURCUMA LONGA ROOT EXTRACT, PARFUM, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, CITRUS AURANTIUM DULCIS PEEL POWDER, BHT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073944/algerian_cosmetics/flux_care_gommage_exfoliant_visage_corps_secret_de_soin_peau.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-004",
+    "brand": "Flux Care",
+    "name": "Savon Naturel à l'Huile de Carotte Éclaircissant",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100g",
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, DAUCUS CAROTA FRUIT OIL, BETA-CAROTENE, GLYCINE SOJA OIL, GLYCERIN, SORBITOL, WATER, TETRASODIUM EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073946/algerian_cosmetics/flux_care_savon_naturel_%C3%A0_lhuile_de_carotte_%C3%A9claircissant_10.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+    {
+    "id": "DZ-HSE-FLU-007",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Nutri-soin Serum Olive Divine",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, OLEA EUROPAEA FRUIT OIL, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073948/algerian_cosmetics/flux_care_perfect_hair_serum_nutrisoin_serum_olive_divine_12.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-008",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Anti-frisottis Huile de Coco Lissage + Protection Chaleur",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, ALOE BARBADENSIS EXTRACT, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073950/algerian_cosmetics/flux_care_perfect_hair_serum_antifrisottis_huile_de_coco_lis.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "حماية من الحرارة",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-021",
+    "brand": "Flux Care",
+    "name": "Shampooing Professionnel sans Sulfates Ultimate Repair Ceramide",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "500ml",
+    "ingredients": "AQUA, SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, GLYCERIN, GLYCOL DISTEARATE, PROPYLENE GLYCOL, POLYQUATERNIUM-10, SALICYLIC ACID, GLUCOSYL CERAMIDE, PHOSPHOLIPIDS, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CHOLESTEROL, SODIUM HYDROXIDE, CITRIC ACID, PARFUM, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073953/algerian_cosmetics/flux_care_shampooing_professionnel_sans_sulfates_ultimate_re.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-017",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Fraîcheur Détox 5 Plantes Précieuses",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "240ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL, CITRUS LIMON FRUIT EXTRACT, URTICA DIOICA EXTRACT, LIPPIA CITRIODORA (VERBENA) OIL, EUCALYPTUS GLOBULUS LEAF OIL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073955/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_fra%C3%AEcheur_d%C3%A9tox_5_plantes_pr%C3%A9cieus.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-018",
+    "brand": "Flux Care",
+    "name": "Démêlant Micellaire Purifiant Huile de Rose & Fleur de Coton",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, ROSA DAMASCENA FLOWER OIL, GOSSYPIUM HERBACEUM FLOWER EXTRACT, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073957/algerian_cosmetics/flux_care_d%C3%A9m%C3%AAlant_micellaire_purifiant_huile_de_rose_fleur_.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-019",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Professionnel Ultimate Repair Ceramide",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "700ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLUCOSYL CERAMIDES, PHOSPHOLIPIDS, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CHOLESTEROL, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073960/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_professionnel_ultimate_repair_cera.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-022",
+    "brand": "Flux Care",
+    "name": "Men Edition Ocean Deep Shampooing Antipelliculaire",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, SODIUM CITRATE, PARFUM, PIROCTONE OLAMINE, CITRIC ACID, MARIS SAL, MENTHOL, GLYCERIN, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM HYDROXIDE, PROPYLENE GLYCOL, DISODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CI 42051",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073967/algerian_cosmetics/flux_care_men_edition_ocean_deep_shampooing_antipelliculaire.jpg",
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "تنظيف عميق",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-002",
+    "brand": "Flux Care",
+    "name": "Masque Visage Curcuma & Carotte Peaux à Imperfections",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, GLYCERIN, KAOLIN, SODIUM METHYL COCOYL TAURATE, TRIDECETH-9, SALICYLIC ACID, C12-15 ALKYL LACTATE, CURCUMA LONGA ROOT EXTRACT, DAUCUS CAROTA FRUIT OIL, CETYL ALCOHOL, DECYL GLUCOSIDE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, XANTHAN GUM, DISODIUM EDTA, SODIUM CITRATE, PARFUM, CI 77492, PHENOXYETHANOL, CAPRYLYL GLYCOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073968/algerian_cosmetics/flux_care_masque_visage_curcuma_carotte_peaux_%C3%A0_imperfection.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-023",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Pure Clay Hair Filler Avant Shampooing",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, KAOLIN, COCAMIDOPROPYL BETAINE, MAGNESIUM ALUMINUM SILICATE, GLYCERIN, MONTMORILLONITE, CITRIC ACID, ACRYLATES COPOLYMER, SODIUM CHLORIDE, SODIUM BENZOATE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-10, SALICYLIC ACID, PARFUM, PIROCTONE OLAMINE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073970/algerian_cosmetics/flux_care_secret_de_soin_pure_clay_hair_filler_avant_shampoo.jpg",
+    "marketingClaims": [
+      "تنقية عميقة",
+      "توازن الدهون والزيوت",
+      "مخصص للشعر الدهني"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-024",
+    "brand": "Flux Care",
+    "name": "Care Secret de Soin - Shampooing Illuminant camomille cheveux blonds",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, MEL EXTRACT, CHAMOMILLA RECUTITA FLOWER EXTRACT, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073972/algerian_cosmetics/flux_care_care_secret_de_soin_shampooing_illuminant_camomill.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "حماية اللون",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-020",
+    "brand": "Flux Care",
+    "name": "Démêlant Soin Secret de Soin Huile d'Argan & Cranberry",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, ARGANIA SPINOSA KERNEL OIL, VACCINIUM MACROCARPON FRUIT EXTRACT, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073973/algerian_cosmetics/flux_care_d%C3%A9m%C3%AAlant_soin_secret_de_soin_huile_dargan_cranberr.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "حماية اللون",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-021",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Nourrissant Huile d'Avocat & Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, PERSEA GRATISSIMA OIL, BUTYROSPERMUM PARKII BUTTER, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM, CI 19140, CI 15985",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073975/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_nourrissant_huile_davocat_beurre_d.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-025",
+    "brand": "Flux Care",
+    "name": "Care Secret de Soin - Shampooing Hydratant Eau de Coco & Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, ALOE BARBADENSIS LEAF EXTRACT, COCOS NUCIFERA WATER, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073979/algerian_cosmetics/flux_care_care_secret_de_soin_shampooing_hydratant_eau_de_co.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-005",
+    "brand": "Flux Care",
+    "name": "Soin Douche Huile de Monoï et Néroli",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER EXTRACT, TOCOPHEROL, PEG-40 HYDROGENATED CASTOR OIL, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, CITRIC ACID, COCAMIDE DEA, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073981/algerian_cosmetics/flux_care_soin_douche_huile_de_mono%C3%AF_et_n%C3%A9roli.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-009",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Anti-frisottis Huile de Monoï et Néroli - Cheveux Secs et Abîmés",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073983/algerian_cosmetics/flux_care_perfect_hair_serum_antifrisottis_huile_de_mono%C3%AF_et.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تلميع ولمعان",
+      "إصلاح الشعر المتضرر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-026",
+    "brand": "Flux Care",
+    "name": "Care Secret de Soin - Shampooing Micellaire Purifiant - Huile de Rose & Fleur de Coton",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, ROSA DAMASCENA FLOWER OIL, PEG-40 HYDROGENATED CASTOR OIL, GOSSYPIUM HERBACEUM FLOWER EXTRACT, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, CITRIC ACID, COCAMIDE DEA, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073987/algerian_cosmetics/flux_care_care_secret_de_soin_shampooing_micellaire_purifian.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية عميقة",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-005",
+    "brand": "Flux Care",
+    "name": "Gel Nettoyant Visage Anti-boutons Charbon Végétale & Acide Salicylique",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "390ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, SODIUM LAURETH SULFATE, GLYCERIN, SALICYLIC ACID, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, COCO-GLUCOSIDE, POLYQUATERNIUM-7, SODIUM BENZOATE, MENTHOL, SODIUM HYDROXIDE, PARFUM, PROPYLENE GLYCOL, DISODIUM EDTA, CHARCOAL POWDER, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073989/algerian_cosmetics/flux_care_gel_nettoyant_visage_antiboutons_charbon_v%C3%A9g%C3%A9tale_.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-003",
+    "brand": "Flux Care",
+    "name": "Masque Visage Huile d'Argan & Cranberry",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, GLYCERIN, HELIANTHUS ANNUUS SEED OIL, CETEARYL ALCOHOL, GLYCERYL STEARATE SE, PARFUM, ARGANIA SPINOSA KERNEL OIL, XANTHAN GUM, SODIUM LACTATE, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, CAPRYLYL GLYCOL, CI 75125",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073991/algerian_cosmetics/flux_care_masque_visage_huile_dargan_cranberry_150_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-004",
+    "brand": "Flux Care",
+    "name": "Masque Visage Miel & Vitamine c",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, GLYCERIN, XANTHAN GUM, ASCORBIC ACID, MEL EXTRACT, CITRUS AURANTIUM DULCIS PEEL POWDER, COCOYL METHYL GLUCAMIDE, PARFUM, PPG-26-BUTETH-26, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, CAPRYLYL GLYCOL, CI 77492",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073992/algerian_cosmetics/flux_care_masque_visage_miel_vitamine_c_150_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-005",
+    "brand": "Flux Care",
+    "name": "Masque Visage Eau de Rose & Argile Blanche",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, KAOLIN, CETEARYL ALCOHOL, HELIANTHUS ANNUUS SEED OIL, ROSA DAMASCENA FLOWER WATER, GLYCERYL STEARATE SE, GLYCERIN, DECYL GLUCOSIDE, XANTHAN GUM, PARFUM, LACTIC ACID, TOCOPHEROL, PHENOXYETHANOL, CAPRYLYL GLYCOL, CI 45430",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073994/algerian_cosmetics/flux_care_masque_visage_eau_de_rose_argile_blanche_150_ml.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة مختلطة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-010",
+    "brand": "Flux Care",
+    "name": "Serum Ultimate Repair",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, CAMELLIA OLEIFERA SEED OIL, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073996/algerian_cosmetics/flux_care_serum_ultimate_repair_120_ml.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تلميع ولمعان",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-006",
+    "brand": "Flux Care",
+    "name": "Masque Visage Argile Verte & Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, MONTMORILLONITE, CETEARYL ALCOHOL, HELIANTHUS ANNUUS SEED OIL, ALOE BARBADENSIS EXTRACT, GLYCERYL STEARATE SE, GLYCERIN, DECYL GLUCOSIDE, XANTHAN GUM, PARFUM, LACTIC ACID, TOCOPHEROL, PHENOXYETHANOL, CAPRYLYL GLYCOL, CI 44090",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073998/algerian_cosmetics/flux_care_masque_visage_argile_verte_aloe_vera_150_ml.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "توازن الدهون والزيوت",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-006",
+    "brand": "Flux Care",
+    "name": "Gel Nettoyant Visage Éclaircissant Curcuma & Huile D Avocat",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, SODIUM LAURETH SULFATE, GLYCERIN, CURCUMA LONGA ROOT EXTRACT, PERSEA GRATISSIMA OIL, PEG-40 HYDROGENATED CASTOR OIL, SALICYLIC ACID, COCO-GLUCOSIDE, POLYQUATERNIUM-7, SODIUM BENZOATE, AMINOMETHYL PROPANOL, PARFUM, PROPYLENE GLYCOL, DISODIUM EDTA, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074000/algerian_cosmetics/flux_care_gel_nettoyant_visage_%C3%A9claircissant_curcuma_huile_d.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تنظيف عميق",
+      "توحيد لون البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-007",
+    "brand": "Flux Care",
+    "name": "Masque Visage Thé Vert, Charbon & Acide Salicylique",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, GLYCERIN, KAOLIN, SODIUM METHYL COCOYL TAURATE, TRIDECETH-9, SALICYLIC ACID, C12-15 ALKYL LACTATE, CHARCOAL POWDER, CAMELLIA SINENSIS LEAF EXTRACT, CETYL ALCOHOL, DECYL GLUCOSIDE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, XANTHAN GUM, DISODIUM EDTA, SODIUM CITRATE, PARFUM, PHENOXYETHANOL, CAPRYLYL GLYCOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074001/algerian_cosmetics/flux_care_masque_visage_th%C3%A9_vert_charbon_acide_salicylique_1.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-007",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Perfect Long Crème Réparatrice sans Rinçage",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, RICINUS COMMUNIS SEED OIL, HYDROLYZED KERATIN, CAMELLIA JAPONICA SEED OIL, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074003/algerian_cosmetics/flux_care_secret_de_soin_perfect_long_cr%C3%A8me_r%C3%A9paratrice_sans.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-007",
+    "brand": "Flux Care",
+    "name": "Gel Nettoyant Visage Anti-taches Brunes Vitamine C & Extrait de Miel",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "390ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, SODIUM LAURETH SULFATE, GLYCERIN, ETHYL ASCORBIC ACID, MEL EXTRACT, TOCOPHERYL ACETATE, COCO-GLUCOSIDE, POLYQUATERNIUM-7, SODIUM BENZOATE, AMINOMETHYL PROPANOL, PARFUM, PROPYLENE GLYCOL, DISODIUM EDTA, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074005/algerian_cosmetics/flux_care_gel_nettoyant_visage_antitaches_brunes_vitamine_c_.jpg",
+    "marketingClaims": [
+      "تفتيح البقع الداكنة",
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-005",
+    "brand": "Flux Care",
+    "name": "Crème Visage Huile de Coco & Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, PROPYLENE GLYCOL, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL STEARATE, BHT, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDES, COCOS NUCIFERA OIL, CARBOMER, DIMETHICONE, ALOE BARBADENSIS EXTRACT, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, TOCOPHEROL, AMINOMETHYL PROPANOL, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074007/algerian_cosmetics/flux_care_cr%C3%A8me_visage_huile_de_coco_aloe_vera.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-006",
+    "brand": "Flux Care",
+    "name": "Crème Hydratante Visage & Corps Eau de Rose & Beurre de Karité",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, PROPYLENE GLYCOL, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL STEARATE, BUTYLATED HYDROXYTOLUENE, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDES, BUTYROSPERMUM PARKII BUTTER, CARBOMER, DIMETHICONE, ROSA DAMASCENA FLOWER WATER, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, AMINOMETHYL PROPANOL, TOCOPHEROL, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074009/algerian_cosmetics/flux_care_cr%C3%A8me_hydratante_visage_corps_eau_de_rose_beurre_d.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-007",
+    "brand": "Flux Care",
+    "name": "Lait pour le Corps Huile de Rose & Fleur de Coton",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "380ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETEARETH-20, STEARIC ACID, PRUNUS AMYGDALUS DULCIS OIL, ISOPROPYL MYRISTATE, GLYCERIN, ROSA DAMASCENA FLOWER WATER, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, XANTHAN GUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074011/algerian_cosmetics/flux_care_lait_pour_le_corps_huile_de_rose_fleur_de_coton_38.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-011",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Color Fix Anti UV",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, ETHYLHEXYL METHOXYCINNAMATE, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074013/algerian_cosmetics/flux_care_perfect_hair_serum_color_fix_anti_uv_120_ml.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "حماية من الشمس"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-022",
+    "brand": "Flux Care",
+    "name": "Soin Démêlant Illuminant Camomille & Miel de Fleurs",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, MEL EXTRACT, CHAMOMILLA RECUTITA FLOWER EXTRACT, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074015/algerian_cosmetics/flux_care_soin_d%C3%A9m%C3%AAlant_illuminant_camomille_miel_de_fleurs.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "تغذية الشعر",
+      "حماية اللون"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-008",
+    "brand": "Flux Care",
+    "name": "Gel Nettoyant Visage Anti-âge Extrait de Cranberry & Acide Glycolique",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "390ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, SODIUM LAURETH SULFATE, GLYCERIN, GLYCOLIC ACID, SALICYLIC ACID, VACCINIUM MACROCARPON FRUIT EXTRACT, COCO-GLUCOSIDE, POLYQUATERNIUM-7, SODIUM BENZOATE, AMINOMETHYL PROPANOL, PARFUM, PROPYLENE GLYCOL, DISODIUM EDTA, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074016/algerian_cosmetics/flux_care_gel_nettoyant_visage_anti%C3%A2ge_extrait_de_cranberry_.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "تقشير لطيف",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-023",
+    "brand": "Flux Care",
+    "name": "Soin Régénérant Secret de Soin Figue Fraîche & Sucre Doré - Cheveux Très Secs",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, FICUS CARICA FRUIT EXTRACT, XYLITOL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074018/algerian_cosmetics/flux_care_soin_r%C3%A9g%C3%A9n%C3%A9rant_secret_de_soin_figue_fra%C3%AEche_sucre.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-024",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Soleil Secret de Soin Huile de Monoï et Néroli",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "240ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER EXTRACT, TOCOPHEROL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074020/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_soleil_secret_de_soin_huile_de_mon.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-008",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Mains & Corps Summer Breeze",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER, TOCOPHEROL, CARBOMER, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074022/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_mains_corps_summer_breeze_150_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-009",
+    "brand": "Flux Care",
+    "name": "Crème Hydratante Visage & Corps Vitamine C & Miel de Fleurs",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, PROPYLENE GLYCOL, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL STEARATE, BUTYLATED HYDROXYTOLUENE, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDES, ASCORBYL GLUCOSIDE, CARBOMER, DIMETHICONE, MEL EXTRACT, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, AMINOMETHYL PROPANOL, TOCOPHEROL, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074024/algerian_cosmetics/flux_care_cr%C3%A8me_hydratante_visage_corps_vitamine_c_miel_de_f.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-012",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Anti-casse Huile de Rose & Fleur de Coton",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": null,
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, ROSA DAMASCENA FLOWER OIL, GOSSYPIUM HERBACEUM FLOWER EXTRACT, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074025/algerian_cosmetics/flux_care_perfect_hair_serum_anticasse_huile_de_rose_fleur_d.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تلميع ولمعان",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-008",
+    "brand": "Flux Care",
+    "name": "Expert Bond Restore Oil Replacement Crème Régénératrice sans Rinçage sans Sulfates Cheveux Abîmés",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, CITRIC ACID, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074028/algerian_cosmetics/flux_care_expert_bond_restore_oil_replacement_cr%C3%A8me_r%C3%A9g%C3%A9n%C3%A9ra.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-010",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Mains & Corps Stay Fresh Citron",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150ml",
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, BUTYROSPERMUM PARKII BUTTER, PANTHENOL, TOCOPHEROL, CARBOMER, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074030/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_mains_corps_stay_fresh_citron_150_m.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-011",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Corps & Mains Let's Go to Cuba",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, ALOE BARBADENSIS LEAF JUICE, BUTYROSPERMUM PARKII BUTTER, PEG-40 STEARATE, CARBOMER, TOCOPHEROL, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074031/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_corps_mains_lets_go_to_cuba.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-004",
+    "brand": "Flux Care",
+    "name": "Let's Go to Hawaii Brume Parfumée Cheveux & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "210ml",
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 45100",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074033/algerian_cosmetics/flux_care_lets_go_to_hawaii_brume_parfum%C3%A9e_cheveux_corps_210.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-FLU-012",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Crème Hydratante Visage & Corps Huile d'Avocat & Provitamine B5",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, PROPYLENE GLYCOL, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL STEARATE, BUTYLATED HYDROXYTOLUENE, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDES, PERSEA GRATISSIMA OIL, CARBOMER, DIMETHICONE, PANTHENOL, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, AMINOMETHYL PROPANOL, TOCOPHEROL, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074035/algerian_cosmetics/flux_care_secret_de_soin_cr%C3%A8me_hydratante_visage_corps_huile.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-009",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Oil Replacement Ultimate Repair Ceramide Crème Réparatrice sans Rinçage Cheveux Abîmés et Endommagés",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, GLUCOSYL CERAMIDE, PHOSPHOLIPIDS, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, SODIUM HYDROXIDE, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074037/algerian_cosmetics/flux_care_secret_de_soin_oil_replacement_ultimate_repair_cer.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-005",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps Let's Go to Cuba",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "210ml",
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 77288",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074039/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_lets_go_to_cuba_210_m.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-FLU-006",
+    "brand": "Flux Care",
+    "name": "Gommage Exfoliant Visage & Corps Secret de Soin",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "GLYCINE SOJA OIL, COCAMIDOPROPYL BETAINE, AQUA, CETEARYL ALCOHOL, GLYCERYL STEARATE, CETEARETH-20, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, MARIS SAL, ROSA DAMASCENA FLOWER OIL, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, PUMICE, BHT, CI 18050",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074041/algerian_cosmetics/flux_care_gommage_exfoliant_visage_corps_secret_de_soin.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف لطيف",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-006",
+    "brand": "Flux Care",
+    "name": "Gel Douche Port Champions Edition 4en1 Men Edition",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, UREA, TRIETHYL CITRATE, CITRIC ACID, SODIUM LACTATE, SODIUM CHLORIDE, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074043/algerian_cosmetics/flux_care_gel_douche_port_champions_edition_4en1_men_edition.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-006",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps - Grenade",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 17200",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074045/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_grenade_250_ml.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-FLU-007",
+    "brand": "Flux Care",
+    "name": "Gommage Visage & Corps Exfoliant Noix de Coco & Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": null,
+    "ingredients": "GLYCINE SOJA OIL, COCOS NUCIFERA OIL, COCAMIDOPROPYL BETAINE, AQUA, ALOE BARBADENSIS EXTRACT, CETEARYL ALCOHOL, GLYCERYL STEARATE, CETEARETH-20, PARFUM, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, PUMICE, BHT, CI 44090",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074047/algerian_cosmetics/flux_care_gommage_visage_corps_exfoliant_noix_de_coco_aloe_v.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "مرطب للبشرة",
+      "تهدئة البشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-001",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps Let's Go to Brazil",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 73015",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074049/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_lets_go_to_brazil.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-FLU-001",
+    "brand": "Flux Care",
+    "name": "Gel Douche Corps et Visage Men Edition Lime Freshness Extrait de Citron",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, SODIUM CHLORIDE, CITRIC ACID, CITRUS LIMON FRUIT EXTRACT, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074050/algerian_cosmetics/flux_care_gel_douche_corps_et_visage_men_edition_lime_freshn.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تنقية عميقة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-001",
+    "brand": "Flux Care",
+    "name": "Shampooing Antipelliculaire Men Edition Orange Energy Anti-chute, Anti-casse",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE DEA, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, GLYCOL DISTEARATE, SODIUM CITRATE, PARFUM, PIROCTONE OLAMINE, ASCORBYL GLUCOSIDE, CITRUS AURANTIUM DULCIS FRUIT EXTRACT, CITRIC ACID, GLYCERIN, POLYQUATERNIUM-10, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, SODIUM HYDROXIDE, PROPYLENE GLYCOL, DISODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": null,
+    "marketingClaims": [
+      "مضاد للقشرة",
+      "مضاد لتساقط الشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "فروة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-002",
+    "brand": "Flux Care",
+    "name": "Gel Douche Corps et Visage Men Edition Sandalwood",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, SANTALUM ALBUM OIL, SODIUM CHLORIDE, CITRIC ACID, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074052/algerian_cosmetics/flux_care_gel_douche_corps_et_visage_men_edition_sandalwood.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-TON-FLU-002",
+    "brand": "Flux Care",
+    "name": "Brume Parfumée Cheveux & Corps - Stay Original",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ALCOHOL, PARFUM, PEG-40 HYDROGENATED CASTOR OIL, CI 42051",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074054/algerian_cosmetics/flux_care_brume_parfum%C3%A9e_cheveux_corps_stay_original.jpg",
+    "marketingClaims": [
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-CLE-FLU-001",
+    "brand": "Flux Care",
+    "name": "Gel Nettoyant Visage à l'Huile d'Arbre à Thé Peau Grasse",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, COCAMIDOPROPYL BETAINE, SODIUM LAURETH SULFATE, GLYCERIN, COCO-GLUCOSIDE, SODIUM CHLORIDE, MELALEUCA ALTERNIFOLIA LEAF OIL, ROSA DAMASCENA FLOWER WATER, POLYQUATERNIUM-7, SODIUM HYDROXIDE, CITRIC ACID, PROPYLENE GLYCOL, SALICYLIC ACID, PARFUM, CI 77288",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074056/algerian_cosmetics/flux_care_gel_nettoyant_visage_%C3%A0_lhuile_darbre_%C3%A0_th%C3%A9_peau_gr.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-002",
+    "brand": "Flux Care",
+    "name": "Shampooing Professionnel Color Fix",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "700ml",
+    "ingredients": "SODIUM LAUROYL METHYL ISETHIONATE, SODIUM LAUROYL SARCOSINATE, DISODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, COCO-GLUCOSIDE, GLYCERIN, GLYCOL DISTEARATE, PROPYLENE GLYCOL, POLYQUATERNIUM-10, SALICYLIC ACID, BENZOPHENONE-4, SODIUM HYDROXIDE, CITRIC ACID, PARFUM, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074058/algerian_cosmetics/flux_care_shampooing_professionnel_color_fix_700_ml.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تنظيف لطيف",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-003",
+    "brand": "Flux Care",
+    "name": "Gel Douche Corps et Visage Orange Energy Revitalise et Booste",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, ASCORBYL GLUCOSIDE, SODIUM CHLORIDE, CITRIC ACID, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074060/algerian_cosmetics/flux_care_gel_douche_corps_et_visage_orange_energy_revitalis.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-004",
+    "brand": "Flux Care",
+    "name": "Gel Douche Corps et Visage Tea Charcoal Purifie et Détoxifie Charbon et Thé Vert",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, CHARCOAL POWDER, CAMELLIA SINENSIS LEAF WATER, ACRYLATES COPOLYMER, SODIUM CHLORIDE, CITRIC ACID, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074062/algerian_cosmetics/flux_care_gel_douche_corps_et_visage_tea_charcoal_purifie_et.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام",
+      "توازن الدهون والزيوت"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-005",
+    "brand": "Flux Care",
+    "name": "Gel Douche Sport Fennec Edition Men Edition 3en1",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, UREA, TRIETHYL CITRATE, LACTIC ACID, SODIUM LACTATE, SODIUM CHLORIDE, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074064/algerian_cosmetics/flux_care_gel_douche_sport_fennec_edition_men_edition_3en1_2.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-006",
+    "brand": "Flux Care",
+    "name": "Men Edition Gel Douche Corps et Visage Ocean Deep Fraîcheur Extrême",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "265ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, MARIS SAL, MENTHOL, SODIUM CHLORIDE, CITRIC ACID, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074066/algerian_cosmetics/flux_care_men_edition_gel_douche_corps_et_visage_ocean_deep_.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-007",
+    "brand": "Flux Care",
+    "name": "Gel Douche Sport Men Edition Algeria Edition 3 en 1",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": null,
+    "ingredients": "DIMETHICONE, AQUA, SODIUM LAURETH SULFATE, GLYCERIN, COCAMIDOPROPYL BETAINE, PARFUM, COCAMIDE DEA, POLYQUATERNIUM-7, C12-15 ALKYL LACTATE, UREA, TRIETHYL CITRATE, LACTIC ACID, SODIUM LACTATE, SODIUM CHLORIDE, MENTHOL, DISODIUM EDTA, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074068/algerian_cosmetics/flux_care_gel_douche_sport_men_edition_algeria_edition_3_en_.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-001",
+    "brand": "Flux Care",
+    "name": "Crème Hydratante Visage & Corps Secret de Soin Huile de Monoï & Néroli",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, PROPYLENE GLYCOL, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL STEARATE, BUTYLATED HYDROXYTOLUENE, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDES, COCOS NUCIFERA OIL, CARBOMER, DIMETHICONE, GARDENIA TAHITENSIS FLOWER, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, AMINOMETHYL PROPANOL, TOCOPHEROL, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074070/algerian_cosmetics/flux_care_cr%C3%A8me_hydratante_visage_corps_secret_de_soin_huile.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-001",
+    "brand": "Flux Care",
+    "name": "Masque Visage 3en1 Tea Charcoal Men Edition",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ACRYLATES COPOLYMER, KAOLIN, SODIUM LAURETH SULFATE, SODIUM COCOYL GLUTAMATE, DIETHYLHEXYL SODIUM SULFOSUCCINATE, DECYL GLUCOSIDE, PERLITE, SALICYLIC ACID, CHARCOAL POWDER, CAMELLIA SINENSIS LEAF EXTRACT, COCO-GLUCOSIDE, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074071/algerian_cosmetics/flux_care_masque_visage_3en1_tea_charcoal_men_edition.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "مضاد لحب الشباب",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-002",
+    "brand": "Flux Care",
+    "name": "Men Edition Anti-acné 3en1 Masque Visage Nettoyant Exfoliant Masque Sandal-wood",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ACRYLATES COPOLYMER, KAOLIN, SODIUM LAURETH SULFATE, SODIUM COCOYL GLUTAMATE, DIETHYLHEXYL SODIUM SULFOSUCCINATE, DECYL GLUCOSIDE, PERLITE, SANTALUM ALBUM OIL, SALICYLIC ACID, COCO-GLUCOSIDE, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074073/algerian_cosmetics/flux_care_men_edition_antiacn%C3%A9_3en1_masque_visage_nettoyant_.jpg",
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "تقشير لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FLU-002",
+    "brand": "Flux Care",
+    "name": "Crème Parfumée Mains & Corps - Lait d'Amande et Vitamine E",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETYL ALCOHOL, GLYCERIN, ISOPROPYL MYRISTATE, TRIETHYL CITRATE, GLYCERYL STEARATE, DIMETHICONE, PRUNUS AMYGDALUS DULCIS PROTEIN, BUTYROSPERMUM PARKII BUTTER, TOCOPHEROL, CARBOMER, PARFUM, SODIUM HYDROXIDE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074075/algerian_cosmetics/flux_care_cr%C3%A8me_parfum%C3%A9e_mains_corps_lait_damande_et_vitamin.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLD-001",
+    "brand": "Flux de passion",
+    "name": "Shampooing Complete Hair Care Figue Oriental & Monoï Cheveux Colorés ou Méchés",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "425ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, GLYCOL DISTEARATE, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, SODIUM CHLORIDE, PARFUM, PROPYLENE GLYCOL, COCOS NUCIFERA OIL, GARDENIA TAHITENSIS FLOWER, FICUS CARICA FRUIT EXTRACT, CITRIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074077/algerian_cosmetics/flux_de_passion_shampooing_complete_hair_care_figue_oriental.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "تلميع ولمعان",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-ORE-FLU-001",
+    "brand": "Flux Care",
+    "name": "Glycolic Glow Hair Filler Oil Replacement Crème Soin Brillance sans Rinçage",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, GLYCERIN, CETEARYL ALCOHOL, TRIMETHYLSILOXYPHENYL DIMETHICONE, PEG/PPG-20/20 PHENYLISOPROPYL CAPRYLYL DIMETHICONE, CETRIMONIUM CHLORIDE, CETEARETH-20, GLYCERYL STEARATE, ISOPROPYL MYRISTATE, GLYCOLIC ACID, PARFUM, AMODIMETHICONE/MORPHOLINOMETHYL SILSESQUIOXANE COPOLYMER, TRIDECETH-5, BENZYL ALCOHOL, PPG-2 METHYL ETHER, 2-BROMO-2-NITROPROPANE-1,3-DIOL, IODOPROPYNYL BUTYLCARBAMATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074079/algerian_cosmetics/flux_care_glycolic_glow_hair_filler_oil_replacement_cr%C3%A8me_so.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-008",
+    "brand": "Flux Care",
+    "name": "Savon Naturel au Curcuma Régénérant",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100g",
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, CURCUMA LONGA RHIZOME POWDER, GLYCINE SOJA OIL, GLYCERIN, SORBITOL, WATER, TETRASODIUM EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074081/algerian_cosmetics/flux_care_savon_naturel_au_curcuma_r%C3%A9g%C3%A9n%C3%A9rant_100_g.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-OTH-FLD-001",
+    "brand": "Flux de passion",
+    "name": "Care Touche Hydro Alcoolique Désinfectant Instantané pour les Mains Antibactérien",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": null,
+    "ingredients": "ALCOHOL DENAT., AQUA, GLYCERIN, PROPYLENE GLYCOL, CARBOMER, AMINOMETHYL PROPANOL, HYDROXYPROPYL METHYLCELLULOSE, PARFUM, CI 15985, CI 42090",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074083/algerian_cosmetics/flux_de_passion_care_touche_hydro_alcoolique_d%C3%A9sinfectant_in.jpg",
+    "marketingClaims": [
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-FLU-003",
+    "brand": "Flux Care",
+    "name": "Secret de Soin Shampooing Nourrissant Olive Divine - Cheveux Frisés à Crépus",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, OLEA EUROPAEA FRUIT OIL, PEG-40 HYDROGENATED CASTOR OIL, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, CITRIC ACID, COCAMIDE DEA, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074085/algerian_cosmetics/flux_care_secret_de_soin_shampooing_nourrissant_olive_divine.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مكافحة التجعد",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-009",
+    "brand": "Flux Care",
+    "name": "Savon Naturel au Miel de Fleurs Hydratant",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100g",
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, MEL, GLYCINE SOJA OIL, GLYCERIN, SORBITOL, WATER, TETRASODIUM EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074086/algerian_cosmetics/flux_care_savon_naturel_au_miel_de_fleurs_hydratant_100_g.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-SHA-FLU-004",
+    "brand": "Flux Care",
+    "name": "Shampooing Hydratant Secret de Soin Eau de Coco & Aloe Vera Nutrition & Légèreté",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, ALOE BARBADENSIS LEAF EXTRACT, COCOS NUCIFERA WATER, PROPYLENE GLYCOL, POLYQUATERNIUM-7, CITRIC ACID, C12-15 ALKYL LACTATE, COCAMIDE DEA, CAPRYLOYL/CAPROYL METHYL GLUCAMIDE, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, PARFUM, SODIUM HYDROXIDE, SODIUM CHLORIDE, SALICYLIC ACID, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074088/algerian_cosmetics/flux_care_shampooing_hydratant_secret_de_soin_eau_de_coco_al.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-010",
+    "brand": "Flux Care",
+    "name": "Savon Naturel au Lait de Chèvre Réparateur",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100g",
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, GOAT MILK, GLYCINE SOJA OIL, GLYCERIN, SORBITOL, WATER, TETRASODIUM EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074122/algerian_cosmetics/flux_care_savon_naturel_au_lait_de_ch%C3%A8vre_r%C3%A9parateur_100_g.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تنظيف لطيف",
+      "مهدئ"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-FLU-011",
+    "brand": "Flux Care",
+    "name": "Savon Naturel au Charbon et Thé Vert",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "100g",
+    "ingredients": "SODIUM PALMATE, SODIUM PALM KERNELATE, CHARCOAL POWDER, CAMELLIA SINENSIS SEED OIL, GLYCINE SOJA OIL, GLYCERIN, SORBITOL, WATER, TETRASODIUM EDTA, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074124/algerian_cosmetics/flux_care_savon_naturel_au_charbon_et_th%C3%A9_vert_100_g.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-001",
+    "brand": "Flux Care",
+    "name": "Care Secret de Soin - Après-shampooing Hydratant - Eau de Coco & Aloe Vera",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, ALOE BARBADENSIS LEAF EXTRACT, COCOS NUCIFERA WATER, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074125/algerian_cosmetics/flux_care_care_secret_de_soin_apr%C3%A8sshampooing_hydratant_eau_.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-002",
+    "brand": "Flux Care",
+    "name": "Care Secret de Soin - Après-shampooing Fraîcheur Détox",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, MELALEUCA ALTERNIFOLIA LEAF OIL, CITRUS LIMON FRUIT EXTRACT, URTICA DIOICA EXTRACT, LIPPIA CITRIODORA FLOWER EXTRACT, EUCALYPTUS GLOBULUS LEAF OIL, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074127/algerian_cosmetics/flux_care_care_secret_de_soin_apr%C3%A8sshampooing_fra%C3%AEcheur_d%C3%A9to.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر دهني"
+    ]
+  },
+  {
+    "id": "DZ-CON-FLU-025",
+    "brand": "Flux Care",
+    "name": "Après-shampooing Color Fix",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "250ml",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, CETEARETH-20, ISOPROPYL MYRISTATE, GLYCERIN, COCAMIDE DEA, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, BENZOPHENONE-4, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, BUTYLATED HYDROXYTOLUENE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074129/algerian_cosmetics/flux_care_apr%C3%A8sshampooing_color_fix_250_ml.jpg",
+    "marketingClaims": [
+      "حماية اللون",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-HSE-FLU-013",
+    "brand": "Flux Care",
+    "name": "Perfect Hair Serum Régénérant Figue Fraîche",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
+    },
+    "quantity": "120ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONOL, PHENYL TRIMETHICONE, FICUS CARICA FRUIT EXTRACT, PARFUM, TOCOPHEROL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074131/algerian_cosmetics/flux_care_perfect_hair_serum_r%C3%A9g%C3%A9n%C3%A9rant_figue_fra%C3%AEche_120_ml.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-MSK-FLU-008",
+    "brand": "Flux Care",
+    "name": "Men Edition Anti-fatigue 3en1 Masque Visage Nettoyant-exfoliant-masque Orange Energy Vitamine C + Extrait d'Orange",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": null,
+    "ingredients": "AQUA, ACRYLATES COPOLYMER, KAOLIN, SODIUM LAURETH SULFATE, SODIUM COCOYL GLUTAMATE, DIETHYLHEXYL SODIUM SULFOSUCCINATE, DECYL GLUCOSIDE, PERLITE, ASCORBYL GLUCOSIDE, CITRUS SINENSIS FRUIT EXTRACT, COCO-GLUCOSIDE, CAPRYLYL/CAPRYL GLUCOSIDE, PARFUM, SODIUM HYDROXIDE, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074133/algerian_cosmetics/flux_care_men_edition_antifatigue_3en1_masque_visage_nettoya.jpg",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تقشير",
+      "تفتيح البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  }
 ]
