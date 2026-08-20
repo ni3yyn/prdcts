@@ -5007,7 +5007,7 @@
     "marketingClaims": [],
     "price": {
       "min": 600,
-      "max": 600,
+      "max": 750,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -5298,7 +5298,9 @@
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772293874/h6wumqefyder51tuwryo.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-BWA-UNK-002",
@@ -58744,652 +58746,765 @@
     ]
   },
   {
-      "id": "DZ-HSE-GAR-001",
-      "brand": "Garranso Mino",
-      "name": "Glossy Hair",
-      "country": "Algeria",
-      "category": {
-        "id": "hair_serum",
-        "label": "سيروم للشعر",
-        "icon": "spray-can"
-      },
-      "quantity": "",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073124/algerian_cosmetics/garranso_mino_glossy_hair.jpg",
-      "marketingClaims": ["تلميع ولمعان", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": ["شعر عادي"]
+    "id": "DZ-HSE-GAR-001",
+    "brand": "Garranso Mino",
+    "name": "Glossy Hair",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
     },
-    {
-      "id": "DZ-TON-GAR-001",
-      "brand": "Garranso Mino",
-      "name": "Seduction Brume Hydratante Cheveux & Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "100 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073126/algerian_cosmetics/garranso_mino_seduction_brume_hydratante_cheveux_corps_100_m.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073124/algerian_cosmetics/garranso_mino_glossy_hair.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر عادي"
+    ]
+  },
+  {
+    "id": "DZ-TON-GAR-001",
+    "brand": "Garranso Mino",
+    "name": "Seduction Brume Hydratante Cheveux & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-002",
-      "brand": "Garranso Mino",
-      "name": "Brume Hydratante Cheveux & Corps Seduction",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073129/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_seduction_250_m.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "100 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073126/algerian_cosmetics/garranso_mino_seduction_brume_hydratante_cheveux_corps_100_m.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-002",
+    "brand": "Garranso Mino",
+    "name": "Brume Hydratante Cheveux & Corps Seduction",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-003",
-      "brand": "Garranso Mino",
-      "name": "Brume Hydratante Cheveux & Corps Orchidée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "100 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073131/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_orchid%C3%A9e_100_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073129/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_seduction_250_m.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-003",
+    "brand": "Garranso Mino",
+    "name": "Brume Hydratante Cheveux & Corps Orchidée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-004",
-      "brand": "Garranso Mino",
-      "name": "Océan Fine Brume Parfumée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073132/algerian_cosmetics/garranso_mino_oc%C3%A9an_fine_brume_parfum%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "100 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073131/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_orchid%C3%A9e_100_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-004",
+    "brand": "Garranso Mino",
+    "name": "Océan Fine Brume Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-005",
-      "brand": "Garranso Mino",
-      "name": "Rituel Spa Fine Brume Parfumée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073134/algerian_cosmetics/garranso_mino_rituel_spa_fine_brume_parfum%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073132/algerian_cosmetics/garranso_mino_oc%C3%A9an_fine_brume_parfum%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-005",
+    "brand": "Garranso Mino",
+    "name": "Rituel Spa Fine Brume Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-006",
-      "brand": "Garranso Mino",
-      "name": "Rituel Plaisir Fine Brume Parfumée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073136/algerian_cosmetics/garranso_mino_rituel_plaisir_fine_brume_parfum%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073134/algerian_cosmetics/garranso_mino_rituel_spa_fine_brume_parfum%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-006",
+    "brand": "Garranso Mino",
+    "name": "Rituel Plaisir Fine Brume Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-007",
-      "brand": "Garranso Mino",
-      "name": "Rituel Nature Fine Brume Parfumée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073138/algerian_cosmetics/garranso_mino_rituel_nature_fine_brume_parfum%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073136/algerian_cosmetics/garranso_mino_rituel_plaisir_fine_brume_parfum%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-007",
+    "brand": "Garranso Mino",
+    "name": "Rituel Nature Fine Brume Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-008",
-      "brand": "Garranso Mino",
-      "name": "Glossy Hair Fine Brume Parfume",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCES, TREATED WATER, VITAMIN B5, VITAMIN E",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073141/algerian_cosmetics/garranso_mino_glossy_hair_fine_brume_parfume_250_ml.jpg",
-      "marketingClaims": ["تلميع ولمعان", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073138/algerian_cosmetics/garranso_mino_rituel_nature_fine_brume_parfum%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-008",
+    "brand": "Garranso Mino",
+    "name": "Glossy Hair Fine Brume Parfume",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-BWA-GAR-001",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Hydratant Ambre & Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073143/algerian_cosmetics/garranso_mino_gel_douche_hydratant_ambre_vanille_400_ml.webp",
-      "marketingClaims": ["تنظيف لطيف", "مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCES, TREATED WATER, VITAMIN B5, VITAMIN E",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073141/algerian_cosmetics/garranso_mino_glossy_hair_fine_brume_parfume_250_ml.jpg",
+    "marketingClaims": [
+      "تلميع ولمعان",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-001",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Hydratant Ambre & Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-002",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Hydratant Litchi",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073145/algerian_cosmetics/garranso_mino_gel_douche_hydratant_litchi_400_ml.webp",
-      "marketingClaims": ["تنظيف لطيف", "مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073143/algerian_cosmetics/garranso_mino_gel_douche_hydratant_ambre_vanille_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-002",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Hydratant Litchi",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-003",
-      "brand": "Garranso Mino",
-      "name": "Amore Gel Douche Hydratant",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073147/algerian_cosmetics/garranso_mino_amore_gel_douche_hydratant_400_ml.webp",
-      "marketingClaims": ["تنظيف لطيف", "مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073145/algerian_cosmetics/garranso_mino_gel_douche_hydratant_litchi_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-003",
+    "brand": "Garranso Mino",
+    "name": "Amore Gel Douche Hydratant",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-TON-GAR-009",
-      "brand": "Garranso Mino",
-      "name": "Brume Hydratante Cheveux & Corps Ambre & Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "100 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073149/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_ambre_vanille_1.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073147/algerian_cosmetics/garranso_mino_amore_gel_douche_hydratant_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-009",
+    "brand": "Garranso Mino",
+    "name": "Brume Hydratante Cheveux & Corps Ambre & Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-010",
-      "brand": "Garranso Mino",
-      "name": "Jardin de Rio Brume Hydratante Cheveux & Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "100 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073152/algerian_cosmetics/garranso_mino_jardin_de_rio_brume_hydratante_cheveux_corps_1.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "100 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073149/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_ambre_vanille_1.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-010",
+    "brand": "Garranso Mino",
+    "name": "Jardin de Rio Brume Hydratante Cheveux & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-011",
-      "brand": "Garranso Mino",
-      "name": "Pistachio Caramel Brume Hydratante Visage & Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "100 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073154/algerian_cosmetics/garranso_mino_pistachio_caramel_brume_hydratante_visage_corp.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "100 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073152/algerian_cosmetics/garranso_mino_jardin_de_rio_brume_hydratante_cheveux_corps_1.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-011",
+    "brand": "Garranso Mino",
+    "name": "Pistachio Caramel Brume Hydratante Visage & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-LOT-GAR-001",
-      "brand": "Garranso Mino",
-      "name": "Lait Corporel Ambre & Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073156/algerian_cosmetics/garranso_mino_lait_corporel_ambre_vanille_200_ml.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "100 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073154/algerian_cosmetics/garranso_mino_pistachio_caramel_brume_hydratante_visage_corp.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-GAR-001",
+    "brand": "Garranso Mino",
+    "name": "Lait Corporel Ambre & Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-TON-GAR-012",
-      "brand": "Garranso Mino",
-      "name": "Ombre Rosé Fine Brume Parfumée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073158/algerian_cosmetics/garranso_mino_ombre_ros%C3%A9_fine_brume_parfum%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073156/algerian_cosmetics/garranso_mino_lait_corporel_ambre_vanille_200_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-GAR-012",
+    "brand": "Garranso Mino",
+    "name": "Ombre Rosé Fine Brume Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-LOT-GAR-002",
-      "brand": "Garranso Mino",
-      "name": "Lait Hydratant pour le Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073160/algerian_cosmetics/garranso_mino_lait_hydratant_pour_le_corps_200_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073158/algerian_cosmetics/garranso_mino_ombre_ros%C3%A9_fine_brume_parfum%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-GAR-002",
+    "brand": "Garranso Mino",
+    "name": "Lait Hydratant pour le Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-CON-GAR-001",
-      "brand": "Garranso Mino",
-      "name": "Conditionneur sans Rinçage, Mousse Crémeuse pour Cheveux Abîmés et Secs",
-      "country": "Algeria",
-      "category": {
-        "id": "conditioner",
-        "label": "بلسم/مرطب شعر",
-        "icon": "pump-soap"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, BUTANE, GLYCERIN, CETRIMONIUM CHLORIDE, PEG-40 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-7, PANTHENOL, PROPYLENE GLYCOL, PEG-7 GLYCERYL COCOATE, FRAGRANCE, HYDROLYZED KERATIN, SODIUM BENZOATE, PHENOXYETHANOL, DISODIUM EDTA, CITRIC ACID",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073164/algerian_cosmetics/garranso_mino_conditionneur_sans_rin%C3%A7age_mousse_cr%C3%A9meuse_pou.jpg",
-      "marketingClaims": ["إصلاح الشعر المتضرر", "مرطب للشعر", "مخصص للشعر الجاف"],
-      "price": null,
-      "targetTypes": ["شعر تالف", "شعر جاف"]
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073160/algerian_cosmetics/garranso_mino_lait_hydratant_pour_le_corps_200_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-CON-GAR-001",
+    "brand": "Garranso Mino",
+    "name": "Conditionneur sans Rinçage, Mousse Crémeuse pour Cheveux Abîmés et Secs",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
     },
-    {
-      "id": "DZ-BWA-GAR-004",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Ambre & Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073166/algerian_cosmetics/garranso_mino_gel_douche_ambre_vanille_400_ml.webp",
-      "marketingClaims": ["تنظيف لطيف"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "200 ml",
+    "ingredients": "WATER, BUTANE, GLYCERIN, CETRIMONIUM CHLORIDE, PEG-40 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-7, PANTHENOL, PROPYLENE GLYCOL, PEG-7 GLYCERYL COCOATE, FRAGRANCE, HYDROLYZED KERATIN, SODIUM BENZOATE, PHENOXYETHANOL, DISODIUM EDTA, CITRIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073164/algerian_cosmetics/garranso_mino_conditionneur_sans_rin%C3%A7age_mousse_cr%C3%A9meuse_pou.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "مرطب للشعر",
+      "مخصص للشعر الجاف"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-BWA-GAR-004",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Ambre & Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-005",
-      "brand": "Garranso Mino",
-      "name": "Jardin de Rio Gel Douche Hydratant Jasmin du Brésil Fruit du Dragon Rose",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073168/algerian_cosmetics/garranso_mino_jardin_de_rio_gel_douche_hydratant_jasmin_du_b.jpg",
-      "marketingClaims": ["تنظيف لطيف", "مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073166/algerian_cosmetics/garranso_mino_gel_douche_ambre_vanille_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-005",
+    "brand": "Garranso Mino",
+    "name": "Jardin de Rio Gel Douche Hydratant Jasmin du Brésil Fruit du Dragon Rose",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-006",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Radiance Tubée Rose, Lait de Coco",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073170/algerian_cosmetics/garranso_mino_gel_douche_radiance_tub%C3%A9e_rose_lait_de_coco_40.jpg",
-      "marketingClaims": ["تنظيف لطيف"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073168/algerian_cosmetics/garranso_mino_jardin_de_rio_gel_douche_hydratant_jasmin_du_b.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-006",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Radiance Tubée Rose, Lait de Coco",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-007",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Pistachio Caramel",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073172/algerian_cosmetics/garranso_mino_gel_douche_pistachio_caramel_400_ml.webp",
-      "marketingClaims": ["تنظيف لطيف"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073170/algerian_cosmetics/garranso_mino_gel_douche_radiance_tub%C3%A9e_rose_lait_de_coco_40.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-007",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Pistachio Caramel",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-008",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Orchidée, Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073174/algerian_cosmetics/garranso_mino_gel_douche_orchid%C3%A9e_vanille_400_ml.webp",
-      "marketingClaims": ["تنظيف لطيف"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073172/algerian_cosmetics/garranso_mino_gel_douche_pistachio_caramel_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-008",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Orchidée, Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-GAR-009",
-      "brand": "Garranso Mino",
-      "name": "Gel Douche Seduction Mandarine, Sucre Noix, Amande, Ambre",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "400 ml",
-      "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, PANTHENOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073176/algerian_cosmetics/garranso_mino_gel_douche_seduction_mandarine_sucre_noix_aman.jpg",
-      "marketingClaims": ["تنظيف لطيف"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, PEG-7 GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073174/algerian_cosmetics/garranso_mino_gel_douche_orchid%C3%A9e_vanille_400_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-GAR-009",
+    "brand": "Garranso Mino",
+    "name": "Gel Douche Seduction Mandarine, Sucre Noix, Amande, Ambre",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-LOT-GAR-003",
-      "brand": "Garranso Mino",
-      "name": "Lait Corporel Pistachio Caramel",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073178/algerian_cosmetics/garranso_mino_lait_corporel_pistachio_caramel_200_ml.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "400 ml",
+    "ingredients": "WATER, SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, POLYQUATERNIUM-7, GLYCERYL COCOATE, CITRIC ACID, SODIUM CHLORIDE, METHYLCHLOROISOTHIAZOLINONE, FRAGRANCE, PANTHENOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073176/algerian_cosmetics/garranso_mino_gel_douche_seduction_mandarine_sucre_noix_aman.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-GAR-003",
+    "brand": "Garranso Mino",
+    "name": "Lait Corporel Pistachio Caramel",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-LOT-GAR-004",
-      "brand": "Garranso Mino",
-      "name": "Lait Corporel Orchidée, Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073180/algerian_cosmetics/garranso_mino_lait_corporel_orchid%C3%A9e_vanille_200_ml.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073178/algerian_cosmetics/garranso_mino_lait_corporel_pistachio_caramel_200_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-GAR-004",
+    "brand": "Garranso Mino",
+    "name": "Lait Corporel Orchidée, Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-TON-GAR-013",
-      "brand": "Garranso Mino",
-      "name": "Radiance Brume Hydratante Cheveux & Corps Tuberose Lait de Coco",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073182/algerian_cosmetics/garranso_mino_radiance_brume_hydratante_cheveux_corps_tubero.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073180/algerian_cosmetics/garranso_mino_lait_corporel_orchid%C3%A9e_vanille_200_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-GAR-013",
+    "brand": "Garranso Mino",
+    "name": "Radiance Brume Hydratante Cheveux & Corps Tuberose Lait de Coco",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-LOT-GAR-005",
-      "brand": "Garranso Mino",
-      "name": "Lait Corporel Seduction",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, CETEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073184/algerian_cosmetics/garranso_mino_lait_corporel_seduction_200_ml.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "250 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073182/algerian_cosmetics/garranso_mino_radiance_brume_hydratante_cheveux_corps_tubero.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-GAR-005",
+    "brand": "Garranso Mino",
+    "name": "Lait Corporel Seduction",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-LOT-GAR-006",
-      "brand": "Garranso Mino",
-      "name": "Amore Lait Corporel",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073186/algerian_cosmetics/garranso_mino_amore_lait_corporel_200_ml.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, CETEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073184/algerian_cosmetics/garranso_mino_lait_corporel_seduction_200_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-GAR-006",
+    "brand": "Garranso Mino",
+    "name": "Amore Lait Corporel",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-LOT-GAR-007",
-      "brand": "Garranso Mino",
-      "name": "Lait Corporel Jardin de Rio Jasmin du Brésil Fruit du Dragon Rose",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, CETEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073187/algerian_cosmetics/garranso_mino_lait_corporel_jardin_de_rio_jasmin_du_br%C3%A9sil_f.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, STEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073186/algerian_cosmetics/garranso_mino_amore_lait_corporel_200_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-GAR-007",
+    "brand": "Garranso Mino",
+    "name": "Lait Corporel Jardin de Rio Jasmin du Brésil Fruit du Dragon Rose",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-TON-GAR-014",
-      "brand": "Garranso Mino",
-      "name": "Brume Hydratante Cheveux & Corps Ambre & Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073189/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_ambre_vanille_2.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "200 ml",
+    "ingredients": "WATER, GLYCERIN, SWEET ALMOND OIL, CETYL ALCOHOL, STEARYL ALCOHOL, SHEA BUTTER, CETEARETH-20, CARBOMER, TRIETHANOLAMINE, VITAMIN E, PANTHENOL, PHENOXYETHANOL, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073187/algerian_cosmetics/garranso_mino_lait_corporel_jardin_de_rio_jasmin_du_br%C3%A9sil_f.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-GAR-014",
+    "brand": "Garranso Mino",
+    "name": "Brume Hydratante Cheveux & Corps Ambre & Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-015",
-      "brand": "Garranso Mino",
-      "name": "Brume Hydratante Cheveux & Corps Orchidée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073191/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_orchid%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, PANTHENOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073189/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_ambre_vanille_2.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-015",
+    "brand": "Garranso Mino",
+    "name": "Brume Hydratante Cheveux & Corps Orchidée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-016",
-      "brand": "Garranso Mino",
-      "name": "Brume Hydratante Cheveux & Corps Pistache Macadamia Caramel Vanille",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073193/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_pistache_macada.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073191/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_orchid%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-016",
+    "brand": "Garranso Mino",
+    "name": "Brume Hydratante Cheveux & Corps Pistache Macadamia Caramel Vanille",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-017",
-      "brand": "Garranso Mino",
-      "name": "Passiflore Fine Brume Parfumée",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073195/algerian_cosmetics/garranso_mino_passiflore_fine_brume_parfum%C3%A9e_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073193/algerian_cosmetics/garranso_mino_brume_hydratante_cheveux_corps_pistache_macada.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-017",
+    "brand": "Garranso Mino",
+    "name": "Passiflore Fine Brume Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-018",
-      "brand": "Garranso Mino",
-      "name": "Jardin de Rio Brume Hydratante Cheveux & Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073197/algerian_cosmetics/garranso_mino_jardin_de_rio_brume_hydratante_cheveux_corps_2.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073195/algerian_cosmetics/garranso_mino_passiflore_fine_brume_parfum%C3%A9e_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-018",
+    "brand": "Garranso Mino",
+    "name": "Jardin de Rio Brume Hydratante Cheveux & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-019",
-      "brand": "Garranso Mino",
-      "name": "Angel Fine Brume Parfume",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCES, WATER, GLYCERIN",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073199/algerian_cosmetics/garranso_mino_angel_fine_brume_parfume_250_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "WATER, ALCOHOL, FRAGRANCE, GLYCERIN, VITAMIN E, VITAMIN B5",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073197/algerian_cosmetics/garranso_mino_jardin_de_rio_brume_hydratante_cheveux_corps_2.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-019",
+    "brand": "Garranso Mino",
+    "name": "Angel Fine Brume Parfume",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-GAR-020",
-      "brand": "Garranso Mino",
-      "name": "Myster Brume d'Hiver",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "250 ml",
-      "ingredients": "ALCOHOL, FRAGRANCE, WATER",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073201/algerian_cosmetics/garranso_mino_myster_brume_dhiver_250_ml.webp",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCES, WATER, GLYCERIN",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073199/algerian_cosmetics/garranso_mino_angel_fine_brume_parfume_250_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-GAR-020",
+    "brand": "Garranso Mino",
+    "name": "Myster Brume d'Hiver",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
+    "quantity": "250 ml",
+    "ingredients": "ALCOHOL, FRAGRANCE, WATER",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073201/algerian_cosmetics/garranso_mino_myster_brume_dhiver_250_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
     "id": "DZ-TON-VOG-001",
     "brand": "Vogue Secret",
     "name": "Tropic Rain Brume Cheveux & Corps",
@@ -59758,602 +59873,752 @@
       "بشرة معرضة للحبوب"
     ]
   },
-      {
-      "id": "DZ-CON-CHA-001",
-      "brand": "Chaline",
-      "name": "Après-shampoing Labubu",
-      "country": "Algeria",
-      "category": {
-        "id": "conditioner",
-        "label": "بلسم/مرطب شعر",
-        "icon": "pump-soap"
-      },
-      "quantity": "",
-      "ingredients": "WATER, ARGAN OIL, STEARYL ALCOHOL, ALCOHOL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, STEARIC ACID, COCONUT OIL, ALOE VERA EXTRACT, VITAMIN E, CETRIMONIUM CHLORIDE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073260/algerian_cosmetics/chaline_apr%C3%A8sshampoing_labubu.jpg",
-      "marketingClaims": ["مرطب للشعر", "تغذية الشعر"],
-      "price": null,
-      "targetTypes": ["شعر جاف", "شعر تالف"]
+  {
+    "id": "DZ-CON-CHA-001",
+    "brand": "Chaline",
+    "name": "Après-shampoing Labubu",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
     },
-    {
-      "id": "DZ-MSK-CHA-001",
-      "brand": "Chaline",
-      "name": "Le Masque Visage",
-      "country": "Algeria",
-      "category": {
-        "id": "mask",
-        "label": "قناع وجه",
-        "icon": "mask"
-      },
-      "quantity": "130 ml",
-      "ingredients": "WATER, GLYCOL DISTEARATE, CETYL ALCOHOL, BEESWAX, KAOLIN, ZINC OXIDE, ISOPROPYL MYRISTATE, ALLANTOIN, CETEARETH-20, HONEY EXTRACT, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073262/algerian_cosmetics/chaline_le_masque_visage_130_ml.webp",
-      "marketingClaims": ["تنظيف عميق", "تنقية المسام"],
-      "price": null,
-      "targetTypes": ["بشرة دهنية", "بشرة مختلطة"]
+    "quantity": "",
+    "ingredients": "WATER, ARGAN OIL, STEARYL ALCOHOL, ALCOHOL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, STEARIC ACID, COCONUT OIL, ALOE VERA EXTRACT, VITAMIN E, CETRIMONIUM CHLORIDE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073260/algerian_cosmetics/chaline_apr%C3%A8sshampoing_labubu.jpg",
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-MSK-CHA-001",
+    "brand": "Chaline",
+    "name": "Le Masque Visage",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
     },
-    {
-      "id": "DZ-LOT-CHA-001",
-      "brand": "Chaline",
-      "name": "Lait de Corps Yaourt Fruité",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "",
-      "ingredients": "WATER, GLYCERIN, JOJOBA OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, NIACINAMIDE, VITAMIN E ACETATE, MINERAL OIL, CETEARYL ALCOHOL, SHEA BUTTER, POTASSIUM CETYL PHOSPHATE, CARBOMER, CITRIC ACID, SILICA, PHENOXYETHANOL, DISODIUM EDTA, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073264/algerian_cosmetics/chaline_lait_de_corps_yaourt_fruit%C3%A9.jpg",
-      "marketingClaims": ["مرطب للبشرة", "تفتيح البشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة", "بشرة عادية"]
+    "quantity": "130 ml",
+    "ingredients": "WATER, GLYCOL DISTEARATE, CETYL ALCOHOL, BEESWAX, KAOLIN, ZINC OXIDE, ISOPROPYL MYRISTATE, ALLANTOIN, CETEARETH-20, HONEY EXTRACT, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073262/algerian_cosmetics/chaline_le_masque_visage_130_ml.webp",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-CHA-001",
+    "brand": "Chaline",
+    "name": "Lait de Corps Yaourt Fruité",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-TON-CHA-001",
-      "brand": "Chaline",
-      "name": "Brume Parfumée Cheveux et Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073266/algerian_cosmetics/chaline_brume_parfum%C3%A9e_cheveux_et_corps_180_ml.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "",
+    "ingredients": "WATER, GLYCERIN, JOJOBA OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, NIACINAMIDE, VITAMIN E ACETATE, MINERAL OIL, CETEARYL ALCOHOL, SHEA BUTTER, POTASSIUM CETYL PHOSPHATE, CARBOMER, CITRIC ACID, SILICA, PHENOXYETHANOL, DISODIUM EDTA, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073264/algerian_cosmetics/chaline_lait_de_corps_yaourt_fruit%C3%A9.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ]
+  },
+  {
+    "id": "DZ-TON-CHA-001",
+    "brand": "Chaline",
+    "name": "Brume Parfumée Cheveux et Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-CHA-002",
-      "brand": "Chaline",
-      "name": "Brume Parfumée Cheveux & Corps la Princesse",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073268/algerian_cosmetics/chaline_brume_parfum%C3%A9e_cheveux_corps_la_princesse_180_ml.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073266/algerian_cosmetics/chaline_brume_parfum%C3%A9e_cheveux_et_corps_180_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHA-002",
+    "brand": "Chaline",
+    "name": "Brume Parfumée Cheveux & Corps la Princesse",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-CHA-003",
-      "brand": "Chaline",
-      "name": "Honolulu Brume Parfumée Cheveux et Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073271/algerian_cosmetics/chaline_honolulu_brume_parfum%C3%A9e_cheveux_et_corps_180_ml.webp",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073268/algerian_cosmetics/chaline_brume_parfum%C3%A9e_cheveux_corps_la_princesse_180_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHA-003",
+    "brand": "Chaline",
+    "name": "Honolulu Brume Parfumée Cheveux et Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-LOT-CHA-002",
-      "brand": "Chaline",
-      "name": "Baume à Lèvres Fraise Répare et Protège",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "",
-      "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073273/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_fraise_r%C3%A9pare_et_prot%C3%A8ge.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073271/algerian_cosmetics/chaline_honolulu_brume_parfum%C3%A9e_cheveux_et_corps_180_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-CHA-002",
+    "brand": "Chaline",
+    "name": "Baume à Lèvres Fraise Répare et Protège",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-LOT-CHA-003",
-      "brand": "Chaline",
-      "name": "Baume à Lèvres Beurre de Karité Répare et Protège",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "",
-      "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073275/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_beurre_de_karit%C3%A9_r%C3%A9pare_et_prot%C3%A8ge.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "",
+    "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073273/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_fraise_r%C3%A9pare_et_prot%C3%A8ge.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-CHA-003",
+    "brand": "Chaline",
+    "name": "Baume à Lèvres Beurre de Karité Répare et Protège",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-SSE-CHA-001",
-      "brand": "Chaline",
-      "name": "Sérum Visage 95% Aloe Vera 2% Panthenol Hydratant Apaisante",
-      "country": "Algeria",
-      "category": {
-        "id": "skin_serum",
-        "label": "سيروم للبشرة",
-        "icon": "flask"
-      },
-      "quantity": "30 ml",
-      "ingredients": "ALOE VERA EXTRACT, PANTHENOL, CARBOMER, ALLANTOIN, TRIETHANOLAMINE, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073279/algerian_cosmetics/chaline_s%C3%A9rum_visage_95_aloe_vera_2_panthenol_hydratant_apai.jpg",
-      "marketingClaims": ["مرطب للبشرة", "تهدئة البشرة"],
-      "price": null,
-      "targetTypes": ["بشرة حساسة", "بشرة جافة"]
+    "quantity": "",
+    "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073275/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_beurre_de_karit%C3%A9_r%C3%A9pare_et_prot%C3%A8ge.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-CHA-001",
+    "brand": "Chaline",
+    "name": "Sérum Visage 95% Aloe Vera 2% Panthenol Hydratant Apaisante",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
-    {
-      "id": "DZ-MSK-CHA-002",
-      "brand": "Chaline",
-      "name": "Masque Visage Énergisant & Éclat de Beauté aux Concombre & Vitamine C",
-      "country": "Algeria",
-      "category": {
-        "id": "mask",
-        "label": "قناع وجه",
-        "icon": "mask"
-      },
-      "quantity": "130 ml",
-      "ingredients": "WATER, GLYCOL DISTEARATE, CETYL ALCOHOL, BEESWAX, KAOLIN, ZINC OXIDE, ALLANTOIN, CETEARETH-20, CUCUMBER EXTRACT, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073281/algerian_cosmetics/chaline_masque_visage_%C3%A9nergisant_%C3%A9clat_de_beaut%C3%A9_aux_concomb.jpg",
-      "marketingClaims": ["تنقية المسام", "تفتيح البشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "30 ml",
+    "ingredients": "ALOE VERA EXTRACT, PANTHENOL, CARBOMER, ALLANTOIN, TRIETHANOLAMINE, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073279/algerian_cosmetics/chaline_s%C3%A9rum_visage_95_aloe_vera_2_panthenol_hydratant_apai.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-MSK-CHA-002",
+    "brand": "Chaline",
+    "name": "Masque Visage Énergisant & Éclat de Beauté aux Concombre & Vitamine C",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
     },
-    {
-      "id": "DZ-TON-CHA-004",
-      "brand": "Chaline",
-      "name": "Infinity",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073283/algerian_cosmetics/chaline_infinity_180_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "130 ml",
+    "ingredients": "WATER, GLYCOL DISTEARATE, CETYL ALCOHOL, BEESWAX, KAOLIN, ZINC OXIDE, ALLANTOIN, CETEARETH-20, CUCUMBER EXTRACT, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073281/algerian_cosmetics/chaline_masque_visage_%C3%A9nergisant_%C3%A9clat_de_beaut%C3%A9_aux_concomb.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHA-004",
+    "brand": "Chaline",
+    "name": "Infinity",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-CON-CHA-002",
-      "brand": "Chaline",
-      "name": "Après-shampooing Traitement Cheveux à l'Extrait d'Oignon & Biotine",
-      "country": "Algeria",
-      "category": {
-        "id": "conditioner",
-        "label": "بلسم/مرطب شعر",
-        "icon": "pump-soap"
-      },
-      "quantity": "380 ml",
-      "ingredients": "WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, DIMETHICONE, ONION BULB EXTRACT, BIOTIN, JOJOBA OIL, GLYCERIN, HYDROLYZED KERATIN, WHEAT GERM OIL, DISODIUM EDTA, GLYCERYL STEARATE, ISOPROPYL ALCOHOL, CITRIC ACID, FRAGRANCE, BENZYL SALICYLATE, HEXYL CINNAMAL, LINALOOL, PHENOXYETHANOL, POTASSIUM SORBATE, SODIUM BENZOATE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073285/algerian_cosmetics/chaline_apr%C3%A8sshampooing_traitement_cheveux_%C3%A0_lextrait_doigno.jpg",
-      "marketingClaims": ["إصلاح الشعر المتضرر", "تغذية الشعر", "مضاد لتساقط الشعر"],
-      "price": null,
-      "targetTypes": ["شعر تالف", "شعر جاف"]
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073283/algerian_cosmetics/chaline_infinity_180_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-CON-CHA-002",
+    "brand": "Chaline",
+    "name": "Après-shampooing Traitement Cheveux à l'Extrait d'Oignon & Biotine",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
     },
-    {
-      "id": "DZ-SHA-CHA-001",
-      "brand": "Chaline",
-      "name": "Shampooing Traitement Cheveux à l'Extrait d'Oignon & Biotine",
-      "country": "Algeria",
-      "category": {
-        "id": "shampoo",
-        "label": "شامبو",
-        "icon": "spa"
-      },
-      "quantity": "380 ml",
-      "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, FRAGRANCE, ONION BULB EXTRACT, POLYQUATERNIUM-7, GLYCERIN, TETRASODIUM EDTA, CITRIC ACID, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE, SODIUM BENZOATE, POTASSIUM SORBATE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073287/algerian_cosmetics/chaline_shampooing_traitement_cheveux_%C3%A0_lextrait_doignon_bio.jpg",
-      "marketingClaims": ["تنظيف لطيف", "مضاد لتساقط الشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "380 ml",
+    "ingredients": "WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, DIMETHICONE, ONION BULB EXTRACT, BIOTIN, JOJOBA OIL, GLYCERIN, HYDROLYZED KERATIN, WHEAT GERM OIL, DISODIUM EDTA, GLYCERYL STEARATE, ISOPROPYL ALCOHOL, CITRIC ACID, FRAGRANCE, BENZYL SALICYLATE, HEXYL CINNAMAL, LINALOOL, PHENOXYETHANOL, POTASSIUM SORBATE, SODIUM BENZOATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073285/algerian_cosmetics/chaline_apr%C3%A8sshampooing_traitement_cheveux_%C3%A0_lextrait_doigno.jpg",
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "مضاد لتساقط الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر تالف",
+      "شعر جاف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-CHA-001",
+    "brand": "Chaline",
+    "name": "Shampooing Traitement Cheveux à l'Extrait d'Oignon & Biotine",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
     },
-    {
-      "id": "DZ-SSE-CHA-002",
-      "brand": "Chaline",
-      "name": "Sérum Visage Vitamine C Booster d'Éclat",
-      "country": "Algeria",
-      "category": {
-        "id": "skin_serum",
-        "label": "سيروم للبشرة",
-        "icon": "flask"
-      },
-      "quantity": "30 ml",
-      "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ASCORBYL GLUCOSIDE, ALOE VERA EXTRACT, PANTHENOL, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073289/algerian_cosmetics/chaline_s%C3%A9rum_visage_vitamine_c_booster_d%C3%A9clat_30_ml.jpg",
-      "marketingClaims": ["تفتيح البشرة", "توحيد لون البشرة", "مضاد للأكسدة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "380 ml",
+    "ingredients": "WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, FRAGRANCE, ONION BULB EXTRACT, POLYQUATERNIUM-7, GLYCERIN, TETRASODIUM EDTA, CITRIC ACID, METHYLISOTHIAZOLINONE, METHYLCHLOROISOTHIAZOLINONE, SODIUM BENZOATE, POTASSIUM SORBATE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073287/algerian_cosmetics/chaline_shampooing_traitement_cheveux_%C3%A0_lextrait_doignon_bio.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مضاد لتساقط الشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SSE-CHA-002",
+    "brand": "Chaline",
+    "name": "Sérum Visage Vitamine C Booster d'Éclat",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
-    {
-      "id": "DZ-TON-CHA-005",
-      "brand": "Chaline",
-      "name": "Micellaire Eau Démaquillante Activenow Vitamine B5 3 en 1",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, COCO-BETAINE, ALLANTOIN, GLYCERIN, HYDROGENATED CASTOR OIL, PANTHENOL, CITRIC ACID, ALOE VERA EXTRACT, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073291/algerian_cosmetics/chaline_micellaire_eau_d%C3%A9maquillante_activenow_vitamine_b5_3.jpg",
-      "marketingClaims": ["إزالة المكياج", "تنظيف لطيف", "تهدئة البشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "30 ml",
+    "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ASCORBYL GLUCOSIDE, ALOE VERA EXTRACT, PANTHENOL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073289/algerian_cosmetics/chaline_s%C3%A9rum_visage_vitamine_c_booster_d%C3%A9clat_30_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHA-005",
+    "brand": "Chaline",
+    "name": "Micellaire Eau Démaquillante Activenow Vitamine B5 3 en 1",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-BWA-CHA-001",
-      "brand": "Chaline",
-      "name": "Gel Intime Gel Haute Tolérance",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "220 ml",
-      "ingredients": "WATER, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, SACCHARIDE ISOMERATE, ALOE VERA EXTRACT, PROPYLENE GLYCOL, ALLANTOIN, COCO-GLUCOSIDE, COCAMIDE DEA, PANTHENOL, EDTA, LACTIC ACID, PHENOXYETHANOL, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073293/algerian_cosmetics/chaline_gel_intime_gel_haute_tol%C3%A9rance_220_ml.jpg",
-      "marketingClaims": ["تنظيف لطيف", "تهدئة البشرة", "توازن الحموضة"],
-      "price": null,
-      "targetTypes": ["بشرة حساسة"]
+    "quantity": "200 ml",
+    "ingredients": "WATER, COCO-BETAINE, ALLANTOIN, GLYCERIN, HYDROGENATED CASTOR OIL, PANTHENOL, CITRIC ACID, ALOE VERA EXTRACT, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073291/algerian_cosmetics/chaline_micellaire_eau_d%C3%A9maquillante_activenow_vitamine_b5_3.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "تهدئة البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-BWA-CHA-001",
+    "brand": "Chaline",
+    "name": "Gel Intime Gel Haute Tolérance",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-CHA-002",
-      "brand": "Chaline",
-      "name": "Gel Intime Soin Lavant Doux & Apaisant",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "220 ml",
-      "ingredients": "WATER, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, CRANBERRY EXTRACT, ALOE VERA EXTRACT, PROPYLENE GLYCOL, ALLANTOIN, COCO-GLUCOSIDE, COCAMIDE DEA, PANTHENOL, EDTA, LACTIC ACID, PHENOXYETHANOL, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073295/algerian_cosmetics/chaline_gel_intime_soin_lavant_doux_apaisant_220_ml.jpg",
-      "marketingClaims": ["تنظيف لطيف", "تهدئة البشرة", "توازن الحموضة"],
-      "price": null,
-      "targetTypes": ["بشرة حساسة"]
+    "quantity": "220 ml",
+    "ingredients": "WATER, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, SACCHARIDE ISOMERATE, ALOE VERA EXTRACT, PROPYLENE GLYCOL, ALLANTOIN, COCO-GLUCOSIDE, COCAMIDE DEA, PANTHENOL, EDTA, LACTIC ACID, PHENOXYETHANOL, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073293/algerian_cosmetics/chaline_gel_intime_gel_haute_tol%C3%A9rance_220_ml.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-CHA-002",
+    "brand": "Chaline",
+    "name": "Gel Intime Soin Lavant Doux & Apaisant",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-BWA-CHA-003",
-      "brand": "Chaline",
-      "name": "Gel Blanchissant pour l'Hygiène Intime",
-      "country": "Algeria",
-      "category": {
-        "id": "body_wash",
-        "label": "غسول للجسم",
-        "icon": "bath"
-      },
-      "quantity": "220 ml",
-      "ingredients": "WATER, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, NIACINAMIDE, ALPHA-ARBUTIN, PROPYLENE GLYCOL, ALLANTOIN, COCO-GLUCOSIDE, COCAMIDE DEA, PANTHENOL, EDTA, LACTIC ACID, PHENOXYETHANOL, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073297/algerian_cosmetics/chaline_gel_blanchissant_pour_lhygi%C3%A8ne_intime_220_ml.jpg",
-      "marketingClaims": ["تفتيح البشرة", "تنظيف لطيف", "توازن الحموضة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "220 ml",
+    "ingredients": "WATER, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, CRANBERRY EXTRACT, ALOE VERA EXTRACT, PROPYLENE GLYCOL, ALLANTOIN, COCO-GLUCOSIDE, COCAMIDE DEA, PANTHENOL, EDTA, LACTIC ACID, PHENOXYETHANOL, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073295/algerian_cosmetics/chaline_gel_intime_soin_lavant_doux_apaisant_220_ml.jpg",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تهدئة البشرة",
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة"
+    ]
+  },
+  {
+    "id": "DZ-BWA-CHA-003",
+    "brand": "Chaline",
+    "name": "Gel Blanchissant pour l'Hygiène Intime",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
-    {
-      "id": "DZ-LOT-CHA-004",
-      "brand": "Chaline",
-      "name": "Baume à Lèvres Cerise Répare et Protège",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "",
-      "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073299/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_cerise_r%C3%A9pare_et_prot%C3%A8ge.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "220 ml",
+    "ingredients": "WATER, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINATE, GLYCERIN, NIACINAMIDE, ALPHA-ARBUTIN, PROPYLENE GLYCOL, ALLANTOIN, COCO-GLUCOSIDE, COCAMIDE DEA, PANTHENOL, EDTA, LACTIC ACID, PHENOXYETHANOL, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073297/algerian_cosmetics/chaline_gel_blanchissant_pour_lhygi%C3%A8ne_intime_220_ml.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "تنظيف لطيف",
+      "توازن الحموضة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-CHA-004",
+    "brand": "Chaline",
+    "name": "Baume à Lèvres Cerise Répare et Protège",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-CON-CHA-003",
-      "brand": "Chaline",
-      "name": "Crème Capillaire Boucles Hair Styling",
-      "country": "Algeria",
-      "category": {
-        "id": "conditioner",
-        "label": "بلسم/مرطب شعر",
-        "icon": "pump-soap"
-      },
-      "quantity": "225 ml",
-      "ingredients": "WATER, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, SORBITOL, GLYCERYL STEARATE, LINSEED OIL, POLYQUATERNIUM-11, CITRIC ACID, TRIETHANOLAMINE, PANTHENOL, PHENOXYETHANOL, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073301/algerian_cosmetics/chaline_cr%C3%A8me_capillaire_boucles_hair_styling_225_ml.jpg",
-      "marketingClaims": ["مكافحة التجعد", "تغذية الشعر"],
-      "price": null,
-      "targetTypes": ["شعر مجعد"]
+    "quantity": "",
+    "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073299/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_cerise_r%C3%A9pare_et_prot%C3%A8ge.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-CON-CHA-003",
+    "brand": "Chaline",
+    "name": "Crème Capillaire Boucles Hair Styling",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
     },
-    {
-      "id": "DZ-MSK-CHA-002",
-      "brand": "Chaline",
-      "name": "Masque Visage Énergisant & Éclat de Beauté au Charbon Actif",
-      "country": "Algeria",
-      "category": {
-        "id": "mask",
-        "label": "قناع وجه",
-        "icon": "mask"
-      },
-      "quantity": "",
-      "ingredients": "WATER, GLYCOL DISTEARATE, CETYL ALCOHOL, BEESWAX, KAOLIN, ZINC OXIDE, ALLANTOIN, CETEARETH-20, CHARCOAL POWDER, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073303/algerian_cosmetics/chaline_masque_visage_%C3%A9nergisant_%C3%A9clat_de_beaut%C3%A9_au_charbon_.jpg",
-      "marketingClaims": ["تنقية المسام", "تنظيف عميق"],
-      "price": null,
-      "targetTypes": ["بشرة دهنية"]
+    "quantity": "225 ml",
+    "ingredients": "WATER, CETEARYL ALCOHOL, CETRIMONIUM CHLORIDE, SORBITOL, GLYCERYL STEARATE, LINSEED OIL, POLYQUATERNIUM-11, CITRIC ACID, TRIETHANOLAMINE, PANTHENOL, PHENOXYETHANOL, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073301/algerian_cosmetics/chaline_cr%C3%A8me_capillaire_boucles_hair_styling_225_ml.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تغذية الشعر"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-MSK-CHA-002",
+    "brand": "Chaline",
+    "name": "Masque Visage Énergisant & Éclat de Beauté au Charbon Actif",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
     },
-    {
-      "id": "DZ-LOT-CHA-005",
-      "brand": "Chaline",
-      "name": "Baume à Lèvres Framboise Répare et Protège",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "",
-      "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073305/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_framboise_r%C3%A9pare_et_prot%C3%A8ge.jpg",
-      "marketingClaims": ["مرطب للبشرة"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "",
+    "ingredients": "WATER, GLYCOL DISTEARATE, CETYL ALCOHOL, BEESWAX, KAOLIN, ZINC OXIDE, ALLANTOIN, CETEARETH-20, CHARCOAL POWDER, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073303/algerian_cosmetics/chaline_masque_visage_%C3%A9nergisant_%C3%A9clat_de_beaut%C3%A9_au_charbon_.jpg",
+    "marketingClaims": [
+      "تنقية المسام",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-CHA-005",
+    "brand": "Chaline",
+    "name": "Baume à Lèvres Framboise Répare et Protège",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-TON-CHI-001",
-      "brand": "Chaline Infinity",
-      "name": "Majolie Brume Parfumée Cheveux et Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073306/algerian_cosmetics/chaline_infinity_majolie_brume_parfum%C3%A9e_cheveux_et_corps_180.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "",
+    "ingredients": "PETROLATUM, MINERAL OIL, COCONUT OIL, COCOA BUTTER, VITAMIN E, FLAVOR",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073305/algerian_cosmetics/chaline_baume_%C3%A0_l%C3%A8vres_framboise_r%C3%A9pare_et_prot%C3%A8ge.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-CHI-001",
+    "brand": "Chaline Infinity",
+    "name": "Majolie Brume Parfumée Cheveux et Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-LOT-CHI-001",
-      "brand": "Chaline Infinity",
-      "name": "Crème Éclaircissante Alpha-arbutine Niacinamide",
-      "country": "Algeria",
-      "category": {
-        "id": "lotion_cream",
-        "label": "مرطب",
-        "icon": "hand-holding-water"
-      },
-      "quantity": "80 ml",
-      "ingredients": "WATER, NIACINAMIDE, GRAPE SEED OIL, ALOE VERA LEAF JUICE, GLYCERIN, ALPHA-ARBUTIN, POTASSIUM CETYL PHOSPHATE, COCO-CAPRYLATE, CETEARYL ALCOHOL, ETHYLHEXYLGLYCERIN, DISODIUM EDTA, CARBOMER, SACCHARIDE ISOMERATE, PHENOXYETHANOL, SODIUM HYDROXIDE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073308/algerian_cosmetics/chaline_infinity_cr%C3%A8me_%C3%A9claircissante_alphaarbutine_niacinam.jpg",
-      "marketingClaims": ["تفتيح البشرة", "توحيد لون البشرة", "تفتيح البقع الداكنة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073306/algerian_cosmetics/chaline_infinity_majolie_brume_parfum%C3%A9e_cheveux_et_corps_180.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-CHI-001",
+    "brand": "Chaline Infinity",
+    "name": "Crème Éclaircissante Alpha-arbutine Niacinamide",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
-    {
-      "id": "DZ-TON-CHI-002",
-      "brand": "Chaline Infinity",
-      "name": "Eau Nettoyante Hydratante Activenow Vitamine B3",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "200 ml",
-      "ingredients": "WATER, COCO-BETAINE, ALLANTOIN, GLYCERIN, HYDROGENATED CASTOR OIL, NIACINAMIDE, CITRIC ACID, ALOE VERA EXTRACT, SODIUM BENZOATE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073310/algerian_cosmetics/chaline_infinity_eau_nettoyante_hydratante_activenow_vitamin.jpg",
-      "marketingClaims": ["إزالة المكياج", "تنظيف لطيف"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "80 ml",
+    "ingredients": "WATER, NIACINAMIDE, GRAPE SEED OIL, ALOE VERA LEAF JUICE, GLYCERIN, ALPHA-ARBUTIN, POTASSIUM CETYL PHOSPHATE, COCO-CAPRYLATE, CETEARYL ALCOHOL, ETHYLHEXYLGLYCERIN, DISODIUM EDTA, CARBOMER, SACCHARIDE ISOMERATE, PHENOXYETHANOL, SODIUM HYDROXIDE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073308/algerian_cosmetics/chaline_infinity_cr%C3%A8me_%C3%A9claircissante_alphaarbutine_niacinam.jpg",
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "تفتيح البقع الداكنة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHI-002",
+    "brand": "Chaline Infinity",
+    "name": "Eau Nettoyante Hydratante Activenow Vitamine B3",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-CHI-003",
-      "brand": "Chaline Infinity",
-      "name": "Aura Brume Parfumée Cheveux et Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073312/algerian_cosmetics/chaline_infinity_aura_brume_parfum%C3%A9e_cheveux_et_corps_180_ml.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "200 ml",
+    "ingredients": "WATER, COCO-BETAINE, ALLANTOIN, GLYCERIN, HYDROGENATED CASTOR OIL, NIACINAMIDE, CITRIC ACID, ALOE VERA EXTRACT, SODIUM BENZOATE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073310/algerian_cosmetics/chaline_infinity_eau_nettoyante_hydratante_activenow_vitamin.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHI-003",
+    "brand": "Chaline Infinity",
+    "name": "Aura Brume Parfumée Cheveux et Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-HSE-CHI-001",
-      "brand": "Chaline Infinity",
-      "name": "Kératine Sérum Anti-frizz Lissage de Rêve Cheveux Frisés et Bouclés",
-      "country": "Algeria",
-      "category": {
-        "id": "hair_serum",
-        "label": "سيروم للشعر",
-        "icon": "spray-can"
-      },
-      "quantity": "80 ml",
-      "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, PHENYL TRIMETHICONE, PANTHENOL, VITAMIN E, BENZOPHENONE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073314/algerian_cosmetics/chaline_infinity_k%C3%A9ratine_s%C3%A9rum_antifrizz_lissage_de_r%C3%AAve_ch.jpg",
-      "marketingClaims": ["مكافحة التجعد", "تنعيم الشعر", "تلميع ولمعان"],
-      "price": null,
-      "targetTypes": ["شعر مجعد"]
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073312/algerian_cosmetics/chaline_infinity_aura_brume_parfum%C3%A9e_cheveux_et_corps_180_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-HSE-CHI-001",
+    "brand": "Chaline Infinity",
+    "name": "Kératine Sérum Anti-frizz Lissage de Rêve Cheveux Frisés et Bouclés",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_serum",
+      "label": "سيروم للشعر",
+      "icon": "spray-can"
     },
-    {
-      "id": "DZ-SCR-CHI-001",
-      "brand": "Chaline Infinity",
-      "name": "Gommage Visage aux Concombre Nettoyant et Exfoliant",
-      "country": "Algeria",
-      "category": {
-        "id": "scrub",
-        "label": "مقشر / سكراب",
-        "icon": "cookie"
-      },
-      "quantity": "140 ml",
-      "ingredients": "WATER, COCO-CAPRYLATE/CAPRATE, CALCIUM CARBONATE, STEARIC ACID, PROPYLENE GLYCOL, CUCUMBER EXTRACT, STEARYL ALCOHOL, COCAMIDOPROPYL BETAINE, FRAGRANCE, PHENOXYETHANOL, CI 15985, CI 19140",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073317/algerian_cosmetics/chaline_infinity_gommage_visage_aux_concombre_nettoyant_et_e.jpg",
-      "marketingClaims": ["تقشير", "تنظيف عميق"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "80 ml",
+    "ingredients": "CYCLOPENTASILOXANE, DIMETHICONE, PHENYL TRIMETHICONE, PANTHENOL, VITAMIN E, BENZOPHENONE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073314/algerian_cosmetics/chaline_infinity_k%C3%A9ratine_s%C3%A9rum_antifrizz_lissage_de_r%C3%AAve_ch.jpg",
+    "marketingClaims": [
+      "مكافحة التجعد",
+      "تنعيم الشعر",
+      "تلميع ولمعان"
+    ],
+    "price": null,
+    "targetTypes": [
+      "شعر مجعد"
+    ]
+  },
+  {
+    "id": "DZ-SCR-CHI-001",
+    "brand": "Chaline Infinity",
+    "name": "Gommage Visage aux Concombre Nettoyant et Exfoliant",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
     },
-    {
-      "id": "DZ-CLE-CHI-001",
-      "brand": "Chaline Infinity",
-      "name": "Gel Nettoyant Acide Hyaluronique Vitamine C",
-      "country": "Algeria",
-      "category": {
-        "id": "cleanser",
-        "label": "غسول وجه",
-        "icon": "soap"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, HYALURONIC ACID, ASCORBIC ACID, DISODIUM EDTA, SODIUM COCOYL ISETHIONATE, GLYCERIN, SODIUM COCOYL TAURATE, POLYSORBATE 20, CITRIC ACID, SODIUM CHLORIDE, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073319/algerian_cosmetics/chaline_infinity_gel_nettoyant_acide_hyaluronique_vitamine_c.webp",
-      "marketingClaims": ["تنظيف لطيف", "مرطب للبشرة", "تفتيح البشرة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "140 ml",
+    "ingredients": "WATER, COCO-CAPRYLATE/CAPRATE, CALCIUM CARBONATE, STEARIC ACID, PROPYLENE GLYCOL, CUCUMBER EXTRACT, STEARYL ALCOHOL, COCAMIDOPROPYL BETAINE, FRAGRANCE, PHENOXYETHANOL, CI 15985, CI 19140",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073317/algerian_cosmetics/chaline_infinity_gommage_visage_aux_concombre_nettoyant_et_e.jpg",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-CLE-CHI-001",
+    "brand": "Chaline Infinity",
+    "name": "Gel Nettoyant Acide Hyaluronique Vitamine C",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
     },
-    {
-      "id": "DZ-CLE-CHI-002",
-      "brand": "Chaline Infinity",
-      "name": "Gel Nettoyant Collagène Vitamine E",
-      "country": "Algeria",
-      "category": {
-        "id": "cleanser",
-        "label": "غسول وجه",
-        "icon": "soap"
-      },
-      "quantity": "250 ml",
-      "ingredients": "WATER, COLLAGEN, VITAMIN E, DISODIUM EDTA, SODIUM COCOYL ISETHIONATE, GLYCERIN, SODIUM COCOYL TAURATE, POLYSORBATE 20, CITRIC ACID, SODIUM CHLORIDE, ASCORBIC ACID, FRAGRANCE",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073321/algerian_cosmetics/chaline_infinity_gel_nettoyant_collag%C3%A8ne_vitamine_e_250_ml.webp",
-      "marketingClaims": ["تنظيف لطيف", "تحفيز الكولاجين", "مضاد للأكسدة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "250 ml",
+    "ingredients": "WATER, HYALURONIC ACID, ASCORBIC ACID, DISODIUM EDTA, SODIUM COCOYL ISETHIONATE, GLYCERIN, SODIUM COCOYL TAURATE, POLYSORBATE 20, CITRIC ACID, SODIUM CHLORIDE, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073319/algerian_cosmetics/chaline_infinity_gel_nettoyant_acide_hyaluronique_vitamine_c.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-CLE-CHI-002",
+    "brand": "Chaline Infinity",
+    "name": "Gel Nettoyant Collagène Vitamine E",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
     },
-    {
-      "id": "DZ-SSE-CHI-001",
-      "brand": "Chaline Infinity",
-      "name": "Sérum Visage Niacinamide Booster Anti-imperfections Vitamine B3",
-      "country": "Algeria",
-      "category": {
-        "id": "skin_serum",
-        "label": "سيروم للبشرة",
-        "icon": "flask"
-      },
-      "quantity": "30 ml",
-      "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, NIACINAMIDE, ALOE VERA EXTRACT, PANTHENOL, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073323/algerian_cosmetics/chaline_infinity_s%C3%A9rum_visage_niacinamide_booster_antiimperf.jpg",
-      "marketingClaims": ["توازن الدهون والزيوت", "تنقية المسام", "مضاد لحب الشباب"],
-      "price": null,
-      "targetTypes": ["بشرة دهنية", "بشرة معرضة للحبوب"]
+    "quantity": "250 ml",
+    "ingredients": "WATER, COLLAGEN, VITAMIN E, DISODIUM EDTA, SODIUM COCOYL ISETHIONATE, GLYCERIN, SODIUM COCOYL TAURATE, POLYSORBATE 20, CITRIC ACID, SODIUM CHLORIDE, ASCORBIC ACID, FRAGRANCE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073321/algerian_cosmetics/chaline_infinity_gel_nettoyant_collag%C3%A8ne_vitamine_e_250_ml.webp",
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "تحفيز الكولاجين",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SSE-CHI-001",
+    "brand": "Chaline Infinity",
+    "name": "Sérum Visage Niacinamide Booster Anti-imperfections Vitamine B3",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
-    {
-      "id": "DZ-SSE-CHI-002",
-      "brand": "Chaline Infinity",
-      "name": "Sérum Visage Acide Hyaluronique Booster Hydratant Repulpant",
-      "country": "Algeria",
-      "category": {
-        "id": "skin_serum",
-        "label": "سيروم للبشرة",
-        "icon": "flask"
-      },
-      "quantity": "30 ml",
-      "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, HYALURONIC ACID, ALOE VERA EXTRACT, PANTHENOL, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073325/algerian_cosmetics/chaline_infinity_s%C3%A9rum_visage_acide_hyaluronique_booster_hyd.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مكافحة التجاعيد"],
-      "price": null,
-      "targetTypes": ["بشرة جافة"]
+    "quantity": "30 ml",
+    "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, NIACINAMIDE, ALOE VERA EXTRACT, PANTHENOL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073323/algerian_cosmetics/chaline_infinity_s%C3%A9rum_visage_niacinamide_booster_antiimperf.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "تنقية المسام",
+      "مضاد لحب الشباب"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-SSE-CHI-002",
+    "brand": "Chaline Infinity",
+    "name": "Sérum Visage Acide Hyaluronique Booster Hydratant Repulpant",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
-    {
-      "id": "DZ-SSE-CHI-003",
-      "brand": "Chaline Infinity",
-      "name": "Sérum Visage Q10 Acide Hyaluronique Vitamine C Vitamine E",
-      "country": "Algeria",
-      "category": {
-        "id": "skin_serum",
-        "label": "سيروم للبشرة",
-        "icon": "flask"
-      },
-      "quantity": "30 ml",
-      "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ASCORBYL GLUCOSIDE, COENZYME Q10, VITAMIN E, ALOE VERA LEAF EXTRACT, PANTHENOL, PHENOXYETHANOL",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073327/algerian_cosmetics/chaline_infinity_s%C3%A9rum_visage_q10_acide_hyaluronique_vitamin.webp",
-      "marketingClaims": ["مكافحة التجاعيد", "مرطب للبشرة", "مضاد للأكسدة"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "30 ml",
+    "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, HYALURONIC ACID, ALOE VERA EXTRACT, PANTHENOL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073325/algerian_cosmetics/chaline_infinity_s%C3%A9rum_visage_acide_hyaluronique_booster_hyd.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد"
+    ],
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-CHI-003",
+    "brand": "Chaline Infinity",
+    "name": "Sérum Visage Q10 Acide Hyaluronique Vitamine C Vitamine E",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
-    {
-      "id": "DZ-TON-CHI-004",
-      "brand": "Chaline Infinity",
-      "name": "Brume Parfumée Cheveux et Corps Majolie",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073329/algerian_cosmetics/chaline_infinity_brume_parfum%C3%A9e_cheveux_et_corps_majolie_180.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "30 ml",
+    "ingredients": "WATER, ALLANTOIN, CARBOMER, TRIETHANOLAMINE, ASCORBYL GLUCOSIDE, COENZYME Q10, VITAMIN E, ALOE VERA LEAF EXTRACT, PANTHENOL, PHENOXYETHANOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073327/algerian_cosmetics/chaline_infinity_s%C3%A9rum_visage_q10_acide_hyaluronique_vitamin.webp",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHI-004",
+    "brand": "Chaline Infinity",
+    "name": "Brume Parfumée Cheveux et Corps Majolie",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
-      "id": "DZ-TON-CHI-005",
-      "brand": "Chaline Infinity",
-      "name": "Paradoxe Brume Parfumée Cheveux et Corps",
-      "country": "Algeria",
-      "category": {
-        "id": "toner",
-        "label": "تونر / ميست",
-        "icon": "tint"
-      },
-      "quantity": "180 ml",
-      "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
-      "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073330/algerian_cosmetics/chaline_infinity_paradoxe_brume_parfum%C3%A9e_cheveux_et_corps_18.jpg",
-      "marketingClaims": ["مرطب للبشرة", "مرطب للشعر"],
-      "price": null,
-      "targetTypes": []
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073329/algerian_cosmetics/chaline_infinity_brume_parfum%C3%A9e_cheveux_et_corps_majolie_180.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-CHI-005",
+    "brand": "Chaline Infinity",
+    "name": "Paradoxe Brume Parfumée Cheveux et Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
-    {
+    "quantity": "180 ml",
+    "ingredients": "WATER, FRAGRANCE, ALCOHOL, PROPYLENE GLYCOL, PEG-40 HYDROGENATED CASTOR OIL, PEG/PPG",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073330/algerian_cosmetics/chaline_infinity_paradoxe_brume_parfum%C3%A9e_cheveux_et_corps_18.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "price": null,
+    "targetTypes": []
+  },
+  {
     "id": "DZ-TON-ZOR-001",
     "brand": "Zorah Douce Nature",
     "name": "Toner Vitamine C Anti-âge Éclaircissant",
@@ -62673,7 +62938,7 @@
       "بشرة جافة"
     ]
   },
-    {
+  {
     "id": "DZ-HSE-FLU-007",
     "brand": "Flux Care",
     "name": "Perfect Hair Serum Nutri-soin Serum Olive Divine",
