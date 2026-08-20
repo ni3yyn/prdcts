@@ -59446,5 +59446,374 @@
       "marketingClaims": ["مرطب للبشرة"],
       "price": null,
       "targetTypes": []
-    }
+    },
+    {
+    "id": "DZ-TON-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Tropic Rain Brume Cheveux & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150 ml",
+    "ingredients": "ALCOHOL DENAT., AQUA, PARFUM, GLYCERIN, PPG-20 METHYL GLUCOSE ETHER",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073204/algerian_cosmetics/vogue_secret_tropic_rain_brume_cheveux_corps_150_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Crème Pieds Riche & Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "60 ml",
+    "ingredients": "AQUA, GLYCERIN, PERSEA GRATISSIMA OIL, STEARIC ACID, ALCOHOL, COCOS NUCIFERA OIL, SORBITAN STEARATE, CORIANDRUM SATIVUM, BUTYLENE GLYCOL, COCO-CAPRYLATE/CAPRATE, MYRISTYL MYRISTATE, UREA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073206/algerian_cosmetics/vogue_secret_cr%C3%A8me_pieds_riche_parfum%C3%A9e_60_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-VOG-002",
+    "brand": "Vogue Secret",
+    "name": "Tonique à l'aloe vera",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "225 ml",
+    "ingredients": "AQUA, HAMAMELIS VIRGINIANA WATER, GLYCERIN, POLYGLYCERYL-4 CAPRATE, ALOE BARBADENSIS LEAF JUICE EXTRACT, SODIUM LEVULINATE, ALCOHOL, BENZYL ALCOHOL, PARFUM, ZINC PCA, SODIUM BENZOATE, ALOE BARBADENSIS LEAF JUICE POWDER, LIMONENE, LACTIC ACID, CITRUS AURANTIFOLIA OIL, LINALOOL, CITRIC ACID, CITRONELLOL",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073209/algerian_cosmetics/vogue_secret_tonique_%C3%A0_laloe_vera_225_ml.jpg",
+    "marketingClaims": [
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة",
+      "تهدئة البشرة"
+    ],
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة دهنية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-VOG-002",
+    "brand": "Vogue Secret",
+    "name": "Fragrance Lotion Lotion Parfumée Bright White",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "ingredients": "AQUA, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, STEARETH-2, ALCOHOL, BUTYROSPERMUM PARKII BUTTER, PARFUM, XANTHAN GUM, METHYLPARABEN, PROPYLPARABEN, EDTA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073217/algerian_cosmetics/vogue_secret_fragrance_lotion_lotion_parfum%C3%A9e_bright_white_2.webp",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-VOG-003",
+    "brand": "Vogue Secret",
+    "name": "Midnight Flower Crème Pieds Riche & Parfumée",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "60 ml",
+    "ingredients": "AQUA, GLYCERIN, PERSEA GRATISSIMA OIL, STEARIC ACID, ALCOHOL, COCOS NUCIFERA OIL, SORBITAN STEARATE, CORIANDRUM SATIVUM, BUTYLENE GLYCOL, COCO-CAPRYLATE/CAPRATE, MYRISTYL MYRISTATE, UREA",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073219/algerian_cosmetics/vogue_secret_midnight_flower_cr%C3%A8me_pieds_riche_parfum%C3%A9e_60_m.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
+    "targetTypes": [
+      "بشرة جافة"
+    ]
+  },
+  {
+    "id": "DZ-TON-VOG-003",
+    "brand": "Vogue Secret",
+    "name": "Brume Cheveux & Corps Ameerat al Arab",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, ALCOHOL, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073222/algerian_cosmetics/vogue_secret_brume_cheveux_corps_ameerat_al_arab_150_ml_5_fl.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Skin Detox Gommage Exfoliant",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, LAURYL GLUCOSIDE, GLYCERIN, SODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, PEG-120 METHYL GLUCOSE DIOLEATE, SALICYLIC ACID, SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE, C12-15 ALKYL LACTATE, PROPYLENE GLYCOL, SODIUM CHLORIDE, COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE, DISODIUM EDTA, CITRIC ACID, SODIUM CITRATE, BENZALKONIUM CHLORIDE, PARFUM, CI 16035, CI 60725, CUCUMIS SATIVUS EXTRACT, CAMELLIA SINENSIS LEAF EXTRACT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073224/algerian_cosmetics/vogue_secret_skin_detox_gommage_exfoliant_150_ml.webp",
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق",
+      "مضاد لحب الشباب"
+    ],
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  },
+  {
+    "id": "DZ-LOT-VOG-004",
+    "brand": "Vogue Secret",
+    "name": "PH 5 Hydratant Protecteur Soin de Jour SPF 30",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "AQUA, CAPRYLIC/CAPRIC TRIGLYCERIDE, HEXANEDIOL, GLYCERIN, ETHYLHEXYL PALMITATE, BEHENYL ALCOHOL, SORBITOL, TALC, TAURINE, PANTHENOL, ALLANTOIN, ZINC GLUCONATE, TOCOPHEROL, HAMAMELIS VIRGINIANA, DIMETHICONE, POTASSIUM SORBATE, CETYL PHOSPHATE, SODIUM CARBOMER, HYDROGENATED PALM GLYCERIDES, HYDROGENATED PALM GLYCERIDES CITRATE, PARFUM, PHENOXYETHANOL, CI 77891, CI 16035",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073226/algerian_cosmetics/vogue_secret_ph_5_hydratant_protecteur_soin_de_jour_spf_30_5.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "حماية من الشمس",
+      "توازن الحموضة"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-VOG-005",
+    "brand": "Vogue Secret",
+    "name": "PH 7 Hydratant Matifiant Soin de Jour SPF 30",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "AQUA, CAPRYLIC/CAPRIC TRIGLYCERIDE, HEXANEDIOL, GLYCERIN, ETHYLHEXYL PALMITATE, BEHENYL ALCOHOL, ALCOHOL, SORBITOL, TALC, TAURINE, PANTHENOL, ALLANTOIN, ZINC GLUCONATE, TOCOPHEROL, HAMAMELIS VIRGINIANA, DIMETHICONE, POTASSIUM CETYL PHOSPHATE, SODIUM CARBOMER, HYDROGENATED CASTOR OIL, PALM GLYCERIDES, HYDROGENATED PALM GLYCERIDES CITRATE, PARFUM, PHENOXYETHANOL, CI 77891, CI 16035",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073228/algerian_cosmetics/vogue_secret_ph_7_hydratant_matifiant_soin_de_jour_spf_30_50.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت",
+      "حماية من الشمس"
+    ],
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Crème Solaire Invisible",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "",
+    "ingredients": "AQUA, C15-12 ALKYL BENZOATE, COCO-CAPRYLATE/CAPRATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL (NANO), CAPRYLIC/CAPRIC TRIGLYCERIDE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073230/algerian_cosmetics/vogue_secret_cr%C3%A8me_solaire_invisible.jpg",
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-VOG-006",
+    "brand": "Vogue Secret",
+    "name": "PH 7 Lift+ Nourrissant Soin de Nuit Anti-rides & Ridules",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "AQUA, ETHYLHEXYL PALMITATE, HEXANEDIOL, GLYCERIN, CI 16035, CI 77891, CARTHAMUS TINCTORIUS SEED OIL, CAPRYLIC/CAPRIC TRIGLYCERIDE, BEHENYL ALCOHOL, SORBITOL, TALC, TAURINE, PANTHENOL, ALLANTOIN, TOCOPHEROL, EQUISETUM ARVENSE EXTRACT, DIMETHICONE, POTASSIUM CETYL PHOSPHATE, SODIUM CARBOMER, HYDROGENATED PALM GLYCERIDES, HYDROGENATED PALM GLYCERIDES CITRATE, PARFUM, PHENOXYETHANOL, BENZOIC ACID, ACACIA SENEGAL GUM, GLYCYRRHIZA GLABRA ROOT EXTRACT",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073232/algerian_cosmetics/vogue_secret_ph_7_lift_nourrissant_soin_de_nuit_antirides_ri.jpg",
+    "marketingClaims": [
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "شد البشرة"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-TON-VOG-004",
+    "brand": "Vogue Secret",
+    "name": "Love Spell Brume Cheveux & Corps",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "150 ml",
+    "ingredients": "ALCOHOL DENAT., AQUA, PARFUM, GLYCERIN, PPG-20 METHYL GLUCOSE ETHER",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073234/algerian_cosmetics/vogue_secret_love_spell_brume_cheveux_corps_150_ml.webp",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مرطب للشعر"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SHA-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Nutrition Intense Shampooing Avocado Oil and Shea Butter",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, DISODIUM COCOAMPHODIACETATE, GLYCERIN, GLYCOL DISTEARATE, SODIUM CHLORIDE, HEXYLENE GLYCOL, POLYQUATERNIUM-10, SODIUM BENZOATE, COCAMIDE MEA, SALICYLIC ACID, CARBOMER, HEXYL CINNAMAL, BUTYROSPERMUM PARKII BUTTER, PERSEA GRATISSIMA OIL, BENZYL ALCOHOL, SODIUM ACETATE, CI 15985, CI 19140, ISOPROPYL ALCOHOL, TOCOPHEROL, HELIANTHUS ANNUUS SEED OIL, ROSMARINUS OFFICINALIS LEAF EXTRACT, CITRIC ACID, SODIUM HYDROXIDE, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073238/algerian_cosmetics/vogue_secret_nutrition_intense_shampooing_avocado_oil_and_sh.jpg",
+    "marketingClaims": [
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ],
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ]
+  },
+  {
+    "id": "DZ-SSE-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Sérum Vitamine E Hydratant Anti-âge",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "ingredients": "TOCOPHEROL, SIMMONDSIA CHINENSIS SEED OIL, PRUNUS ARMENIACA KERNEL OIL, AZELAIC ACID, TRANEXAMIC ACID, HYALURONIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073248/algerian_cosmetics/vogue_secret_s%C3%A9rum_vitamine_e_hydratant_anti%C3%A2ge_30_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "مضاد للأكسدة"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-CLE-VOG-001",
+    "brand": "Vogue Secret",
+    "name": "Lait Démaquillant Visage, Yeux Sweet Girl",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "225 ml",
+    "ingredients": "AQUA, ISOPROPYL PALMITATE, PARAFFINUM LIQUIDUM, GLYCERIN, PANTHENOL, CETYL ALCOHOL, SODIUM PALMATE, GLYCERIN STEARATE, SODIUM MYRISTATE, PHENOXYETHANOL, LIMONENE, CITRAL, BHT, PARFUM",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073252/algerian_cosmetics/vogue_secret_lait_d%C3%A9maquillant_visage_yeux_sweet_girl_225_ml.jpg",
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-LOT-VOG-007",
+    "brand": "Vogue Secret",
+    "name": "Soin de Jour Hydratant Matifiant Ph7",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "ingredients": "AQUA, CAPRYLIC/CAPRIC TRIGLYCERIDE, HEXANEDIOL, GLYCERIN, ETHYLHEXYL PALMITATE, BEHENYL ALCOHOL, SORBITOL, TALC, TAURINE, PANTHENOL, ALLANTOIN, ZINC GLUCONATE, TOCOPHEROL, HAMAMELIS VIRGINIANA, DIMETHICONE, POTASSIUM CETYL PHOSPHATE, SODIUM CARBOMER, HYDROGENATED PALM GLYCERIDES, HYDROGENATED PALM GLYCERIDES CITRATE, PARFUM, PHENOXYETHANOL, CI 77891, CI 16035",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073254/algerian_cosmetics/vogue_secret_soin_de_jour_hydratant_matifiant_ph7_50_ml.jpg",
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت",
+      "توازن الحموضة"
+    ],
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-VOG-002",
+    "brand": "Vogue Secret",
+    "name": "Gel Nettoyant Hydro Clean",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "450 ml",
+    "ingredients": "AQUA, GLYCERIN, SODIUM LAURETH SULFATE, CELLULOSE, LAURYL GLUCOSIDE, ACRYLATES COPOLYMER, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, CITRUS FRUIT EXTRACT, PROPYLENE GLYCOL, SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE, DISODIUM EDTA, CITRIC ACID, SODIUM HYDROXIDE, SODIUM ASCORBYL PHOSPHATE, SODIUM BENZOATE, COLLAGEN, MENTHOL, HYALURONIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073256/algerian_cosmetics/vogue_secret_gel_nettoyant_hydro_clean_450_ml.webp",
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مرطب للبشرة"
+    ],
+    "targetTypes": []
+  },
+  {
+    "id": "DZ-SCR-VOG-002",
+    "brand": "Vogue Secret",
+    "name": "Deep Clean Gommage Exfoliant Éclaircissant& Anti Acné Peaux Grasses",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, LAURYL GLUCOSIDE, GLYCERIN, SODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, PEG-120 METHYL GLUCOSE DIOLEATE, SALICYLIC ACID, SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE, C12-15 ALKYL LACTATE, PROPYLENE GLYCOL, SODIUM CHLORIDE, COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE, DISODIUM EDTA, CITRIC ACID, SODIUM CITRATE, BENZALKONIUM CHLORIDE, PARFUM, CI 16035, CI 60725, ROSA EXTRACT, CITRUS PARADISI EXTRACT, ASCORBIC ACID",
+    "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073258/algerian_cosmetics/vogue_secret_deep_clean_gommage_exfoliant_%C3%A9claircissant_anti.webp",
+    "marketingClaims": [
+      "تقشير",
+      "مضاد لحب الشباب",
+      "تفتيح البشرة"
+    ],
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ]
+  }
 ]
