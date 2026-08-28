@@ -3353,7 +3353,9 @@
       "max": 3500,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "FR-SHA-DUR-002",
@@ -37976,7 +37978,7 @@
       "icon": "hand-holding-water"
     },
     "quantity": "100ml",
-    "ingredients": "",
+    "ingredients": "Avène Thermal Spring Water, Caprylic/Capric Triglyceride, Mineral Oil, Glycerin, Hydrogenated Vegetable Oil, Zinc Oxide, Propylene Glycol, Polyglyceryl-2 Sesquiisostearate, PEG-22/Dodecyl Glycol Copolymer, Aluminum Stearate, Aquaphilus Dolomiae Ferment Filtrate, Arginine, Beeswax, Copper Sulfate, Magnesium Stearate, Magnesium Sulfate, Microcrystalline Wax, Tromethamine, Zinc Sulfate",
     "image": "https://cdn1.costatic.com/img/product/400/69c4e33f1a3b6/avene-cicalfate-repairing-p41154.jpg",
     "marketingClaims": [
       "تهدئة البشرة",
