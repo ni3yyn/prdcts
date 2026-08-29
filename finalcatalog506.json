@@ -6327,13 +6327,24 @@
     "quantity": "null",
     "ingredients": "ماء, ماء نخالة الأرز, زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, زيت الخروع المهدرج PEG-40, رباعي الصوديوم EDTA",
     "image": "https://www.biolila.com/storage/product/es4Gl1b3ln5Y9UyIOnDVhVh3W.png",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مضاد للأكسدة",
+      "تهدئة البشرة"
+    ],
     "price": {
       "min": 1300,
       "max": 1450,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "OT-XXX-CIE-001",
@@ -6362,7 +6373,7 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "null",
+    "quantity": "50ml",
     "ingredients": "ماء, كوكو-كابريلات, أوكتيسالات, يوفينول تي 150, تينوسورب إس (Bemotrizinol), أفوبينزون, جليسريل ستيرات, كحول السيتريل, سيتاريث-20, سيليكا, إنسوليزول, هيدروكسيد الصوديوم, النياسيناميد (فيتامين B3), رباعي الصوديوم EDTA, تينوسورب إم (Bisoctrizole), ديسيل جلوكوسايد, بروبيلين جلايكول, زيت بذور التين الشوكي, توكوفيريل أسيتات, فينوكسي إيثانول, عطر",
     "image": "https://www.biolila.com/storage/product/csiLMzFRw2FtKM1f2BLXGHaac.png",
     "marketingClaims": [
@@ -9679,7 +9690,8 @@
     ],
     "marketingClaims": [
       "إزالة المكياج",
-      "تنظيف لطيف"
+      "تنظيف عميق",
+      "مرطب للبشرة"
     ]
   },
   {
@@ -10411,10 +10423,13 @@
     "ingredients": "Aqua, Decyl Glucoside, Glycerin, Aloe Barbadensis Leaf Juice, Coco-Glucoside, Glyceryl Oleate, Cellulose Gum, Zinc PCA, Salicylic Acid, Niacinamide, Allantoin, Citric Acid, Sodium Hydroxide, Rosa Damascena Flower Oil, Rosa Damascena Flower Water, Benzyl Alcohol, Salicylic Acid, Glycerin, Sorbic Acid, Fragrance, Ceramide NP, Ceramide AP, Ceramide EOP, Cholesterol, Phytosphingosine",
     "image": "https://www.touchelab.com/cdn/shop/files/1_2.jpg",
     "marketingClaims": [
-      "تنظيف عميق"
+      "تنظيف عميق",
+      "مضاد لحب الشباب",
+      "توازن الدهون والزيوت",
+      "مرطب للبشرة"
     ],
     "price": {
-      "min": 1900,
+      "min": 1750,
       "max": 1900,
       "currency": "DZD"
     },
@@ -11719,7 +11734,10 @@
     "marketingClaims": [
       "توازن إفراز الدهون",
       "تنقية المسام",
-      "مضاد لحب الشباب"
+      "مضاد لحب الشباب",
+      "تفتيح البشرة",
+      "مضاد للأكسدة",
+      "تفتيح البقع الداكنة"
     ],
     "price": null,
     "targetTypes": [
@@ -62418,7 +62436,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر عادي",
       "شعر جاف"
@@ -63590,7 +63612,11 @@
       "مهدئ",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة",
       "بشرة عادية"
@@ -63683,9 +63709,14 @@
     "marketingClaims": [
       "تلميع ولمعان",
       "تغذية الشعر",
+      "مرطب للشعر",
       "حماية اللون"
     ],
-    "price": null,
+    "price": {
+      "min": 220,
+      "max": 220,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر عادي"
     ]
@@ -63795,7 +63826,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": null,
+    "quantity": "370ml",
     "ingredients": "AQUA, GLYCERIN, PROPYLENE GLYCOL, CETEARYL ALCOHOL, CETEARETH-20, GLYCERYL STEARATE, BUTYLATED HYDROXYTOLUENE, ISOPROPYL PALMITATE, CAPRYLIC/CAPRIC TRIGLYCERIDES, ASCORBYL GLUCOSIDE, CARBOMER, DIMETHICONE, MEL EXTRACT, PARFUM, SODIUM BENZOATE, POTASSIUM SORBATE, AMINOMETHYL PROPANOL, TOCOPHEROL, EDTA",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787074024/algerian_cosmetics/flux_care_cr%C3%A8me_hydratante_visage_corps_vitamine_c_miel_de_f.jpg",
     "marketingClaims": [
@@ -63803,7 +63834,11 @@
       "تفتيح البشرة",
       "مضاد للأكسدة"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية",
       "بشرة جافة"
