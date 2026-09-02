@@ -64806,5 +64806,37 @@
       "بشرة دهنية",
       "بشرة مختلطة"
     ]
+  },
+  {
+    "id": "FR-CLE-HYF-001",
+    "brand": "HYFAC",
+    "name": "Mousse Nettoyante Exfoliante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1788294804/irkjvtlhjszyntz2zn37.jpg",
+    "ingredients": "Aqua, sodium laureth sulfate, sodium cocoamphoacetate, PEG-80 glyceryl cocoate, cocoamide DEA, glycerin, sodium laureth-8 sulfate, sodium chloride, glycine, sodium methyl cocoyl taurate, piroctone olamine, citric acid, magnesium laureth sulfate, magnesium laureth-8 sulfate, sodium oleth sulfate, DMDM hydantoin, magnesium oleth sulfate, parfum.",
+    "country": "France",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "150 ml",
+    "price": {
+      "min": 2500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة معرضة للحبوب",
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ],
+    "marketingClaims": [
+      "تنظيم الدهون والزيوت",
+      "تنقية المسام",
+      "تقشير",
+      "تنظيف عميق",
+      "مضاد للرؤوس السوداء"
+    ]
   }
 ]
