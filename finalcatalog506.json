@@ -5921,7 +5921,8 @@
     "marketingClaims": [
       "تنعيم الشعر",
       "مرطب للشعر",
-      "مكافحة التجعد"
+      "مكافحة التجعد",
+      "تنظيف عميق"
     ],
     "price": {
       "min": 650,
@@ -6514,7 +6515,7 @@
     "id": "OT-SUN-BIOL-001",
     "brand": "BIOLILA",
     "name": "SUNSCREEN SPF 50+",
-    "country": "",
+    "country": "Algeria",
     "category": {
       "id": "sunscreen",
       "label": "واقي شمس",
@@ -6523,13 +6524,20 @@
     "quantity": "50 ml",
     "ingredients": "ماء, كوكو-كابريلات, أوكتيسالات, يوفينول تي 150, تينوسورب إس (Bemotrizinol), أفوبينزون, جليسريل ستيرات, كحول السيتريل, سيتاريث-20, سيليكا, إنسوليزول, هيدروكسيد الصوديوم, النياسيناميد (فيتامين B3), رباعي الصوديوم EDTA, تينوسورب إم (Bisoctrizole), ألكيل بولي غليكوزيد, بروبيلين جلايكول, صمغ الزانثان, زيت بذور التين الشوكي, توكوفيريل أسيتات, فينوكسي إيثانول, CI 77891 (ثاني أكسيد التيتانيوم), أكاسيد الحديد, عطر",
     "image": "https://kadisse.com/wp-content/uploads/2025/06/Biolila-Creme-Solaire-Teintee-Claire-SPF50-A-LHuile-De-Figue-50-ml-e1749476353996.webp",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مقاوم للماء",
+      "للبشرة الدهنية",
+      "حماية واسعة الطيف"
+    ],
     "price": {
       "min": 750,
       "max": 750,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-XXX-KAR-001",
