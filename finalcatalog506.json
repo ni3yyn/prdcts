@@ -7792,7 +7792,7 @@
     "quantity": "50 ml",
     "price": {
       "min": 350,
-      "max": 350,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": [],
