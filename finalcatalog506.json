@@ -7850,7 +7850,10 @@
       "max": 390,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ],
     "marketingClaims": []
   },
   {
@@ -56957,7 +56960,11 @@
       "مضاد للأكسدة",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 900,
+      "max": 900,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية",
       "بشرة جافة",
@@ -57238,7 +57245,11 @@
       "تهدئة البشرة",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة"
     ]
@@ -64846,6 +64857,32 @@
       "تنقية المسام",
       "تقشير",
       "تنظيف عميق",
+      "مضاد للرؤوس السوداء"
+    ]
+  },
+  {
+    "id": "DZ-CLE-FLU-009",
+    "brand": "Flux Care",
+    "name": "Gel nettoyant visage anti-boutons",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1788691559/tdprrkgj3ipvsfnmbr45.jpg",
+    "ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Laureth Sulfate, Glycerin, Salicylic Acid, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Coco-Glucoside, Polyquaternium-7, Sodium Benzoate, Menthol, Sodium Hydroxide, Propylene Glycol, Parfum, Disodium EDTA, coal powder, Sodium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "390 ml",
+    "price": {
+      "min": 450,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
       "مضاد للرؤوس السوداء"
     ]
   }
