@@ -8882,7 +8882,11 @@
       "icon": "pump-soap"
     },
     "quantity": "150 ml",
-    "price": null,
+    "price": {
+      "min": 1800,
+      "max": 1800,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9474,7 +9478,7 @@
     "brand": "Qoton",
     "name": "créme solaire",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1777819771/e6zh2sppjt9afx6p5vqh.jpg",
-    "ingredients": "eau_glycerin_caprylic capric_EDTA_LHA_niacinamide_acide hayluronic_vitamine E_ benzoate de sodium",
+    "ingredients": "AQUA, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, EDTA, CAPRYLOYL SALICYLIC ACID, NIACINAMIDE, HYALURONIC ACID, TOCOPHEROL, SODIUM BENZOATE.",
     "country": "Algeria",
     "category": {
       "id": "sunscreen",
@@ -13950,7 +13954,11 @@
       "مرطب للبشرة",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 3800,
+      "max": 3800,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -16924,7 +16932,11 @@
       "تنظيف عميق",
       "مضاد لحب الشباب"
     ],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
