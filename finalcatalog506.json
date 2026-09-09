@@ -8038,8 +8038,14 @@
       "max": 500,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ]
   },
   {
     "id": "DZ-SUN-VEN-003",
