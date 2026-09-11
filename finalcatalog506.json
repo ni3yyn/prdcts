@@ -6790,7 +6790,10 @@
       "max": 600,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "OT-XXX-UNK-001",
