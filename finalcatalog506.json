@@ -4797,7 +4797,7 @@
       "إصلاح الشعر المتضرر"
     ],
     "price": {
-      "min": 300,
+      "min": 250,
       "max": 300,
       "currency": "DZD"
     },
@@ -5434,9 +5434,19 @@
     "quantity": "null",
     "ingredients": "ماء, الجلسرين, كحول السيتريل, بارافين سائل (زيت معدني), زبدة الشيا, شمع النحل, بنزوات البوتاسيوم, بانثينول (بروفيتامين B5), عطر",
     "image": "https://genie-flowers.com/wp-content/uploads/2024/12/Valeria-Glyceri-1x1-Clear.jpg",
-    "marketingClaims": [],
-    "price": null,
-    "targetTypes": []
+    "marketingClaims": [
+      "للبشرة الجافة",
+      "ترطيب البشرة"
+    ],
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
   },
   {
     "id": "FR-XXX-ACM-003",
@@ -6470,7 +6480,11 @@
     "ingredients": "ماء, ثلاثي جليسريد الكابريليك/الكابريك, 1،2-هيكسانيديول, الجلسرين, بالميتات الإيثيل هكسيل, كحول البيهينيل, سوربيتول, التلك, تورين, البانثينول (برو-فيتامين B5), آلانتوين, جلوكونات الزنك, توكوفيرول (فيتامين E النقي), ماء بندق الساحرة, دايميثيكون, فوسفات سيتيل البوتاسيوم, سيترات جليسريدات النخيل المهدرجة, عطر, فينوكسي إيثانول, CI 77891 (ثاني أكسيد التيتانيوم), CI 77491 (أكسيد الحديد الأحمر)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1768905189/lxn5wjfslhhmm3wrtv6y.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -47714,7 +47728,11 @@
       "تقشير لطيف",
       "تقشير"
     ],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59939,14 +59957,21 @@
     "ingredients": "AQUA, SODIUM LAURETH SULFATE, LAURYL GLUCOSIDE, GLYCERIN, SODIUM COCOAMPHODIACETATE, COCAMIDOPROPYL BETAINE, PEG-120 METHYL GLUCOSE DIOLEATE, SALICYLIC ACID, SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE, C12-15 ALKYL LACTATE, PROPYLENE GLYCOL, SODIUM CHLORIDE, COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE, DISODIUM EDTA, CITRIC ACID, SODIUM CITRATE, BENZALKONIUM CHLORIDE, PARFUM, CI 16035, CI 60725, ROSA EXTRACT, CITRUS PARADISI EXTRACT, ASCORBIC ACID",
     "image": "https://res.cloudinary.com/de122nwjr/image/upload/v1787073258/algerian_cosmetics/vogue_secret_deep_clean_gommage_exfoliant_%C3%A9claircissant_anti.webp",
     "marketingClaims": [
-      "تقشير",
       "مضاد لحب الشباب",
-      "تفتيح البشرة"
+      "تفتيح البشرة",
+      "تقشير",
+      "مخصص للبشرة الدهنية",
+      "مضاد لحب الشباب"
     ],
     "targetTypes": [
       "بشرة دهنية",
       "بشرة معرضة للحبوب"
-    ]
+    ],
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-CON-CHA-001",
