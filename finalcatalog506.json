@@ -4909,12 +4909,14 @@
     "image": "https://inescosmetics.com/wp-content/uploads/2025/07/IMG_8803-scaled.webp",
     "marketingClaims": [
       "مرطب للبشرة",
-      "للبشرة الدهنية"
+      "للبشرة الدهنية",
+      "للبشرة الحساسة"
     ],
     "price": null,
     "targetTypes": [
       "بشرة دهنية",
-      "بشرة مختلطة"
+      "بشرة مختلطة",
+      "كل أنواع البشرة"
     ]
   },
   {
@@ -64927,6 +64929,31 @@
     "targetTypes": [
       "بشرة دهنية",
       "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء"
+    ]
+  },
+  {
+    "id": "DZ-MSK-PEA-001",
+    "brand": "Peau Parfaite",
+    "name": "Peel off black mask",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789416062/o1876zgp0sb70rwodz8q.jpg",
+    "ingredients": "AQUA, PVOH, ALCOHOL DENAT, PIGMENT, PROPYLENE GLYCOL, DIAZOLIDINYL UREA, CITRIC ACID, ALGIN, CELLULOSE GUM, TITANIUM OXIDE, AROMA, CHARBON",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": "350",
+      "currency": "DZD",
+      "max": "350"
+    },
+    "targetTypes": [
+      "كل أنواع البشرة"
     ],
     "marketingClaims": [
       "مضاد للرؤوس السوداء"
