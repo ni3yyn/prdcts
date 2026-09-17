@@ -7520,7 +7520,11 @@
       "icon": "bath"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8355,7 +8359,11 @@
       "icon": "pump-soap"
     },
     "quantity": "300 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8664,7 +8672,11 @@
       "icon": "pump-soap"
     },
     "quantity": "450 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8681,7 +8693,11 @@
       "icon": "pump-soap"
     },
     "quantity": "450 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8698,7 +8714,11 @@
       "icon": "pump-soap"
     },
     "quantity": "450 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8715,7 +8735,11 @@
       "icon": "pump-soap"
     },
     "quantity": "400 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8732,7 +8756,11 @@
       "icon": "pump-soap"
     },
     "quantity": "100 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8749,7 +8777,11 @@
       "icon": "pump-soap"
     },
     "quantity": "400 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8766,7 +8798,11 @@
       "icon": "pump-soap"
     },
     "quantity": "400 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
