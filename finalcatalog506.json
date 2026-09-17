@@ -4789,7 +4789,7 @@
       "label": "بديل الزيت",
       "icon": "water"
     },
-    "quantity": "150",
+    "quantity": "50 ml",
     "ingredients": "ماء, كحول سيتوستيريل, كحول الستياريل, زيت الأرغان, بروتين متحلل, عطر, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772224406/n8ehfc4ihzzylrxn55sx.jpg",
     "marketingClaims": [
@@ -7541,7 +7541,11 @@
       "icon": "bath"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7558,7 +7562,11 @@
       "icon": "bath"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7592,7 +7600,11 @@
       "icon": "bath"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ],
@@ -8171,11 +8183,19 @@
       "icon": "leaf"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 220,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر دهني"
     ],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "مرطب للشعر",
+      "تلميع ولمعان"
+    ]
   },
   {
     "id": "DZ-CON-VEN-009",
@@ -8207,9 +8227,19 @@
       "icon": "leaf"
     },
     "quantity": "200 ml",
-    "price": null,
-    "targetTypes": [],
-    "marketingClaims": []
+    "price": {
+      "min": 150,
+      "max": 220,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "تنعيم الشعر",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ]
   },
   {
     "id": "DZ-CON-VEN-006",
@@ -8380,7 +8410,11 @@
       "icon": "pump-soap"
     },
     "quantity": "300 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8397,7 +8431,11 @@
       "icon": "pump-soap"
     },
     "quantity": "300 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
