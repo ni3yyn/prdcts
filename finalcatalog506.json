@@ -5142,7 +5142,10 @@
     "quantity": "null",
     "ingredients": "ماء, كوكاميد DEA, الكبريت الغروي, عطر, بنزوات البوتاسيوم",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1772392451/wmikdn5ssih7d6zven39.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "للبشرة الدهنية",
+      "مضاد لحب الشباب"
+    ],
     "price": {
       "min": 380,
       "max": 450,
@@ -5242,7 +5245,12 @@
     "quantity": "null",
     "ingredients": "ماء, زيت جوز الهند, كوكاميد DEA, الكبريت الغروي, عطر, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1771932134/rilfbd6qkdcls9bueuj1.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "للبشرة الدهنية",
+      "للبشرة الحساسة",
+      "مضاد لحب الشباب",
+      "توازن الزيوت والدهون"
+    ],
     "price": {
       "min": 400,
       "max": 450,
@@ -5416,7 +5424,7 @@
     "marketingClaims": [],
     "price": {
       "min": 450,
-      "max": 450,
+      "max": 550,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -5438,7 +5446,7 @@
     "image": "https://genie-flowers.com/wp-content/uploads/2024/12/Valeria-Glyceri-1x1-Clear.jpg",
     "marketingClaims": [
       "للبشرة الجافة",
-      "ترطيب البشرة"
+      "مرطب للبشرة"
     ],
     "price": {
       "min": 350,
@@ -6328,7 +6336,11 @@
       "مرطب للبشرة",
       "تفتيح البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -8281,8 +8293,12 @@
     },
     "quantity": "200 ml",
     "price": null,
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "شعر مصبوغ"
+    ],
+    "marketingClaims": [
+      "حماية اللون"
+    ]
   },
   {
     "id": "DZ-CON-VEN-001",
