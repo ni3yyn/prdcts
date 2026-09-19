@@ -4776,7 +4776,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة معرضة للحبوب"
+      "بشرة معرضة للحبوب",
+      "بشرة مختلطة"
     ]
   },
   {
@@ -4801,7 +4802,10 @@
       "max": 300,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر جاف",
+      "شعر متضرر"
+    ]
   },
   {
     "id": "DZ-OIL-SWA-001",
@@ -5361,7 +5365,10 @@
       "max": 150,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر جاف",
+      "شعر متضرر"
+    ]
   },
   {
     "id": "DZ-CLE-LIS-001",
@@ -6295,7 +6302,11 @@
       "تنظيف عميق",
       "توازن الحموضة"
     ],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
