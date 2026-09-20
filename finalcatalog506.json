@@ -6569,7 +6569,6 @@
     "marketingClaims": [
       "حماية من الشمس",
       "مقاوم للماء",
-      "للبشرة الدهنية",
       "حماية واسعة الطيف"
     ],
     "price": {
@@ -6578,7 +6577,9 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة دهنية"
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة حساسة"
     ]
   },
   {
@@ -7878,7 +7879,11 @@
       "icon": "droplet"
     },
     "quantity": "40 ml",
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
