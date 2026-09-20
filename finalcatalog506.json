@@ -4799,7 +4799,7 @@
     ],
     "price": {
       "min": 250,
-      "max": 300,
+      "max": 370,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -5391,7 +5391,8 @@
     },
     "targetTypes": [
       "بشرة مختلطة",
-      "بشرة حساسة"
+      "بشرة حساسة",
+      "بشرة عادية"
     ]
   },
   {
@@ -6360,7 +6361,7 @@
     "id": "OT-XXX-BIOL-001",
     "brand": "BIOLILA",
     "name": "RICE WATER AND TEA TREE OIL TONER",
-    "country": "",
+    "country": "Algeria",
     "category": {
       "id": "toner",
       "label": "تونر / ميست",
@@ -6376,7 +6377,7 @@
       "تهدئة البشرة"
     ],
     "price": {
-      "min": 1300,
+      "min": 1250,
       "max": 1450,
       "currency": "DZD"
     },
@@ -7598,7 +7599,11 @@
       "icon": "bath"
     },
     "quantity": "249 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -57003,7 +57008,7 @@
       "مرطب للبشرة"
     ],
     "price": {
-      "min": 1050,
+      "min": 1000,
       "max": 1100,
       "currency": "DZD"
     },
