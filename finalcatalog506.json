@@ -3570,7 +3570,7 @@
     "targetTypes": []
   },
   {
-    "id": "FR-SHA-KLO-004",
+    "id": "FR-SHA-KLO-014",
     "brand": "KLORANE",
     "name": "Shampooing extra-doux au lait d'avoine",
     "country": "France",
@@ -4808,7 +4808,7 @@
     ]
   },
   {
-    "id": "DZ-OIL-SWA-001",
+    "id": "DZ-OIL-SWA-002",
     "brand": "SWALIS",
     "name": "بديل زيت EXTRA GLOSS",
     "country": "Algeria",
@@ -5721,7 +5721,7 @@
     ]
   },
   {
-    "id": "KR-SSE-SKI-003",
+    "id": "KR-SSE-SKI-004",
     "brand": "SKIN1004 Madagascar",
     "name": "Centella Poremizing Fresh Ampoule",
     "country": "Korea",
@@ -9414,7 +9414,7 @@
     ]
   },
   {
-    "id": "DZ-HMA-MIS-001",
+    "id": "DZ-HMA-MIS-006",
     "brand": "Miss Claire",
     "name": "Hair Mayonnaise",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789913739/migrated/xsn98yxilnw9jjfjmrhq.jpg",
@@ -12323,7 +12323,7 @@
     ]
   },
   {
-    "id": "FR-SUN-BIO-003",
+    "id": "FR-SUN-BIO-023",
     "brand": "Bioderma",
     "name": "Cicabio SPF50+ Skin Healing Cream",
     "country": "France",
@@ -12526,7 +12526,7 @@
     ]
   },
   {
-    "id": "FR-BWA-BIO-001",
+    "id": "FR-BWA-BIO-003",
     "brand": "Bioderma",
     "name": "Atoderm Intensive Foaming Gel",
     "country": "France",
@@ -12638,7 +12638,7 @@
     ]
   },
   {
-    "id": "FR-SHA-BIO-001",
+    "id": "FR-SHA-BIO-003",
     "brand": "Bioderma",
     "name": "Nodé DS+ Anti Dandraff Shampoo",
     "country": "France",
@@ -12876,7 +12876,7 @@
     ]
   },
   {
-    "id": "FR-SUN-BIO-009",
+    "id": "FR-SUN-BIO-024",
     "brand": "Bioderma",
     "name": "Photoderm XDefense Ultra Fluid SPF50+ invisible",
     "country": "France",
@@ -12940,7 +12940,7 @@
     ]
   },
   {
-    "id": "FR-LOT-BIO-009",
+    "id": "FR-LOT-BIO-021",
     "brand": "Bioderma",
     "name": "Atoderm Hand & Nail Cream",
     "country": "France",
@@ -25480,7 +25480,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-001",
+    "id": "IT-MSK-ROU-010",
     "brand": "Rougj",
     "name": "Light Effect Mask",
     "country": "Italy",
@@ -25500,7 +25500,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SSE-ROU-001",
+    "id": "IT-SSE-ROU-006",
     "brand": "Rougj",
     "name": "Retouch Filler Effect",
     "country": "Italy",
@@ -25520,7 +25520,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-001",
+    "id": "IT-LOT-ROU-025",
     "brand": "Rougj",
     "name": "Smart Filler Plumping Effect Cream 50ml",
     "country": "Italy",
@@ -25540,7 +25540,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-002",
+    "id": "IT-LOT-ROU-026",
     "brand": "Rougj",
     "name": "Active Sun Bronze + 40% MAXI Face/Body 200 ml",
     "country": "Italy",
@@ -25559,7 +25559,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-003",
+    "id": "IT-LOT-ROU-027",
     "brand": "Rougj",
     "name": "AttivaBronz +40% 100ml",
     "country": "Italy",
@@ -25578,7 +25578,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OIB-ROU-001",
+    "id": "IT-OIB-ROU-002",
     "brand": "Rougj",
     "name": "Argan Oil",
     "country": "Italy",
@@ -25598,7 +25598,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-CLE-ROU-001",
+    "id": "IT-CLE-ROU-005",
     "brand": "Rougj",
     "name": "Micellar Water",
     "country": "Italy",
@@ -25618,7 +25618,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-002",
+    "id": "IT-MSK-ROU-011",
     "brand": "Rougj",
     "name": "Oxygen detox face mask",
     "country": "Italy",
@@ -25638,7 +25638,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-003",
+    "id": "IT-MSK-ROU-012",
     "brand": "Rougj",
     "name": "Illuminating oxygen face mask",
     "country": "Italy",
@@ -25657,7 +25657,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SSE-ROU-002",
+    "id": "IT-SSE-ROU-007",
     "brand": "Rougj",
     "name": "Serum with Botulinum-like Effect",
     "country": "Italy",
@@ -25677,7 +25677,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-004",
+    "id": "IT-LOT-ROU-028",
     "brand": "Rougj",
     "name": "After Tan Cream 100ml",
     "country": "Italy",
@@ -25697,7 +25697,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-001",
+    "id": "IT-OTH-ROU-021",
     "brand": "Rougj",
     "name": "Self-Tanning Wipe",
     "country": "Italy",
@@ -25716,7 +25716,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-005",
+    "id": "IT-LOT-ROU-029",
     "brand": "Rougj",
     "name": "AfterTan Cream 200ml",
     "country": "Italy",
@@ -25736,7 +25736,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-001",
+    "id": "IT-SUN-ROU-028",
     "brand": "Rougj",
     "name": "Sunscreen SPF15 for sensitive skin",
     "country": "Italy",
@@ -25758,7 +25758,7 @@
     ]
   },
   {
-    "id": "IT-SUN-ROU-002",
+    "id": "IT-SUN-ROU-029",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF15 with melanin activator 200ml",
     "country": "Italy",
@@ -25778,7 +25778,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-003",
+    "id": "IT-SUN-ROU-030",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF30 with melanin activator",
     "country": "Italy",
@@ -25797,7 +25797,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-004",
+    "id": "IT-SUN-ROU-031",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF30 Anti-age",
     "country": "Italy",
@@ -25817,7 +25817,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-005",
+    "id": "IT-SUN-ROU-032",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF50+ Anti-age",
     "country": "Italy",
@@ -25838,7 +25838,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-006",
+    "id": "IT-SUN-ROU-033",
     "brand": "Rougj",
     "name": "Sunscreen Cream SPF15",
     "country": "Italy",
@@ -25858,7 +25858,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-007",
+    "id": "IT-SUN-ROU-034",
     "brand": "Rougj",
     "name": "Sunscreen Cream SPF30",
     "country": "Italy",
@@ -25877,7 +25877,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-008",
+    "id": "IT-SUN-ROU-035",
     "brand": "Rougj",
     "name": "Sunscreen Cream SPF50",
     "country": "Italy",
@@ -25897,7 +25897,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-009",
+    "id": "IT-SUN-ROU-036",
     "brand": "Rougj",
     "name": "Kids Sunscreen Cream SPF50+",
     "country": "Italy",
@@ -25920,7 +25920,7 @@
     ]
   },
   {
-    "id": "IT-SUN-ROU-010",
+    "id": "IT-SUN-ROU-037",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF15 with melanin activator 100ml",
     "country": "Italy",
@@ -25939,7 +25939,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-011",
+    "id": "IT-SUN-ROU-038",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF30 with melanin activator 100ml",
     "country": "Italy",
@@ -25958,7 +25958,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-006",
+    "id": "IT-LOT-ROU-030",
     "brand": "Rougj",
     "name": "Doposole Bifasico with Melanin Activator",
     "country": "Italy",
@@ -25978,7 +25978,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-007",
+    "id": "IT-LOT-ROU-031",
     "brand": "Rougj",
     "name": "AttivaBronz +40% Legs",
     "country": "Italy",
@@ -25995,7 +25995,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-HSE-ROU-001",
+    "id": "IT-HSE-ROU-008",
     "brand": "Rougj",
     "name": "Protective Two-Phase Hair Solar",
     "country": "Italy",
@@ -26014,7 +26014,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-012",
+    "id": "IT-SUN-ROU-039",
     "brand": "Rougj",
     "name": "Sunscreen stick for sensitive areas SPF50+",
     "country": "Italy",
@@ -26037,7 +26037,7 @@
     ]
   },
   {
-    "id": "IT-SUN-ROU-013",
+    "id": "IT-SUN-ROU-040",
     "brand": "Rougj",
     "name": "Lip balm for sensitive lips SPF50+",
     "country": "Italy",
@@ -26059,7 +26059,7 @@
     ]
   },
   {
-    "id": "IT-OTH-ROU-002",
+    "id": "IT-OTH-ROU-022",
     "brand": "Rougj",
     "name": "SOS burn stick",
     "country": "Italy",
@@ -26079,7 +26079,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-BWA-ROU-001",
+    "id": "IT-BWA-ROU-003",
     "brand": "Rougj",
     "name": "ProlungaBronz body solar cleanser",
     "country": "Italy",
@@ -26098,7 +26098,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-008",
+    "id": "IT-LOT-ROU-032",
     "brand": "Rougj",
     "name": "Two-phase lotion with tanning activator",
     "country": "Italy",
@@ -26115,7 +26115,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-009",
+    "id": "IT-LOT-ROU-033",
     "brand": "Rougj",
     "name": "Intense Hydration Body Cream",
     "country": "Italy",
@@ -26137,7 +26137,7 @@
     ]
   },
   {
-    "id": "IT-LOT-ROU-010",
+    "id": "IT-LOT-ROU-034",
     "brand": "Rougj",
     "name": "Elasticizing Body Cream",
     "country": "Italy",
@@ -26157,7 +26157,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-003",
+    "id": "IT-OTH-ROU-023",
     "brand": "Rougj",
     "name": "Anti-Cellulite Shock Treatment - 4 treatments",
     "country": "Italy",
@@ -26176,7 +26176,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-011",
+    "id": "IT-LOT-ROU-035",
     "brand": "Rougj",
     "name": "Anti-cellulite Mousse",
     "country": "Italy",
@@ -26196,7 +26196,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-004",
+    "id": "IT-OTH-ROU-024",
     "brand": "Rougj",
     "name": "Anti-Cellulite Shock Treatment - 1 treatment",
     "country": "Italy",
@@ -26213,7 +26213,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-005",
+    "id": "IT-OTH-ROU-025",
     "brand": "Rougj",
     "name": "Body Treatment with Himalayan Pink Salt",
     "country": "Italy",
@@ -26232,7 +26232,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-006",
+    "id": "IT-OTH-ROU-026",
     "brand": "Rougj",
     "name": "Single-use Arm Cryo-treatment",
     "country": "Italy",
@@ -26251,7 +26251,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-012",
+    "id": "IT-LOT-ROU-036",
     "brand": "Rougj",
     "name": "Localized Adiposity Serum",
     "country": "Italy",
@@ -26271,7 +26271,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-CLE-ROU-002",
+    "id": "IT-CLE-ROU-006",
     "brand": "Rougj",
     "name": "Face cleansing foam",
     "country": "Italy",
@@ -26290,7 +26290,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-013",
+    "id": "IT-LOT-ROU-037",
     "brand": "Rougj",
     "name": "Emollient Hand and Cuticle Cream",
     "country": "Italy",
@@ -26309,7 +26309,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-014",
+    "id": "IT-LOT-ROU-038",
     "brand": "Rougj",
     "name": "Collagen Boost Face Cream",
     "country": "Italy",
@@ -26329,7 +26329,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-015",
+    "id": "IT-LOT-ROU-039",
     "brand": "Rougj",
     "name": "Hyaluronic Boost Face Cream",
     "country": "Italy",
@@ -26349,7 +26349,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-016",
+    "id": "IT-LOT-ROU-040",
     "brand": "Rougj",
     "name": "Anti-age Lift-up Face Cream",
     "country": "Italy",
@@ -26369,7 +26369,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-EYE-ROU-001",
+    "id": "IT-EYE-ROU-004",
     "brand": "Rougj",
     "name": "Eye contour",
     "country": "Italy",
@@ -26389,7 +26389,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SHA-ROU-001",
+    "id": "IT-SHA-ROU-005",
     "brand": "Rougj",
     "name": "Anti-Hair Loss Shampoo",
     "country": "Italy",
@@ -26409,7 +26409,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-HSE-ROU-002",
+    "id": "IT-HSE-ROU-009",
     "brand": "Rougj",
     "name": "Anti-Hair Loss Vials",
     "country": "Italy",
@@ -26429,7 +26429,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SHA-ROU-002",
+    "id": "IT-SHA-ROU-006",
     "brand": "Rougj",
     "name": "Anti-Sebum Shampoo",
     "country": "Italy",
@@ -26451,7 +26451,7 @@
     ]
   },
   {
-    "id": "IT-HSE-ROU-003",
+    "id": "IT-HSE-ROU-010",
     "brand": "Rougj",
     "name": "Anti-Sebo Vials",
     "country": "Italy",
@@ -26473,7 +26473,7 @@
     ]
   },
   {
-    "id": "IT-SHA-ROU-003",
+    "id": "IT-SHA-ROU-007",
     "brand": "Rougj",
     "name": "Anti-Dandruff Shampoo",
     "country": "Italy",
@@ -26492,7 +26492,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-HSE-ROU-004",
+    "id": "IT-HSE-ROU-011",
     "brand": "Rougj",
     "name": "Anti-Dandruff Vials",
     "country": "Italy",
@@ -26511,7 +26511,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-HSE-ROU-005",
+    "id": "IT-HSE-ROU-012",
     "brand": "Rougj",
     "name": "Anti-Dandruff Vials",
     "country": "Italy",
@@ -26530,7 +26530,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-CLE-ROU-003",
+    "id": "IT-CLE-ROU-007",
     "brand": "Rougj",
     "name": "Universal Detergent",
     "country": "Italy",
@@ -26549,7 +26549,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SHA-ROU-004",
+    "id": "IT-SHA-ROU-008",
     "brand": "Rougj",
     "name": "Gentle Shampoo for Frequent Washing",
     "country": "Italy",
@@ -26569,7 +26569,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-EYE-ROU-002",
+    "id": "IT-EYE-ROU-005",
     "brand": "Rougj",
     "name": "Serum for Bags and Crow's Feet - Man Botulinum-Like Effect",
     "country": "Italy",
@@ -26589,7 +26589,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-007",
+    "id": "IT-OTH-ROU-027",
     "brand": "Rougj",
     "name": "Lip Balm Sicilian Date",
     "country": "Italy",
@@ -26606,7 +26606,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-008",
+    "id": "IT-OTH-ROU-028",
     "brand": "Rougj",
     "name": "Lip Balm mora",
     "country": "Italy",
@@ -26623,7 +26623,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-009",
+    "id": "IT-OTH-ROU-029",
     "brand": "Rougj",
     "name": "Serum FortyOne",
     "country": "Italy",
@@ -26642,7 +26642,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-010",
+    "id": "IT-OTH-ROU-030",
     "brand": "Rougj",
     "name": "Lip Booster Plumping Effect",
     "country": "Italy",
@@ -26661,7 +26661,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-017",
+    "id": "IT-LOT-ROU-041",
     "brand": "Rougj",
     "name": "24h Plump Effect Cream",
     "country": "Italy",
@@ -26681,7 +26681,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-011",
+    "id": "IT-OTH-ROU-031",
     "brand": "Rougj",
     "name": "Cuticle pen",
     "country": "Italy",
@@ -26700,7 +26700,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-HSE-ROU-006",
+    "id": "IT-HSE-ROU-013",
     "brand": "Rougj",
     "name": "Protective Two-Phase Hair Solar Twiga by Rougj",
     "country": "Italy",
@@ -26719,7 +26719,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-018",
+    "id": "IT-LOT-ROU-042",
     "brand": "Rougj",
     "name": "Bifasic moisturizer with tanning activator Twiga by Rougj",
     "country": "Italy",
@@ -26736,7 +26736,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-014",
+    "id": "IT-SUN-ROU-041",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF15 with melanin activator and colloidal gold Twiga By Rougj",
     "country": "Italy",
@@ -26753,7 +26753,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-015",
+    "id": "IT-SUN-ROU-042",
     "brand": "Rougj",
     "name": "Solare Bifasico SPF30 with melanin activator and colloidal gold Twiga By Rougj",
     "country": "Italy",
@@ -26770,7 +26770,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-019",
+    "id": "IT-LOT-ROU-043",
     "brand": "Rougj",
     "name": "Doposole Bifasico with tanning extender Twiga by Rougj",
     "country": "Italy",
@@ -26787,7 +26787,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-004",
+    "id": "IT-MSK-ROU-013",
     "brand": "Rougj",
     "name": "Gold after-sun mask Twiga by Rougj",
     "country": "Italy",
@@ -26807,7 +26807,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-LOT-ROU-020",
+    "id": "IT-LOT-ROU-044",
     "brand": "Rougj",
     "name": "Anti-Spot Day Face Cream SPF20",
     "country": "Italy",
@@ -26846,7 +26846,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-016",
+    "id": "IT-SUN-ROU-043",
     "brand": "Rougj",
     "name": "Urban Glow",
     "country": "Italy",
@@ -26865,7 +26865,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-012",
+    "id": "IT-OTH-ROU-032",
     "brand": "Rougj",
     "name": "Magic Sun Elixir",
     "country": "Italy",
@@ -26882,7 +26882,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-013",
+    "id": "IT-OTH-ROU-033",
     "brand": "Rougj",
     "name": "Lip Care 2in1 – Coconut",
     "country": "Italy",
@@ -26901,7 +26901,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-014",
+    "id": "IT-OTH-ROU-034",
     "brand": "Rougj",
     "name": "Lip Care 2in1 – Mango",
     "country": "Italy",
@@ -26918,7 +26918,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-015",
+    "id": "IT-OTH-ROU-035",
     "brand": "Rougj",
     "name": "Lip Care 2in1 – Peach",
     "country": "Italy",
@@ -26935,7 +26935,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-016",
+    "id": "IT-OTH-ROU-036",
     "brand": "Rougj",
     "name": "Lip Care 2in1 – Red Berries",
     "country": "Italy",
@@ -26952,7 +26952,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-OTH-ROU-017",
+    "id": "IT-OTH-ROU-037",
     "brand": "Rougj",
     "name": "Lip Care 2in1 – Watermelon",
     "country": "Italy",
@@ -26969,7 +26969,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SCR-ROU-001",
+    "id": "IT-SCR-ROU-003",
     "brand": "Rougj",
     "name": "Biscuit Lip Scrub",
     "country": "Italy",
@@ -26988,7 +26988,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-017",
+    "id": "IT-SUN-ROU-044",
     "brand": "Rougj",
     "name": "Face Lotion SPF50+",
     "country": "Italy",
@@ -27008,7 +27008,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-018",
+    "id": "IT-SUN-ROU-045",
     "brand": "Rougj",
     "name": "Multipurpose Stick SPF 50+",
     "country": "Italy",
@@ -27025,7 +27025,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-019",
+    "id": "IT-SUN-ROU-046",
     "brand": "Rougj",
     "name": "Lip Balm Stick SPF 50+",
     "country": "Italy",
@@ -27042,7 +27042,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-EYE-ROU-003",
+    "id": "IT-EYE-ROU-006",
     "brand": "Rougj",
     "name": "Anti-Aging Eye Cream",
     "country": "Italy",
@@ -27062,7 +27062,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-TON-ROU-001",
+    "id": "IT-TON-ROU-003",
     "brand": "Rougj",
     "name": "Milky Toner",
     "country": "Italy",
@@ -27119,7 +27119,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-020",
+    "id": "IT-SUN-ROU-047",
     "brand": "Rougj",
     "name": "Head Gel trasparente SPF30 50 ml",
     "country": "Italy",
@@ -27136,7 +27136,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-005",
+    "id": "IT-MSK-ROU-014",
     "brand": "Rougj",
     "name": "Bamboo Face Mask Intensive Ritual",
     "country": "Italy",
@@ -27155,7 +27155,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-006",
+    "id": "IT-MSK-ROU-015",
     "brand": "Rougj",
     "name": "Bamboo Face Mask Regenerating Ritual",
     "country": "Italy",
@@ -27172,7 +27172,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-MSK-ROU-007",
+    "id": "IT-MSK-ROU-016",
     "brand": "Rougj",
     "name": "Face Mask in Fabric Detox Ritual",
     "country": "Italy",
@@ -27231,7 +27231,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SSE-ROU-003",
+    "id": "IT-SSE-ROU-008",
     "brand": "Rougj",
     "name": "Booster Serum with Marine Collagen",
     "country": "Italy",
@@ -27251,7 +27251,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SSE-ROU-004",
+    "id": "IT-SSE-ROU-009",
     "brand": "Rougj",
     "name": "Booster Serum with Hyaluronic Acid",
     "country": "Italy",
@@ -27271,7 +27271,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SSE-ROU-005",
+    "id": "IT-SSE-ROU-010",
     "brand": "Rougj",
     "name": "Booster Serum with Ceramides",
     "country": "Italy",
@@ -27290,7 +27290,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-021",
+    "id": "IT-SUN-ROU-048",
     "brand": "Rougj",
     "name": "Head Transparent Spray SPF50+ 100ml",
     "country": "Italy",
@@ -27307,7 +27307,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-022",
+    "id": "IT-SUN-ROU-049",
     "brand": "Rougj",
     "name": "Head Milky Spray SPF50+ 100ml",
     "country": "Italy",
@@ -27343,7 +27343,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-023",
+    "id": "IT-SUN-ROU-050",
     "brand": "Rougj",
     "name": "Solare bifasico SPF 50+ 100 ml anti-age",
     "country": "Italy",
@@ -27360,7 +27360,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-024",
+    "id": "IT-SUN-ROU-051",
     "brand": "Rougj",
     "name": "SPRAY TRIGGER SPF 30 200 ml",
     "country": "Italy",
@@ -27377,7 +27377,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-025",
+    "id": "IT-SUN-ROU-052",
     "brand": "Rougj",
     "name": "SPRAY TRIGGER SPF 50+ 200 ml",
     "country": "Italy",
@@ -27394,7 +27394,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-TON-ROU-002",
+    "id": "IT-TON-ROU-004",
     "brand": "Rougj",
     "name": "Acqua Rivitalizzante Profumata 3 in 1",
     "country": "Italy",
@@ -27413,7 +27413,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-CON-ROU-001",
+    "id": "IT-CON-ROU-002",
     "brand": "Rougj",
     "name": "2in1 Argan Oil Smoothing Conditioner and Mask",
     "country": "Italy",
@@ -27433,7 +27433,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-HSE-ROU-007",
+    "id": "IT-HSE-ROU-014",
     "brand": "Rougj",
     "name": "Siero Spray Districante all’Olio di Argan",
     "country": "Italy",
@@ -27453,7 +27453,7 @@
     "targetTypes": []
   },
   {
-    "id": "IT-SUN-ROU-027",
+    "id": "IT-SUN-ROU-053",
     "brand": "Rougj",
     "name": "Crema Solare SPF50+ viso antimacchia con vit C 40ml",
     "country": "Italy",
@@ -30375,7 +30375,7 @@
     "targetTypes": []
   },
   {
-    "id": "FR-SSE-URI-002",
+    "id": "FR-SSE-URI-009",
     "brand": "Uriage",
     "name": "Thermal Spring Water Sérum Booster H.A 30ml",
     "country": "France",
@@ -30477,7 +30477,7 @@
     "targetTypes": []
   },
   {
-    "id": "FR-SUN-URI-002",
+    "id": "FR-SUN-URI-021",
     "brand": "Uriage",
     "name": "Bariésun Very High Protection Invisible Spray SPF50+ 200 ml",
     "country": "France",
@@ -30497,7 +30497,7 @@
     "targetTypes": []
   },
   {
-    "id": "FR-SUN-URI-003",
+    "id": "FR-SUN-URI-022",
     "brand": "Uriage",
     "name": "Bariésun Very High Protection Moisturising Protective Cream SPF50+ 50 ml",
     "country": "France",
@@ -30518,7 +30518,7 @@
     "targetTypes": []
   },
   {
-    "id": "FR-CLE-URI-002",
+    "id": "FR-CLE-URI-018",
     "brand": "Uriage",
     "name": "Thermal Micellar Water Normal to Dry Skin 250ml",
     "country": "France",
@@ -30642,7 +30642,7 @@
     "targetTypes": []
   },
   {
-    "id": "FR-CLE-URI-003",
+    "id": "FR-CLE-URI-019",
     "brand": "Uriage",
     "name": "Thermal Micellar Water Normal to Dry Skins 500ml",
     "country": "France",
@@ -32684,7 +32684,7 @@
     ]
   },
   {
-    "id": "FR-SUN-LAR-001",
+    "id": "FR-SUN-LAR-032",
     "brand": "La Roche-Posay",
     "name": "Anthelios Hydrating Lotion Ultra Resistant SPF50+",
     "country": "France",
@@ -32815,7 +32815,7 @@
     ]
   },
   {
-    "id": "FR-LOT-LAR-004",
+    "id": "FR-LOT-LAR-041",
     "brand": "La Roche-Posay",
     "name": "Cicaplast Baume B5+",
     "country": "France",
@@ -32899,7 +32899,7 @@
     ]
   },
   {
-    "id": "FR-SUN-LAR-003",
+    "id": "FR-SUN-LAR-033",
     "brand": "La Roche-Posay",
     "name": "Anthelios Dermo-Pediatrics Invisible Spray SPF50+ Fragrance-Free",
     "country": "France",
@@ -35190,7 +35190,7 @@
     ]
   },
   {
-    "id": "FR-TON-LAR-006",
+    "id": "FR-TON-LAR-012",
     "brand": "La Roche-Posay",
     "name": "Micellar Water Ultra Reactive Skin",
     "country": "France",
@@ -47277,7 +47277,7 @@
     ]
   },
   {
-    "id": "DZ-HMA-MIS-001",
+    "id": "DZ-HMA-MIS-007",
     "brand": "Miss Claire",
     "name": "Hair Mayonnaise Mask",
     "country": "Algeria",
@@ -48086,7 +48086,7 @@
     ]
   },
   {
-    "id": "DZ-SUN-LIS-001",
+    "id": "DZ-SUN-LIS-002",
     "brand": "LISAS LABORATOIRES",
     "name": "Spray Protection Solaire SPF 50+ Sensitive Hydratant sans Parfum",
     "country": "Algeria",
@@ -48137,7 +48137,7 @@
     "targetTypes": []
   },
   {
-    "id": "DZ-CLE-LIS-001",
+    "id": "DZ-CLE-LIS-002",
     "brand": "LISAS LABORATOIRES",
     "name": "Expert Gel Nettoyant Visage à Base de Charbon Actif",
     "country": "Algeria",
@@ -50625,7 +50625,7 @@
     ]
   },
   {
-    "id": "KR-CLE-ARE-001",
+    "id": "KR-CLE-ARE-018",
     "brand": "Arencia",
     "name": "Fresh Green Cleanser",
     "country": "Korea",
@@ -52858,7 +52858,7 @@
     ]
   },
   {
-    "id": "KR-LOT-PUR-001",
+    "id": "KR-LOT-PUR-017",
     "brand": "Purito Seoul",
     "name": "BHA Dead Skin Moisture Gel",
     "country": "Korea",
@@ -52928,7 +52928,7 @@
     ]
   },
   {
-    "id": "KR-LOT-PUR-002",
+    "id": "KR-LOT-PUR-018",
     "brand": "Purito Seoul",
     "name": "Centella Unscented Recovery Cream",
     "country": "Korea",
@@ -53583,7 +53583,7 @@
     ]
   },
   {
-    "id": "KR-CLE-PUR-002",
+    "id": "KR-CLE-PUR-003",
     "brand": "Purito Seoul",
     "name": "From Green Deep Foaming Cleancer",
     "country": "Korea",
@@ -56503,7 +56503,7 @@
     ]
   },
   {
-    "id": "TR-CLE-BIO-002",
+    "id": "TR-CLE-BIO-003",
     "brand": "Bioxsine",
     "name": "Sebum Regulating Face Washing Gel",
     "country": "Turkey",
@@ -57511,7 +57511,7 @@
     ]
   },
   {
-    "id": "DZ-CLE-NIA-002",
+    "id": "DZ-CLE-NIA-005",
     "brand": "Niall Cosmétique",
     "name": "Gel Nettoyant Concombre",
     "country": "Algeria",
@@ -60042,7 +60042,7 @@
     ]
   },
   {
-    "id": "DZ-CLE-VOG-002",
+    "id": "DZ-CLE-VOG-003",
     "brand": "Vogue Secret",
     "name": "Gel Nettoyant Hydro Clean",
     "country": "Algeria",
@@ -61058,7 +61058,7 @@
     ]
   },
   {
-    "id": "DZ-SUN-ZOR-002",
+    "id": "DZ-SUN-ZOR-003",
     "brand": "Zorah Douce Nature",
     "name": "Crème solaire quotidienne à l'acide hyaluronique SPF 50+",
     "country": "Algeria",
@@ -64348,7 +64348,7 @@
     ]
   },
   {
-    "id": "DZ-SHA-FLU-001",
+    "id": "DZ-SHA-FLU-030",
     "brand": "Flux Care",
     "name": "Shampooing Antipelliculaire Men Edition Orange Energy Anti-chute, Anti-casse",
     "country": "Algeria",
