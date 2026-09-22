@@ -138,7 +138,11 @@
       "max": 250,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر مصبوغ",
+      "بشرة مختلطة",
+      "شعر جاف"
+    ]
   },
   {
     "id": "FR-SSE-YVE-001",
@@ -660,7 +664,9 @@
       "مرطب للبشرة"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "FR-SHA-YVE-004",
@@ -1575,7 +1581,11 @@
     "ingredients": "AQUA / WATER, CETEARYL ALCOHOL, ELAEIS GUINEENSIS OIL / PALM OIL, BEHETRIMONIUM CHLORIDE, CI 15895 / YELLOW 6, CI 19140 / YELLOW 5, STEARAMIDOPROPYL DIMETHYLAMINE, CHLORHEXIDINE DIHYDROCHLORIDE, ISOPROPYL ALCOHOL, PERSEA GRATISSIMA OIL / AVOCADO OIL, CITRIC ACID, BUTYROSPERMUM PARKII BUTTER / SHEA BUTTER, HEXYL CINNAMAL, GLYCERIN, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917759/migrated/xlmdvzokmgqqrzcbeizt.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 100,
+      "max": 100,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -1647,7 +1657,11 @@
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, COCO-BETAINE, COCAMIDE MIPA, SODIUM CHLORIDE, COCOS NUCIFERA OIL / COCONUT OIL, SODIUM BENZOATE, SODIUM COCOATE, SODIUM HYDROXIDE, PPG-5-CETETH-20, PEG-55 PROPYLENE GLYCOL OLEATE, PEG-60 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, SALICYLIC ACID, LIMONENE, BENZYL SALICYLATE, BENZYL ALCOHOL, LINALOOL, VANILLA PLANIFOLIA EXTRACT / VANILLA PLANIFOLIA FRUIT EXTRACT, AMODIMETHICONE, PROPYLENE GLYCOL, GARDENIA TAHITENSIS FLOWER EXTRACT, CITRONELLOL, METHYL COCOATE, CITRUS AURANTIUM AMARA FLOWER OIL / BITTER ORANGE FLOWER OIL, CITRIC ACID, LAURETH-5 CARBOXYLIC ACID, HEXYL CINNAMAL, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917756/migrated/hgwacbbtkttxhvuppzga.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 700,
+      "max": 700,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -2487,7 +2501,11 @@
     "ingredients": "1110962 A - INGREDIENTS : AQUA / WATER, SODIUM LAURETH SULFATE, DIMETHICONE, COCO-BETAINE, GLYCOL DISTEARATE, SODIUM CHLORIDE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDE MIPA, TOCOPHEROL, SODIUM BENZOATE, SODIUM HYDROXIDE, ETHYLHEXYL METHOXYCINNAMATE, SALICYLIC ACID, POLY(LINSEED OIL), FUMARIC ACID, BENZOPHENONE-4, BENZYL ALCOHOL, BENZYL SALICYLATE, LINALOOL, ALPHA-ISOMETHYL IONONE, CARBOMER, GERANIOL, BUTYLPHENYL METHYLPROPIONAL, CITRONELLOL, BHT, CITRIC ACID, HEXYLENE GLYCOL, HEXYL CINNAMAL, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917725/migrated/fjf2gymvahuft4lqnpgm.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -4735,7 +4753,10 @@
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "DZ-XXX-CALLI-001",
@@ -5546,7 +5567,9 @@
     "quantity": "150",
     "ingredients": "ماء, حمض الجليكوليك, مستخلص الألوفيرا, البانثينول (برو-فيتامين B5), آلانتوين, الجلسرين, ثلاثي إيثانولامين (TEA), اليوريا, بروبيلين جلايكول, بوليسوربات 20, فينوكسي إيثانول, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789918255/migrated/ras1wehcwmjcjwvmjxse.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تقشير"
+    ],
     "price": {
       "min": 1500,
       "max": 1500,
@@ -6677,7 +6700,9 @@
     "quantity": "100ml",
     "ingredients": "ماء, هيبتيل أنديسيلينات, كحول السيتيل, كحول السيتريل, زيت اللوز الحلو, مسحوق عصير أوراق الألوفيرا, عطر, زيت فول الصويا, توكوفيرول (فيتامين E النقي), كحول بنزيلي, هيدروكسيد البوتاسيوم (في الصابون السائل), حمض الستريك, حمض ديهيدروأسيتيك, سوربات البوتاسيوم, بنزوات الصوديوم, لينالول, ليمونين, سيترال, جيرانيول, سيترونيلول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911408/migrated/esstwb6xpaw2fwdslihz.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 850,
       "max": 850,
@@ -7847,7 +7872,7 @@
     "quantity": "50 ml",
     "price": {
       "min": 250,
-      "max": 250,
+      "max": 300,
       "currency": "DZD"
     },
     "targetTypes": [],
@@ -7871,7 +7896,9 @@
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة دهنية"
+    ],
     "marketingClaims": []
   },
   {
@@ -7892,7 +7919,9 @@
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة دهنية"
+    ],
     "marketingClaims": []
   },
   {
@@ -48492,7 +48521,11 @@
       "تنقية المسام",
       "توازن الدهون والزيوت"
     ],
-    "price": null,
+    "price": {
+      "min": 390,
+      "max": 390,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة معرضة للحبوب"
@@ -57073,7 +57106,11 @@
       "توازن الدهون والزيوت",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 110,
+      "max": 110,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة",
@@ -57390,7 +57427,11 @@
       "تنقية المسام",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 1400,
+      "max": 1400,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة"
     ]
@@ -58156,7 +58197,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 230,
+      "max": 230,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر عادي",
       "شعر جاف"
@@ -58302,7 +58347,11 @@
       "مرطب للشعر",
       "إصلاح الشعر المتضرر"
     ],
-    "price": null,
+    "price": {
+      "min": 230,
+      "max": 230,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر جاف"
@@ -58514,7 +58563,11 @@
       "تكثيف الشعر",
       "تغذية الشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
@@ -58563,7 +58616,11 @@
       "تغذية الشعر",
       "إصلاح الشعر المتضرر"
     ],
-    "price": null,
+    "price": {
+      "min": 230,
+      "max": 230,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
@@ -60009,7 +60066,12 @@
       "مكافحة التجاعيد",
       "مضاد للأكسدة"
     ],
-    "targetTypes": []
+    "targetTypes": [],
+    "price": {
+      "min": 750,
+      "max": 750,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-CLE-VOG-001",
