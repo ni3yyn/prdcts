@@ -5534,7 +5534,7 @@
     "marketingClaims": [],
     "price": {
       "min": 2000,
-      "max": 2000,
+      "max": 2500,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -8608,7 +8608,9 @@
       "max": 130,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة دهنية"
+    ],
     "marketingClaims": []
   },
   {
@@ -55224,7 +55226,7 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "",
+    "quantity": "50 ml",
     "ingredients": "Aqua, Octocrylene, Ethylhexyl Methoxycinnamate, C12-15 Alkyl Benzoate, Ethylhexyl Palmitate, Butyl Methoxydibenzoylmethane, Zinc Oxide, Tapioca Starch Polymethylsilsesquioxane, Ceteareth-25, VP/Hexadecene Copolymer, Glycerin, Dimethicone, Glyceryl Stearate SE, Cetyl Alcohol, Titanium Dioxide, Butylene Glycol, Silica, Ammonium Polyacrylate, Cyclopentasiloxane, PTFE, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, UNMAN GUM, Disodium EDTA",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917962/migrated/erhdcwviopmhu7n5m0g0.jpg",
     "marketingClaims": [
@@ -55232,7 +55234,11 @@
       "حماية واسعة الطيف",
       "توازن الدهون والزيوت"
     ],
-    "price": null,
+    "price": {
+      "min": 2450,
+      "max": 2450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة"
@@ -55280,7 +55286,11 @@
       "حماية واسعة الطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 2450,
+      "max": 2450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة"
     ]
@@ -55352,7 +55362,11 @@
       "تقشير لطيف",
       "تنقية المسام"
     ],
-    "price": null,
+    "price": {
+      "min": 2450,
+      "max": 2450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة معرضة للحبوب"
@@ -60031,7 +60045,7 @@
       "label": "واقي شمس",
       "icon": "sun"
     },
-    "quantity": "",
+    "quantity": "75 ml",
     "ingredients": "AQUA, C15-12 ALKYL BENZOATE, COCO-CAPRYLATE/CAPRATE, METHYLENE BIS-BENZOTRIAZOLYL TETRAMETHYLBUTYLPHENOL (NANO), CAPRYLIC/CAPRIC TRIGLYCERIDE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789930427/migrated/manual/vogue_secret_cr%C3%A8me_solaire_invisible_dzsunvog001.webp",
     "marketingClaims": [
