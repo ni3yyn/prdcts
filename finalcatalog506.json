@@ -135,7 +135,7 @@
     ],
     "price": {
       "min": 250,
-      "max": 250,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -4870,7 +4870,10 @@
     "quantity": "50ml",
     "ingredients": "ماء, كحول السيتريل, الجلسرين, سيترات الصوديوم, كحول السيتيل, حجر الخفاف, زبدة الشيا, دايميثيكون, إيميدازوليدينيل يوريا, عطر, سيليكا, حمض الستريك, كلوريد المغنيسيوم, كومارين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911454/migrated/gh6tn82tp4kiifa1xqc6.png",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق"
+    ],
     "price": {
       "min": 500,
       "max": 600,
@@ -5367,7 +5370,8 @@
     "marketingClaims": [],
     "price": null,
     "targetTypes": [
-      "بشرة دهنية"
+      "بشرة دهنية",
+      "بشرة مختلطة"
     ]
   },
   {
@@ -5704,7 +5708,7 @@
     ],
     "price": {
       "min": 300,
-      "max": 300,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -48089,7 +48093,9 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   },
   {
     "id": "DZ-LOT-LIS-002",
@@ -60179,7 +60185,12 @@
       "تنظيف عميق",
       "مرطب للبشرة"
     ],
-    "targetTypes": []
+    "targetTypes": [],
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-SCR-VOG-002",
@@ -62119,7 +62130,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
@@ -62188,7 +62203,11 @@
       "تلميع ولمعان",
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
