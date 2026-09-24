@@ -11049,7 +11049,11 @@
       "مرطب للبشرة",
       "ترطيب مكثف"
     ],
-    "price": null,
+    "price": {
+      "min": 3500,
+      "max": 3500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
