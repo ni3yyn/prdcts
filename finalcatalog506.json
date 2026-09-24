@@ -5480,7 +5480,10 @@
       "max": 1900,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ]
   },
   {
     "id": "DZ-XXX-ABU-002",
@@ -6169,7 +6172,7 @@
     "marketingClaims": [],
     "price": {
       "min": 300,
-      "max": 450,
+      "max": 600,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -34806,8 +34809,14 @@
       "مكافحة التجاعيد",
       "تفتيح البقع الداكنة"
     ],
-    "price": null,
-    "targetTypes": []
+    "price": {
+      "min": 4000,
+      "max": 4000,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "FR-LOT-LAR-037",
@@ -55941,7 +55950,9 @@
       "تنظيف لطيف"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "شعر جاف"
+    ]
   },
   {
     "id": "UK-CON-SUN-006",
@@ -57393,7 +57404,9 @@
       "مرطب للبشرة"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "DZ-TON-BIOL-001",
@@ -62660,7 +62673,11 @@
       "تفتيح البشرة",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 480,
+      "max": 480,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية",
       "بشرة جافة"
