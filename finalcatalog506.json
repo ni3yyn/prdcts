@@ -4855,8 +4855,8 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911411/migrated/bmshzkvby4kpmfufgpkw.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 370,
-      "max": 400,
+      "min": 280,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -57146,7 +57146,9 @@
       "max": 1050,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "كل أنواع البشرة"
+    ]
   },
   {
     "id": "DZ-LOT-PHA-006",
@@ -59608,7 +59610,7 @@
     ],
     "price": {
       "min": 550,
-      "max": 550,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -60334,7 +60336,7 @@
     "targetTypes": [],
     "price": {
       "min": 600,
-      "max": 750,
+      "max": 800,
       "currency": "DZD"
     }
   },
@@ -63174,7 +63176,7 @@
       "label": "مقشر / سكراب",
       "icon": "cookie"
     },
-    "quantity": null,
+    "quantity": "370 ml",
     "ingredients": "GLYCINE SOJA OIL, COCAMIDOPROPYL BETAINE, AQUA, ASCORBIC ACID, CETEARYL ALCOHOL, GLYCERYL STEARATE, CETEARETH-20, MEL EXTRACT, PARFUM, PARAFFINUM LIQUIDUM, ISOPROPYL MYRISTATE, PROPYLENE GLYCOL, HYDROXYPROPYL METHYLCELLULOSE, SODIUM BENZOATE, LACTIC ACID, PUMICE, BHT, CI 75130",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789930610/migrated/manual/flux_care_gommage_exfoliant_visage_corps_peaux_sensibles_%C3%A0_ternes_dzscrflu003.jpg",
     "marketingClaims": [
@@ -63182,7 +63184,11 @@
       "تفتيح البشرة",
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة عادية"
@@ -63925,7 +63931,11 @@
       "تهدئة البشرة",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة مختلطة",
