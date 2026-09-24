@@ -957,14 +957,18 @@
     "ingredients": "water GLYCERIN Formule Eau purifiée Hydratant BUTYROSPERMUM PARKII BUTTER/ SHEA BUTTER Beurre de Karité Emolient ISOPROPYL PALMITATE NIACINAMIDE PROPANEDIOL CETYL ALCOHOL MYRISTYL MYRISTATE ZEA MAYS STARCH/ CORN STARCH ASCORBYL GLUCOSIDE CAPRYLYL GLYCOL CARBOMER CITRIC ACID HYDROXYACETOPHENONE POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE SALICYLIC ACID SODIUM HYDROXIDE TOCOPHEROL PARFUM/FRAGRANCE Z70046098/1 Vitamine B3 Agent de texture Stabilisant . Humectant Agent de texture Dérivé de Vitamine C .....Emolient Agent de texture Ajusteur de pH Stabilisant Stabilisant Conservateur Ajusteur de pH Vitamine E Parfum F.I.L.",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917781/migrated/w1ag89ebbjc4fplajwux.jpg",
     "marketingClaims": [
-      "تفتيح البقع الداكنة"
+      "تفتيح البقع الداكنة",
+      "مرطب للبشرة",
+      "تفتيح البشرة"
     ],
     "price": {
       "min": 250,
       "max": 250,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "كل أنواع البشرة"
+    ]
   },
   {
     "id": "FR-SUN-MIX-004",
@@ -5030,16 +5034,22 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "75g",
     "ingredients": "ماء, الجلسرين, زيت الجوجوبا, ثلاثي جليسريد الكابريليك/الكابريك, صوديوم أكريلات/صوديوم أكريلويل دايميثيل توريت كوبوليمر, أيزوهيكساديكان, بوليسوربات 80, فينوكسي إيثانول, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911390/migrated/kmkuqonw4mlzou2mteey.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الدهنية"
+    ],
     "price": {
       "min": 185,
       "max": 1850,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-CLE-VOG-002",
@@ -5055,8 +5065,8 @@
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), الجلسرين, كوكاميدوبروبيل بيتين (CAPB), حمض الهيالورونيك, منثول, الكولاجين المهدرج, كلوريد الصوديوم, فينوكسي إيثانول, عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911419/migrated/miz14kifj7jvugjmsitp.jpg",
     "marketingClaims": [
-      "تنظيف عميق",
-      "للبشرة الدهنية"
+      "مرطب للبشرة",
+      "تنظيف لطيف"
     ],
     "price": {
       "min": 600,
@@ -5134,7 +5144,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "شعر دهني"
+      "شعر دهني",
+      "شعر متضرر"
     ]
   },
   {
@@ -5242,7 +5253,7 @@
       "label": "قناع وجه",
       "icon": "mask"
     },
-    "quantity": "null",
+    "quantity": "200 g",
     "ingredients": "ماء, طين الإيليت (الطين الأخضر الفرنسي), عطر, ميثيل أيزوثيازولينون (MIT)",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911519/migrated/juiwurbjucsw6nlmhrd9.jpg",
     "marketingClaims": [
@@ -5435,7 +5446,10 @@
     "quantity": "null",
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, كلوريد الصوديوم, حمض الأسكوربيك (فيتامين C النقي), توكوفيرول (فيتامين E النقي), زيت اللوز الحلو, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911343/migrated/ikrchxm4wgbu0kzsmrpb.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تنقية المسام"
+    ],
     "price": {
       "min": 400,
       "max": 400,
@@ -5552,13 +5566,20 @@
     "quantity": "null",
     "ingredients": "صوديوم لوريث سلفات (SLES), مستخلص القرنبيط, مستخلص الكرنب والقرنبيط, مستخلص الكركم, مستخلص زهور البابونج الألماني, مستخلص الخبيزة, مستخلص نواة الشوفان, زيت شجرة الشاي العطري, الجلسرين, كوكاميدوبروبيل بيتين (CAPB), بروبيلين جلايكول, حمض الساليسيليك, النياسيناميد (فيتامين B3), ميريستات الأيزوبروبيل, ليمونين, ماء",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911448/migrated/pariu1dnxjckd4cj0xjg.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف عميق",
+      "للبشرة الدهنية"
+    ],
     "price": {
       "min": 300,
       "max": 400,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SUN-NAT-002",
@@ -5595,7 +5616,8 @@
     "ingredients": "ماء, حمض الجليكوليك, مستخلص الألوفيرا, البانثينول (برو-فيتامين B5), آلانتوين, الجلسرين, ثلاثي إيثانولامين (TEA), اليوريا, بروبيلين جلايكول, بوليسوربات 20, فينوكسي إيثانول, إيثيل هكسيل غليسرين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789918255/migrated/ras1wehcwmjcjwvmjxse.jpg",
     "marketingClaims": [
-      "تقشير"
+      "تقشير",
+      "تنقية المسام"
     ],
     "price": {
       "min": 1500,
@@ -5945,13 +5967,18 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتريل, الكولاجين المهدرج, الفازلين (بترولاتوم), شمع النحل, الجلسرين, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), ريتينول, البانثينول (برو-فيتامين B5), عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911464/migrated/delkoypl4p6z7bpaeqm7.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 350,
       "max": 350,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "FR-SHA-UNIBE-001",
@@ -5983,14 +6010,18 @@
     "quantity": "65",
     "ingredients": "ماء, الجلسرين, شمع النحل, البانثينول (برو-فيتامين B5), فيتامين C (حمض الأسكوربيك النقي), الزيت المعدني, عطر, أكسيد الزنك",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911347/migrated/kdxr19ntn4hwiquopfyj.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ"
+    ],
     "price": {
       "min": 350,
       "max": 350,
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة مختلطة"
+      "بشرة مختلطة",
+      "بشرة عادية"
     ]
   },
   {
@@ -6560,16 +6591,21 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "50 ml",
     "ingredients": "ماء, ثلاثي جليسريد الكابريليك/الكابريك, 1،2-هيكسانيديول, الجلسرين, بالميتات الإيثيل هكسيل, كحول البيهينيل, سوربيتول, التلك, تورين, البانثينول (برو-فيتامين B5), آلانتوين, جلوكونات الزنك, توكوفيرول (فيتامين E النقي), ماء بندق الساحرة, دايميثيكون, فوسفات سيتيل البوتاسيوم, سيترات جليسريدات النخيل المهدرجة, عطر, فينوكسي إيثانول, CI 77891 (ثاني أكسيد التيتانيوم), CI 77491 (أكسيد الحديد الأحمر)",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911452/migrated/bobgmffmapfhai0imyzu.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 400,
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-XXX-ROY-001",
@@ -7706,7 +7742,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 140,
+      "max": 140,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7966,7 +8006,11 @@
       "icon": "droplet"
     },
     "quantity": "40 ml",
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9650,8 +9694,8 @@
     },
     "quantity": "300 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1400,
+      "max": 1400,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -12622,7 +12666,8 @@
     ],
     "price": null,
     "targetTypes": [
-      "بشرة جافة"
+      "بشرة جافة",
+      "بشرة دهنية"
     ]
   },
   {
@@ -13489,7 +13534,11 @@
       "مرطب للبشرة",
       "للبشرة الدهنية"
     ],
-    "price": null,
+    "price": {
+      "min": 1800,
+      "max": 1800,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية"
     ]
@@ -16914,7 +16963,11 @@
       "تنظيف لطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 1185,
+      "max": 1700,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -47380,7 +47433,11 @@
       "تغذية الشعر",
       "إصلاح الشعر المتضرر"
     ],
-    "price": null,
+    "price": {
+      "min": 850,
+      "max": 850,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -55390,7 +55447,11 @@
       "حماية واسعة الطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 2370,
+      "max": 2370,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة"
     ]
@@ -55534,7 +55595,11 @@
       "توحيد لون البشرة",
       "تنقية المسام"
     ],
-    "price": null,
+    "price": {
+      "min": 2450,
+      "max": 2450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة"
@@ -55738,7 +55803,7 @@
       "label": "بلسم/مرطب شعر",
       "icon": "pump-soap"
     },
-    "quantity": "",
+    "quantity": "200 ml",
     "ingredients": "Aqua, Cetearyl Alcohol, Glycerin, Paraffinum Liquidum, Lactic Acid, Stearamidopropyl Dimethylamine, Dimethicone, Sodium Benzoate, Parfum, Gluconolactone, Cetyl Hydroxyethylcellulose, Trehalose, Disodium EDTA, Trideceth-5, Lysine Hcl, Oleic Acid, Helianthus Annuus Seed Oil, Sodium Sulfate, Calcium Glycerophosphate, Hydrolyzed Keratin, Silica Dimethyl Silylate, Hydrated Silica, Carbomer, Disodium Phosphate, Benzyl Alcohol, Citronellol, Geraniol, Hexyl Cinnamal, Limonene, Linalool",
     "image": "",
     "marketingClaims": [
@@ -56873,7 +56938,11 @@
       "توازن الدهون والزيوت",
       "تنظيف عميق"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة"
@@ -56967,7 +57036,11 @@
       "مهدئ",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 1400,
+      "max": 1400,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة",
@@ -57922,7 +57995,11 @@
       "شد البشرة",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة",
       "بشرة حساسة",
@@ -58317,7 +58394,11 @@
       "للبشرة الجافة",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -59286,7 +59367,11 @@
       "تنظيف لطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59306,7 +59391,11 @@
       "تنظيف لطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59326,7 +59415,11 @@
       "تنظيف لطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59489,7 +59582,11 @@
     "marketingClaims": [
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59509,7 +59606,11 @@
       "تنظيف لطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59528,7 +59629,11 @@
     "marketingClaims": [
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59547,7 +59652,11 @@
     "marketingClaims": [
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59566,7 +59675,11 @@
     "marketingClaims": [
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59585,7 +59698,11 @@
     "marketingClaims": [
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -59990,7 +60107,12 @@
     "targetTypes": [
       "بشرة دهنية",
       "بشرة معرضة للحبوب"
-    ]
+    ],
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-LOT-VOG-004",
@@ -60033,7 +60155,12 @@
     "targetTypes": [
       "بشرة دهنية",
       "بشرة مختلطة"
-    ]
+    ],
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-SUN-VOG-001",
@@ -60052,7 +60179,12 @@
       "حماية من الشمس",
       "حماية واسعة الطيف"
     ],
-    "targetTypes": []
+    "targetTypes": [],
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-LOT-VOG-006",
@@ -60202,7 +60334,7 @@
     "targetTypes": [],
     "price": {
       "min": 600,
-      "max": 600,
+      "max": 750,
       "currency": "DZD"
     }
   },
@@ -64457,7 +64589,11 @@
       "تهدئة البشرة",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 60,
+      "max": 60,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة",
       "بشرة حساسة"
