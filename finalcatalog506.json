@@ -4853,7 +4853,9 @@
     "quantity": "null",
     "ingredients": "ماء, كحول الستياريل, كلوريد بيهينتريمونيوم, كلوريد سيتريمونيوم, زيت جوز الهند, زيت الخروع, بروتين القمح, كابريليل جليكول, فينوكسي إيثانول, ميثيل بروبانيديول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911411/migrated/bmshzkvby4kpmfufgpkw.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية اللون"
+    ],
     "price": {
       "min": 280,
       "max": 450,
@@ -11042,7 +11044,7 @@
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
-    "quantity": null,
+    "quantity": "30ml",
     "ingredients": "Aqua, Sodium Hyaluronate, Pentylene Glycol, Propanediol, Sodium Hyaluronate Crosspolymer, Panthenol, Ahnfeltia Concinna Extract, Glycerin, Trisodium Ethylenediamine Disuccinate, Citric Acid, Isoceteth-20, Ethoxydiglycol, Ethylhexylglycerin, Hexylene Glycol, 1,2-Hexanediol, Phenoxyethanol, Caprylyl Glycol.",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911446/migrated/bnz830pjpystfxluehdw.png",
     "marketingClaims": [
@@ -58044,7 +58046,11 @@
       "مضاد للأكسدة",
       "تفتيح البقع الداكنة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة معرضة للحبوب",
       "بشرة مختلطة",
