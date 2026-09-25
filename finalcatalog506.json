@@ -9224,8 +9224,15 @@
       "icon": "droplet"
     },
     "quantity": "40 ml",
-    "price": null,
-    "targetTypes": [],
+    "price": {
+      "min": 1800,
+      "max": 1800,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
     "marketingClaims": []
   },
   {
@@ -58552,7 +58559,11 @@
       "مهدئ",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة جافة"
@@ -58576,7 +58587,11 @@
       "مضاد للأكسدة",
       "للبشرة الجافة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -58599,7 +58614,11 @@
       "للبشرة الجافة",
       "مضاد للأكسدة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -58622,7 +58641,11 @@
       "مضاد للأكسدة",
       "للبشرة الجافة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -58645,7 +58668,11 @@
       "مهدئ",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة جافة"
@@ -58669,7 +58696,11 @@
       "مهدئ",
       "مضاد للالتهابات"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -58692,7 +58723,11 @@
       "مهدئ",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -58715,7 +58750,11 @@
       "مضاد للأكسدة",
       "تفتيح البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة",
       "بشرة عادية"
