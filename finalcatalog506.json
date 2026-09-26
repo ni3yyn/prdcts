@@ -59605,7 +59605,11 @@
     "marketingClaims": [
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -59789,7 +59793,11 @@
     "marketingClaims": [
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -59810,7 +59818,11 @@
     "marketingClaims": [
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -59893,7 +59905,11 @@
     "marketingClaims": [
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
