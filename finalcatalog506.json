@@ -1588,7 +1588,11 @@
     "quantity": "200 ml",
     "ingredients": "AQUA / WATER, CETEARYL ALCOHOL, ELAEIS GUINEENSIS OIL / PALM OIL, BEHETRIMONIUM CHLORIDE, CI 15895 / YELLOW 6, CI 19140 / YELLOW 5, STEARAMIDOPROPYL DIMETHYLAMINE, CHLORHEXIDINE DIHYDROCHLORIDE, ISOPROPYL ALCOHOL, PERSEA GRATISSIMA OIL / AVOCADO OIL, CITRIC ACID, BUTYROSPERMUM PARKII BUTTER / SHEA BUTTER, HEXYL CINNAMAL, GLYCERIN, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917759/migrated/xlmdvzokmgqqrzcbeizt.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "مخصص للشعر الجاف",
+      "تنقية فروة الرأس"
+    ],
     "price": {
       "min": 100,
       "max": 1000,
@@ -49292,7 +49296,8 @@
     },
     "targetTypes": [
       "بشرة حساسة",
-      "بشرة معرضة للحبوب"
+      "بشرة معرضة للحبوب",
+      "بشرة دهنية"
     ]
   },
   {
@@ -59882,7 +59887,11 @@
     "marketingClaims": [
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -60235,7 +60244,12 @@
       "حماية من الشمس",
       "توازن الحموضة"
     ],
-    "targetTypes": []
+    "targetTypes": [],
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    }
   },
   {
     "id": "DZ-LOT-VOG-005",
@@ -64575,7 +64589,11 @@
       "مهدئ",
       "تغذية الشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة",
       "بشرة عادية"
