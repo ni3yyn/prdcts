@@ -1591,10 +1591,13 @@
     "marketingClaims": [],
     "price": {
       "min": 100,
-      "max": 100,
+      "max": 1000,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر جاف",
+      "شعر متضرر"
+    ]
   },
   {
     "id": "FR-SHA-GAR-029",
@@ -4782,7 +4785,7 @@
     "marketingClaims": [],
     "price": {
       "min": 500,
-      "max": 500,
+      "max": 555,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -8359,7 +8362,11 @@
       "icon": "leaf"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 280,
+      "max": 280,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8827,7 +8834,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 280,
+      "max": 280,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9225,7 +9236,7 @@
     },
     "quantity": "40 ml",
     "price": {
-      "min": 1800,
+      "min": 1750,
       "max": 1800,
       "currency": "DZD"
     },
@@ -49274,7 +49285,11 @@
       "تهدئة البشرة",
       "مضاد للالتهابات"
     ],
-    "price": null,
+    "price": {
+      "min": 4000,
+      "max": 4000,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة معرضة للحبوب"
