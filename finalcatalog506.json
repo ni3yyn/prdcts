@@ -48345,7 +48345,10 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ]
   },
   {
     "id": "DZ-ORE-LIS-002",
