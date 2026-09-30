@@ -17,8 +17,8 @@
       "تنظيف لطيف"
     ],
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1500,
+      "max": 1500,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -4789,7 +4789,7 @@
     "marketingClaims": [],
     "price": {
       "min": 500,
-      "max": 555,
+      "max": 650,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -5328,7 +5328,7 @@
     ],
     "price": {
       "min": 400,
-      "max": 450,
+      "max": 500,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -5694,7 +5694,7 @@
     "marketingClaims": [],
     "price": {
       "min": 350,
-      "max": 350,
+      "max": 400,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -6405,7 +6405,7 @@
       "توازن الحموضة"
     ],
     "price": {
-      "min": 1000,
+      "min": 650,
       "max": 1000,
       "currency": "DZD"
     },
@@ -6451,7 +6451,7 @@
     ],
     "price": {
       "min": 300,
-      "max": 300,
+      "max": 500,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -7691,7 +7691,7 @@
     "quantity": "250 ml",
     "price": {
       "min": 140,
-      "max": 140,
+      "max": 250,
       "currency": "DZD"
     },
     "targetTypes": [],
@@ -7775,7 +7775,11 @@
       "icon": "pump-soap"
     },
     "quantity": "400 ml",
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -7980,7 +7984,9 @@
     "targetTypes": [
       "بشرة دهنية"
     ],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنقية المسام"
+    ]
   },
   {
     "id": "DZ-MOI-VEN-002",
@@ -8469,7 +8475,11 @@
       "icon": "leaf"
     },
     "quantity": "200 ml",
-    "price": null,
+    "price": {
+      "min": 200,
+      "max": 200,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
