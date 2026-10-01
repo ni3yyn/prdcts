@@ -226,7 +226,8 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
 }
 
 // ========== Rejection notification ==========
-async function notifyRejection(userId, field, contributionId, reason, proposedValue, productId) {
+// ========== Rejection notification ==========
+async function notifyRejection(userId, field, contributionId, reason, proposedValue, productId, catalog) {
     if (!userId) {
         console.log(`⚠️ Rejected contribution ${contributionId} has no userId. Skipping notification.`);
         return;
@@ -245,18 +246,31 @@ async function notifyRejection(userId, field, contributionId, reason, proposedVa
             return;
         }
 
-        // Build a human-friendly title reference
-        const productRef =
-            proposedValue?.name ||
-            proposedValue?.brand ||
-            productId ||
-            'المنتج';
+        // ── Resolve the human-readable product name ───────────────────
+        let productName = '';
+        if (field === 'new_product') {
+            // For new products, the name lives inside proposedValue
+            productName =
+                proposedValue?.name?.trim() ||
+                proposedValue?.brand?.trim() ||
+                '';
+        } else {
+            // For edits to existing products, look up the catalog by productId
+            const matched = catalog.find((p) => p.id === productId);
+            if (matched) {
+                const brand = (matched.brand || '').trim();
+                const name = (matched.name || '').trim();
+                productName = brand && name ? `${brand} ${name}` : (name || brand);
+            }
+        }
+        // Last-resort fallback
+        if (!productName) productName = 'المنتج';
 
         const fieldLabel = FIELD_LABELS[field] || 'المساهمة';
         const cleanReason = (reason || '').trim() || 'لم يتم تحديد سبب واضح.';
 
         // Keep body within safe push length (~180 chars for Android/iOS)
-        let body = `تم رفض مساهمتك بخصوص ${fieldLabel} (${productRef}). السبب: ${cleanReason}`;
+        let body = `تم رفض مساهمتك بخصوص ${fieldLabel} (${productName}). السبب: ${cleanReason}`;
         if (body.length > 200) {
             body = body.substring(0, 197) + '...';
         }
@@ -271,13 +285,14 @@ async function notifyRejection(userId, field, contributionId, reason, proposedVa
                 field,
                 contributionId,
                 productId: productId || 'new_product',
+                productName,
                 rejectionReason: cleanReason,
             },
             channelId: 'oilguard-smart',
         };
 
         await sendExpoPush(pushToken, message);
-        console.log(`📱 Rejection notification sent to user ${userId}`);
+        console.log(`📱 Rejection notification sent to user ${userId} (${productName})`);
     } catch (notifyErr) {
         console.error(
             `Failed to send rejection notification to user ${userId}:`,
@@ -343,7 +358,8 @@ async function run() {
                 contributionId,
                 data.rejectionReason,
                 data.proposedValue,
-                data.productId
+                data.productId,
+                catalog
             );
             batch.delete(docSnap.ref);
             declinedCount++;
