@@ -278,7 +278,7 @@ async function notifyRejection(userId, field, contributionId, reason, proposedVa
         const message = {
             to: pushToken,
             sound: 'default',
-            title: '⚠️ تم رفض مساهمتك',
+            title: '⚠️ للأسف..',
             body,
             data: {
                 type: 'contribution_declined',
