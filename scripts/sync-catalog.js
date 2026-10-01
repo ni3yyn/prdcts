@@ -14,7 +14,20 @@ const POINTS_MAP = {
     new_product: 200,
 };
 
-// ========== Smart ID generation helpers (unchanged) ==========
+// ========== Field labels (used in both notifications) ==========
+const FIELD_LABELS = {
+    price: 'السعر',
+    quantity: 'الحجم',
+    ingredients: 'المكونات',
+    marketingClaims: 'الإدعاءات التسويقية',
+    targetTypes: 'الفئة المستهدفة',
+    country: 'البلد',
+    brand: 'الماركة',
+    image: 'الصورة',
+    new_product: 'منتج جديد',
+};
+
+// ========== Smart ID generation helpers ==========
 const idCountryMap = {
     Algeria: 'DZ',
     Egypt: 'EG',
@@ -129,19 +142,36 @@ function generateSmartId(newProd, catalog) {
     return prefix + nextNum;
 }
 
-// ========== Points awarding & notification (NEW) ==========
-// ========== Points awarding & notification ==========
+// ========== Push notification helper ==========
+async function sendExpoPush(pushToken, message) {
+    if (!pushToken || !Expo.isExpoPushToken(pushToken)) {
+        return false;
+    }
+    try {
+        const expo = new Expo();
+        const chunks = expo.chunkPushNotifications([message]);
+        for (const chunk of chunks) {
+            const receipts = await expo.sendPushNotificationsAsync(chunk);
+            console.log(`📱 Notification receipts:`, receipts);
+        }
+        return true;
+    } catch (err) {
+        console.error(`❌ Failed to send push:`, err.message);
+        return false;
+    }
+}
+
+// ========== Points awarding & approval notification ==========
 async function awardPointsAndNotify(userId, points, field, contributionId, productId) {
     const userRef = admin.firestore().collection('profiles').doc(userId);
 
-    // Use a transaction to safely update points and prevent double awarding
+    // Transaction: safely update points, prevent double awarding
     await admin.firestore().runTransaction(async (transaction) => {
         const userDoc = await transaction.get(userRef);
         if (!userDoc.exists) {
             throw new Error(`User ${userId} not found`);
         }
 
-        // Idempotency check – don't award twice for the same contribution
         const pointsHistory = userDoc.data().pointsHistory || {};
         if (pointsHistory[contributionId]) {
             console.log(`⚠️ Contribution ${contributionId} already awarded. Skipping.`);
@@ -160,28 +190,18 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
         });
     });
 
-    // Send push notification (fire and forget – don't block on failure)
+    // Send push notification (fire and forget)
     try {
         const userDoc = await admin.firestore().collection('profiles').doc(userId).get();
         const pushToken = userDoc.data()?.expoPushToken;
-        
+
         if (pushToken && Expo.isExpoPushToken(pushToken)) {
-            const fieldLabels = {
-                price: 'السعر',
-                quantity: 'الحجم',
-                ingredients: 'المكونات',
-                marketingClaims: 'الإدعاءات التسويقية',
-                targetTypes: 'الفئة المستهدفة',
-                country: 'البلد',
-                new_product: 'منتج جديد',
-            };
-            
             const message = {
                 to: pushToken,
                 sound: 'default',
-                title: ' 🎉تمت مكافأتك، شكرا!',
+                title: '🎉 تمت مكافأتك، شكراً!',
                 body: `تم اعتماد مساهمتك للكتالوج في ${
-                    fieldLabels[field] || 'المساهمة'
+                    FIELD_LABELS[field] || 'المساهمة'
                 } وحصلت على ${points} نقطة!`,
                 data: {
                     type: 'points_earned',
@@ -192,41 +212,105 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
                 },
                 channelId: 'oilguard-smart',
             };
-            
-            // ✅ CORRECT: Create Expo instance and use it
-            const expo = new Expo();
-            const chunks = expo.chunkPushNotifications([message]);
-            
-            for (const chunk of chunks) {
-                const receipts = await expo.sendPushNotificationsAsync(chunk);
-                console.log(`📱 Notification receipts:`, receipts);
-            }
-            console.log(`📱 Notification sent to user ${userId}`);
+            await sendExpoPush(pushToken, message);
+            console.log(`📱 Approval notification sent to user ${userId}`);
         } else {
             console.log(`📱 No valid push token for user ${userId}`);
         }
     } catch (notifyErr) {
-        // Log but don't fail the approval process
-        console.error(`Failed to send notification to user ${userId}:`, notifyErr.message);
+        console.error(
+            `Failed to send notification to user ${userId}:`,
+            notifyErr.message
+        );
+    }
+}
+
+// ========== Rejection notification ==========
+async function notifyRejection(userId, field, contributionId, reason, proposedValue, productId) {
+    if (!userId) {
+        console.log(`⚠️ Rejected contribution ${contributionId} has no userId. Skipping notification.`);
+        return;
+    }
+
+    try {
+        const userDoc = await admin.firestore().collection('profiles').doc(userId).get();
+        if (!userDoc.exists) {
+            console.log(`⚠️ User ${userId} not found. Skipping rejection notification.`);
+            return;
+        }
+        const pushToken = userDoc.data()?.expoPushToken;
+
+        if (!pushToken || !Expo.isExpoPushToken(pushToken)) {
+            console.log(`📱 No valid push token for user ${userId} (rejection)`);
+            return;
+        }
+
+        // Build a human-friendly title reference
+        const productRef =
+            proposedValue?.name ||
+            proposedValue?.brand ||
+            productId ||
+            'المنتج';
+
+        const fieldLabel = FIELD_LABELS[field] || 'المساهمة';
+        const cleanReason = (reason || '').trim() || 'لم يتم تحديد سبب واضح.';
+
+        // Keep body within safe push length (~180 chars for Android/iOS)
+        let body = `تم رفض مساهمتك بخصوص ${fieldLabel} (${productRef}). السبب: ${cleanReason}`;
+        if (body.length > 200) {
+            body = body.substring(0, 197) + '...';
+        }
+
+        const message = {
+            to: pushToken,
+            sound: 'default',
+            title: '⚠️ تم رفض مساهمتك',
+            body,
+            data: {
+                type: 'contribution_declined',
+                field,
+                contributionId,
+                productId: productId || 'new_product',
+                rejectionReason: cleanReason,
+            },
+            channelId: 'oilguard-smart',
+        };
+
+        await sendExpoPush(pushToken, message);
+        console.log(`📱 Rejection notification sent to user ${userId}`);
+    } catch (notifyErr) {
+        console.error(
+            `Failed to send rejection notification to user ${userId}:`,
+            notifyErr.message
+        );
     }
 }
 
 // ========== Main execution ==========
 async function run() {
-    console.log('🔍 [1/4] Checking for APPROVED contributions...');
+    console.log('🔍 [1/5] Checking for APPROVED + DECLINED contributions...');
 
-    const snapshot = await admin
+    // Two queries — Firestore has no OR across different values in a single where
+    const approvedSnap = await admin
         .firestore()
         .collection('contributions')
         .where('status', '==', 'approved')
         .get();
 
-    if (snapshot.empty) {
-        console.log('✅ No new approved contributions. Exiting.');
+    const declinedSnap = await admin
+        .firestore()
+        .collection('contributions')
+        .where('status', '==', 'declined')
+        .get();
+
+    if (approvedSnap.empty && declinedSnap.empty) {
+        console.log('✅ No pending contributions to process. Exiting.');
         return;
     }
 
-    console.log(`⏳ [2/4] Found ${snapshot.docs.length} contributions to merge.`);
+    console.log(
+        `⏳ [2/5] Found ${approvedSnap.docs.length} approved + ${declinedSnap.docs.length} declined.`
+    );
 
     const catalogPath = './finalcatalog506.json';
     let catalog;
@@ -238,12 +322,46 @@ async function run() {
     }
 
     const batch = admin.firestore().batch();
-    let updatesCount = 0;
+    let approvedCount = 0;
+    let declinedCount = 0;
 
-    // Process contributions one by one to ensure points are awarded before deletion
-    for (const doc of snapshot.docs) {
-        const data = doc.data();
-        const contributionId = doc.id;
+    // ─────────────────────────────────────────────────────────────
+    // A) Handle DECLINED contributions: notify + delete
+    // ─────────────────────────────────────────────────────────────
+    for (const docSnap of declinedSnap.docs) {
+        const data = docSnap.data();
+        const contributionId = docSnap.id;
+
+        console.log(
+            `🚫 Declined: ${contributionId} (field=${data.field}, user=${data.userId || 'n/a'})`
+        );
+
+        try {
+            await notifyRejection(
+                data.userId,
+                data.field,
+                contributionId,
+                data.rejectionReason,
+                data.proposedValue,
+                data.productId
+            );
+            batch.delete(docSnap.ref);
+            declinedCount++;
+        } catch (err) {
+            console.error(
+                `❌ Failed to process declined contribution ${contributionId}:`,
+                err.message
+            );
+            // Keep the doc for retry next run
+        }
+    }
+
+    // ─────────────────────────────────────────────────────────────
+    // B) Handle APPROVED contributions: merge + award + notify + delete
+    // ─────────────────────────────────────────────────────────────
+    for (const docSnap of approvedSnap.docs) {
+        const data = docSnap.data();
+        const contributionId = docSnap.id;
         let isUpdateValid = false;
         let pointsToAward = 0;
         const field = data.field;
@@ -272,13 +390,15 @@ async function run() {
             });
             isUpdateValid = true;
             pointsToAward = POINTS_MAP.new_product;
-            productId = smartId; // assign the new ID for later reference
+            productId = smartId;
             console.log(`✨ Created: ${smartId} ([${newProd.brand}] ${newProd.name})`);
         } else {
             const productIndex = catalog.findIndex((p) => p.id === productId);
             if (productIndex === -1) {
-                console.warn(`⚠️ Product ID [${productId}] not found. Deleting contribution.`);
-                batch.delete(doc.ref);
+                console.warn(
+                    `⚠️ Product ID [${productId}] not found. Deleting contribution.`
+                );
+                batch.delete(docSnap.ref);
                 continue;
             }
 
@@ -288,7 +408,8 @@ async function run() {
                     if (!isNaN(newPrice) && newPrice > 0) {
                         let currentPrice = catalog[productIndex].price;
                         if (!currentPrice || typeof currentPrice !== 'object') {
-                            const oldVal = Number(currentPrice) > 0 ? Number(currentPrice) : newPrice;
+                            const oldVal =
+                                Number(currentPrice) > 0 ? Number(currentPrice) : newPrice;
                             catalog[productIndex].price = {
                                 min: Math.min(oldVal, newPrice),
                                 max: Math.max(oldVal, newPrice),
@@ -314,7 +435,10 @@ async function run() {
                 case 'country':
                 case 'brand':
                 case 'image':
-                    if (typeof data.proposedValue === 'string' && data.proposedValue.trim().length > 0) {
+                    if (
+                        typeof data.proposedValue === 'string' &&
+                        data.proposedValue.trim().length > 0
+                    ) {
                         catalog[productIndex][field] = data.proposedValue.trim();
                         isUpdateValid = true;
                         pointsToAward = POINTS_MAP[field];
@@ -333,37 +457,50 @@ async function run() {
             }
         }
 
-        // --- If the update is valid, award points and notify ---
+        // --- Award + notify, then queue deletion ---
         if (isUpdateValid) {
             try {
-                await awardPointsAndNotify(data.userId, pointsToAward, field, contributionId, productId);
-                console.log(`🏆 Awarded ${pointsToAward} points to user ${data.userId} for ${field}`);
-                updatesCount++;
-                // Only delete the contribution after points are awarded successfully
-                batch.delete(doc.ref);
+                await awardPointsAndNotify(
+                    data.userId,
+                    pointsToAward,
+                    field,
+                    contributionId,
+                    productId
+                );
+                console.log(
+                    `🏆 Awarded ${pointsToAward} points to user ${data.userId} for ${field}`
+                );
+                approvedCount++;
+                batch.delete(docSnap.ref);
             } catch (error) {
                 console.error(
                     `❌ Failed to award points for contribution ${contributionId}:`,
                     error.message
                 );
-                // Do NOT delete the contribution; it will be retried next run
+                // Keep for retry
                 continue;
             }
         } else {
-            // Invalid data – just delete the contribution
-            batch.delete(doc.ref);
+            // Invalid data — delete silently (no points, no notify)
+            batch.delete(docSnap.ref);
         }
     }
 
-    // --- Save updated catalog to disk ---
-    console.log(`💾 [3/4] Saving ${updatesCount} updates to JSON file...`);
-    fs.writeFileSync(catalogPath, JSON.stringify(catalog, null, 2));
+    // --- Save updated catalog to disk (only if there were approved merges) ---
+    if (approvedCount > 0) {
+        console.log(`💾 [3/5] Saving ${approvedCount} catalog updates to JSON file...`);
+        fs.writeFileSync(catalogPath, JSON.stringify(catalog, null, 2));
+    } else {
+        console.log(`💾 [3/5] No catalog changes to save.`);
+    }
 
-    // --- Commit deletions of processed contributions ---
-    console.log(`🔥 [4/4] Committing Firestore cleanup (deleting processed docs)...`);
+    // --- Commit deletions ---
+    console.log(`🔥 [4/5] Committing Firestore cleanup...`);
     await batch.commit();
 
-    console.log(`🚀 Task Complete. Successfully merged ${updatesCount} contributions.`);
+    console.log(
+        `🚀 [5/5] Task Complete. Approved merged: ${approvedCount}. Declined notified: ${declinedCount}.`
+    );
 }
 
 // Initialize Firebase Admin once
