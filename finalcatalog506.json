@@ -65533,5 +65533,59 @@
     "marketingClaims": [
       "مضاد للرؤوس السوداء"
     ]
+  },
+  {
+    "id": "DZ-CON-GRA-001",
+    "brand": "GRACIAS",
+    "name": "Apres Shampoong Sans Sulfates Huile de Figue de Barbarie",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790772714/pkfccxudn0agcbr98lwb.jpg",
+    "ingredients": "AQUA, SETEARYL ALCOHOL, CETYL ALCOHOL, CETROMONIUM CHLORIDE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, PENTAERYTHRITYL TETRAISOSTEARATE, OPUNTIA FICUS-INDICA SEED OIL, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, POLYQUATERNIUM-7, SODIUM BENZOATE, ALCOHOL, PEG-35 CASTOR OIL, POLYSORBATE 20, AESCULUS HIPPOCASTANUM SEED EXTRACT, RETINYL PALMITATE, TOCOPHEROL, INOSITOL, CALCIUM PANTOTHENATE, LINOLEIC ACID, BIOTIN, PEG-40 HYDROGENATED CASTOR OIL, PERFUME",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 450,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "فك التشابك",
+      "تغذية الشعر",
+      "تنعيم الشعر"
+    ]
+  },
+  {
+    "id": "DZ-SHA-GRA-001",
+    "brand": "Gracias",
+    "name": "Shampoing Sans Sulfates Kératine",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790772346/dp2c9rdn5ntcpseehjmn.jpg",
+    "ingredients": "Aqua, Lauryl Glucoside, Cocamidopropyl Betaine, Sodium Lauryl Glucose Carboxylate, Sodium Cocoyl Glutamate, Coco-Glucoside, Hydrolyzed Wheat Protein, Dicaprylyl Ether, Lauryl Alcohol, Laureth-23, Keratin, Sodium Benzoate, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "230 ml",
+    "price": {
+      "min": 450,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ],
+    "marketingClaims": [
+      "مرطب للشعر",
+      "مخصص للشعر الجاف",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
+    ]
   }
 ]
