@@ -65587,5 +65587,34 @@
       "تغذية الشعر",
       "إصلاح الشعر المتضرر"
     ]
+  },
+  {
+    "id": "DZ-CLE-MAG-003",
+    "brand": "Magic Dream",
+    "name": "Gel Nettoyant Pure Booste",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790816702/tctfk5ub890e2likugns.jpg",
+    "ingredients": "Eau, Glycerine, Disodium EDTA, Cocamidopropyl Betaine, Coco-Glucoside, Phenoxyethanol, Benzoate de Sodium, Acide Hyaluronique, Vitamine E, Vitamine B5, Vitamine B3, Eau de Rose, Les Ceramides, Aloe Vera, Allantoine",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "240ml ml",
+    "price": {
+      "min": 1150,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مهدئ",
+      "مضاد لحب الشباب",
+      "مرطب للبشرة",
+      "تنظيف عميق"
+    ]
   }
 ]
