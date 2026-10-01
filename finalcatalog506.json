@@ -3828,7 +3828,11 @@
     "ingredients": "water, cetearyl alcohol, dipalmitoylethyl hydroxyethylmonium methosulfate, glyceryl stearate, CI 19140 / yellow 5, CI 15985 / yellow 6, quaternium-80, chamomilla recutita extract/matricaria flower extract, eugenol, mel/honey, limonene, benzyl alcohol, benzyl salicylate, linalool, propylene glycol, geraniol, cetrimonium chloride, citric acid, citronellol, hexyl cinnamal, glycerin, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917682/migrated/witlmq624jvkjhcrvtmw.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1000,
+      "max": 1000,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5259,7 +5263,7 @@
     ],
     "price": {
       "min": 700,
-      "max": 700,
+      "max": 750,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -5468,8 +5472,7 @@
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, كلوريد الصوديوم, حمض الأسكوربيك (فيتامين C النقي), توكوفيرول (فيتامين E النقي), زيت اللوز الحلو, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911343/migrated/ikrchxm4wgbu0kzsmrpb.jpg",
     "marketingClaims": [
-      "تنظيف عميق",
-      "تنقية المسام"
+      "تنظيف عميق"
     ],
     "price": {
       "min": 400,
@@ -7552,7 +7555,7 @@
     "brand": "VENUS LABORATOIRES",
     "name": "GEL DOUCHE CRÈME VELVET FLOWER",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911434/migrated/c1s0vzyddyj4dh4sya7a.png",
-    "ingredients": null,
+    "ingredients": "Aqua , Sodium Laureth Sulfate, Acrylates Copolymer, Triethanolamine, Coco-Glucoside, Cocamidopropyl Betaine, Coco-Glucoside Oleate, Dicaprylyl Ether and Lauryl Alcohol, Polyquaternium-7, Styrene/Acrylates Copolymer and Coco-Glucoside, Sodium Chloride, EDTA, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum",
     "country": "Algeria",
     "category": {
       "id": "body_wash",
@@ -7575,7 +7578,7 @@
     "brand": "VENUS LABORATOIRES",
     "name": "GEL DOUCHE CRÈME SUMMER VIBES",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789918035/migrated/uqnk61hcmz5yhbiebveo.png",
-    "ingredients": null,
+    "ingredients": "Water, Sodium Laureth Sulfate, Acrylates Copolymer, Triethanolamine, Coco Glucoside, Cocamidopropyl Betaine, Coco Glucoside Oleate, Dicaprylyl Ether (and) Lauryl Alcohol, Polyquaternium-7, Styrene/Acrylates Copolymer, Parfum (Fragrance), Sodium Chloride, Citric Acid, Methylchloroisothiazolinone (and) Methylisothiazolinone.",
     "country": "Algeria",
     "category": {
       "id": "body_wash",
@@ -8641,7 +8644,9 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "مخصص للشعر الجاف"
+    ]
   },
   {
     "id": "DZ-SHA-VEN-028",
@@ -9670,7 +9675,7 @@
     "brand": "Pharmamile",
     "name": "Glowy skin serume",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911502/migrated/p99ktmmgvfop1sdn48wl.jpg",
-    "ingredients": "",
+    "ingredients": "Water, Niacinamide, Hyaluronic Acid, Peptide Complex, Vitamin B5, Watermelon Extract, Sorbitol, D-Panthenol, Butylene Glycol, Sodium Hyaluronate, D-Panthenol, Aloe Vera, Allantoin, Glyceryl Glucoside, Beta-Glucan, Carbomer, Tocopherol, Triethanolamine, Phenoxyethanol, Ethylhexylglycerin.",
     "country": "Algeria",
     "category": {
       "id": "skin_serum",
@@ -9760,7 +9765,7 @@
     "brand": "Bioxine",
     "name": "FORT Shampoo Anti Hairloss",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789913744/migrated/ffrphy6msdvjxqjxj3jj.jpg",
-    "ingredients": "ماء (Aqua)، مركب Biocomplex B11 (مستخلص أوراق وأصول القراص، مستخلص زهور البابونج الألماني، مستخلص اليارو/الأخيلية، مستخلص ثمار الخروب، مستخلص أوراق ذيل الحصان)، صوديوم لوريث سلفات، كوكاميدو بروبيل بيتين، نياسيناميد، كوكاميد ميا، كلوريد الصوديوم، بروبيلين غليكول، كحول بنزيلي، عطر، بانثينول، هيدروكسي بروبيل غوار هيدروكسي بروبيل تريمونيوم كلوريد، تترا صوديوم إيديتات، منثول، ملوخية/مستخلص أوراق الزيتون، مستخلص ثمار/أوراق التين، بولي كواتيرنيوم-7، بيروكتون أولامين، ليسيثين، بيريدوكسين هيدروكلوريد، صوديوم PCA، مستخلص بذور العنب، عسل، كومارين، ألفا إيزوميثيل يونون، ميثيل كلورو إيزوثيازولينون، ميثيل إيزوثيازولينون.",
+    "ingredients": "Aqua, Biocomplex B11 (Urtica Dioica Leaf Extract, Urtica Dioica Root Extract, Chamomilla Recutita Flower Extract, Achillea Millefolium Flower Extract, Ceratonia Siliqua Fruit Extract, Equisetum Arvense Leaf Extract), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Sodium Chloride, Rose Fragrance, Benzyl Alcohol, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Menthol, Panthenol, Tetrasodium EDTA, Propylene Glycol, Piroctone Olamine, Vitis Vinifera Seed Extract 0.001%, Coumarin, Alpha-Isomethyl Ionone, Sodium PCA, Methylisothiazolinone, Methylchloroisothiazolinone, Niacinamide, Pyridoxine Hydrochloride, Olea Europaea Leaf Extract, Ficus Carica Leaf Extract, Polyquaternium-7, Lecithin.",
     "country": "Turkey",
     "category": {
       "id": "shampoo",
@@ -9828,12 +9833,12 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة جافة",
       "بشرة دهنية",
       "بشرة مختلطة",
       "بشرة عادية",
       "بشرة حساسة",
-      "بشرة معرضة للحبوب"
+      "بشرة معرضة للحبوب",
+      "بشرة جافة"
     ],
     "marketingClaims": [
       "مرطب للبشرة",
@@ -12745,7 +12750,6 @@
     ],
     "price": null,
     "targetTypes": [
-      "بشرة جافة",
       "بشرة دهنية"
     ]
   },
@@ -23302,7 +23306,8 @@
     "ingredients": "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ ACRYLAMIDE COPOLYMER, TETRASODIUM EDTA, TOCOPHERYL ACETATE, COCAMIDE DEA, SODIUM XYLENE SULFONATE, MENTHYL LACTATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789916554/migrated/sdbweh1psyylmkbz8vom.webp",
     "marketingClaims": [
-      "تنظيف عميق"
+      "تنظيف عميق",
+      "تنظيف لطيف"
     ],
     "price": {
       "min": 1250,
@@ -65902,7 +65907,7 @@
     "quantity": "400 ml",
     "price": {
       "min": 260,
-      "max": null,
+      "max": 280,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -65974,6 +65979,823 @@
       "ترطيب مكثف",
       "مرطب للبشرة",
       "مضاد للأكسدة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-LAF-001",
+    "brand": "Laformul",
+    "name": "Soleil",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790008580/vpzm0cwd8dxi3mlmi1jw.jpg",
+    "ingredients": "WATER, DIBUTYL ADIPATE, DICAPRYLYL CARBONATE, C12-15 ALKYL BENZOATE, DIETHYLHEXYL BUTAMIDO TRIAZONE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, PROPANEDIOL, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL TRIAZONE, POLYGLYCERYL-6 STEARATE, GLYCERIN, BRASSICA CAMPESTRIS/ALEURITES FORDII OIL COPOLYMER, C20-22 ALKYL PHOSPHATE, 1,2-HEXANEDIOL, C20-22 ALCOHOLS, MICROCRYSTALLINE CELLULOSE, POLYGLYCERYL-6 BEHENATE, SODIUM CITRATE, XANTHAN GUM, CELLULOSE GUM, CAPRYLYL GLYCOL, ECTOIN",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 1700,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية",
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-COD-001",
+    "brand": "Coderma",
+    "name": "Aknéa Crème Anti-Acné",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789830376/jks8s1dhavuq4xr4dskq.jpg",
+    "ingredients": "Water, Glycerin, Glycolic Acid, Niacinamide, Phytic Acid, Arginine, Stearic Acid, Sodium Stearate, Salicylic Acid, Pentylene Glycol, 1,2-Hexanediol, Sclerotium Gum, Xanthan Gum, Acacia Senegal Gum, Sodium Stearoyl Glutamate, Caprylic/Capric Triglyceride, Glyceryl Stearate, Evening Primrose Oil, Tocopherol, Sunflower Oil, Tocopheryl Acetate, Polyglyceryl-3, Methyl Glucose Distearate, Triheptanoin, Cetyl Alcohol.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50g ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنقية المسام",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-CON-THEB-001",
+    "brand": "The Beauty Dept.",
+    "name": "Argan Oil Morocco Leave-in Conditioner",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790005685/uoet4jajtep0m4muzsi7.jpg",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, ARGANIA SPINOSA KERNEL OIL, HYDROLYZED VEGETABLE PROTEIN, PANTHENOL, BEHENTRIMONIUM CHLORIDE, CETEARETH-20, PARFUM, LACTIC ACID, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, ISOPROPYL ALCOHOL, SODIUM BENZOATE, SODIUM HYDROXIDE, ACETYL CEDRENE, ALPHA-ISOMETHYL IONONE, BENZYL BENZOATE, CITRONELLOL, DIMETHYL PHENETHYL ACETATE, GERANIOL, HEXYL CINNAMAL, LIMONENE, LINALOOL, LINALYL ACETATE, ROSE KETONES, TERPINEOL",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "140 ml",
+    "price": {
+      "min": 150,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر عادي"
+    ],
+    "marketingClaims": [
+      "فك التشابك",
+      "مرطب للشعر",
+      "مخصص للشعر الجاف",
+      "تغذية الشعر"
+    ]
+  },
+  {
+    "id": "DZ-CLE-BEB-001",
+    "brand": "Bebe Star",
+    "name": "Calmir",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789826798/eserydyzbhinmkvsjbul.jpg",
+    "ingredients": "vegetable soap, sweet almond oil, anti-irritation anti-inflammatory agent, hypoallergenic fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "null",
+    "price": null,
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "للبشرة الحساسة",
+      "مهدئ",
+      "تهدئة البشرة",
+      "مضاد للالتهابات"
+    ]
+  },
+  {
+    "id": "DZ-OIB-BAR-001",
+    "brand": "Barari",
+    "name": "الخلطة العجيبة المطورة بالأعشاب الطبيعية",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790068709/i0uck0lmjvk3dagz4cql.jpg",
+    "ingredients": "زيت حبة البركة, زيت اللوز, زيت الخروع, زيت الثوم, زيت الصبار, زيت الجرجير, زيت البنفسجي, زيت جوز الهند, عشبة المدينة, زيت بذر الكتان, زيت اركان, زيت كبد الحوت, زيت الحرمل, زيت البابونج, زيت اكليل الجبل, زيت أفوكادو, زيت السمسم, دهن الحية, زيت السدر, زيت خردل",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر دهني",
+      "شعر عادي",
+      "شعر تالف",
+      "شعر مجعد"
+    ],
+    "marketingClaims": [
+      "مضاد لتساقط الشعر",
+      "تعزيز النمو",
+      "تكثيف الشعر",
+      "تغذية الشعر"
+    ]
+  },
+  {
+    "id": "DZ-CLE-LAF-001",
+    "brand": "LaFormul",
+    "name": "Gel Moussant Anti-Imperfection",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789853332/hqsz5yqvm7sh7uulywxt.jpg",
+    "ingredients": "Aqua, Sorbitol, Lauryl Glucoside, Cocamidopropyl Betaine, Butylene Glycol, PEG-150 Distearate, PEG-3 Glyceryl Cocoate, Lactic Acid, Lauryl Alcohol, Xylitol, Polyquaternium-7, Phenoxyethanol, PEG-20 Isostearate, Coco-Caprylate, Polyethylene Glycol, Dicaprylyl Ether, Glycerin, Polysorbate, Anhydroxylitol, Polyglyceryl-2 Dipolyhydroxystearate, EDTA, Parfum, Sodium Hydroxide",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "180 ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تفتيح البقع الداكنة",
+      "تقشير لطيف",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-OLI-001",
+    "brand": "Olive Cream",
+    "name": "Crème restructurante Anti-irritation, Protectrice Émolliente Extrême Peau Parfaite",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790106527/ugmjgyfdbd1ev9tb1m2e.jpg",
+    "ingredients": "Aqua, Paraffinum Liquidum, Isopropyl Myristate, Glycerin, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Olea Europaea Fruit Oil, Prunus Amygdalus Dulcis Oil, Butyrospermum Parkii Butter, Panthenol, Allantoin, Tocopheryl Acetate, Phenoxyethanol, Ethylhexylglycerin, Carbomer, Triethanolamine, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": 45,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مهدئ"
+    ]
+  },
+  {
+    "id": "DZ-OTH-LABO-001",
+    "brand": "Laboratoires Venus",
+    "name": "Eau Micellaire Viderm Purifiant",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790005521/tpox2acp3ggbornoutdl.jpg",
+    "ingredients": "Aqua (Water), Methylpropanediol, PEG-6 Caprylic/Capric Glycerides, Xylitylglucoside, Anhydroxylitol, Cetrimonium Bromide, Xylitol, Parfum (Fragrance), Glucose",
+    "country": "Algeria",
+    "category": {
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 28,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تنظيف لطيف",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-ZORA-001",
+    "brand": "Zorah",
+    "name": "Gel Nettoyant Ultra Doux",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789737403/xo5jpqsamxeb2d2ctlwa.jpg",
+    "ingredients": "Aqua, PEG-7 glyceryl cocoate, Cocamidopropyl betaine, Coco-glucoside, Glycerin, Panthenol, Citric acid, Benzyl alcohol, Dehydroacetic acid, Parfum, Propylene glycol",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "300 ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "KR-LOT-INN-001",
+    "brand": "InnoSkin",
+    "name": "Hydra Skin Crème Hydratante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789853036/hsmglmmb4dfhgqocpgru.jpg",
+    "ingredients": "Aqua, Glycerine, Butyrospermum Parkii Butter, Simmondsia Chinensis Seed Oil, Prunus Amygdalus Dulcis Oil, Caprylic/Capric Triglyceride, Sodium Polyacrylate, Cetyl Alcohol, Cetearyl Alcohol, Ceteareth-20, Coco-Caprylate, Glyceryl Stearate, Allantoin, Sodium Hyaluronate, Tocopherol, Panthenol, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Sorbate de potassium",
+    "country": "Korea",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-GARN-001",
+    "brand": "Garnier",
+    "name": "Ultra Doux Shampooing Reconstituant Trésors de Miel",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790005192/bzcgfd41uz3ocinr0us8.jpg",
+    "ingredients": "AQUA , SODIUM LAURYL SULFATE, COCAMIDOPROPYL BETAINE, SODIUM CHLORIDE, HONEY EXTRACT, CARBOMER, GLYCERIN, GLYCERYL OLEATE, GLYCOL DISTEARATE, TRIETHYL CITRATE, LECITHIN, SODIUM HYDROXIDE, COCO-BETAINE, COCO-GLUCOSIDE, HYDROGENATED PALM GLYCERIDES CITRATE, HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, CITRIC ACID, LAUROYL/MYRISTOYL METHYL GLUCAMIDE, TOCOPHEROL, ASCORBYL PALMITATE, POTASSIUM SORBATE, SORBIC ACID, SODIUM BENZOATE, CARAMEL, COUMARIN, LIMONENE, BENZYL ALCOHOL, BENZYL SALICYLATE, PARFUM",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "300 ml",
+    "price": {
+      "min": 1000,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ],
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "تقوية الشعر"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FRU-001",
+    "brand": "Fruit of the Wokali",
+    "name": "Aloe Vera 99% Soothing Gel",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790117350/otgsbdt2fwwb5dglrmse.jpg",
+    "ingredients": "WATER, GLYCERIN, PROPYLENE GLYCOL, METHYL GLUCETH-20, ALCOHOL, TRIETHANOLAMINE, CARBOMER, PHENOXYETHANOL, GLYCERYL CAPRYLATE, GLYCERYL LAURATE, PEG-40 HYDROGENATED CASTOR OIL, PARFUM, SODIUM HYALURONATE",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "260 ml",
+    "price": {
+      "min": 600,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ]
+  },
+  {
+    "id": "DZ-HMA-FLU-017",
+    "brand": "Flux care",
+    "name": "Flux care cheuveux secs frisés ou cepus nourrissant huile d'avocat et beurre de karité",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790863000/x6shqdnhkcezjtu8ba2s.jpg",
+    "ingredients": "Water, Glycerin, Cetearyl Alcohol, Ceteareth-20, Glyceryl Monostearate, Castor Oil, Isopropyl Myristate, Behentrimonium Chloride, Cetrimonium Chloride, Avocado Oil, Shea Butter, Fragrance, Citric Acid, BHT, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Methylchloroisothiazolinone (and) Methylisothiazolinone.",
+    "country": "Algeria",
+    "category": {
+      "id": "hair_mask",
+      "label": "قناع للشعر",
+      "icon": "hand-sparkles"
+    },
+    "quantity": "370 ml",
+    "price": {
+      "min": 480,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر مجعد"
+    ],
+    "marketingClaims": [
+      "فك التشابك",
+      "تغذية الشعر",
+      "مرطب للشعر"
+    ]
+  },
+  {
+    "id": "DZ-LOT-DERM-002",
+    "brand": "Dermactive",
+    "name": "Crème Des Reines Nuit",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790109575/v2eo2kszaeiwukmohatu.jpg",
+    "ingredients": "Aqua, Glycerin, Propanediol, Polyglycerin-3, Coco-Caprylate/Caprate, Rice Bran Acid, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice Powder, Rosa Centifolia Flower Extract, Citrullus Lanatus Fruit Extract, Prunus Persica Leaf Extract, Rubus Idaeus Fruit Extract, Pyrus Malus Fruit Extract, Lens Esculenta Fruit Extract, Chondrus Crispus Powder, Sodium Hyaluronate, Sodium PCA, Helianthus Annuus Seed Oil, Alcohol, Ascorbyl Glucoside, Sodium Lactate, Sclerotium Gum, Xanthan Gum, Maltodextrin, Biosaccharide Gum-1, Tocopherol, Dehydroacetic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide, Parfum, Benzyl Alcohol, Citronellol, Geraniol, Linalool",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": 750,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "تفتيح البشرة",
+      "للبشرة الحساسة"
+    ]
+  },
+  {
+    "id": "FR-SHA-LORE-001",
+    "brand": "L'Oréal",
+    "name": "Elvive Hydra Pure 72H Purifying Shampoo",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790171077/tkp8mr3az6keupc14nly.jpg",
+    "ingredients": "Aqua / Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Parfum / Fragrance, Cocamide Mea, Sodium Chloride, Sodium Benzoate, Sodium Hydroxide, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Hyaluronate, Salicylic Acid, Limonene, Citric Acid, Hexylene Glycol",
+    "country": "France",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "400 ml",
+    "price": {
+      "min": 1200,
+      "max": 1800,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر دهني",
+      "شعر جاف",
+      "فروة حساسة"
+    ],
+    "marketingClaims": [
+      "مخصص للشعر الدهني",
+      "مرطب للشعر",
+      "تغذية الشعر"
+    ]
+  },
+  {
+    "id": "DZ-MSK-CAL-001",
+    "brand": "CALLIDERME",
+    "name": "Masque Tissu Visage Gélifié Anti-Fatigue",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789838835/dbjsfr0lkz4wly4wqtco.jpg",
+    "ingredients": "Water, Butylene Glycol, Glycerin, Spirulina Maxima Extract, 1,2-Hexanediol, p-Hydroxyacetophenone, Saussurea Involucrata Extract, Xanthan Gum, Portulaca Oleracea Extract, Carbomer, Dipotassium Glycyrrhizate, Arginine, Cucumis Sativus Fruit Extract, Chrysanthellum Indicum Extract, Houttuynia Cordata Extract, 3-O-Ethyl Ascorbic Acid, Niacinamide, Avena Sativa Beta-Glucan, Avena Sativa Peptide, Dendrobium Officinale Stem Extract, Sodium Hyaluronate, Cladosiphon Okamuranus Extract, Opuntia Streptacantha Stem Extract, Scutellaria Baicalensis Root Extract, PEG-40 Hydrogenated Castor Oil, Caprylyl Glycol, Parfum, 1,2-Pentanediol, Collagen, Sorbic Acid, Glycyrrhiza Glabra Root Extract, Licorice Flavonoids.",
+    "country": "Algeria",
+    "category": {
+      "id": "mask",
+      "label": "قناع وجه",
+      "icon": "mask"
+    },
+    "quantity": "25 g",
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "تهدئة البشرة"
+    ]
+  },
+  {
+    "id": "DZ-SSE-MER-001",
+    "brand": "Mère Nature",
+    "name": "Sérum Visage Vitamin C 12%",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790004803/bcfyjavzerq2sjlaxkgc.jpg",
+    "ingredients": "Aqua, Sodium Benzoate, Xanthan Gum, Glycerin, Sodium Ascorbyl Phosphate, Hyaluronic Acid, Lactic Acid, Citrus Limon Fruit Extract, PEG-40 Hydrogenated Castor Oil, Sodium Hydroxide, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 650,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مكافحة التجاعيد",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-PRO-001",
+    "brand": "Proderma",
+    "name": "Glycérine Eclaircissante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1781010596/rqgwalklyh3iklnbh40q.jpg",
+    "ingredients": "Demineralized Water, Glycerin, Undecylenoyl Phenylalanine, Ethanol, Triethanolamine, Carbomer, Sepicide, Imidazolidinyl Urea, Fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null ml",
+    "price": {
+      "min": 350,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "توحيد لون البشرة",
+      "مرطب للبشرة",
+      "تفتيح البقع الداكنة"
+    ]
+  },
+  {
+    "id": "DZ-OTH-ABX-001",
+    "brand": "AB+",
+    "name": "صابون جلدي بلألوفيرا",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1787928003/x4ejfsggfpzwasn4yhfx.jpg",
+    "ingredients": "Natural vegetable soap, sweet almond oil, antibacterial agent, Aloe Vera extract, colorant, fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "100 g",
+    "price": {
+      "min": 120,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "تهدئة البشرة",
+      "مهدئ",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-UNI-001",
+    "brand": "Unik by Noye",
+    "name": "Noxeryl",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790866687/fjurbe6uh6sknq8ibx1l.webp",
+    "ingredients": "Aqua, Glycerin, Paraffinum Liquidum, Cetearyl Alcohol, Distearate, Phenoxyethanol, Carboxymethyl Cellulose, Vitamin E, Methylisothiazolinone, Citric Acid, Sodium Hydroxide.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "200 ml",
+    "price": {
+      "min": 620,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "مهدئ",
+      "ترطيب مكثف",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-EVE-001",
+    "brand": "EVER BEAUTY",
+    "name": "SKIN TO DIE FOR MINERAL-MATTE BB CREAM",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790152333/ekcajs7mxjghuvqn02at.jpg",
+    "ingredients": "Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Peg-10 Dimethicone, Nylon-12, Butylene Glycol, Bis-peg/ppg-14/14 Dimethicone, Phenoxyethanol, Magnesium Sulfate, Fluoroalcohol Phosphates, Chlorphenesin, Methylparaben, Tetrasodium Edta, Triclosan, Butylparaben, Tocopherol, Glycerin, Sodium Pca, Urea, Trehalose, Polyquaternium-51, Sodium Hyaluronate",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "70ml ml",
+    "price": {
+      "min": 2500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مكافحة التجاعيد",
+      "حماية من الشمس"
+    ]
+  },
+  {
+    "id": "DZ-SCR-VOG-003",
+    "brand": "Vogue Secret",
+    "name": "Hydro Clean Gommage Exfoliant",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790148285/qsezww4vseipzzepmzhj.jpg",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Lauryl Glucoside, Glycerin, Sodium Cocoamphoacetate, Cocoamidopropyl betaine, PEG-120 Methyl Glucose Dioleate, Salicylic acid, Sodium Benzotriazolyl Butylphenol Sulfonate, C12-15 Alkyl Lactate, Propylene Glycol, Sodium Chloride, Cocoamidopropyl PG-dimonium Chloride Phosphate, Disodium EDTA, Citric Acid, Sodium Citrate, Benzalkonium Chloride, Parfum (Fragrance), CI 16035, CI 60725, Menthe Cristallisée, acide hyaluronique.",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "price": {
+      "min": 650,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "تقشير",
+      "تنظيف عميق",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-CALL-001",
+    "brand": "Calliderm",
+    "name": "Crème de nuit argan",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790863540/vthrz7izaficntohftmd.jpg",
+    "ingredients": "Water, Cetearyl Alcohol, Cetyl Stearyl Alcohol, Isopropyl Myristate, Caprylic/Capric Triglyceride, Argan Oil, Sweet Almond Oil, Collagen, Glycerin, Sodium Benzoate, Vitamin E.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "60 ml",
+    "price": {
+      "min": 500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تحفيز الكولاجين"
+    ]
+  },
+  {
+    "id": "DZ-LOT-CAR-001",
+    "brand": "Carelia",
+    "name": "Crème Visage",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790863397/engulwsgebir9vwfp5o6.webp",
+    "ingredients": "Aqua, Olea Europaea (Olive) Fruit Oil, Cetearyl Alcohol, Propylene Glycol, Isopropyl Myristate, Sodium Polyacrylate, Ethylhexyl Cocoate, Potassium Cetyl Phosphate, PPG-3 Benzyl Ether Myristate, Polysorbate 20, Phenoxyethanol, Calendula Officinalis Flower Extract, Lavandula Angustifolia Extract, Mimosa Tenuiflora Bark Extract, Fucus Vesiculosus Extract, Tocopheryl Acetate, Ethylhexylglycerin, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "75 gr",
+    "price": {
+      "min": 400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الدهنية"
+    ]
+  },
+  {
+    "id": "DZ-LOT-BIOLI-001",
+    "brand": "Biolila",
+    "name": "Crème de Jour Hydratante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789902669/n9xzawmvnbuwn2e75dp4.jpg",
+    "ingredients": "Water, Cetearyl Alcohol, Ceteareth-20, Xylitylglucoside, Anhydroxylitol, Xylitol, Xanthan Gum, Allantoin, Cyclopentasiloxane, Sunflower Seed Oil, Jojoba Seed Oil, Tocopheryl Acetate, Sodium Benzoate, Potassium Sorbate, Fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "price": null,
+    "targetTypes": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-DIA-001",
+    "brand": "Diadermine",
+    "name": "pH7 Hydratant Matifiant Soin de Jour",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790097455/igjzns932dzntlccvfys.jpg",
+    "ingredients": "Aqua, Caprylic/Capric Triglyceride, Hexanediol, Glycerin, Ethylhexyl Palmitate, Behenyl Alcohol, Sorbitol, Talc, Taurine, Panthenol, Allantoin, Zinc Gluconate, Tocopherol, Hamamelis Virginiana Water, Propylene Glycol, Pottasium Cetyl Phosphate, Carbomer, Hydroxyacetophenone, Hydrogenated Palm Glycerides, Ethylhexylglycerin, Sodium Hydroxide, Hydrogenated  Palm Glycerides Citrate, Parfum, CI 77891",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 ml",
+    "price": {
+      "min": 120,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "توازن الدهون والزيوت"
+    ]
+  },
+  {
+    "id": "DZ-SUN-LAF-002",
+    "brand": "Laformul",
+    "name": "Soleil",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1789853278/e8te72x2s8bzwsdqa3d6.jpg",
+    "ingredients": "Water/Eau, Dibutyl Adipate, Dicaprylyl Carbonate, C12-15 Alkyl Benzoate, Diethylhexyl Butamido Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Propanediol, Butyl Methoxydibenzoylmethane, Ethylhexyl Triazone, Polyglyceryl-6 Stearate, Glycerin, Brassica Campestris/Aleurites Fordii Oil Copolymer, C20-22 Alkyl Phosphate, 1,2-Hexanediol, C20-22 Alcohols, Microcrystalline Cellulose, Polyglyceryl-6 Behenate, Sodium Citrate, Xanthan Gum, Cellulose Gum, Caprylyl Glycol, Ectoin",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "50 ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ]
+  },
+  {
+    "id": "DZ-CLE-NAT-001",
+    "brand": "Natura Pro",
+    "name": "Crème Lavante Exfoliante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790117470/qbh4deyex0k0lozdovkk.jpg",
+    "ingredients": "Aqua, Glycerin, Cetearyl Alcohol, Stearic Acid, Citric Acid, Glycolic Acid, Salicylic Acid, Lactic Acid, Ammonium Polyacryloyldimethyl Taurate, Cocamidopropyl Betaine, Sodium Laureth Sulfate, Propylene Glycol, Urea, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Phenoxyethanol",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 600,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "للبشرة الجافة",
+      "تنظيف عميق",
+      "مرطب للبشرة",
+      "تقشير"
+    ]
+  },
+  {
+    "id": "DZ-CON-GARN-001",
+    "brand": "Garnier",
+    "name": "Ultra Doux - Après-Shampooing Nutrition Profonde",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790005374/pttaejjpddpy4dwvovgt.jpg",
+    "ingredients": "AQUA, CETEARYL ALCOHOL, STEARAMIDOPROPYL DIMETHYLAMINE, ISOPROPYL MYRISTATE, CETYL ESTERS, SUNFLOWER SEED OIL, ROSEMARY LEAF EXTRACT, AVOCADO OIL, BUTYROSPERMUM PARKII BUTTER/SHEA BUTTER, SODIUM CHLORIDE, CAPRYLYL GLYCOL, CITRIC ACID, TARTARIC ACID, TOCOPHEROL, BENZOIC ACID, CARAMEL, LINALOOL, COUMARIN, BENZYL ALCOHOL, PARFUM",
+    "country": "Algeria",
+    "category": {
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 100,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ],
+    "marketingClaims": [
+      "فك التشابك",
+      "مرطب للشعر",
+      "مخصص للشعر الجاف",
+      "تغذية الشعر"
+    ]
+  },
+  {
+    "id": "DZ-CLE-VOG-004",
+    "brand": "Vogue Secret",
+    "name": "Gel Nettoyant Deep Clean",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790114221/tctox9bnvinibjbmmj3k.jpg",
+    "ingredients": "Aqua , Glycerin, Sodium Laureth Sulfate, Cellulose, Lauryl Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Sodium Benzoate, Sodium Benzotriazolyl Butylphenol Sulfonate, Disodium EDTA, Citric Acid, Sodium Hydroxide, Sodium Ascorbyl Phosphate, Vitamin C, Salicylic Acid, Lactic Acid, Rose Fragrance, Citrus Grandis Fruit Extract.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "450 ml",
+    "price": {
+      "min": 750,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "تنظيف عميق",
+      "للبشرة الدهنية"
     ]
   }
 ]
