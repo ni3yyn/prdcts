@@ -65,8 +65,8 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917815/migrated/xvkyssuwmm47qmsfoqut.jpg",
     "marketingClaims": [],
     "price": {
-      "min": null,
-      "max": null,
+      "min": 1000,
+      "max": 1000,
       "currency": "DZD"
     },
     "targetTypes": []
@@ -1595,7 +1595,7 @@
     ],
     "price": {
       "min": 100,
-      "max": 1000,
+      "max": 1500,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -1960,7 +1960,11 @@
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, PEG-200 HYDROGENATED GLYCERYL PALMATE, DISODIUM COCOAMPHODIACETATE, POLYSORBATE 20, GLYCERIN, PEG-7 GLYCERYL COCOATE, SODIUM CHLORIDE, SODIUM BENZOATE, SODIUM LAURETH-8 SULFATE, SODIUM OLETH SULFATE, SODIUM HYDROXIDE, MAGNESIUM LAURETH-8 SULFATE, MAGNESIUM LAURETH SULFATE, RICINOLEAMIDO MEA-SULFOSUCCINATE, CITRIC ACID, _PRUNUS AMYGDALUS_ DULCIS OIL / SWEET _ALMOND_ OIL, PRUNUS CERASUS FRUIT EXTRACT / BITTER CHERRY FRUIT EXTRACT, HEXYLENE GLYCOL, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917746/migrated/ecvzllxkfjm9lls967by.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -4990,7 +4994,11 @@
     "ingredients": "ماء الورد المقطر (هيدروسول)",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911353/migrated/rxtapgmnqmjnmzxxsual.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5536,7 +5544,7 @@
     ],
     "price": {
       "min": 350,
-      "max": 450,
+      "max": 550,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -6229,7 +6237,11 @@
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, زيت جوز الهند, بروتين القمح المهدرج, فينوكسي إيثانول, ستيراميدوبروبيل ثنائي ميثيل أمين, أرجينين, PEG-45M, كلوريد بيهينتريمونيوم, كلورهيكسيدين ديجلوكونات, ليمونين, لينالول, بنزيل ساليسيلات, كحول بنزيلي, كحول الأيزوبروبيل, ألفا-أيزوميثيل أيونون, أوليات السوربيتان, عطر, سيرين, جيرانيول, سيتاريث-20, كلوريد السيتريمونيوم, بيوتيل هيدروكسي تولوين (BHT), حمض السيتريك, بوتيل فينيل ميثيل بروبيونال (ليليال), سيترونيلول, حمض الجلوتاميك, هكسيل سينامال, الجلسرين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911456/migrated/belzfmvokhc5lcfvpj8d.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1200,
+      "max": 1200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6405,7 +6417,7 @@
       "توازن الحموضة"
     ],
     "price": {
-      "min": 650,
+      "min": 600,
       "max": 1000,
       "currency": "DZD"
     },
@@ -8198,7 +8210,11 @@
       "icon": "sun"
     },
     "quantity": "150 ml",
-    "price": null,
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -8850,7 +8866,7 @@
     "quantity": "250 ml",
     "price": {
       "min": 280,
-      "max": 280,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": [],
