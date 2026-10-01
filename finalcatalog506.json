@@ -3369,7 +3369,9 @@
       "max": 4500,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "FR-SUN-LAR-001",
@@ -4872,7 +4874,10 @@
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر مصبوغ",
+      "كل أنواع البشرة"
+    ]
   },
   {
     "id": "DZ-XXX-CALL-001",
@@ -4897,11 +4902,10 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة عادية",
       "بشرة دهنية",
-      "بشرة مختلطة",
       "بشرة معرضة للحبوب",
-      ""
+      "بشرة عادية",
+      "بشرة مختلطة"
     ]
   },
   {
@@ -6870,7 +6874,9 @@
       "max": 500,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-XXX-NAT-001",
@@ -7005,7 +7011,9 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة جافة"
+      "بشرة جافة",
+      "بشرة حساسة",
+      "كل أنواع البشرة"
     ]
   },
   {
@@ -7864,8 +7872,17 @@
       "max": 450,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "إزالة المكياج",
+      "تقشير",
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "تنظيف لطيف"
+    ]
   },
   {
     "id": "DZ-CLE-VEN-008",
@@ -8064,7 +8081,8 @@
     },
     "targetTypes": [
       "بشرة دهنية",
-      "بشرة مختلطة"
+      "بشرة مختلطة",
+      "بشرة حساسة"
     ],
     "marketingClaims": []
   },
@@ -9274,7 +9292,11 @@
       "بشرة مختلطة",
       "بشرة دهنية"
     ],
-    "marketingClaims": []
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مهدئ",
+      "للبشرة الدهنية"
+    ]
   },
   {
     "id": "FR-MOI-ACM-001",
@@ -9479,8 +9501,8 @@
     },
     "quantity": "100 ml",
     "price": {
-      "min": null,
-      "max": null,
+      "min": 550,
+      "max": 550,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -34865,7 +34887,8 @@
     "marketingClaims": [
       "حماية من الشمس",
       "مكافحة التجاعيد",
-      "تفتيح البقع الداكنة"
+      "تفتيح البقع الداكنة",
+      "للبشرة الدهنية"
     ],
     "price": {
       "min": 4000,
@@ -52817,7 +52840,8 @@
     },
     "targetTypes": [
       "بشرة جافة",
-      "بشرة حساسة"
+      "بشرة حساسة",
+      "بشرة دهنية"
     ]
   },
   {
@@ -62642,7 +62666,11 @@
       "تغذية الشعر",
       "حماية اللون"
     ],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر عادي"
     ]
@@ -65615,6 +65643,337 @@
       "مضاد لحب الشباب",
       "مرطب للبشرة",
       "تنظيف عميق"
+    ]
+  },
+  {
+    "id": "DZ-OIB-DAB-001",
+    "brand": "Dabur",
+    "name": "Amla Gold Hair Oil",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790194700/loh1renognlglvjqrqry.jpg",
+    "ingredients": "Paraffinum liquidum, Canola oil, Palm oil, Phyllanthus emblica fruit extract, Lawsonia inermis leaf extract, Parfum, Prunus amygdalus dulcis oil, Phenyl trimethicone, Butyl methoxydibenzoylmethane, Rosmarinus officinalis oil, BHT, Aqua, Benzyl alcohol, Benzyl salicylate, Citral, Citronellol, Eugenol, Geraniol, Hydroxycitronellal, Benzyl benzoate, Cyclamen Aldehyde, Hexyl cinnamal, Limonene, Linalool, CI 47000, CI 61565, CI 26100",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "200 ml",
+    "price": {
+      "min": 550,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف"
+    ],
+    "marketingClaims": [
+      "مخصص للشعر الجاف",
+      "ترطيب مكثف",
+      "إصلاح الشعر المتضرر",
+      "تنعيم الشعر"
+    ]
+  },
+  {
+    "id": "DZ-CLE-MER-001",
+    "brand": "Mère Nature",
+    "name": "Gel Nettoyant Visage Anti-imperfection",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790431665/zurmjcmjdmnxnvhdecal.jpg",
+    "ingredients": "AQUA, COCO-GLUCOSIDE, GLYCERIN, COCAMIDOPROPYL BETAINE, DISODIUM LAURETH SULFOSUCCINAT, EDTA, LAURAMINE OXIDE, XANTHAN GUM, PROPYLENE GLYCOL, SALICYLIC ACID, MENTHOL CRISTALIS, NIACINAMIDE, ZINC SULFATE, SODIUM HYDROXIDE, CITRIC ACID, PARFUM",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "250 ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "مضاد للرؤوس السوداء",
+      "تفتيح البقع الداكنة"
+    ]
+  },
+  {
+    "id": "KR-CLE-HAR-001",
+    "brand": "Haruharu Wonder",
+    "name": "Black Rice Moisture 5.5 Soft Cleansing Gel Unscented",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790283285/bdnll0g1nnnioq9tawoj.jpg",
+    "ingredients": "Water, Glycerin, Coco-Betaine, Sodium Chloride, Pentylene Glycol, Propanediol, 1,2-Hexanediol, Xanthan Gum, Hydroxyethylcellulose, Potassium Cocoyl Glycinate, Potassium Cocoate, Trehalose, Ethylhexylglycerin, Citric Acid, Oryza Sativa (Rice) Extract, Phyllostachys Pubescens Shoot Bark Extract, Butylene Glycol, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Aspergillus Ferment, Panax Ginseng Root Extract, Cyclodextrin, Beta-Glucan",
+    "country": "Korea",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 3900,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة",
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "للبشرة الحساسة",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-VAS-001",
+    "brand": "Vaseline",
+    "name": "Vaseline Frais Touche Rose",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790529777/xfnerm9mjprpit3j5fmm.jpg",
+    "ingredients": "Petrolatum, Paraffinum Liquidum, Parfum, CI 15850",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "50 g",
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "US-CLE-CER-001",
+    "brand": "CeraVe",
+    "name": "Foaming Cleanser",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790420044/opobluqkejsrmmhpp0sh.jpg",
+    "ingredients": "AQUA/WATER, GLYCERIN, COCO-BETAINE, PROPYLENE GLYCOL, SODIUM COCOYL GLYCINATE, PEG-120 METHYL GLUCOSE DIOLEATE, SODIUM CHLORIDE, ACRYLATES COPOLYMER, CITRIC ACID, CAPRYLOYL GLYCINE, CAPRYLYL GLYCOL, SODIUM HYDROXIDE, NIACINAMIDE, DISODIUM EDTA, SODIUM HYALURONATE, SODIUM LAUROYL LACTYLATE, CERAMIDE NP, PHENOXYETHANOL, CERAMIDE AP, PHYTOSPHINGOSINE, CHOLESTEROL, XANTHAN GUM, CARBOMER, ETHYLHEXYLGLYCERIN, CERAMIDE EOP",
+    "country": "USA",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "236 ml",
+    "price": {
+      "min": 290,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة دهنية"
+    ],
+    "marketingClaims": [
+      "للبشرة الدهنية",
+      "تنظيف لطيف",
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-CLE-NATU-001",
+    "brand": "NATURELS CORNER",
+    "name": "غسول للوجه",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790257612/i5kvslgwnrnpqvjb29mj.jpg",
+    "ingredients": "Water, Glycerin, Alpha Arbutin, Licorice Extract.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "260 ml",
+    "price": {
+      "min": 35,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ],
+    "marketingClaims": [
+      "تنظيف عميق",
+      "تفتيح البقع الداكنة",
+      "توحيد لون البشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-SHE-011",
+    "brand": "She Is Beautiful",
+    "name": "Crème Hydratante des Pieds",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790191623/cvyorlijkmzxhgvneico.jpg",
+    "ingredients": "Aqua, Cetearyl Alcohol (and) Dipalmitoylethyl Hydroxyethylmonium Methosulfate (and) Ceteareth-20, Dicaprylyl Carbonate, Sorbitol, Butyrospermum Parkii (Shea Butter), Pentaerythrityl Distearate, Parfum, Diazolidinyl Urea (and) Methyl Paraben (and) Propyl Paraben, Dimethicone, Polyquaternium-37, Propylene Glycol (and) Water (Aqua) (and) Aloe Barbadensis Leaf Juice Powder, Tocopherol (Vitamin E), Tetrasodium EDTA",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": 200,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-SUN-PHO-001",
+    "brand": "Photoblock",
+    "name": "Photoblock Plus Sunscreen Cream SPF 50+",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790850302/g0mttj8bocutfoqdfiip.jpg",
+    "ingredients": "، تغسل على الفور بالماء حساسية و/ أو فرط الحساسية تجاه تجنب ملامسة العينين في حالة - لا تستخدم المنتج إذا كان لديك - لا يبلغ أي من مكوناته\n\nفي حالة الابتلاع ، استشر الطبيب الطريق الصغير سطاوالي نبا داني لا يوجد آثار جانبية معروفة لفون مكافحة السموم لبيب على الفور أو اتصل بمركز مكافحة 023367777 الي إبراهيم لفوتوبلوك بلس كريم فهو آمن للاستخد\n\n- للاستخدام الموضعي فقط\n\nيحفظ بعيدا عن أشعة الشمس والر الرطوبة في درجة حرارة أقل من 30م\n\nشروط التخزين :\n\nيحفظ بعيدا عن متناول الأطفال\n\nشاه سابقا حيا مسكن إجتماعي تساهمي\n\nRef. NT11 VOSKAL\n\nرقم الترخيص 464 مؤرخ في 2021/11/07 تاريخ آخر مراجعة: 2025/03/17\n\nعمارة أف محل 142 الطابق الطابق الأرضي\n\nبلدية عين البنيان ان - - الجزائر\n\nس بيوتي & يوث\n\nKALÓS\n\nالشكل و التقديم كريم في عبوة تحتوي على 75 غرام\n\nعبوة\n\nالمكونات :\n\nWater, Glycerin, Isopropyl Myristate, Cetearyl Alcohol, Ceteareth-22, Glyceryl Stearate, Propylparaben, Butylhydroxytoluene (BHT), Butyl Methoxydibenzoylmethane, Disodium EDTA, Citric Acid, Methylparaben, Avobenzone, Titanium Dioxide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine.\nمالونات\n\nمميزات فوتوبلوك بلس :\n\nفوتوبلوك بلس كريم عبارة عن كريم واقي للشمس مع تأثير مضاد للشيخوخة المبكرة و التجاعيد يناسب البشرة العادية والحساسة، يتميز بأنه يوفر حماية قصوى SPF50 حيث تم توفير أعلى معامل حماية الذي يحمي من أشعة الشمس UVA\n\nUVB, ان واقي الشمس فوتوبلوك بلس كريم لا يسبب حب الشباب ولا يغلق مسام الجلد تركيبة فوتوبلوك بلس توفر حماية قصوى ضد أشعة الشمس في ساعات النهار الحارة\n\nدواعي الاستعمال :\n\nيستخدم واقي الشمس فوتوبلوك بلس كريم لتوفير أ على حماية ممكنة مع ة مع المحافظة على UVA أشعة لاحتوائه على مادة (روناكار (آب) و مادة الأقوبينزون (بارسول (1789) المادة الوحيدة البشرة شابة ونضرة. حيث يحمي من من الشيخوخة المبكرة الناتجة عن أن ة من أشعة UVA من الموافق عليها من قبل هيئة FDA الأمريكية لتوفير حماية كاملة من كما يحتوي على مادة تايتانيوم ديوكسيد التي توفر حماية من أشعة UVB\n\nالتي تعمل على احمرار البشرة وحرقها\n\nطريقة الاستعمال :\n\nللشمس وبعد تنشيف البشرة جيداً وافردها بشكل متساوي، أعد وضع الكريمة الشكل ضع كمية كافية على بشرتك من فوتوبلوك بلس كريم قبل 15 دقيقة التعرض\n\nمتكرر و بعد السباحة أو بعد ممارسة الرياضة",
+    "country": "Algeria",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "75 g",
+    "price": {
+      "min": 2350,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "مكافحة التجاعيد",
+      "حماية واسعة الطيف"
+    ]
+  },
+  {
+    "id": "DZ-SHA-ORYA-001",
+    "brand": "Oryage",
+    "name": "Regulator Keratin Shampoo Trésors d'Afrique Green Clay & Herbs",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790694526/uhghyvapqgfcwxayj70c.jpg",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, PEG-7 Glyceryl Cocoate, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Green Clay, Thyme Extract, Keratin, Vitamin E, Wheat Protein, Sunscreen, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Mica, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "300 ml",
+    "price": {
+      "min": 35,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر دهني"
+    ],
+    "marketingClaims": [
+      "مخصص للشعر الجاف",
+      "مخصص للشعر الدهني",
+      "ترطيب مكثف",
+      "تغذية الشعر"
+    ]
+  },
+  {
+    "id": "FR-LOT-MIX-013",
+    "brand": "Mixa",
+    "name": "CRÈME CICA RÉPARATION réparatrice lissante 10% [URÉE & NIACINAMIDE",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790783210/oxraxcgo7fy8pxnlugxu.jpg",
+    "ingredients": "AQUA, UREA, GLYCERIN, DIMETHICONE, PARAFFINUM LIQUIDUM, PROPYLENE GLYCOL, BUTYROSPERMUM PARKII BUTTER / SHEA BUTTER, CETEARYL ALCOHOL, ALCOHOL DENAT., ZEA MAYS STARCH, SUNFLOWER SEED OIL, GLYCERYL STEARATE, PEG-100 STEARATE, GLYCINE, HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID, SODIUM HYDROXIDE, SODIUM LACTATE, TETRASODIUM GLUTAMATE DIACETATE, NIACINAMIDE, PANTHENOL, TOCOPHEROL, TOCOPHERYL ACETATE, CAPRYLYL GLYCOL, CARBOMER, CITRIC ACID, XANTHAN GUM, PHENOXYETHANOL, FRAGRANCE.",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "400 ml",
+    "price": {
+      "min": 260,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SWA-002",
+    "brand": "Swalis",
+    "name": "Shampoing & Après-Shampoing 2 en 1",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790609162/upahwbwwfjo3jhvi9oyl.jpg",
+    "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Propylene Glycol, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-7, Glycol Distearate, Sodium Chloride, Citric Acid,  CHLOROMETHYLISOTHIAISONIONE, METHYLISOTHIASOLINONE, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر عادي",
+      "شعر تالف",
+      "شعر مجعد",
+      "شعر دهني",
+      "شعر جاف"
+    ],
+    "marketingClaims": [
+      "فك التشابك",
+      "تنعيم الشعر",
+      "تغذية الشعر"
+    ]
+  },
+  {
+    "id": "DZ-LOT-DERM-001",
+    "brand": "Dermactive",
+    "name": "Crème des Reines Nuit",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1790291596/smdgpiwyturqfu4bco4p.jpg",
+    "ingredients": "Aqua, Glycerin, Propanediol, Polyglycerin-3, Coco-Caprylate/Caprate, Rice Bran Acid, Octyldodecyl Myristate, Aloe Barbadensis Leaf Juice Powder, Rosa Centifolia Flower Extract, Citrullus Lanatus Fruit Extract, Prunus Persica Leaf Extract, Rubus Idaeus Fruit Extract, Pyrus Malus Fruit Extract, Lens Esculenta Fruit Extract, Chondrus Crispus Powder, Sodium Hyaluronate, Sodium PCA, Helianthus Annuus Seed Oil, Alcohol, Ascorbyl Glucoside, Sodium Lactate, Sclerotium Gum, Xanthan Gum, Maltodextrin, Biosaccharide Gum-1, Tocopherol, Dehydroacetic Acid, Potassium Sorbate, Sodium Benzoate, Sodium Hydroxide, Parfum, Benzyl Alcohol, Citronellol, Geraniol, Linalool",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "100 ml",
+    "price": {
+      "min": 750,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "ترطيب مكثف",
+      "مرطب للبشرة",
+      "مضاد للأكسدة"
     ]
   }
 ]
