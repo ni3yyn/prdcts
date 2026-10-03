@@ -6190,7 +6190,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "300 ml",
     "ingredients": "ماء, كوكو جليسيرين بروبيل, الجلسرين, كوكو جلوكوسايد, حمض الساليسيليك, حمض السيتريك, عطر, ألكيل بولي غليكوزيد",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911472/migrated/xcuwc4kbydm64nwc9bos.jpg",
     "marketingClaims": [],
@@ -66808,6 +66808,29 @@
       "مضاد لحب الشباب",
       "تنظيف عميق",
       "للبشرة الدهنية"
+    ]
+  },
+  {
+    "id": "OT-SCR-PETR-001",
+    "brand": "PETRA",
+    "name": "Uplifting Salt Scrub",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791034879/pfzmd6agu10jh7tyidak.jpg",
+    "ingredients": "Maris Sal (Dead Sea Salts), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Triticum Vulgare (Wheat) Germ Oil, Helianthus Annuus (Sunflower) Seed Oil, Persea Gratissima (Avocado) Oil, Argania Spinosa Kernel Oil, Tocopheryl Acetate (Vitamin E), Olus Oil, Benzyl Alcohol, Benzyl Salicylate",
+    "country": "Other",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "500 g",
+    "price": {
+      "min": 1000,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "تقشير"
     ]
   }
 ]
