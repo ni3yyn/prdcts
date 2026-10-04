@@ -5288,7 +5288,9 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911519/migrated/juiwurbjucsw6nlmhrd9.jpg",
     "marketingClaims": [
       "تنقية عميقة",
-      "تنقية المسام"
+      "تنقية المسام",
+      "شد البشرة",
+      "للبشرة الدهنية"
     ],
     "price": {
       "min": 150,
@@ -5389,7 +5391,7 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911456/migrated/j46fp0tcywuli76konsp.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 350,
+      "min": 300,
       "max": 550,
       "currency": "DZD"
     },
@@ -66888,6 +66890,35 @@
       "ترطيب مكثف",
       "تغذية الشعر",
       "مخصص للشعر الجاف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-MAX-001",
+    "brand": "Maxi Chazen",
+    "name": "Crème Hydratante Visage et Corps",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791149492/l9dvpj3nottoxbbp4smb.jpg",
+    "ingredients": "Water, Carbomer, Ceteareth-20, Beeswax, Isopropyl Myristate, Mineral Oil, Vitamin B5, Sweet Almond Oil, Lavender Oil, Shea Butter, Preservative, Fragrance, Cetearyl Alcohol, Triethanolamine.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة عادية",
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مهدئ"
     ]
   }
 ]
