@@ -4983,7 +4983,7 @@
       "للبشرة الحساسة"
     ],
     "price": {
-      "min": 250,
+      "min": 200,
       "max": 300,
       "currency": "DZD"
     },
@@ -5292,7 +5292,7 @@
     ],
     "price": {
       "min": 150,
-      "max": 150,
+      "max": 200,
       "currency": "DZD"
     },
     "targetTypes": [
@@ -66860,6 +66860,34 @@
     "targetTypes": [],
     "marketingClaims": [
       "تقشير"
+    ]
+  },
+  {
+    "id": "DZ-SHA-SHE-013",
+    "brand": "She is beautiful",
+    "name": "Shampooing Nutrition Intense",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791118275/vj7sir7385fjodjvlwod.jpg",
+    "ingredients": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCOL DISTEARATE, LAURETH-4, COCAMIDOPROPYL BETAINE, COCAMIDE DEA, COCO-GLUCOSIDE, HYDROGENATED CASTOR OIL, SODIUM CHLORIDE, PEG-40 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-7, GLYCOL DISTEARATE, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERYL OLEATE, PERSEA GRATISSIMA (AVOCADO) OIL, GLYCINE SOJA (SOYBEAN) OIL, BUTYROSPERMUM PARKII (SHEA BUTTER), PARFUM, CARBOMER, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, TETRASODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE, METHYLISOTHIAZOLINONE, CITRIC ACID, CI19140, CI15985",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر مجعد"
+    ],
+    "marketingClaims": [
+      "ترطيب مكثف",
+      "تغذية الشعر",
+      "مخصص للشعر الجاف"
     ]
   }
 ]
