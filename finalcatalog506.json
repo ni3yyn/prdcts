@@ -2577,7 +2577,11 @@
     "marketingClaims": [
       "مضاد لحب الشباب"
     ],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -5003,7 +5007,7 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911353/migrated/rxtapgmnqmjnmzxxsual.jpg",
     "marketingClaims": [],
     "price": {
-      "min": 500,
+      "min": 450,
       "max": 500,
       "currency": "DZD"
     },
@@ -6265,7 +6269,11 @@
     "ingredients": "ماء, حمض الهيالورونيك, فيتامين C (حمض الأسكوربيك النقي), الجلسرين, صمغ الزانثان, عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911516/migrated/fcvsjncsqkdmgnimdotx.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -6899,7 +6907,7 @@
       "توحيد لون البشرة"
     ],
     "price": {
-      "min": 550,
+      "min": 480,
       "max": 1000,
       "currency": "DZD"
     },
@@ -8057,7 +8065,7 @@
     },
     "quantity": "40 ml",
     "price": {
-      "min": 550,
+      "min": 450,
       "max": 550,
       "currency": "DZD"
     },
@@ -8232,7 +8240,7 @@
     },
     "quantity": "150 ml",
     "price": {
-      "min": 500,
+      "min": 450,
       "max": 500,
       "currency": "DZD"
     },
@@ -62073,7 +62081,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
@@ -62119,7 +62131,11 @@
       "مرطب للشعر",
       "توازن الدهون والزيوت"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر دهني",
       "شعر جاف"
@@ -62143,7 +62159,11 @@
       "مكافحة التجعد",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر مجعد",
       "شعر جاف"
@@ -62991,7 +63011,11 @@
       "تلميع ولمعان",
       "إصلاح الشعر المتضرر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
@@ -64245,7 +64269,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
