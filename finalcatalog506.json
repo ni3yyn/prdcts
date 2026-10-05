@@ -5344,13 +5344,14 @@
     "ingredients": "ماء, زيت جوز الهند, كوكاميد DEA, الكبريت الغروي, عطر, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911402/migrated/zksjz4u7vcsppatw6sf0.jpg",
     "marketingClaims": [
-      "للبشرة الدهنية",
-      "للبشرة الحساسة",
-      "مضاد لحب الشباب",
-      "توازن الزيوت والدهون"
+      "مضاد للالتهابات",
+      "مضاد للأكسدة",
+      "مرطب للبشرة",
+      "تفتيح البقع الداكنة",
+      "مهدئ"
     ],
     "price": {
-      "min": 400,
+      "min": 300,
       "max": 500,
       "currency": "DZD"
     },
@@ -5389,9 +5390,13 @@
     "quantity": "null",
     "ingredients": "ماء, سيتريل أوليفات, كلوريد غوار هيدروكسي بروبيل تريمونيوم, كحول سيتوستيريل, amodimethicone, زيت الأفوكادو, مستخلص زبدة الشيا, البانثينول (برو-فيتامين B5), توكوفيرول (فيتامين E النقي), كيراتين, كلورو ميثيل ايزوثيازولينون, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911456/migrated/j46fp0tcywuli76konsp.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر",
+      "ترطيب مكثف"
+    ],
     "price": {
-      "min": 300,
+      "min": 250,
       "max": 550,
       "currency": "DZD"
     },
@@ -64643,7 +64648,11 @@
       "مهدئ",
       "تهدئة البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية",
       "بشرة حساسة"
