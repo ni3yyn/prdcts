@@ -66929,5 +66929,36 @@
       "للبشرة الحساسة",
       "مهدئ"
     ]
+  },
+  {
+    "id": "DZ-LOT-BIOV-001",
+    "brand": "BIOVA",
+    "name": "Crème Hydratante Aloe Vera SPF 15",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791232452/kraqzzxiuomuhehrolfl.jpg",
+    "ingredients": "Water, Coconut Oil, Natural Emulsifiers, Sodium EDTA, Glycerin, Allantoin, Preservative, Fragrance, Aloe Barbadensis Leaf Juice.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 450,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة مختلطة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "مهدئ",
+      "حماية من الشمس"
+    ]
   }
 ]
