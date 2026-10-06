@@ -4776,7 +4776,11 @@
     "quantity": "null",
     "ingredients": "ماء, اليوريا, بروتين الأرز المهدرج, صوديوم PCA, ديجليسرين, سوربيتول, لايسين, PPG-26-بوتيث-26, حمض اللاكتيك, عصير الألوفيرا, فينوكسي إيثانول, إيثيل هكسيل جليسرين, حمض السيتريك, ثنائي الصوديوم EDTA, عطر, زيت الخروع المهدرج, PCA (حمض البيروليدون الكربوكسيلي), آلانتوين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911486/migrated/k3emiexsjhbhb6zb1h8t.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "للبشرة الحساسة"
+    ],
     "price": {
       "min": 400,
       "max": 450,
@@ -5531,10 +5535,13 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "120 مل",
     "ingredients": "ماء, كاربومير, ثلاثي إيثانولامين (TEA), سوربيتول, بروبيلين غليكول, مستخلص الألوفيرا, PEG-7 جليسيريل كوكوات, بانثينول (بروفيتامين B5), زيت الخروع المهدرج PEG-40, توكوفيرول (فيتامين E النقي)",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911517/migrated/sd9rivbw6soihigydx9v.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "تفتيح البشرة"
+    ],
     "price": {
       "min": 450,
       "max": 550,
@@ -5760,7 +5767,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "75 مل",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زيت اللوز الحلو, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911492/migrated/mh22vawkxhrjflhzd7fv.jpg",
     "marketingClaims": [
@@ -6226,7 +6233,7 @@
       "label": "مرطب",
       "icon": "hand-holding-water"
     },
-    "quantity": "null",
+    "quantity": "75 مل",
     "ingredients": "ماء, كحول السيتريل, شمع النحل, زبدة الشيا, توكوفيرول (فيتامين E النقي), الجلسرين, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911382/migrated/yzyfyxobhklravivwnma.webp",
     "marketingClaims": [
@@ -8614,7 +8621,7 @@
     "quantity": "300 ml",
     "price": {
       "min": 120,
-      "max": 120,
+      "max": 150,
       "currency": "DZD"
     },
     "targetTypes": [],
@@ -61426,7 +61433,11 @@
       "تنظيف لطيف",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية",
       "بشرة مختلطة"
