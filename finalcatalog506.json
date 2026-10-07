@@ -5489,7 +5489,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "250مل",
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, كلوريد الصوديوم, حمض الأسكوربيك (فيتامين C النقي), توكوفيرول (فيتامين E النقي), زيت اللوز الحلو, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911343/migrated/ikrchxm4wgbu0kzsmrpb.jpg",
     "marketingClaims": [
@@ -8706,7 +8706,11 @@
       "icon": "pump-soap"
     },
     "quantity": "270 ml",
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9501,7 +9505,9 @@
       "currency": "DZD"
     },
     "marketingClaims": [],
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية"
+    ]
   },
   {
     "id": "prod_1774370162704_e1wc9",
@@ -17294,7 +17300,11 @@
       "تنقية عميقة",
       "تنظيف عميق"
     ],
-    "price": null,
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -48249,7 +48259,11 @@
       "مرطب للبشرة",
       "تفتيح البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 600,
+      "max": 600,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -57017,7 +57031,11 @@
       "تهدئة البشرة",
       "توازن الحموضة"
     ],
-    "price": null,
+    "price": {
+      "min": 100,
+      "max": 100,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -57068,7 +57086,7 @@
       "label": "قناع وجه",
       "icon": "mask"
     },
-    "quantity": "",
+    "quantity": "200غ",
     "ingredients": "AQUA, ILLITE, PARFUM, METHYLISOTHIAZOLINONE",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789930224/migrated/manual/maryliss_masque_%C3%A0_largile_verte_dzmskmar001.jpg",
     "marketingClaims": [
@@ -58340,7 +58358,11 @@
       "مرطب للشعر",
       "تلميع ولمعان"
     ],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر جاف"
@@ -58389,7 +58411,11 @@
       "مهدئ",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 150,
+      "max": 150,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة"
     ]
@@ -58438,7 +58464,11 @@
       "مرطب للشعر",
       "تلميع ولمعان"
     ],
-    "price": null,
+    "price": {
+      "min": 230,
+      "max": 230,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر جاف"
@@ -58463,7 +58493,11 @@
       "تهدئة البشرة",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 300,
+      "max": 300,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة",
       "بشرة عادية"
@@ -58568,7 +58602,11 @@
       "إصلاح الشعر المتضرر",
       "حماية من الحرارة"
     ],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر جاف",
       "شعر تالف"
@@ -58970,7 +59008,11 @@
       "حماية من الحرارة",
       "تلميع ولمعان"
     ],
-    "price": null,
+    "price": {
+      "min": 400,
+      "max": 400,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر جاف"
@@ -59071,7 +59113,11 @@
       "مرطب للشعر",
       "تغذية الشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 230,
+      "max": 230,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر مجعد",
       "شعر جاف"
@@ -65808,7 +65854,11 @@
       "icon": "hand-holding-water"
     },
     "quantity": "50 g",
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة",
       "بشرة عادية"
@@ -66979,6 +67029,33 @@
       "للبشرة الحساسة",
       "مهدئ",
       "حماية من الشمس"
+    ]
+  },
+  {
+    "id": "DZ-CLE-BIOD-001",
+    "brand": "Bio Dreams",
+    "name": "صابون طبيعي بحليب الماعز",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791380096/lxeyso9wpyrxe4na9yti.jpg",
+    "ingredients": "Water, Natural Oils, Glycerin, Goat Milk, Vitamin E",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "null ml",
+    "price": null,
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة"
     ]
   }
 ]
