@@ -58387,7 +58387,11 @@
       "إصلاح الشعر المتضرر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر جاف"
@@ -63112,7 +63116,11 @@
       "تنظيف لطيف",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 480,
+      "max": 480,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية",
       "بشرة حساسة"
@@ -67056,6 +67064,37 @@
     "marketingClaims": [
       "تفتيح البشرة",
       "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-FEE-001",
+    "brand": "feelda",
+    "name": "Feelda Lait Éclaircissant - Zones Intimes",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791409613/ad4aaw9zyvsbcabbde5i.jpg",
+    "ingredients": "Aqua, Prunus Armeniaca Kernel Oil, Glycerin, Ceteareth-25, Cetearyl Alcohol, Alpha-Arbutin, Niacinamide, Tocopherol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Methylchloroisothiazolinone, Methylisothiazolinone, Fragrance",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150 ml",
+    "price": {
+      "min": 1800,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "تفتيح البشرة",
+      "مرطب للبشرة",
+      "تفتيح البقع الداكنة"
     ]
   }
 ]
