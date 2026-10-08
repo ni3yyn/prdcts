@@ -7641,7 +7641,9 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنظيف عميق"
+    ]
   },
   {
     "id": "DZ-BWA-VEN-008",
@@ -7683,7 +7685,9 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنظيف عميق"
+    ]
   },
   {
     "id": "DZ-BWA-VEN-006",
@@ -10204,7 +10208,7 @@
     "brand": "Laboratoires Venus",
     "name": " Viderm Solaire Écran Total Teinté SPF 60",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917979/migrated/qosgzzq6wh8cod9utkht.jpg",
-    "ingredients": "ماء، تريبنين 20-PEG استرات، كربونات ديكابريل، جلسرين، إيزوهكساديكان، بوتيل ميثوكسيديبنزويل ميثان، ثاني أكسيد التيتانيوم، إيثيل هكسيل تريازون، اسواميل ب ميثوكسيديبنزويل ميثان، حمض فينيل بنزيميدازول سلفونيك، تريكو نتانيل بفر، ثلاثي إيثانولامين، CI 77891، ثنائي أكسيد التيتانيوم، ثنائي إيثيل هكسيلوكسيفينول ميثوكسيفينيل تريازين، غليسيريل، ميثيل ميثاكريلات كروسبوليمر، فينوكسييثانول، البروبيلين غليكول، حامض دهني، الألومينا، ثنائي الصوديوم EDTA، صمغ زنتان، الكيل اكيلات / س 30-10، CI 77492، أكسيد الحديد، عطر، حمض البالمتيك، مسحوق عصير أوراق الصبار باربادنسيس، توكوفيرول، حمض الستريك، السيليكا، مالتوديكسترين.",
+    "ingredients": "Water, PEG-20 Stearate, Dicaprylyl Carbonate, Glycerin, Isohexadecane, Butyl Methoxydibenzoylmethane, Titanium Dioxide, Ethylhexyl Triazone, Isoamyl p-Methoxycinnamate, Phenylbenzimidazole Sulfonic Acid, Triacontanyl PVP, Triethanolamine, CI 77891, Titanium Dioxide, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Glyceryl Stearate, Methyl Methacrylate Crosspolymer, Phenoxyethanol, Propylene Glycol, Stearic Acid, Alumina, Disodium EDTA, Xanthan Gum, C10-30 Alkyl Acrylates Crosspolymer, CI 77492, Iron Oxide, Fragrance, Palmitic Acid, Aloe Barbadensis Leaf Juice Powder, Tocopherol, Citric Acid, Silica, Maltodextrin.",
     "country": "Algeria",
     "category": {
       "id": "sunscreen",
