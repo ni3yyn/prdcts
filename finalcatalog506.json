@@ -19998,7 +19998,11 @@
       "تفتيح البقع الداكنة",
       "توحيد لون البشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 4200,
+      "max": 4200,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -67099,6 +67103,36 @@
       "تفتيح البشرة",
       "مرطب للبشرة",
       "تفتيح البقع الداكنة"
+    ]
+  },
+  {
+    "id": "DZ-LOT-HBD-001",
+    "brand": "HB DERMA",
+    "name": "Hydrocure Lotion Hydratante",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791553101/c7urrdgk5mijaiybcpgk.jpg",
+    "ingredients": "Water, Glycerin, Vitamin B3 & B5, Pentavitin, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Petrolatum, Isopropyl Myristate, Mineral Oil, Phenoxyethanol, Ethylhexylglycerin, Dimethicone, Fragrance, Carbomer, Triethanolamine, Disodium EDTA.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 1800,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "للبشرة الحساسة",
+      "ترطيب مكثف"
     ]
   }
 ]
