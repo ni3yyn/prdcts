@@ -59054,7 +59054,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 230,
+      "max": 230,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر عادي"
@@ -66017,7 +66021,7 @@
     "quantity": "300 ml",
     "price": {
       "min": 35,
-      "max": null,
+      "max": 350,
       "currency": "DZD"
     },
     "targetTypes": [
