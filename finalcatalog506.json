@@ -67207,5 +67207,32 @@
       "مهدئ",
       "تغذية الشعر"
     ]
+  },
+  {
+    "id": "DZ-LOT-NOU-001",
+    "brand": "Nour Beauty Flowers",
+    "name": "Velvet Matte Base Liquida",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791832546/by7zbztfdbkbhcammpou.jpg",
+    "ingredients": "Titanium Dioxide, Paraffinum Liquidum, Paraffin, Microcrystalline Wax, Glyceryl Stearate, Petrolatum, Cera Microcristallina, Silica Silylate, Hydrogenated Citronellol, Eugenol, Isoeugenol, Butylphenyl Methylpropional, Coumarin, Citronellol, Geraniol, D-Limonene, Citral, Amyl Cinnamal, Linalool, Parfum, CI 77491, CI 77492, CI 77499",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "ترطيب مكثف"
+    ]
   }
 ]
