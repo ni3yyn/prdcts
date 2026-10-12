@@ -67143,5 +67143,65 @@
       "للبشرة الحساسة",
       "ترطيب مكثف"
     ]
+  },
+  {
+    "id": "DZ-CLE-BIS-001",
+    "brand": "BI-SOLUTION",
+    "name": "B1 Action Soin Visage Gel Moussant Antibactérien, Boutons et Points Noirs",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791762579/wlkpub6uden5lnmtdbvp.jpg",
+    "ingredients": "Aqua, Cocamide DEA, Tetrasodium EDTA, Cocamidopropyl Betaine, Caprylyl Caprylate, Sodium Chloride, Parfum, Disinfectant Agent, Preservative.",
+    "country": "Algeria",
+    "category": {
+      "id": "cleanser",
+      "label": "غسول وجه",
+      "icon": "soap"
+    },
+    "quantity": "240 ml",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة",
+      "بشرة معرضة للحبوب"
+    ],
+    "marketingClaims": [
+      "مضاد لحب الشباب",
+      "مضاد للرؤوس السوداء",
+      "تنقية عميقة",
+      "للبشرة الدهنية"
+    ]
+  },
+  {
+    "id": "DZ-SSE-MER-002",
+    "brand": "Mère Nature",
+    "name": "Sérum Visage Vitamine E + B5",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791762453/cz6elmcah8go50fct7aw.webp",
+    "ingredients": "Aqua (Water), Sodium Benzoate, Xanthan Gum, Glycerin, Tocopherol (Vitamin E), Pantothenic Acid (Vitamin B5), Butyrospermum Parkii Butter, PEG-40 Hydrogenated Castor Oil, Sodium Hydroxid, Parfum.",
+    "country": "Algeria",
+    "category": {
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
+    },
+    "quantity": "30 ml",
+    "price": {
+      "min": 400,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة عادية",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "مضاد للأكسدة",
+      "مهدئ",
+      "تغذية الشعر"
+    ]
   }
 ]
