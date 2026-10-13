@@ -4805,7 +4805,9 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتيل, كحول السيتريل, سيتيث-20, توكوفيرول (فيتامين E النقي), الكولاجين المهدرج, بروبيلين جلايكول, بنزوات الصوديوم, أوكتينوكسات, توكوفيريل أسيتات, زيت الجزر (المنقوع), زيت اللوز الحلو, زيت جوز الهند, عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911497/migrated/rffzgoxaayn9e1vc5s2m.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تفتيح البقع الداكنة"
+    ],
     "price": {
       "min": 500,
       "max": 650,
@@ -5215,7 +5217,8 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911467/migrated/rgfhjqousnepgip2fhd6.jpg",
     "marketingClaims": [
       "مضاد لحب الشباب",
-      "gentle_cleansing"
+      "gentle_cleansing",
+      "تنظيف لطيف"
     ],
     "price": {
       "min": 1150,
@@ -5424,7 +5427,10 @@
     "quantity": "null",
     "ingredients": "ماء, بروبيلين غليكول, النياسيناميد (فيتامين B3), حمض الهيالورونيك, الجلسرين, توكوفيرول (فيتامين E النقي), حمض الساليسيليك, رباعي الصوديوم EDTA, فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911499/migrated/mo0dugvjlcw4ysczy8sg.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "توحيد لون البشرة",
+      "مرطب للبشرة"
+    ],
     "price": null,
     "targetTypes": [
       "بشرة دهنية",
@@ -11391,7 +11397,7 @@
       "label": "سيروم للبشرة",
       "icon": "flask"
     },
-    "quantity": null,
+    "quantity": "30 ml",
     "ingredients": "Centella Asiatica Phytotechnologies, Ceramides, Niacinamide, Vitamin B12, Ginger Root Extract, Rapeseed Sterols, Bisabolol, Epigallocatechin gallate",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789918275/migrated/aysqlzcues121jld9zjv.png",
     "marketingClaims": [
@@ -11399,7 +11405,11 @@
       "إصلاح حاجز البشرة",
       "مرطب للبشرة"
     ],
-    "price": null,
+    "price": {
+      "min": 3200,
+      "max": 3200,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة حساسة"
     ]
@@ -67233,6 +67243,35 @@
     "marketingClaims": [
       "مرطب للبشرة",
       "ترطيب مكثف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-OLM-001",
+    "brand": "OLMAVITA",
+    "name": "Olmacalm",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791909302/ltfgugdjijphdiqawnsp.jpg",
+    "ingredients": "Aqua, Cetearyl Alcohol, Glycerin, PEG-8, Polyglyceryl-6 Oleate, PEG-100 Stearate, Glyceryl Stearate, Polyglyceryl-4 Caprate, Polyglyceryl-10 Caprate, Butyrospermum Parkii Butter, Macadamia Ternifolia Seed Oil, Isoamyl Laurate, Dimethicone, Cannabidiol, Sodium Hyaluronate, Xanthan Gum, Carbomer, Ethylhexylglycerin, Tocopherol, Isoamyl Cocoate, Prunus Amygdalus Dulcis Oil, Argania Spinosa Kernel Oil, Beta-Glucan, Simmondsia Chinensis Seed Oil, Olea Europaea Fruit Oil, Sodium Hydroxide, Caprylyl Glycol, Helianthus Annuus Seed Oil, Rosmarinus Officinalis Leaf Extract, Cocos Nucifera Oil, Phenoxyethanol, Sodium Dehydroacetate.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 5500,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مهدئ",
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "تهدئة البشرة"
     ]
   }
 ]
