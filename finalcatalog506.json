@@ -6790,6 +6790,7 @@
       "حماية من الشمس",
       "للبشرة الدهنية",
       "للبشرة الحساسة",
+      "حماية واسعة الطيف",
       "مقاوم للماء"
     ],
     "price": {
@@ -67276,6 +67277,112 @@
       "مرطب للبشرة",
       "للبشرة الحساسة",
       "تهدئة البشرة"
+    ]
+  },
+  {
+    "id": "FR-LOT-DEX-001",
+    "brand": "DEXERYL",
+    "name": "DEXERYL Crème émolliente",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791975947/q7db36xxfwu9hzq71srd.jpg",
+    "ingredients": "Glycerin, White Petrolatum, Mineral Oil, Glyceryl Monostearate, Stearic Acid, Dimethicone, PEG-12, Triethanolamine, Acrylamide/Sodium Acryloyldimethyltaurate Copolymer, Isohexadecane, Polysorbate, Pentylene Glycol, Ethylhexylglycerin, Carbomer, and Purified Water.",
+    "country": "France",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 1950,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة",
+      "للبشرة الجافة",
+      "ترطيب مكثف",
+      "مهدئ"
+    ]
+  },
+  {
+    "id": "DZ-OTH-FAS-001",
+    "brand": "Fa Styl Ivea",
+    "name": "Frescor Agua de Colonia Limones del Caribe",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791914638/dzodiwobrcgzggx7u2rn.jpg",
+    "ingredients": "Water, Fragrance, Linalool, Limonene, Citral, Geraniol, Benzyl Salicylate, Benzyl Alcohol, CI 47005.",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "750 ml",
+    "price": {
+      "min": 200,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": []
+  },
+  {
+    "id": "DZ-LOT-PRO-002",
+    "brand": "Proderma",
+    "name": "كريم منعش تجميلي بحمض الهيالورونيك",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791933607/rastib9cqvxo5kjvi0ml.jpg",
+    "ingredients": "Water, Glycerin, Sweet Almond Oil, Cetearyl Alcohol, Glyceryl Stearate, Sodium Hyaluronate, Hydrolyzed Collagen, Retinol, Jojoba Oil, Green Tea Extract, Shea Butter, Tocopheryl Acetate, Tetrasodium EDTA, Imidazolidinyl Urea.",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "150 غرام",
+    "price": {
+      "min": 900,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة",
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "ترطيب مكثف",
+      "مرطب للبشرة",
+      "للبشرة الحساسة",
+      "تهدئة البشرة"
+    ]
+  },
+  {
+    "id": "DZ-SHA-ORY-001",
+    "brand": "Oryluxe",
+    "name": "Protein Shampoo Coconut Oil Honey",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1791914535/lm8bjvhnuogjrjnzaxkn.jpg",
+    "ingredients": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Glycol Distearate, PEG-7 Glyceryl Cocoate, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Dimethicone, Laureth-4, Laureth-23, Coconut Oil, Honey Extract, Glycerin, Keratin, Tocopherol, Protein, Sunscreen, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "300 ml",
+    "price": {
+      "min": 350,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر عادي"
+    ],
+    "marketingClaims": [
+      "مرطب للشعر",
+      "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
     ]
   }
 ]
