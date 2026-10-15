@@ -5252,7 +5252,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة دهنية"
+      "بشرة دهنية",
+      "بشرة مختلطة"
     ]
   },
   {
@@ -47664,7 +47665,11 @@
     "marketingClaims": [
       "إصلاح الشعر المتضرر"
     ],
-    "price": null,
+    "price": {
+      "min": 500,
+      "max": 500,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر جاف",
       "شعر تالف"
