@@ -6168,7 +6168,9 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911373/migrated/bghzubraoryvfcc7manz.jpg",
     "marketingClaims": [],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "شعر جاف"
+    ]
   },
   {
     "id": "OT-XXX-CALL-001",
@@ -48641,6 +48643,7 @@
     ],
     "price": null,
     "targetTypes": [
+      "بشرة دهنية",
       "بشرة حساسة"
     ]
   },
