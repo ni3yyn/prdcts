@@ -61266,7 +61266,11 @@
       "تقشير",
       "تنظيف عميق"
     ],
-    "price": null,
+    "price": {
+      "min": 450,
+      "max": 450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -62797,7 +62801,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف",
       "شعر جاف"
