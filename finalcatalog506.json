@@ -4825,7 +4825,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "125mL",
     "ingredients": "كوكو جلوكوسايد, ثنائي الصوديوم لوريل سلفوساكسينات, كوكاميدوبروبيل بيتين (CAPB), زيت شجرة الشاي العطري, آلانتوين, صمغ الزانثان, توكوفيريل أسيتات, سوربات البوتاسيوم, بنزوات الصوديوم, رباعي الصوديوم EDTA, عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911430/migrated/uncprphel34ml3eowntp.png",
     "marketingClaims": [
@@ -66832,7 +66832,9 @@
     },
     "quantity": "50 ml",
     "price": null,
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة مختلطة"
+    ],
     "marketingClaims": [
       "مرطب للبشرة"
     ]
