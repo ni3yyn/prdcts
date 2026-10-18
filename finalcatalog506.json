@@ -48299,7 +48299,10 @@
       "max": 600,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SUN-MAK-001",
@@ -57536,7 +57539,8 @@
     },
     "targetTypes": [
       "بشرة دهنية",
-      "بشرة معرضة للحبوب"
+      "بشرة معرضة للحبوب",
+      "بشرة مختلطة"
     ]
   },
   {
@@ -66814,7 +66818,7 @@
     "quantity": "75 gr",
     "price": {
       "min": 400,
-      "max": null,
+      "max": 450,
       "currency": "DZD"
     },
     "targetTypes": [
