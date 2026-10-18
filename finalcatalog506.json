@@ -58678,7 +58678,11 @@
       "للبشرة الجافة",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ]
@@ -67352,7 +67356,9 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "كل أنواع البشرة"
+    ],
     "marketingClaims": []
   },
   {
@@ -67408,6 +67414,31 @@
     "marketingClaims": [
       "مرطب للشعر",
       "تغذية الشعر",
+      "إصلاح الشعر المتضرر"
+    ]
+  },
+  {
+    "id": "DZ-SHA-LABO-001",
+    "brand": "Laboratoires Venus",
+    "name": "Hair Shampoo Repair A l'Acide Hyaluronique",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792349351/v2x6asmcc1bclm0bj42w.jpg",
+    "ingredients": "",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 350,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مرطب للشعر",
+      "ترطيب مكثف",
       "إصلاح الشعر المتضرر"
     ]
   }
