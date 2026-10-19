@@ -6231,7 +6231,12 @@
     "quantity": "300 ml",
     "ingredients": "ماء, كوكو جليسيرين بروبيل, الجلسرين, كوكو جلوكوسايد, حمض الساليسيليك, حمض السيتريك, عطر, ألكيل بولي غليكوزيد",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911472/migrated/xcuwc4kbydm64nwc9bos.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنظيف لطيف",
+      "إزالة المكياج",
+      "للبشرة الدهنية",
+      "تنقية المسام"
+    ],
     "price": {
       "min": 300,
       "max": 600,
@@ -6412,7 +6417,10 @@
     "quantity": "null",
     "ingredients": "ماء, أوكتوكريلين, يوفينول تي 150, أفوبينزون, أوليات الديسيل, أكسيد الزنك, ثلاثي جليسريد الكابريليك/الكابريك, كحول السيتيل, سيتاريث-20, النياسيناميد (فيتامين B3), حمض الهيالورونيك, سينتيلا أسياتيكا (عشبة النمر), توكوفيرول (فيتامين E النقي), فينوكسي إيثانول",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911469/migrated/h0ewpzwcznxroxkm2ghd.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
+    ],
     "price": {
       "min": 600,
       "max": 800,
@@ -61672,7 +61680,8 @@
     "marketingClaims": [
       "حماية من الشمس",
       "حماية واسعة الطيف",
-      "مرطب للبشرة"
+      "مرطب للبشرة",
+      "للبشرة الدهنية"
     ],
     "price": null,
     "targetTypes": [
