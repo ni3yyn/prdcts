@@ -2208,7 +2208,11 @@
     "marketingClaims": [
       "مضاد لحب الشباب"
     ],
-    "price": null,
+    "price": {
+      "min": 1450,
+      "max": 1450,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -2486,7 +2490,11 @@
     "marketingClaims": [
       "مضاد لحب الشباب"
     ],
-    "price": null,
+    "price": {
+      "min": 1500,
+      "max": 1500,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -65434,7 +65442,11 @@
     "marketingClaims": [
       "تنظيف عميق"
     ],
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -66608,7 +66620,11 @@
       "icon": "mask"
     },
     "quantity": "25 g",
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة جافة"
     ],
@@ -67431,7 +67447,7 @@
     "brand": "Laboratoires Venus",
     "name": "Hair Shampoo Repair A l'Acide Hyaluronique",
     "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792349351/v2x6asmcc1bclm0bj42w.jpg",
-    "ingredients": "",
+    "ingredients": "Water, Ammonium Laureth Sulfate, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Myristoyl Glutamate, Sodium Chloride, Guar Hydroxypropyltrimonium Chloride, Coco-Glucoside Oleate, Dicaprylyl Ether, Decyl Glucoside, Glyceryl Oleate, Coco-Glucoside, Hydrogenated Castor Oil, Cocamide DEA, Xylitylglucoside, Anhydroxylitol, Xylitol, Xanthan Gum, Hydrolyzed Wheat Protein, Glycerin, Trehalose, Urea, Serine, Pentylene Glycol, Glyceryl Polyacrylate, Algin, Caprylyl Glycol, Sodium Hyaluronate, Pullulan, Disodium Phosphate, Potassium Phosphate, EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Fragrance.",
     "country": "Algeria",
     "category": {
       "id": "shampoo",
