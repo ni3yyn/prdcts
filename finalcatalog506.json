@@ -67431,8 +67431,8 @@
     },
     "quantity": "250 ml",
     "price": {
-      "min": 350,
-      "max": null,
+      "min": 110,
+      "max": 110,
       "currency": "DZD"
     },
     "targetTypes": [],
