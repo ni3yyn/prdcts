@@ -10,9 +10,9 @@ const POINTS_MAP = {
     ingredients: 100,
     marketingClaims: 40,
     targetTypes: 40,
-    country: 25,
+    country: 10,        // ← aligned with BOUNTY_REWARDS.country
     new_product: 200,
-    category: 40, // 🆕
+    category: 25,       // ← aligned with BOUNTY_REWARDS.category
 };
 
 // ========== Field labels (used in both notifications) ==========
