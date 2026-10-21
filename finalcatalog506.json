@@ -708,9 +708,9 @@
     "name": "Gel douche solide algue sauvage & criste marine",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
     "quantity": "100g",
     "ingredients": "HYDROGENATED VEGETABLE OIL, SODIUM COCOYL ISETHIONATE, water, POLYGLYCERYL-4 LAURATE, GLYCERIN, PARFUM, CORALLINA OFFICINALIS EXTRACT, CRITHMUM MARITIMUM EXTRACT, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, SODIUM CHLORIDE, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, DECYL GLUCOSIDE, LINALYL ACETATE, CITRUS LIMON (LEMON) PEEL OIL, LIMONENE, TERPINEOL, PINENE, ROSE KETONES",
@@ -727,9 +727,9 @@
     "name": "Gel. Douche solide, avoine et sarrasin",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
     "quantity": "100g",
     "ingredients": "HYDROGENATED VEGETABLE OIL, SODIUM COCOYL ISEHIONATE, water, POLYGLYCERYL-4 Lurate, GLYCERIN, PARFUM, POLYGONUM FAGOPYRUM (BUCKWHEAT) SEED Extract, AVENA SATIVA (OAT) KERNEL Extract, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES, SODIUM Chloride, DECYL GLUCOSIDE, TRIMETHYLCYCLOPENTENYL METHYLISOPENTENOL, LINALYL Acetate, TRIMETHYLBENZENEPROPANOL, HEXADECANOLACTONE, CITRIC ACID, POTASSIUM SORBATE, SODIUM BENZOATE, XANTHAN Gum.",
@@ -2198,9 +2198,9 @@
     "name": "Elseve Phytoclear antipelliculaire",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
     },
     "quantity": "250 ml",
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, CITRIC ACID, COCAMIDOPROPYL BETAINE. SODIUM HYDROXIDE, SODIUM CHLORIDE, CI 42090 / BLUE 1, CI 14700 / RED 4, SODIUM BENZOATE, SODIUM ACETATE, CEDRUS ATLANTICA BARK OIL, PEG-60 HYDROGENATED CASTOR OIL, POLYQUATERNIUM-10, SALICYLIC ACID, MELALEUCA ALTERNIFOLIA LEAF OIL / TEA TREE LEAF OIL, LIMONENE, CYMBOPOGON SCHOENANTHUS OIL, MENTHOL, LINALOOL, MENTHA PIPERITA OIL / PEPPERMINT OIL, PROPYLENE GLYCOL, ISOPROPYL ALCOHOL, PIROCTONE OLAMINE, GERANIOL, CITRONELLOL, HEXYLENE GLYCOL, PARFUM",
@@ -2480,9 +2480,9 @@
     "name": "Elseve Arginine Resist X3 (Formule 2 en 1)",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
     },
     "quantity": "300 ml",
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, DIMETHICONE, SODIUM CHLORIDE, COCO-BETAINE, GLYCOL DISTEARATE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, COCAMIDE MIPA, SODIUM BENZOATE, HYDROXYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN, SODIUM COCOATE, SODIUM HYDROXIDE, ARGININE, SALICYLIC ACID, LIMONENE, LINALOOL, 2-OLEAMIDO-1, 3-OCTADECANEDIOL, CARBOMER, METHYL COCOATE, CITRIC ACID, HEXYLENE GLYCOL, HEXYL CINNAMAL, GLYCERYL LINOLEATE, GLYCERYL OLEATE, GLYCERYL LINOLENATE, PARFUM",
@@ -2558,9 +2558,9 @@
     "name": "Color-Vive Soin démêlant instantané Cheveux colorés ou mêchés",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
     },
     "quantity": "200 ml",
     "ingredients": "AQUA / WATER, CETEARYL ALCOHOL, BEHENTRIMONIUM CHLORIDE, CETYL ESTERS, TOCOPHEROL, ETHYLHEXYL METHOXYCINNAMATE, TRIDECETH-6, CHLORHEXIDINE DIGLUCONATE, POLY(LINSEED OIL), BENZYL ALCOHOL, BENZYL SALICYLATE, LINALOOL, BENZOPHENONE-4, AMODIMETHICONE, ISOPROPYL ALCOHOL, ALPHA-ISOMETHYL IONONE, GERANIOL, CITRIC ACID, POTASSIUM HYDROXIDE, BUTYLPHENYL METHYLPROPIONAL, CITRONELLOL, CETRIMONIUM CHLORIDE, HEXYL CINNAMAL, PARFUM",
@@ -2575,9 +2575,9 @@
     "name": "Elseve Total Repair 5",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
     },
     "quantity": "250 ml",
     "ingredients": "AQUA / WATER, SODIUM LAURETH SULFATE, COCO-BETAINE, DIMETHICONE, GLYCOL DISTEARATE, SODIUM CHLORIDE, GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE, QUATERNIUM-33, SODIUM BENZOATE, HYDROXYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN, SODIUM HYDROXIDE, PPG-5-CETETH-20, ARGININE, BEHENTRIMONIUM METHOSULFATE, SALICYLIC ACID, POLYQUATERNIUM-7, LIMONENE, LINALOOL, BENZYL SALICYLATE, BENZYL ALCOHOL, 2-OLEAMIDO-1, 3-OCTADECANEDIOL, CARBOMER, SERINE, BUTYLPHENYL METHYLPROPIONAL, CETYL ALCOHOL, CITRIC ACID, GLUTAMIC ACID, HEXYL CINNAMAL, GLYCERYL LINOLEATE, GLYCERYL OLEATE, GLYCERYL LINOLENATE, PARFUM",
@@ -2930,12 +2930,12 @@
     "name": "Hydra Sensitive Soin Hydratant Peaux Sensibles",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
     "quantity": "50 mL",
-    "ingredients": "781303 14 - water, glycerin, cyclohexasiloxane, hydrogenated polyisobutene, ammonium polyacryldimethyltauramide/ammonium polyacryloyldimethyl taurate, myristyl myristate, mentha piperita extract/peppermint leaf extract, stearic acid, potassium cetyl phosphate, calcium pantetheine sulfonate, glyceryl stearate SE, manganese gluconate, sodium hydroxide, palmitic acid, magnesium gluconate, capryloyl glycine, caprylyl glycol, xanthan gum, polyphosphorylcholine glycol acrylate, acrylates copolymer, butylene glycol, linalool, limonene, PARFUM",
+    "ingredients": "water, glycerin, cyclohexasiloxane, hydrogenated polyisobutene, ammonium polyacryldimethyltauramide/ammonium polyacryloyldimethyl taurate, myristyl myristate, mentha piperita extract/peppermint leaf extract, stearic acid, potassium cetyl phosphate, calcium pantetheine sulfonate, glyceryl stearate SE, manganese gluconate, sodium hydroxide, palmitic acid, magnesium gluconate, capryloyl glycine, caprylyl glycol, xanthan gum, polyphosphorylcholine glycol acrylate, acrylates copolymer, butylene glycol, linalool, limonene, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917710/migrated/sgdak4ggkitfpprpb0xf.jpg",
     "marketingClaims": [
       "مرطب للبشرة"
@@ -3250,9 +3250,9 @@
     "name": "Bioderma - Atoderm Gel douche",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
     },
     "quantity": "1 l.",
     "ingredients": "aqua, sodium laureth sulfate, coco-betaine, sodium lauroyl sarcosinate, glycerin, methylpropanediol, mannitol, xylitol, rhamnose, fructooligosaccharides, copper sulfate, sodium chloride, coco-glucoside, glyceryl oleate, disodium edta, capryloyl glycine, citric acid, sodium hydroxide, fragrance.",
@@ -3307,9 +3307,9 @@
     "name": "Crème fouettée corps hydratante",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
     "quantity": "400ml",
     "ingredients": "Aqua Caprylic/Capric Triglyceride Glycenin orheur Isopropyl Palmitate Butyrospermum Parkii (Shea Butter) Glyceryl Stearale PEG-100 Stearate Phenoxyethanol Sodium Polyacrylate Parfum (Fragrance) Cetearyl Alcohol Sodium Polyacrylate Starch Caprylyl Glycol 1,2-Hexanediol Xanthan Gum (Watermelon) Fruit Extract. . . Citrullus Lanatus i all ,/0avenue des champs-élysées F-75008 paris, st. by sephora usa s a francisco CA 94105. uier made in France. ight Wsephora.com 12M 34378872 116974",
@@ -5014,9 +5014,9 @@
     "name": "ماء ورد طبيعي",
     "country": "Other",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "toner",
+      "label": "تونر / ميست",
+      "icon": "tint"
     },
     "quantity": "250ml",
     "ingredients": "ماء الورد المقطر (هيدروسول)",
@@ -5180,9 +5180,9 @@
     "name": "سواليس ديتوكس +",
     "country": "Algeria",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
     },
     "quantity": "null",
     "ingredients": "ماء، صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), كوكو جلوكوسايد, كلوريد غوار هيدروكسي بروبيل تريمونيوم, بولي كواتيرنيوم-7, بروبيلين جلايكول, جلايكول ثنائي الستيارات, صمغ الزانثان, حمض السيتريك, السيراميدات, ميثيل أيزوثيازولينون (MIT), عطر",
@@ -5950,9 +5950,9 @@
     "name": "Vitamin C Boosting Serum",
     "country": "Korea",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
     "quantity": "null",
     "ingredients": "ماء أوراق سنتيلا أسياتيكا, النياسيناميد (فيتامين B3), بيوتيلين جلايكول, 1،2-هيكسانيديول, ثنائي بروبيلين جلايكول, ماء, ميثيل جلوكيث-20, ميثيل بروبانيديول, البيتين, حمض الترانيكساميك, الجلسرين, بنتيلين غليكول (1،5-بنتانيديول), بروبانيديول, هيدروكسي إيثيل يوريا, مستخلص ثمار التين, سينتيلا أسياتيكا (عشبة النمر), ليسيثين مهدرج, حمض الهيالورونيك, كاربومير 940, إيثيل أسكوربيل إيثر, كوبوليمر أمونيوم أكريلويل ديميثيل تورات/في بي, صمغ الزانثان, تروميثامين, بانثينول (بروفيتامين B5), إيثيل هكسيل غليسرين, أدينوسين, ثنائي الصوديوم EDTA, فركت أوليجو سكاريدات, بيتا جلوكان, فيتامين C (حمض الأسكوربيك النقي), حمض الهيالورونيك المهدرج, سيراميد NP (سيراميد 3), ألفا أربوتين, توكوفيرول (فيتامين E النقي), خميرة بيفيدا, بيسابولول, مرافق الإنزيم Q10, أيديبينون, هيالورونات الصوديوم الأسيتيلية",
@@ -5994,9 +5994,9 @@
     "name": "cicaplast Balm B5+",
     "country": "France",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
     "quantity": "50ml",
     "ingredients": "دايميثيكون, ماء, بولي أيزوبيوتين مهدرج, الجلسرين, زبدة الشيا, بانثينول (بروفيتامين B5), نشا الذرة, بروبانيديول, بيوتيلين جلايكول, سيتيل PEG/PPG-10/1 دايميثيكون, تراي هيدروكسي ستيارين, مستخلص السينتيلا أسياتيكا (Cica), جلوكونات الزنك, ماديكاسوسيد, ألفا-جلوكان أوليجوسكاريد, سيليكا, هيدروكسيد الألمنيوم, كبريتات المغنيسيوم (ملح إبسوم), مانوز, كابريلويل جلايسين, خميرة الفيتروسيلا (Life Plankton™), حمض الستريك, ثلاثي صوديوم إيثيلين ديامين ديسكسينات, لاكتوباسيلس, مالتوديكسترين, بنتيلين غليكول (1،5-بنتانيديول), بولي جليسريل-4 أيزوستيرات, توكوفيرول (فيتامين E النقي), بنتاريثريتيل تترا-دي-تي-بيوتيل هيدروكسي هيدروسينامات, فينوكسي إيثانول, CI 77891 (ثاني أكسيد التيتانيوم)",
@@ -6151,9 +6151,9 @@
     "name": "بديل الزيت بالافوكادو",
     "country": "Algeria",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "oil_replacement",
+      "label": "بديل الزيت",
+      "icon": "water"
     },
     "quantity": "null",
     "ingredients": "ماء، كحول بنزيلي, ميريستات الأيزوبروبيل, زيت دوار الشمس, بارافين (شمع صلب), ليمونين, لينالول, سيترال, جيرانيول, يوجينول, أيزويوجينول, فارنيسول, بوتيل فينيل ميثيل بروبيونال (ليليال), هيدروكسي سيترونيلال, ألفا-أيزو ميثيل أيونون, كومارين, أميل سينامال, بنزيل ساليسيلات, سينامال, بنزيل بنزوات",
@@ -6292,14 +6292,16 @@
     "name": "elseve crème coiffante",
     "country": "",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
     },
     "quantity": "null",
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, زيت جوز الهند, بروتين القمح المهدرج, فينوكسي إيثانول, ستيراميدوبروبيل ثنائي ميثيل أمين, أرجينين, PEG-45M, كلوريد بيهينتريمونيوم, كلورهيكسيدين ديجلوكونات, ليمونين, لينالول, بنزيل ساليسيلات, كحول بنزيلي, كحول الأيزوبروبيل, ألفا-أيزوميثيل أيونون, أوليات السوربيتان, عطر, سيرين, جيرانيول, سيتاريث-20, كلوريد السيتريمونيوم, بيوتيل هيدروكسي تولوين (BHT), حمض السيتريك, بوتيل فينيل ميثيل بروبيونال (ليليال), سيترونيلول, حمض الجلوتاميك, هكسيل سينامال, الجلسرين",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911456/migrated/belzfmvokhc5lcfvpj8d.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "مرطب للشعر"
+    ],
     "price": {
       "min": 1200,
       "max": 1200,
@@ -6447,9 +6449,9 @@
     "name": "VASLINE HAND&NAIL",
     "country": "Algeria",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
     "quantity": "null",
     "ingredients": "ماء, الزيت المعدني, كحول السيتريل, الجلسرين, كحول اللانولين, جليسريل ستيرات, زيت دوار الشمس, حمض اللاكتيك, ستيرات PEG-100, ستيرات السوربيتان, حمض الساليسيليك, دايميثيكون, كحول البوليفينيل (PVA), صمغ الزانثان, ميثيل بارابين",
@@ -6707,9 +6709,9 @@
     "name": "كريم حمام الزيت",
     "country": "Algeria",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "conditioner",
+      "label": "بلسم/مرطب شعر",
+      "icon": "pump-soap"
     },
     "quantity": "null",
     "ingredients": "ماء, كلوريد سيتريمونيوم, صوديوم لوريل سلفات (SLS), زبدة الشيا, البانثينول (برو-فيتامين B5), دايميثيكون, كلورو ميثيل ايزوثيازولينون, عطر",
@@ -6951,9 +6953,9 @@
     "name": "PEAU PARFAITE VITAMIN C",
     "country": "Algeria",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
     "quantity": "30ml",
     "ingredients": "Water, Sodium Benzoate, Xanthan Gum, Glycerin, Sucrose Polystearate, Cetyl Palmitate, Sodium Stearoyl Glutamate, Butyrospermum Parkii (Shea) Butter, Vitamin C (Ascorbic Acid), Hydrogenated Vegetable Glycerides, Cetyl Alcohol, Caprylic/Capric Triglyceride, Parfum (Fragrance).",
@@ -9784,9 +9786,9 @@
     "ingredients": "",
     "country": "USA",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
     "quantity": "30 ml",
     "price": {
@@ -10304,9 +10306,9 @@
     "ingredients": "Water, Caprylic/Capric Triglyceride, SheaButter, Dimethicone, Squalane, Glycerin, Ceteth-20, Ascorbyl Palmitate, Cetearyl Alcohol, Ammonium Acryloyldimethyltaurate/Laureth-7 Methacrylate Copolymer, Laureth-3, Tocopherol, Phenoxyethanol, Sodium Hydroxide, Thioctic Acid, Citrus Aurantium Dulcis Fruit Water, Vitamin C Extract, Hyaluronic Acid Extract, Collagen Extract, Fragrance.",
     "country": "China",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
     "quantity": "30 ml",
     "price": {
@@ -11799,9 +11801,9 @@
     "name": "PHA 5% Exfoliating Lip Serum",
     "country": "USA",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
     "quantity": null,
     "ingredients": "Glycerin, Aqua, Gluconolactone, Ectoin, Daucus Carota Sativa (Carrot) Juice, Citric Acid, Malic Acid, Tartaric Acid, Sodium Hydroxide, Xanthan Gum, Potassium Sorbate, Sodium Benzoate.",
@@ -12129,9 +12131,9 @@
     "name": "Soothing & Barrier Support Serum Set",
     "country": "USA",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "skin_serum",
+      "label": "سيروم للبشرة",
+      "icon": "flask"
     },
     "quantity": null,
     "ingredients": "Aqua, Propanediol, Isodecyl Neopentanoate, Pentylene Glycol, Niacinamide, Hexyldecanol, Cetearyl Alcohol, Xylitylglucoside, Ceteth-20 Phosphate, Anhydroxylitol, Ethyl Linoleate, Asiaticoside, Asiatic Acid, Madecassic Acid, Naringenin, Cyanocobalamin, Panthenyl Triacetate, 4-T-Butylcyclohexanol, Hydroxyphenyl Propamidobenzoic Acid, Cetylhydroxyproline Palmitamide, Bisabolol, Brassica Campestris Sterols, Sphingolipids, Phospholipids, Epigallocatechin Gallatyl Glucoside, Gallyl Glucoside, Propyl Gallate, Xylitol, Zingiber Officinale Root Extract, Stearic Acid, Dicetyl Phosphate, Isoceteth-20, Xanthan Gum, Trisodium Ethylenediamine Disuccinate, Tocopherol, Dehydroacetic Acid, P-Anisic Acid, Phytic Acid, Sodium Phytate, Sodium Citrate, Sodium Hydroxide, Benzyl Alcohol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin.",
@@ -58468,9 +58470,9 @@
     "name": "Crème Dépilatoire Orchidée Cold Cream pour Peaux Sensibles",
     "country": "Algeria",
     "category": {
-      "id": "other",
-      "label": "آخر",
-      "icon": "shopping-bag"
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
     },
     "quantity": null,
     "ingredients": "AQUA, CETEARYL ALCOHOL, CALCIUM THIOGLYCOLATE, CETEARETH-20, OCTYLDODECANOL, CALCIUM HYDROXIDE, SYNTHETIC BEESWAX, PARFUM, ORCHIS MASCULA EXTRACT",
@@ -67484,6 +67486,77 @@
       "مرطب للشعر",
       "ترطيب مكثف",
       "إصلاح الشعر المتضرر"
+    ]
+  },
+  {
+    "id": "DZ-OTH-SPL-001",
+    "brand": "SPLENDID",
+    "name": "Plus Vite Crème Dépilatoire",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792363620/itivby05k4gpiu2hwkte.jpg",
+    "ingredients": "Calcium Thioglycolate, Sodium Hydroxide, Marine Algae Extract, Softening Agents, Fragrance, Demineralized Water.",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 150,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": []
+  },
+  {
+    "id": "DZ-SCR-DERM-001",
+    "brand": "DERMACTIVE",
+    "name": "Gommage Visage Concombre Nourrissant",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792363747/lugl7viu8vuokcaeqyuw.jpg",
+    "ingredients": "Aqua, Walnut Shell Powder, Ethylhexyl Palmitate, Cetearyl Alcohol, Ceteareth-15, Stearic Acid, Palmitic Acid, Glyceryl Stearate, Prunus Armeniaca Fruit Extract, Phenethyl Alcohol, Caprylyl Glycol, Carbomer, Fragrance.",
+    "country": "Algeria",
+    "category": {
+      "id": "scrub",
+      "label": "مقشر / سكراب",
+      "icon": "cookie"
+    },
+    "quantity": "150 ml",
+    "price": {
+      "min": 450,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مهدئ",
+      "للبشرة الحساسة",
+      "تقشير"
+    ]
+  },
+  {
+    "id": "DZ-OIB-HEM-001",
+    "brand": "Hemani",
+    "name": "زيت جوز الهند سيريلانكي طبيعي",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792366613/lem8um5ndyjkoxdxlc3p.jpg",
+    "ingredients": "Coconut Oil",
+    "country": "Algeria",
+    "category": {
+      "id": "oil_blend",
+      "label": "زيت (شعر/بشرة)",
+      "icon": "leaf"
+    },
+    "quantity": "400 ml",
+    "price": {
+      "min": 1300,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مرطب للشعر"
     ]
   }
 ]
