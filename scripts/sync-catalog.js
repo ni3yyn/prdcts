@@ -12,6 +12,7 @@ const POINTS_MAP = {
     targetTypes: 40,
     country: 25,
     new_product: 200,
+    category: 40, // 🆕
 };
 
 // ========== Field labels (used in both notifications) ==========
@@ -25,6 +26,7 @@ const FIELD_LABELS = {
     brand: 'الماركة',
     image: 'الصورة',
     new_product: 'منتج جديد',
+    category: 'الفئة', // 🆕
 };
 
 // ========== Smart ID generation helpers ==========
@@ -225,7 +227,6 @@ async function awardPointsAndNotify(userId, points, field, contributionId, produ
     }
 }
 
-// ========== Rejection notification ==========
 // ========== Rejection notification ==========
 async function notifyRejection(userId, field, contributionId, reason, proposedValue, productId, catalog) {
     if (!userId) {
@@ -468,6 +469,41 @@ async function run() {
                         pointsToAward = POINTS_MAP[field];
                     }
                     break;
+                case 'category': {
+                    // 🆕 Accept either the full { id, label, icon } object or a plain id string.
+                    // NOTE: the product's `id` is intentionally NOT regenerated here — changing
+                    // it would break saved-products links, analysis references, etc.
+                    // Only the `category` object is replaced.
+                    const val = data.proposedValue;
+                    let newCatId = null;
+                    let newCatLabel = 'غير محدد';
+                    let newCatIcon = 'box';
+
+                    if (val && typeof val === 'object' && val.id) {
+                        newCatId = String(val.id).trim();
+                        newCatLabel = val.label || newCatLabel;
+                        newCatIcon = val.icon || newCatIcon;
+                    } else if (typeof val === 'string' && val.trim()) {
+                        newCatId = val.trim();
+                        // Keep existing label/icon if the incoming payload is a bare string
+                        const existing = catalog[productIndex].category;
+                        if (existing && typeof existing === 'object') {
+                            newCatLabel = existing.label || newCatLabel;
+                            newCatIcon = existing.icon || newCatIcon;
+                        }
+                    }
+
+                    if (newCatId) {
+                        catalog[productIndex].category = {
+                            id: newCatId,
+                            label: newCatLabel,
+                            icon: newCatIcon,
+                        };
+                        isUpdateValid = true;
+                        pointsToAward = POINTS_MAP.category;
+                    }
+                    break;
+                }
                 default:
                     console.warn(`⚠️ Unknown field: "${field}"`);
             }
