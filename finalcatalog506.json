@@ -67506,8 +67506,13 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [],
-    "marketingClaims": []
+    "targetTypes": [
+      "بشرة حساسة"
+    ],
+    "marketingClaims": [
+      "مضاد للالتهابات",
+      "مضاد للأكسدة"
+    ]
   },
   {
     "id": "DZ-SCR-DERM-001",
