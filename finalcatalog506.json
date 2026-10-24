@@ -1345,7 +1345,11 @@
     "ingredients": "AQUA / WATER, SUCROSE, DISODIUM COCOAMPHODIACETATE, DECYL GLUCOSIDE, GLYCERIN, DISODIUM COCOYL GLUTAMATE, SODIUM CHLORIDE, ALOE BARBADENSIS / ALOE BARBADENSIS LEAF JUICE, SODIUM GLYCOLATE, SODIUM BENZOATE, SODIUM COCOYL GLUTAMATE, SALICYLIC ACID, CHONDRUS CRISPUS (CARRAGEENAN), CITRIC ACID, XANTHAN GUM, PARFUM",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917769/migrated/tlhlinl1gogsvmr6efax.jpg",
     "marketingClaims": [],
-    "price": null,
+    "price": {
+      "min": 1300,
+      "max": 1300,
+      "currency": "DZD"
+    },
     "targetTypes": []
   },
   {
@@ -48184,7 +48188,9 @@
       "max": 600,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SCR-MAK-001",
@@ -64897,7 +64903,11 @@
       "تغذية الشعر",
       "مرطب للشعر"
     ],
-    "price": null,
+    "price": {
+      "min": 550,
+      "max": 550,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر تالف"
     ]
@@ -67559,7 +67569,10 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "شعر متضرر",
+      "شعر جاف"
+    ],
     "marketingClaims": [
       "مرطب للشعر"
     ]
