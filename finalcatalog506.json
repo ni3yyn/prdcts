@@ -1200,7 +1200,9 @@
       "max": 1300,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر دهني"
+    ]
   },
   {
     "id": "FR-BWA-MIX-006",
@@ -67575,6 +67577,106 @@
     ],
     "marketingClaims": [
       "مرطب للشعر"
+    ]
+  },
+  {
+    "id": "DZ-BWA-DOR-001",
+    "brand": "Dorex",
+    "name": "Energizing Wash Gel Douche",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792858696/smtxno9mvlduxwezdrrk.jpg",
+    "ingredients": "Aqua, Laureth Sodium Sulfate, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Polyquaternium-7, Cocamide DEA, Glycerin, Sodium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone, Citric acid, EDTA Tetrasodium, Glycerine, Perfume, CI19140, CI16255",
+    "country": "Algeria",
+    "category": {
+      "id": "body_wash",
+      "label": "غسول للجسم",
+      "icon": "bath"
+    },
+    "quantity": "250 ml",
+    "price": {
+      "min": 150,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "تنظيف عميق"
+    ]
+  },
+  {
+    "id": "DZ-SHA-NATUR-001",
+    "brand": "Natura Pro Please Me",
+    "name": "Strength Shampoo",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792858619/w2xlmk83fooz6nutnkni.jpg",
+    "ingredients": "Water, Sodium laureth sulfate, Sodium Lauryl Sulfate, Cocamidopropyl Betaine, Glycol Distearate, Cocamide MEA, Cetearyl Alcohol, Citric Acid, Climbazole, Olive Oil PEG-7 Esters, Guar Hydroxypropyltrimonium Chloride, Sodium Chloride, Polydimethylsiloxane, Disodium EDTA, DMDM Hydantoin, Methylisothiazolinone, Methyl Chloroisothiazolinone, Hydrolyzed Wheat Protein, Olive Oil, CI 119140, CI 142090",
+    "country": "Algeria",
+    "category": {
+      "id": "shampoo",
+      "label": "شامبو",
+      "icon": "spa"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 200,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "شعر جاف",
+      "شعر تالف",
+      "شعر مجعد"
+    ],
+    "marketingClaims": [
+      "إصلاح الشعر المتضرر",
+      "تغذية الشعر",
+      "ترطيب مكثف"
+    ]
+  },
+  {
+    "id": "DZ-OTH-MAL-001",
+    "brand": "Maldivia",
+    "name": "Baume à lèvres coco",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792760479/tuab0qtbkfvnqern21ji.jpg",
+    "ingredients": "Petrolatum, Paraffinum Liquidum, Cera Alba, Coconut Oil, Paraffin, Ozokerite, Parfum, Fragrance, Tocopherol",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "null g",
+    "price": {
+      "min": 200,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-OTH-SNO-001",
+    "brand": "S'nonas",
+    "name": "Baume Á lévres",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792758896/onztffbfrc6vrginayml.jpg",
+    "ingredients": "Aqua, Glycerin, Paraffinum Liquidum, Cetearyl Alcohol, Ceteareth-20, Glyceryl Stearate, Parfum, Phenoxyethanol, Citric Acid, Sodium Hydroxide, Tocopheryl Acetate, Sodium Hyaluronate",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "null",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [],
+    "marketingClaims": [
+      "مرطب للبشرة"
     ]
   }
 ]
