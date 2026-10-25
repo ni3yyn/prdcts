@@ -8878,7 +8878,11 @@
       "icon": "pump-soap"
     },
     "quantity": "250 ml",
-    "price": null,
+    "price": {
+      "min": 120,
+      "max": 120,
+      "currency": "DZD"
+    },
     "targetTypes": [],
     "marketingClaims": []
   },
@@ -9558,7 +9562,8 @@
     },
     "marketingClaims": [],
     "targetTypes": [
-      "بشرة دهنية"
+      "بشرة دهنية",
+      "بشرة مختلطة"
     ]
   },
   {
@@ -65545,7 +65550,11 @@
       "تغذية الشعر",
       "تنظيف لطيف"
     ],
-    "price": null,
+    "price": {
+      "min": 250,
+      "max": 250,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "شعر جاف",
       "شعر عادي"
