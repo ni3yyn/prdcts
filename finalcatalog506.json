@@ -6170,7 +6170,10 @@
       "max": 650,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "شعر متضرر",
+      "شعر جاف"
+    ]
   },
   {
     "id": "OT-XXX-SKA-001",
@@ -6637,7 +6640,10 @@
     "quantity": "null",
     "ingredients": "ماء, كحول السيتيل, PPG-15 ستياريلي إيثر, سليلوز, الجلسرين, بوليسوربات 60, ستيريث-21, حمض الساليسيليك, مستخلص الطحلب الأيرلندي, جلوكوز, لاكتات المنثيل, PVP (بولي فينيل بيروليدون), فوسفات سيتيل البوتاسيوم, صمغ الزانثان, كلوريد البوتاسيوم, ميكا, هيدروكسيد الصوديوم, بيوتيل هيدروكسي تولوين (BHT), فينوكسي إيثانول, حمض البنزويك, حمض ديهيدروأسيتيك, عطر, CI 77492 (أكسيد الحديد الأصفر), CI 77891 (ثاني أكسيد التيتانيوم), CI 73360 (Red 30 Lake)",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789913746/migrated/xwja8s8groesbx4qay3w.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "تنقية المسام",
+      "للبشرة الدهنية"
+    ],
     "price": {
       "min": 1200,
       "max": 1200,
@@ -8884,7 +8890,11 @@
       "currency": "DZD"
     },
     "targetTypes": [],
-    "marketingClaims": []
+    "marketingClaims": [
+      "تنقية فروة الرأس",
+      "مضاد للقشرة",
+      "مخصص للشعر الدهني"
+    ]
   },
   {
     "id": "DZ-SHA-VEN-020",
@@ -10274,7 +10284,10 @@
       "min": 350,
       "max": null
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة دهنية",
+      "بشرة مختلطة"
+    ],
     "marketingClaims": [
       "حماية واسعة الطيف",
       "حماية من الشمس",
@@ -67581,8 +67594,7 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "شعر متضرر",
-      "شعر جاف"
+      "بشرة حساسة"
     ],
     "marketingClaims": [
       "مرطب للشعر"
@@ -67660,7 +67672,9 @@
       "max": null,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة جافة"
+    ],
     "marketingClaims": [
       "مرطب للبشرة"
     ]
@@ -67678,6 +67692,31 @@
       "icon": "shopping-bag"
     },
     "quantity": "null",
+    "price": {
+      "min": 250,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "DZ-OTH-SNO-002",
+    "brand": "S'nonas",
+    "name": "Vaselina Perfumada",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1792368659/dzshleucexkavrkic6xw.jpg",
+    "ingredients": "Pertolatum, Ozokerite Wax, Parfum",
+    "country": "Algeria",
+    "category": {
+      "id": "other",
+      "label": "آخر",
+      "icon": "shopping-bag"
+    },
+    "quantity": "150 g",
     "price": {
       "min": 250,
       "max": null,
