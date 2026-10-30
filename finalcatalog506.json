@@ -3404,7 +3404,14 @@
     "quantity": "50 ml",
     "ingredients": "Aqua / water, diisopropyl sebacate, alcohol denat., glycerin, dimethicone, isohexadecane, butyl methoxydibenzoylmethane, octocrylene, silica, drometrizole trisiloxane, isononyl isononanoate, zea mays starch / corn starch, c12-15 alkyl benzoate, styrene/acrylates copolymer, ethylhexyl triazone, peg-30 dipolyhydroxystearate, bis-ethylhexyloxyphenol methoxyphenyl triazine, isododecane, phenoxyethanol, isopropyl lauroyl sarcosinate, terephthalylidene dicamphor sulfonic acid, silica silylate, lauryl peg/ppg-18/18 methicone, peg-8 laurate, caprylyl glycol, triethanolamine, disteardimonium hectorite, tocopherol, disodium edta, dodecene, propylene carbonate, poloxamer 407, zinc gluconate, perlite",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789917696/migrated/ga2w6qkvv5crpdektx2k.jpg",
-    "marketingClaims": [],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "للبشرة الجافة",
+      "حماية واسعة الطيف",
+      "للبشرة الحساسة",
+      "مقاوم للماء",
+      "مرطب للبشرة"
+    ],
     "price": {
       "min": 3500,
       "max": 3500,
@@ -67725,6 +67732,35 @@
     "targetTypes": [],
     "marketingClaims": [
       "مرطب للبشرة"
+    ]
+  },
+  {
+    "id": "FR-SUN-HYF-001",
+    "brand": "HYFac",
+    "name": "SUN Protection Solaire SPF 50+",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1793268617/hya6dxpvmqbqztbzhqa3.jpg",
+    "ingredients": "Aqua, Octocrylene, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol [Nano], Dibutyl Adipate, Dicaprylyl Carbonate, Cyclopentasiloxane, Ceteareth-20, Cyclohexasiloxane, Glycerin, PTFE, Butyl Methoxydibenzoylmethane (Avobenzone), Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Decyl Glucoside, Butylene Glycol, Ethylhexyl Triazone, Tocopherol, Orbignya Oleifera Seed Oil, Maltodextrin, Moringa Oleifera Seed Extract, Sodium Polyacrylate, Parfum, Xanthan Gum, Citric Acid, Propylene Glycol, Chlorphenesin, Tetrasodium Glutamate Diacetate, Sodium Benzoate, O-Cymen-5-Ol",
+    "country": "France",
+    "category": {
+      "id": "sunscreen",
+      "label": "واقي شمس",
+      "icon": "sun"
+    },
+    "quantity": "40 ml",
+    "price": {
+      "min": 2300,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة مختلطة",
+      "بشرة دهنية",
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "حماية من الشمس",
+      "حماية واسعة الطيف"
     ]
   }
 ]
