@@ -7101,8 +7101,8 @@
     },
     "targetTypes": [
       "بشرة جافة",
-      "بشرة حساسة",
-      "كل أنواع البشرة"
+      "بشرة دهنية",
+      "بشرة حساسة"
     ]
   },
   {
@@ -62747,7 +62747,9 @@
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789930562/migrated/manual/flux_care_shampooing_sans_sulfates_glycolic_glow_hair_filler_dzshaflu009.jpg",
     "marketingClaims": [
       "تلميع ولمعان",
-      "تنظيف لطيف"
+      "تنظيف لطيف",
+      "تنقية فروة الرأس",
+      "تنظيف عميق"
     ],
     "price": {
       "min": 350,
