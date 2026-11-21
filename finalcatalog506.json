@@ -6020,7 +6020,10 @@
       "max": 3800,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة حساسة",
+      "بشرة جافة"
+    ]
   },
   {
     "id": "KR-XXX-SKI-001",
@@ -6888,7 +6891,9 @@
       "max": 850,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة عادية"
+    ]
   },
   {
     "id": "KR-CLE-INN-002",
@@ -7020,7 +7025,7 @@
       "label": "غسول وجه",
       "icon": "soap"
     },
-    "quantity": "null",
+    "quantity": "250ml",
     "ingredients": "ماء, الجلسرين, كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, فينوكسي إيثانول, كلوريد الصوديوم, بانثينول (بروفيتامين B5), البيوتين (فيتامين B7), جلايكول, الكولاجين المهدرج, حمض الهيالورونيك",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911524/migrated/qyvghptojoflvjruwrrd.jpg",
     "marketingClaims": [],
@@ -8082,7 +8087,10 @@
       "max": 300,
       "currency": "DZD"
     },
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة عادية",
+      "بشرة جافة"
+    ],
     "marketingClaims": []
   },
   {
@@ -9943,12 +9951,9 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة دهنية",
-      "بشرة مختلطة",
-      "بشرة عادية",
+      "بشرة جافة",
       "بشرة حساسة",
-      "بشرة معرضة للحبوب",
-      "بشرة جافة"
+      "بشرة معرضة للحبوب"
     ],
     "marketingClaims": [
       "مرطب للبشرة",
@@ -33502,7 +33507,8 @@
     ],
     "price": null,
     "targetTypes": [
-      "بشرة دهنية"
+      "بشرة دهنية",
+      "بشرة حساسة"
     ]
   },
   {
@@ -48386,7 +48392,8 @@
       "currency": "DZD"
     },
     "targetTypes": [
-      "بشرة جافة"
+      "بشرة جافة",
+      "بشرة حساسة"
     ]
   },
   {
@@ -51937,7 +51944,9 @@
       "تحفيز الكولاجين"
     ],
     "price": null,
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة جافة"
+    ]
   },
   {
     "id": "KR-SCR-ARE-002",
@@ -60546,7 +60555,10 @@
       "حماية من الشمس",
       "حماية واسعة الطيف"
     ],
-    "targetTypes": [],
+    "targetTypes": [
+      "بشرة مختلطة",
+      "بشرة دهنية"
+    ],
     "price": {
       "min": 600,
       "max": 600,
@@ -65301,7 +65313,11 @@
       "تنظيف لطيف",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية"
     ]
@@ -67769,6 +67785,31 @@
     "marketingClaims": [
       "حماية من الشمس",
       "حماية واسعة الطيف"
+    ]
+  },
+  {
+    "id": "DZ-LOT-ZRL-001",
+    "brand": "ZRLY",
+    "name": "Sodium hyaluronate hydrating aloe vera gel 99",
+    "image": "https://res.cloudinary.com/ddezg61vu/image/upload/v1795068018/lp9nxpvtwmbhwz9frfga.jpg",
+    "ingredients": "Water, glycerin, propylene glycol, aloe vera extract, camu camu, triethanolamine, peg-40 hydrogenated castor oil, bis(hydroxymethyl)imidazolidinylurea, 1,2-hexanediol, phenoxyethanol, methylparaben, allantoin, polysorbate-20, sodium hyaluronate, fragrance, ethylhexylglycerin, iodine-propynylbutyl carbamate",
+    "country": "Algeria",
+    "category": {
+      "id": "lotion_cream",
+      "label": "مرطب",
+      "icon": "hand-holding-water"
+    },
+    "quantity": "270g ml",
+    "price": {
+      "min": 900,
+      "max": null,
+      "currency": "DZD"
+    },
+    "targetTypes": [
+      "بشرة جافة"
+    ],
+    "marketingClaims": [
+      "مرطب للبشرة"
     ]
   }
 ]
