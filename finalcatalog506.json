@@ -5526,7 +5526,10 @@
     "ingredients": "ماء, صوديوم لوريث سلفات (SLES), كوكاميدوبروبيل بيتين (CAPB), PEG-7 جليسيريل كوكوات, كلوريد الصوديوم, حمض الأسكوربيك (فيتامين C النقي), توكوفيرول (فيتامين E النقي), زيت اللوز الحلو, ميثيل أيزوثيازولينون (MIT), عطر",
     "image": "https://res.cloudinary.com/oodr4vso/image/upload/v1789911343/migrated/ikrchxm4wgbu0kzsmrpb.jpg",
     "marketingClaims": [
-      "تنظيف عميق"
+      "تنظيف عميق",
+      "تقشير لطيف",
+      "مرطب للبشرة",
+      "مضاد لحب الشباب"
     ],
     "price": {
       "min": 400,
@@ -8183,7 +8186,6 @@
     },
     "targetTypes": [
       "بشرة دهنية",
-      "بشرة مختلطة",
       "بشرة حساسة"
     ],
     "marketingClaims": []
@@ -57634,7 +57636,9 @@
       "max": 1500,
       "currency": "DZD"
     },
-    "targetTypes": []
+    "targetTypes": [
+      "بشرة مختلطة"
+    ]
   },
   {
     "id": "DZ-SSE-BIOL-002",
@@ -65339,7 +65343,11 @@
       "تنظيف عميق",
       "مهدئ"
     ],
-    "price": null,
+    "price": {
+      "min": 350,
+      "max": 350,
+      "currency": "DZD"
+    },
     "targetTypes": [
       "بشرة عادية"
     ]
